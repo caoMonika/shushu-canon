@@ -1,0 +1,573 @@
+# 术数典籍 Skill 分域目录
+
+共 **539** 部。路径相对 skill 根目录（books/...）。
+
+## dao-yi-quan（188）
+
+- `20世纪上海地区擅用附子六大家-skill` — 《20世纪上海地区擅用附子六大家》
+- `鳌头通书大全1-10卷-skill` — 《鳌头通书大全1-10卷》
+- `八仙剑-张西京-扫描版-skill` — 《[八仙剑].张西京.扫描版》
+- `八字预测-李后启-skill` — 《《八字预测》李后启》
+- `八字真途-北海闲人-凤山先生撰-skill` — 《八字真途(北海闲人.凤山先生撰)》
+- `百馬図-乾坤-skill` — 《百馬図.乾坤》
+- `百美新咏图传-清-颜希源编-王翙绘-skill` — 《百美新咏图传.清.颜希源编.王翙绘》
+- `本草綱目-選者李時珍-明-校訂者稲生若水数量45冊書誌事項刊本-正徳04年393292343_0001-skill` — 《本草綱目 選者李時珍（明）／校訂者稲生若水[数量]45冊[書誌事項]刊本 ,正徳04年393292343_0001》
+- `本草図譜-第-冊-巻-山草之類-之上-skill` — 《本草図譜. 第１冊　巻５山草之類１之上》
+- `病源辞典_吴克潜-skill` — 《病源辞典_吴克潜》
+- `博物馆兽谱-帝室博物馆编-skill` — 《博物馆兽谱.帝室博物馆编》
+- `博物馆图谱-百鸟图-异兽图-skill` — 《博物馆图谱.百鸟图.异兽图》
+- `博物馆鱼谱-skill` — 《博物馆鱼谱》
+- `補正輯光傷寒論-巻上下-吉益東洞-遺教-岑貉丘閲-終古堂-文政51822-上-skill` — 《補正輯光傷寒論 巻上下 吉益東洞 遺教 岑貉丘閲  終古堂 文政5[1822]（上）》
+- `测字拆字-skill` — 《测字拆字》
+- `产育全书-内外篇-水原义博著-1850-skill` — 《产育全书.内外篇.水原义博著.1850》
+- `陈训-相理衡真_古本-skill` — 《陈训-相理衡真_古本》
+- `陈诏堭-取名测字精通-skill` — 《陈诏堭-取名测字精通》
+- `陳岳明-田宅宫看经营成败-skill` — 《陳岳明 《田宅宫看经营成败》》
+- `达摩一掌经-芝兰-扫描版-skill` — 《达摩一掌经 .芝兰.扫描版》
+- `大衍索隐-skill` — 《大衍索隐》
+- `大易探微-skill` — 《大易探微》
+- `单刀法选-skill` — 《单刀法选》
+- `当代中医必效奇方秘术清晰版-skill` — 《当代中医必效奇方秘术清晰版》
+- `道法掌诀-skill` — 《《道法掌诀 》》
+- `地司秘诀-skill` — 《《地司秘诀》》
+- `東洞全集-吉益東洞著-芸備医学会編1918-東京-吐鳳堂書店-大正7-211页-754页-skill` — 《東洞全集 吉益東洞[著] 芸備医学会編1918 東京 吐鳳堂書店 大正7（211页-754页）》
+- `董公择日-140页-skill` — 《董公择日 140页》
+- `斗首择日-skill` — 《斗首择日》
+- `斗數婚姻看法大全-skill` — 《斗數婚姻看法大全》
+- `痘疹活幼心法-巻上-京都田原仁佐衛門寛文6-1666-skill` — 《痘疹活幼心法 巻上 [京都]田原仁佐衛門寛文6 [1666]》
+- `断易秘诀-skill` — 《断易秘诀》
+- `法符秘法-skill` — 《《法符秘法》》
+- `法海遗珠-skill` — 《《法海遗珠》》
+- `方極-東洞吉益東洞口授-品丘明筆受-田宮龍校正-skill` — 《方極 東洞[吉益東洞]口授 品丘明筆受 田宮龍校正》
+- `方輿輗別輯撮鈔-丸散类-森立之撰-森立之自筆嘉永3-skill` — 《方輿輗別輯撮鈔（丸散类） 森立之撰 森立之[自筆]嘉永3》
+- `飞星紫微斗数-skill` — 《飞星紫微斗数》
+- `佛门九宫掌气功-skill` — 《佛门九宫掌气功》
+- `辅行诀五脏用药法要临证心得录-skill` — 《辅行诀五脏用药法要临证心得录》
+- `輔行訣臟腑用藥法要-五臟病證文幷方-skill` — 《輔行訣臟腑用藥法要 〔五臟病證文幷方〕》
+- `婦嬰新說-合信氏著-1858-带log-skill` — 《婦嬰新說 [合信氏著] 1858（带log）》
+- `婦嬰新説-安政6-1859-乾坤-英-合信氏-著-管茂材-撰-skill` — 《婦嬰新説 安政6 1859（乾坤）（英）合信氏 著 管茂材 撰》
+- `腹证奇览-稻叶克-skill` — 《腹证奇览 - 稻叶克》
+- `腹证奇览-skill` — 《腹证奇览》
+- `高尿酸血证和痛风的治疗-skill` — 《高尿酸血证和痛风的治疗》
+- `各骨真行图1846-麦吉尔大学图书馆藏-skill` — 《各骨真行图【1846.麦吉尔大学图书馆藏】》
+- `岣嵝神书-skill` — 《《岣嵝神书》》
+- `古本元皇秘诀法本-skill` — 《《古本元皇秘诀法本》》
+- `古今方彙-甲賀通元-校-望三英-重訂1808-skill` — 《古今方彙.甲賀通元.校.望三英.[重訂][1808]》
+- `古筮真诠-朱辰彬-skill` — 《《古筮真诠》朱辰彬》
+- `寒热真假最紧要处-上-火神派案例赏析之四-skill` — 《寒热真假最紧要处(上)——火神派案例赏析之四》
+- `皇帝甲乙经-skill` — 《皇帝甲乙经》
+- `皇汉医学-skill` — 《皇汉医学》
+- `皇漢醫籍書目-水居水編-昭和7-黑白版-skill` — 《皇漢醫籍書目 金水居水編 昭和7(1932)（黑白版）》
+- `皇極策數祖數-邵康節著劉伯溫補註-skill` — 《皇極策數祖數    邵康節著劉伯溫補註》
+- `黄帝金匮玉衡经-一卷-清-李文田手批-skill` — 《黄帝金匮玉衡经 一卷 (清)李文田手批》
+- `黄帝陰符経正義-skill` — 《《黄帝陰符経正義 》》
+- `黄进长-紫微斗数太微命判-skill` — 《黄进长-紫微斗数太微命判》
+- `黃卯-詠春教頭的鈴貪得用-skill` — 《黃卯  《詠春教頭的鈴貪得用》》
+- `回春抄要-skill` — 《回春抄要》
+- `濟衆新編-康命吉-朝鮮-奉-撰001-skill` — 《濟衆新編 康命吉(朝鮮) 奉數撰001》
+- `濟衆新編-一簑古615-135-G155j-v-1-59-卷一-带会徽-skill` — 《濟衆新編 一簑古615.135-G155j-v.1-59（卷一  带会徽）》
+- `家传符咒手抄本-skill` — 《《家传符咒手抄本》》
+- `江苏省90位名中医成功因素与临床情况的调查报告-skill` — 《江苏省90位名中医成功因素与临床情况的调查报告》
+- `解毒奇効方-南陽原先生輯-大内弘貞校正-skill` — 《解毒奇効方 南陽原先生輯 大内弘貞校正》
+- `解毒奇效方-原南阳-辑-skill` — 《解毒奇效方  原南阳 辑》
+- `解法卷-skill` — 《解法卷》
+- `解体新書-5冊-skill` — 《解体新書 5冊》
+- `金刚气功-skill` — 《金刚气功》
+- `金匱要略三卷-漢-張機撰-晉-王叔和集-宋-林億等詮次-中華書局-skill` — 《金匱要略三卷(漢)張機撰 (晉)王叔和集 (宋)林億等詮次 中華書局》
+- `經絡彙編-skill` — 《經絡彙編》
+- `九大类像系统-skill` — 《九大类像系统》
+- `九宗法-skill` — 《九宗法》
+- `坤道秘笈-全本-skill` — 《坤道秘笈(全本)》
+- `良中先生自然真営道方-skill` — 《良中先生自然真営道方》
+- `林吉成-男气色大全-skill` — 《林吉成-男气色大全》
+- `灵宝清微诸天科-skill` — 《《灵宝清微诸天科》》
+- `玲珑宝塔-加录阴阳表牒-skill` — 《《玲珑宝塔.加录阴阳表牒》》
+- `刘完素-吴勉学-伤寒标本心法类萃-2卷-1601-skill` — 《刘完素 吴勉学 伤寒标本心法类萃 2卷 , 1601》
+- `柳庄神相-袁柳庄-skill` — 《柳庄神相 袁柳庄》
+- `龙行剑-胡洪-扫描版-skill` — 《[龙行剑].胡洪.扫描版》
+- `陆氏论医集-卷一_陆渊雷-skill` — 《陆氏论医集 卷一_陆渊雷》
+- `履巉巖本草-題-宋-琅琊默菴撰-明抄彩繪本-skill` — 《履巉巖本草 題(宋)琅琊默菴撰 明抄彩繪本》
+- `脉经-10卷-晋-王叔和著-明万历29年新安吴勉学翻刻宋板-1601年-skill` — 《脉经.10卷.晋.王叔和著.明万历29年新安吴勉学翻刻宋板.1601年》
+- `梅山派符咒-skill` — 《《梅山派符咒》》
+- `秘本医学丛书-8-skill` — 《秘本医学丛书 8》
+- `秘传六道一掌经-skill` — 《秘传六道一掌经》
+- `民间丹方精华-skill` — 《民间丹方精华》
+- `明清针灸秘法丛书1-针灸捷径-skill` — 《明清针灸秘法丛书1 针灸捷径》
+- `明清针灸秘法丛书10-针灸灵法-skill` — 《明清针灸秘法丛书10 针灸灵法》
+- `明清针灸秘法丛书2-勿听子俗解八十一难经-skill` — 《明清针灸秘法丛书2 勿听子俗解八十一难经》
+- `明清针灸秘法丛书3-图注八十一难经-skill` — 《明清针灸秘法丛书3 图注八十一难经》
+- `明清针灸秘法丛书4-针灸秘法全书-skill` — 《明清针灸秘法丛书4 针灸秘法全书》
+- `明清针灸秘法丛书5-彭注痈疽神妙灸经5-彭注痈疽神妙灸经-刺疔捷法-skill` — 《明清针灸秘法丛书5 彭注痈疽神妙灸经5 彭注痈疽神妙灸经 刺疔捷法》
+- `明清针灸秘法丛书6-针灸问答-skill` — 《明清针灸秘法丛书6 针灸问答》
+- `明清针灸秘法丛书7-采艾编翼-skill` — 《明清针灸秘法丛书7 采艾编翼》
+- `明清针灸秘法丛书8-凌门传授铜人指穴-针灸内篇-skill` — 《明清针灸秘法丛书8 凌门传授铜人指穴 针灸内篇》
+- `明清针灸秘法丛书9-传悟灵济录-skill` — 《明清针灸秘法丛书9 传悟灵济录》
+- `命法卷-skill` — 《命法卷》
+- `奇经八穴-skill` — 《奇经八穴》
+- `千虫谱-上中下-栗本丹洲著-服部雪斎写-skill` — 《千虫谱.上中下.栗本丹洲著.服部雪斎写》
+- `巧用附子治顽证-skill` — 《巧用附子治顽证》
+- `秦瑞生-占星学下-skill` — 《秦瑞生·占星学下》
+- `轻功内炼提气法-skill` — 《轻功内炼提气法》
+- `轻身功夫-飞檐走壁水面飞行真传合刊-金铁盦-民国31年版-skill` — 《《轻身功夫·飞檐走壁水面飞行真传合刊》·金铁盦·民国31年版》
+- `壬遁秘-skill` — 《壬遁秘》
+- `壬遁秘古籍抄本-skill` — 《壬遁秘古籍抄本》
+- `壬归校译释论-skill` — 《壬归校译释论》
+- `壬学精华-skill` — 《壬学精华》
+- `萨摩鸟谱图卷QQ-1575389080-skill` — 《萨摩鸟谱图卷【QQ：1575389080】》
+- `三十六雷符秘-skill` — 《《三十六雷符秘》》
+- `三世相-庆长时期刊本-skill` — 《三世相.庆长时期刊本》
+- `伤寒论诠解-刘渡洲-skill` — 《伤寒论诠解（刘渡洲）》
+- `傷寒論-巻第1-10-張仲景述-王叔和撰次-新校宋板伤寒论-早稲田大学図書館-1QQ-1575389080-skill` — 《傷寒論 巻第1-10 張仲景述 王叔和撰次（新校宋板伤寒论 早稲田大学図書館）1【QQ：1575389080】》
+- `傷寒論-巻第1-10-張仲景述-王叔和撰次-新校宋板伤寒论-早稲田大学図書館-2-skill` — 《傷寒論 巻第1-10 張仲景述 王叔和撰次（新校宋板伤寒论 早稲田大学図書館）2》
+- `傷寒名數解-巻1-5-京都-高橋清兵衛-安永3年-1774-skill` — 《傷寒名數解 巻1-5 京都　高橋清兵衛 安永3年 [1774]》
+- `身形精氣神-skill` — 《身形精氣神》
+- `神医奇功秘方录-黄魂-skill` — 《神医奇功秘方录（黄魂）》
+- `神應經補瀉-楊繼洲-黑白-skill` — 《神應經補瀉 楊繼洲(黑白）》
+- `升平署脸谱-skill` — 《升平署脸谱》
+- `湿重于热-即重附子-skill` — 《湿重于热  即重附子》
+- `十四经穴歌-1卷-钞本-清代-skill` — 《十四经穴歌.1卷.钞本.清代》
+- `石室秘錄-1-6-陳士鐸編1-带log-95页-skill` — 《石室秘錄 1-6 陳士鐸編1（带log 95页）》
+- `石室秘籙-岐伯-上古-著輯v001-skill` — 《石室秘籙 岐伯(上古) 著輯v001》
+- `手相全彩图-skill` — 《手相[全彩图]》
+- `四柱博观-张志春-skill` — 《《四柱博观》-张志春》
+- `四柱玄机-skill` — 《《四柱玄机》》
+- `孙真人备急海上仙方-京都大学附属図書館-富士川文庫-skill` — 《孙真人备急海上仙方-京都大学附属図書館 富士川文庫》
+- `孙真人养生书-skill` — 《孙真人养生书》
+- `谈祝味菊先生医案中附子制川乌的应用-skill` — 《谈祝味菊先生医案中附子制川乌的应用》
+- `天地冥阳水陆仪文-skill` — 《《天地冥阳水陆仪文》》
+- `天师符法-skill` — 《《天师符法》》
+- `萬病回春-巻之5-禮集-skill` — 《萬病回春 巻之5 禮集》
+- `温知方軌-森立之著-手写-104页-skill` — 《温知方軌 森立之著（手写）104页》
+- `五经图汇-松本愚山編纂-skill` — 《五经图汇.松本愚山編纂》
+- `五伦行实图-李秉宪-1797-skill` — 《五伦行实图.李秉宪.1797》
+- `香法卷-skill` — 《香法卷》
+- `萧湘识人大陆版相法全集-3-气色大全-眼神之部-skill` — 《萧湘识人大陆版相法全集  3  气色大全  眼神之部》
+- `心意六合拳秘传-陶景和-skill` — 《《心意六合拳秘传》陶景和》
+- `新安医籍考-skill` — 《新安医籍考》
+- `新编万病回春-明-龚廷贤编-明万历30年金陵周曰刊本-skill` — 《新编万病回春.明.龚廷贤编.明万历30年金陵周曰刊本》
+- `新刊明醫秘傳濟世奇方萬疴必愈-十一卷-沈應暘編集-何爌參訂-文樹堂建陽詹氏-明1621-1644-全-skill` — 《新刊明醫秘傳濟世奇方萬疴必愈 十一卷 沈應暘編集 何爌參訂（文樹堂[建陽]詹氏 [明1621~1644]）（全）》
+- `轩辕碑记医学祝由十三科-skill` — 《《轩辕碑记医学祝由十三科》》
+- `眼科名家姚和清学术经验集-skill` — 《眼科名家姚和清学术经验集》
+- `杨连村-金钟罩铁布衫-戳脚门秘传-skill` — 《杨连村 金钟罩铁布衫（戳脚门秘传）》
+- `一卦多斷卦例技法精解-skill` — 《一卦多斷卦例技法精解》
+- `一指禅-红砂手-铁砂掌-混元掌秘要真传-佚名-扫描版-skill` — 《[一指禅.红砂手.铁砂掌.混元掌秘要真传].佚名.扫描版》
+- `异国产马图卷-skill` — 《异国产马图卷》
+- `易筋经外经图说-附八段锦图-清梁世昌撰-清末上海同文书局石印本-skill` — 《易筋经外经图说.附八段锦图.清梁世昌撰.清末上海同文书局石印本》
+- `癔法卷-skill` — 《癔法卷》
+- `引火归原药物应用考辨-skill` — 《引火归原药物应用考辨》
+- `鹰镜-河锅暁斎-文久二年-1862年-skill` — 《鹰镜.河锅暁斎.文久二年.1862年》
+- `永宁通书-1669-锦章书局-skill` — 《永宁通书 1669 锦章书局》
+- `占壬六大-skill` — 《占壬六大》
+- `占星-择日占星学-skill` — 《占星----择日占星学》
+- `占星流年实务-skill` — 《占星流年实务》
+- `占星学入门-skill` — 《占星学入门》
+- `中华睛明技法_10031628_莫一凡著_北京市-skill` — 《中华睛明技法_10031628_莫一凡著_北京市：...》
+- `中华睛明技法-skill` — 《中华睛明技法》
+- `中医金方系列-儿科金方-高清版-skill` — 《中医金方系列—儿科金方（高清版）》
+- `中医金方系列-妇科金方-高清版-skill` — 《中医金方系列—妇科金方（高清版）》
+- `中医金方系列-男科金方-高清版-skill` — 《中医金方系列—男科金方（高清版）》
+- `中医金方系列-内科金方-高清版-skill` — 《中医金方系列—内科金方（高清版）》
+- `中医金方系列-外科金方-高清版-skill` — 《中医金方系列—外科金方（高清版）》
+- `中医金方系列-五官科金方-高清版-skill` — 《中医金方系列—五官科金方（高清版）》
+- `中医眼科历代方剂汇编上-下-skill` — 《中医眼科历代方剂汇编上、下》
+- `中医眼科全书-眼科方剂精选-skill` — 《中医眼科全书  眼科方剂精选》
+- `中医眼科全书-眼科古文荟萃-skill` — 《中医眼科全书  眼科古文荟萃》
+- `中医眼科全书-眼科临证精华-skill` — 《中医眼科全书  眼科临证精华》
+- `中医眼科全书-眼科现代研究-skill` — 《中医眼科全书  眼科现代研究》
+- `中医眼科全书-眼科学说源流-skill` — 《中医眼科全书  眼科学说源流》
+- `中医眼科全书-眼科证治要诀-skill` — 《中医眼科全书  眼科证治要诀》
+- `中医眼科全书-眼科治法指南-skill` — 《中医眼科全书  眼科治法指南》
+- `祝味菊善用附子上-skill` — 《祝味菊善用附子上》
+- `祝味菊善用附子下-skill` — 《祝味菊善用附子下》
+- `祝由科-秘诀奇书-乾元亨利贞五册-明末清初钞本-skill` — 《祝由科.秘诀奇书.乾元亨利贞五册.明末清初钞本》
+- `祝由科-skill` — 《祝由科》
+- `醉八仙拳-龙飞云-扫描版-skill` — 《[醉八仙拳].龙飞云.扫描版》
+- `醉罗汉拳-值得收藏-skill` — 《《醉罗汉拳》(值得收藏)》
+- `chenzhou-fuzhou-skill` — chenzhou-fuzhou-skill
+- `jiangnang-cuoyao-skill` — jiangnang-cuoyao-skill
+- `jijiu-bianfang-skill` — jijiu-bianfang-skill
+- `jingyan-qifang-skill` — jingyan-qifang-skill
+- `jisheng-ji-skill` — jisheng-ji-skill
+- `qian-shi-chanke-skill` — qian-shi-chanke-skill
+- `yifang-gekuo-skill` — yifang-gekuo-skill
+- `yifang-zhengzhi-gejue-skill` — yifang-zhengzhi-gejue-skill
+- `youke-qieyao-skill` — youke-qieyao-skill
+
+## liuren（131）
+
+- `05-林烽-大六壬入门视频讲-视频配套讲义50页-彩色版-666周易网-www-666zhouyi-com-skill` — 《05.林烽-《大六壬入门视频讲》视频配套讲义50页(彩色版)【666周易网：www.666zhouyi.com】》
+- `13-林烽-大六壬入门视频讲-视频配套讲义50页-彩色版-666周易网-www-666zhouyi-com-skill` — 《13.林烽-《大六壬入门视频讲》视频配套讲义50页(彩色版)【666周易网：www.666zhouyi.com】》
+- `2017年天心正运六壬奇门弧角天星正宗斗首造福通书-skill` — 《2017年天心正运六壬奇门弧角天星正宗斗首造福通书》
+- `八六居士大六壬推命学-手抄本-skill` — 《八六居士大六壬推命学 手抄本》
+- `北海闲人-大六壬心法指要-skill` — 《北海闲人  《大六壬心法指要》》
+- `大六壬翠羽歌-3卷-明嘉靖37年-skill` — 《大六壬翠羽歌 3卷 明嘉靖37年》
+- `大六壬的思维逻辑-完整版-skill` — 《大六壬的思维逻辑(完整版)》
+- `大六壬断法述要-skill` — 《《大六壬断法述要》》
+- `大六壬断经秘诀集-skill` — 《大六壬断经秘诀集》
+- `大六壬隔山照-skill` — 《大六壬隔山照》
+- `大六壬軌限照心神鑑經-skill` — 《大六壬軌限照心神鑑經》
+- `大六壬彙集-壬課宮商角羽-清鈔本-skill` — 《大六壬彙集 壬課宮商角羽 清鈔本》
+- `大六壬金口诀实用预测学-skill` — 《大六壬金口诀实用预测学》
+- `大六壬精蘊-清鈔本-skill` — 《大六壬精蘊 清鈔本》
+- `大六壬精蘊-skill` — 《大六壬精蘊》
+- `大六壬課合恭斷訣-skill` — 《大六壬課合恭斷訣》
+- `大六壬入门-鲁国山人-skill` — 《大六壬入门---鲁国山人》
+- `大六壬神课讲义-唐荣-skill` — 《大六壬神课讲义 唐荣》
+- `大六壬实战百例精解-王雷之-127-skill` — 《大六壬实战百例精解(王雷之) 127》
+- `大六壬探原-清-袁树珊-skill` — 《大六壬探原 清 袁树珊》
+- `大六壬探源-skill` — 《大六壬探源》
+- `大六壬推命学-八六居士-手抄本-skill` — 《大六壬推命学(八六居士)手抄本》
+- `大六壬心法指要-skill` — 《大六壬心法指要》
+- `大六壬寻原-清-张纯照-skill` — 《大六壬寻原 清 张纯照》
+- `大六壬银河棹-skill` — 《大六壬银河棹》
+- `大六壬銀河棹正附集-skill` — 《大六壬銀河棹正附集》
+- `大六壬与现代经济-skill` — 《大六壬与现代经济》
+- `大六壬指面-卷五-神煞-skill` — 《大六壬指面：卷五（神煞）》
+- `大六壬总汇-鲁国山人-skill` — 《大六壬总汇--鲁国山人》
+- `大六壬總會心機獨悟絕法-skill` — 《大六壬總會心機獨悟絕法》
+- `第一善本大六壬古版上-skill` — 《第一善本大六壬古版上(1)》
+- `斗数金口诀-skill` — 《斗数金口诀》
+- `湖社叢話-金口決3-skill` — 《湖社叢話 金口決3》
+- `姜智元_-金口预言-金口诀全解-合-skill` — 《姜智元_《金口预言、金口诀全解》合》
+- `姜智元-金口诀命运学-skill` — 《姜智元《金口诀命运学》》
+- `金口解秘课例选集-skill` — 《金口解秘课例选集》
+- `金口诀教程-skill` — 《金口诀教程》
+- `金口诀脑中立课法-pdf-skill` — 《金口诀脑中立课法.pdf》
+- `金口诀千问千答-skill` — 《金口诀千问千答》
+- `李崇仰的大六壬玉藻金英-skill` — 《李崇仰的大六壬玉藻金英》
+- `刘科乐-六壬观月集壬学理论篇-skill` — 《刘科乐-六壬观月集壬学理论篇》
+- `刘科乐-六壬天应集六壬应用篇-skill` — 《刘科乐-六壬天应集六壬应用篇》
+- `刘科乐-浙派大六壬讲座-skill` — 《刘科乐-浙派大六壬讲座》
+- `六壬寶鑑無惑鈐-skill` — 《六壬寶鑑無惑鈐》
+- `六壬粹言-清-刘赤江-skill` — 《六壬粹言 清 刘赤江》
+- `六壬大教法本-skill` — 《《六壬大教法本》》
+- `六壬风火院符书-skill` — 《六壬风火院符书》
+- `六壬管洛神书-skill` — 《六壬管洛神书》
+- `六壬决胜兵机-skill` — 《六壬决胜兵机》
+- `六壬祕占-清鈔本-skill` — 《六壬祕占 清鈔本》
+- `六壬启蒙-skill` — 《六壬启蒙》
+- `六壬神機游都魯都法-skill` — 《六壬神機游都魯都法》
+- `六壬神课古典秘本-skill` — 《六壬神课古典秘本》
+- `六壬思源大六壬神课-skill` — 《六壬思源大六壬神课》
+- `六壬通天-skill` — 《六壬通天》
+- `六壬仙师法-skill` — 《六壬仙师法》
+- `六壬指迷-初学必读-最新版-skill` — 《六壬指迷（初学必读）最新版》
+- `内部资料六壬格局神断_曹福京著-skill` — 《内部资料六壬格局神断_曹福京著》
+- `壬窍-全本-skill` — 《《壬窍》（全本）》
+- `壬窍全手打成word版-skill` — 《壬窍全手打成word版》
+- `图解六壬3-skill` — 《图解六壬3》
+- `推盘布局-六壬学即查即用版-skill` — 《推盘布局+六壬学即查即用版》
+- `伍建宏-数术大六壬预测函授面授讲义-skill` — 《伍建宏-数术大六壬预测函授面授讲义》
+- `小六壬上册-skill` — 《小六壬上册》
+- `小六壬下册-skill` — 《小六壬下册》
+- `徐伟刚-袖里干坤-大六壬新探-skill` — 《徐伟刚《袖里干坤》——大六壬新探》
+- `一揽登堂-大六壬断法述要北海闲人-skill` — 《一揽登堂 大六壬断法述要[北海闲人]》
+- `易境桃源-大六壬讲义-skill` — 《易境桃源.大六壬讲义》
+- `袁树珊-大六壬探原-精校版-skill` — 《袁树珊《大六壬探原》(精校版）》
+- `张容平-历代六壬占验汇选二-skill` — 《张容平-历代六壬占验汇选二[]》
+- `张容平-历代六壬占验汇选一-skill` — 《张容平-历代六壬占验汇选一》
+- `D_大六壬入门-鲁国山人-skill` — 《D_大六壬入门---鲁国山人》
+- `liuren-beihai-gaoji-skill` — liuren-beihai-gaoji
+- `liuren-beihai-jichu-skill` — liuren-beihai-jichu
+- `liuren-beihai-zhinan-skill` — liuren-beihai-zhinan
+- `liuren-bifa-skill` — liuren-bifa
+- `liuren-bingqin-skill` — liuren-bingqin
+- `liuren-caofujing-skill` — liuren-caofujing
+- `liuren-cuiyu-fu-skill` — liuren-cuiyu-fu
+- `liuren-daquan-skill` — liuren-daquan
+- `liuren-duanan-shuzheng-skill` — liuren-duanan-shuzheng
+- `liuren-duanan-skill` — liuren-duanan
+- `liuren-guanlu-shu-skill` — liuren-guanlu-shu
+- `liuren-gushi-skill` — liuren-gushi
+- `liuren-huiyao-skill` — liuren-huiyao
+- `liuren-jianhong-skill` — liuren-jianhong
+- `liuren-jichu-skill` — liuren-jichu
+- `liuren-jindai-jiangyi-skill` — liuren-jindai-jiangyi
+- `liuren-jingjian-skill` — liuren-jingjian
+- `liuren-jingwei-skill` — liuren-jingwei
+- `liuren-jinjiaojian-skill` — liuren-jinjiaojian
+- `liuren-jinkou-anli-skill` — liuren-jinkou-anli
+- `liuren-jinkou-jichu-skill` — liuren-jinkou-jichu
+- `liuren-jinkou-jifa-skill` — liuren-jinkou-jifa
+- `liuren-jinkou-quanshu-skill` — liuren-jinkou-quanshu
+- `liuren-jixuan-skill` — liuren-jixuan
+- `liuren-juanji-skill` — liuren-juanji
+- `liuren-junzhang-skill` — liuren-junzhang
+- `liuren-kejing-skill` — liuren-kejing
+- `liuren-kuonangfu-skill` — liuren-kuonangfu
+- `liuren-linfeng-skill` — liuren-linfeng
+- `liuren-linzheng-skill` — liuren-linzheng
+- `liuren-linzhihua-taojin-skill` — liuren-linzhihua-taojin
+- `liuren-liukele-skill` — liuren-liukele
+- `liuren-lixing-skill` — liuren-lixing
+- `liuren-miao-shao-skill` — liuren-miao-shao
+- `liuren-miben-skill` — liuren-miben
+- `liuren-qinruisheng-skill` — liuren-qinruisheng
+- `liuren-rengui-skill` — liuren-rengui
+- `liuren-renqiao-skill` — liuren-renqiao
+- `liuren-shenjiang-shi-skill` — liuren-shenjiang-shi
+- `liuren-shensha-skill` — liuren-shensha
+- `liuren-shenyingshencha-skill` — liuren-shenyingshencha
+- `liuren-shuoyue-skill` — liuren-shuoyue
+- `liuren-tuiming-skill` — liuren-tuiming
+- `liuren-tujie-daquan-skill` — liuren-tujie-daquan
+- `liuren-wangleizhi-skill` — liuren-wangleizhi
+- `liuren-wuyao-quanheng-skill` — liuren-wuyao-quanheng
+- `liuren-xiaoliu-daochuan-skill` — liuren-xiaoliu-daochuan
+- `liuren-xiaoliu-minjian-skill` — liuren-xiaoliu-minjian
+- `liuren-xinjing-skill` — liuren-xinjing
+- `liuren-xuweigang-2-skill` — liuren-xuweigang-2
+- `liuren-xuweigang-skill` — liuren-xuweigang
+- `liuren-yangzhai-skill` — liuren-yangzhai
+- `liuren-yinhezhao-skill` — liuren-yinhezhao
+- `liuren-yixianke-skill` — liuren-yixianke
+- `liuren-zabiangu-skill` — liuren-zabiangu
+- `liuren-zhinan-skill` — liuren-zhinan
+- `liuren-zhonghuang-skill` — liuren-zhonghuang
+- `Removed_大六壬推命学-八六居士-手抄本-skill` — 《Removed_大六壬推命学(八六居士)手抄本》
+- `xiaoliuren-maqianke-skill` — xiaoliuren-maqianke-skill
+
+## sim-ocr（99）
+
+- `sim_冰鉴-清-曾国藩-skill` — 《冰鉴-清-曾国藩》
+- `sim_兵要望江南-唐-易靜-skill` — 《兵要望江南-唐-易靜》
+- `sim_卜筮全书-明-姚际隆-skill` — 《卜筮全书-明-姚际隆》
+- `sim_卜筮正宗-清-王洪绪-skill` — 《卜筮正宗-清-王洪绪》
+- `sim_参同契-汉-魏伯阳-skill` — 《参同契-汉-魏伯阳》
+- `sim_插泥剑-明-蒋大鸿-skill` — 《插泥剑-明-蒋大鸿》
+- `sim_催官篇-宋-赖文俊-skill` — 《催官篇-宋-赖文俊》
+- `sim_大易断例卜筮元龟目-skill` — 《大易断例卜筮元龟目-》
+- `sim_道德经-老子-skill` — 《道德经-老子》
+- `sim_地理辨惑-清-马泰清-skill` — 《地理辨惑-清-马泰清》
+- `sim_地理辨正-清-蒋大鸿-skill` — 《地理辨正-清-蒋大鸿》
+- `sim_地理古镜歌-明-蒋大鸿-skill` — 《地理古镜歌-明-蒋大鸿》
+- `sim_地理醒心录-明-天中星垣主人-skill` — 《地理醒心录-明-天中星垣主人》
+- `sim_滴天髓-维基-skill` — 《滴天髓-维基》
+- `sim_滴天髓阐微-清-任铁樵-skill` — 《滴天髓阐微-清-任铁樵》
+- `sim_东坡易传-宋-苏东坡-skill` — 《东坡易传-宋-苏东坡》
+- `sim_断易鬼灵经-佚名-skill` — 《断易鬼灵经-佚名》
+- `sim_断易天机-明-佚名-skill` — 《断易天机-明-佚名》
+- `sim_遁甲演义-明-程道生-skill` — 《遁甲演义-明-程道生》
+- `sim_二十四山八卦罗经图-skill` — 《二十四山八卦罗经图》
+- `sim_鬼谷子神奇相法全书-skill` — 《鬼谷子神奇相法全书-》
+- `sim_撼龙经-唐-杨筠松-skill` — 《撼龙经-唐-杨筠松》
+- `sim_虎鈐經-宋-許洞-skill` — 《虎鈐經-宋-許洞》
+- `sim_淮南子-skill` — 《淮南子》
+- `sim_黄帝阴符经-skill` — 《黄帝阴符经》
+- `sim_黄金策-明-刘基-skill` — 《黄金策-明-刘基》
+- `sim_黃金策-明-劉基-skill` — 《黃金策-明-劉基》
+- `sim_金匮要略-汉-张仲景-skill` — 《金匮要略-汉-张仲景》
+- `sim_开元占经-唐-瞿昙悉达-skill` — 《开元占经-唐-瞿昙悉达》
+- `sim_列子-skill` — 《列子》
+- `sim_灵台秘苑-宋-王安礼-skill` — 《灵台秘苑-宋-王安礼》
+- `sim_柳庄相法-明-袁珙-skill` — 《柳庄相法-明-袁珙》
+- `sim_六壬兵占-明-佚名-skill` — 《六壬兵占-明-佚名》
+- `sim_六壬存验-清-吴师青-skill` — 《六壬存验-清-吴师青》
+- `sim_六壬大全-明-郭载騋-skill` — 《六壬大全-明-郭载騋》
+- `sim_六壬断案-宋-邵彦和-skill` — 《六壬断案-宋-邵彦和》
+- `sim_六壬灵觉经-佚名-skill` — 《六壬灵觉经-佚名》
+- `sim_六壬秘本-清-金正音-skill` — 《六壬秘本-清-金正音》
+- `sim_六壬神定经-宋-扬维德-skill` — 《六壬神定经-宋-扬维德》
+- `sim_六壬神课金口诀古本-佚名-skill` — 《六壬神课金口诀古本-佚名》
+- `sim_六壬心镜-唐-徐道符-skill` — 《六壬心镜-唐-徐道符》
+- `sim_六壬一字诀玉连环-宋-徐汶滨-skill` — 《六壬一字诀玉连环-宋-徐汶滨》
+- `sim_六壬拃河棹-明-张松源-skill` — 《六壬拃河棹-明-张松源》
+- `sim_六壬直指御定-清-佚名-skill` — 《六壬直指御定-清-佚名》
+- `sim_六壬指南-明-陈公献-skill` — 《六壬指南-明-陈公献》
+- `sim_六壬指南注解-明-陈公献-skill` — 《六壬指南注解-明-陈公献》
+- `sim_命理探源-袁树珊-skill` — 《命理探源-袁树珊》
+- `sim_命理正宗-张神峰-skill` — 《命理正宗-张神峰》
+- `sim_脾胃论-金-李东垣-skill` — 《脾胃论-金-李东垣》
+- `sim_平沙玉尺辨伪总括歌-清-姜垚汝-skill` — 《平沙玉尺辨伪总括歌-清-姜垚汝》
+- `sim_平砂玉尺辨伪-明-蒋平阶-skill` — 《平砂玉尺辨伪-明-蒋平阶》
+- `sim_平砂玉尺经-元-刘秉忠-skill` — 《平砂玉尺经-元-刘秉忠》
+- `sim_奇门宝鉴御定-唐-徐道符-skill` — 《奇门宝鉴御定-唐-徐道符》
+- `sim_奇门遁甲秘笈大全-明-刘伯温-skill` — 《奇门遁甲秘笈大全-明-刘伯温》
+- `sim_奇门遁甲统宗-三国蜀-诸葛亮-skill` — 《奇门遁甲统宗-三国蜀-诸葛亮》
+- `sim_奇门遁甲元灵经-许松如-skill` — 《奇门遁甲元灵经-许松如》
+- `sim_奇门法窍-清-锡孟樨-skill` — 《奇门法窍-清-锡孟樨》
+- `sim_奇门旨归-清-朱浩文-skill` — 《奇门旨归-清-朱浩文》
+- `sim_千金要方-唐-孙思邈-skill` — 《千金要方-唐-孙思邈》
+- `sim_穷通宝鉴-明-余春台-skill` — 《穷通宝鉴-明-余春台》
+- `sim_人伦大统赋-金-张行简-skill` — 《人伦大统赋-金-张行简》
+- `sim_人子须知-明-徐继善-skill` — 《人子须知-明-徐继善》
+- `sim_三命通会-明-万民英-skill` — 《三命通会-明-万民英》
+- `sim_山海经-skill` — 《山海经》
+- `sim_山洋指迷原本-明-周景一-skill` — 《山洋指迷原本-明-周景一》
+- `sim_神峰通考-明-张楠-skill` — 《神峰通考-明-张楠》
+- `sim_神农本草经-skill` — 《神农本草经》
+- `sim_神相全编-宋-陈抟-skill` — 《神相全编-宋-陈抟》
+- `sim_神相铁关刀-清-云谷山人-skill` — 《神相铁关刀-清-云谷山人》
+- `sim_太白陰經-唐-李荃-skill` — 《太白陰經-唐-李荃》
+- `sim_太清神鉴-五代-王朴-skill` — 《太清神鉴-五代-王朴》
+- `sim_太乙秘书-宋-王佐-skill` — 《太乙秘书-宋-王佐》
+- `sim_温病条辨-清-吴瑭-skill` — 《温病条辨-清-吴瑭》
+- `sim_吴园易解-宋-张根-skill` — 《吴园易解-宋-张根》
+- `sim_五行大义-隋-萧吉-skill` — 《五行大义-隋-萧吉》
+- `sim_五行精纪-宋-廖中-skill` — 《五行精纪-宋-廖中》
+- `sim_伊川易传-宋-程颐-skill` — 《伊川易传-宋-程颐》
+- `sim_乙巳占-唐-李淳风-skill` — 《乙巳占-唐-李淳风》
+- `sim_易林补遗-明-张世宝-skill` — 《易林补遗-明-张世宝》
+- `sim_易冒-清-程良玉-skill` — 《易冒-清-程良玉》
+- `sim_易隐-清-曹九锡-skill` — 《易隐-清-曹九锡》
+- `sim_增删卜易-野鹤老人-skill` — 《增删卜易-野鹤老人》
+- `sim_宅经-skill` — 《宅经-》
+- `sim_张果星宗-明-佚名-skill` — 《张果星宗-明-佚名》
+- `sim_针灸甲乙经-晋-皇甫谧-skill` — 《针灸甲乙经-晋-皇甫谧》
+- `sim_周易-佚名-skill` — 《周易-佚名》
+- `sim_周易本义-宋-朱熹-skill` — 《周易本义-宋-朱熹》
+- `sim_周易禅解-明-释智旭-skill` — 《周易禅解-明-释智旭》
+- `sim_周易杭氏学-清-杭辛斋-skill` — 《周易杭氏学-清-杭辛斋》
+- `sim_周易口诀义-唐-史徵-skill` — 《周易口诀义-唐-史徵》
+- `sim_周易口义-宋-胡瑗-skill` — 《周易口义-宋-胡瑗》
+- `sim_周易浅述-清-陈梦雷-skill` — 《周易浅述-清-陈梦雷》
+- `sim_周易尚氏学-清-尚秉和-skill` — 《周易尚氏学-清-尚秉和》
+- `sim_周易尚占-元-李道纯-skill` — 《周易尚占-元-李道纯》
+- `sim_周易新讲义-宋-耿南仲-skill` — 《周易新讲义-宋-耿南仲》
+- `sim_周易正义-唐-孔颖达-skill` — 《周易正义-唐-孔颖达》
+- `sim_诸病源候论-隋-巢元方-skill` — 《诸病源候论-隋-巢元方》
+- `sim_庄子-skill` — 《庄子》
+- `sim_子平真诠评注-清-沈孝瞻-skill` — 《子平真诠评注-清-沈孝瞻》
+
+## liuyao（59）
+
+- `八宅风水真伪辩-一-六爻变序论-skill` — 《八宅风水真伪辩（一）六爻变序论》
+- `初学六爻预测-王虎应-达仁宝库liaohan-net更新nblax520-com-微信1131084518-skill` — 《初学六爻预测+王虎应-【达仁宝库【liaohan.net】更新nblax520.com 微信1131084518】》
+- `焦氏易林-汉-焦赣04-skill` — 《《焦氏易林》 (汉)焦赣04》
+- `教你学梅花预测-skill` — 《教你学梅花预测》
+- `黎光-六爻预测学-skill` — 《黎光－六爻预测学》
+- `李顺祥-六爻玄机-八卦推断详解-skill` — 《（李顺祥）六爻玄机——八卦推断详解》
+- `六爻卦象解密王虎应-skill` — 《六爻卦象解密王虎应》
+- `六爻黄金宝好-达仁宝库liaohan-net更新nblax520-com-微信1131084518-skill` — 《六爻黄金宝【好】-【达仁宝库【liaohan.net】更新nblax520.com 微信1131084518】》
+- `六爻基础入门电子版-skill` — 《六爻基础入门电子版》
+- `六爻問答集-卦由谁来摇-王虎应-skill` — 《六爻問答集-卦由谁来摇（王虎应）》
+- `六爻预测学理论全集-吕文艺-skill` — 《六爻预测学理论全集（吕文艺）》
+- `梅花秘技-六神象断法-skill` — 《梅花秘技―六神象断法》
+- `梅花易数-李峰-skill` — 《梅花易数  李峰》
+- `梅花易数-万物类象-skill` — 《《梅花易数》万物类象》
+- `青岚-六爻基础入门-skill` — 《青岚-六爻基础入门》
+- `太极派六爻-skill` — 《太极派六爻》
+- `中国六爻同盟入门教材-很全的六爻基础书-skill` — 《中国六爻同盟入门教材（很全的六爻基础书）》
+- `dayi-bushi-yuangui-skill` — dayi-bushi-yuangui-skill
+- `duanyi-guilingjing-skill` — duanyi-guilingjing-skill
+- `haidiyan-skill` — haidiyan-skill
+- `huozhulin-skill` — huozhulin-skill
+- `jingshi-yizhuan-skill` — jingshi-yizhuan
+- `liuyao-bushi-quanshu-skill` — liuyao-bushi-quanshu
+- `liuyao-caipiao-guping-skill` — liuyao-caipiao-guping
+- `liuyao-cebing-fenke-skill` — liuyao-cebing-fenke-skill
+- `liuyao-duan-liunian-skill` — liuyao-duan-liunian-skill
+- `liuyao-duangua-jifa-skill` — liuyao-duangua-jifa-skill
+- `liuyao-fenlei-zhanduan-skill` — liuyao-fenlei-zhanduan-skill
+- `liuyao-gaoceng-duanjie-skill` — liuyao-gaoceng-duanjie
+- `liuyao-guosanguan-skill` — liuyao-guosanguan-skill
+- `liuyao-guping-shizhan-skill` — liuyao-guping-shizhan-skill
+- `liuyao-huanben-guizong-skill` — liuyao-huanben-guizong
+- `liuyao-huangjinbao-skill` — liuyao-huangjinbao
+- `liuyao-huoduan-dianqiao-skill` — liuyao-huoduan-dianqiao
+- `liuyao-kuaisu-duanfa-skill` — liuyao-kuaisu-duanfa-skill
+- `liuyao-kuaisu-gousi-skill` — liuyao-kuaisu-gousi-skill
+- `liuyao-liuchangming-skill` — liuyao-liuchangming-skill
+- `liuyao-liuhongyan-skill` — liuyao-liuhongyan
+- `liuyao-lixiangxue-skill` — liuyao-lixiangxue
+- `liuyao-luwenyi-skill` — liuyao-luwenyi-skill
+- `liuyao-mangpai-zhenjing-skill` — liuyao-mangpai-zhenjing
+- `liuyao-shaoweihua-skill` — liuyao-shaoweihua
+- `liuyao-shicao-yingqi-skill` — liuyao-shicao-yingqi-skill
+- `liuyao-shiyaowangshuai-skill` — liuyao-shiyaowangshuai-skill
+- `liuyao-taiji-pai-skill` — liuyao-taiji-pai
+- `liuyao-xiangshu-skill` — liuyao-xiangshu
+- `liuyao-xiangyi-quxiang-skill` — liuyao-xiangyi-quxiang-skill
+- `liuyao-xiangzhen-skill` — liuyao-xiangzhen
+- `liuyao-xiaoao-qianian-skill` — liuyao-xiaoao-qianian
+- `liuyao-xinpai-dongyuanchen-skill` — liuyao-xinpai-dongyuanchen-skill
+- `liuyao-xinpai-ketang-skill` — liuyao-xinpai-ketang-skill
+- `liuyao-yidonglin-skill` — liuyao-yidonglin
+- `liuyao-yihuo-zhimi-skill` — liuyao-yihuo-zhimi-skill
+- `liuyao-yinyangjing-skill` — liuyao-yinyangjing
+- `liuyao-zengshan-buyi-skill` — liuyao-zengshan-buyi-skill
+- `liuyao-zhangding-jifa-skill` — liuyao-zhangding-jifa-skill
+- `liuyao-zhuanti-buyi-skill` — liuyao-zhuanti-buyi-skill
+- `lushi-yijie-skill` — 《陆氏易解》 明·姚士粦辑（吴·陆绩注）
+- `wenwang-jinqianke-skill` — 《文王金钱课》 旧题周·姬昌（民间钱筮歌本）
+
+## other-shushu（18）
+
+- `cezi-midie-skill` — cezi-midie-skill
+- `leisiqi-yitu-skill` — leisiqi-yitu
+- `lingqi-jing-skill` — lingqi-jing-skill
+- `mawangdui-wuxingzhan-skill` — mawangdui-wuxingzhan-skill
+- `qianxu-skill` — qianxu-skill
+- `qinxing-yanyi-skill` — qinxing-yanyi-skill
+- `rudiyan-quanshu-skill` — rudiyan-quanshu-skill
+- `songyuan-yixue-notes-skill` — songyuan-yixue-notes
+- `tieban-shenshu-skill` — tieban-shenshu-skill
+- `tuibei-tu-skill` — tuibei-tu-skill
+- `xieji-bianfang-skill` — 《钦定协纪辨方书》 清·梅毂成等奉敕
+- `yishu-goushentu-skill` — yishu-goushentu
+- `yiwei-zhengxuan-skill` — yiwei-zhengxuan
+- `yongle-baiwen-skill` — yongle-baiwen-skill
+- `yuzhao-shenying-skill` — yuzhao-shenying-skill
+- `zangfa-daozhang-skill` — zangfa-daozhang-skill
+- `zhengyi-xinfa-skill` — zhengyi-xinfa
+- `zhuge-shenshu-skill` — zhuge-shenshu-skill
+
+## dili（17）
+
+- `陈癸龙-玄空飞星卷一学理篇-skill` — 《陈癸龙-玄空飞星卷一学理篇》
+- `dili-bendi-jiang-luantou-skill` — dili-bendi-jiang-luantou-skill
+- `dili-bianhuo-skill` — dili-bianhuo-skill
+- `dili-bianzheng-skill` — dili-bianzheng-skill
+- `dili-xingshi-skill` — dili-xingshi-skill
+- `ershisi-shan-fenjin-skill` — ershisi-shan-fenjin-skill
+- `jianggong-zizijin-skill` — jianggong-zizijin-skill
+- `lingcheng-jingyi-skill` — lingcheng-jingyi-skill
+- `luoshu-shuo-skill` — 《易纂言外翼·洛书说》 元·吴澄（录自易原第十一）
+- `pingyang-dixue-skill` — pingyang-dixue-skill
+- `qianyuan-mizhi-skill` — qianyuan-mizhi
+- `qingnang-yangjunsong-skill` — qingnang-yangjunsong-skill
+- `qingwu-jing-skill` — qingwu-jing-skill
+- `tianyu-jing-skill` — tianyu-jing-skill
+- `tianyuan-wuge-skill` — tianyuan-wuge-skill
+- `zangshu-guopu-skill` — zangshu-guopu-skill
+- `zengding-yifang-gejue-skill` — zengding-yifang-gejue-skill
+
+## mingli（13）
+
+- `故宫珍本丛刊第423册-命书相书-御定五星精义-星平集腋统宗-神相汇编-子平管见集解-skill` — 《故宫珍本丛刊第423册·命书相书：御定五星精义·星平集腋统宗·神相汇编·子平管见集解》
+- `果老星宗-skill` — 《果老星宗》
+- `命理千金赋-千里命稿-skill` — 《《命理千金赋》千里命稿》
+- `新命理探原-_-清-袁树珊著-skill` — 《《新命理探原》_（清）袁树珊著》
+- `渊海子平-skill` — 《《渊海子平》》
+- `lixuzhong-mingshu-skill` — 《李虚中命书》 旧题鬼谷子 / 唐·李虚中
+- `luoluzi-sanming-skill` — luoluzi-sanming
+- `xiangfa-xufu-xinxiang-skill` — xiangfa-xufu-xinxiang-skill
+- `xiangshu-bingjian-renlun-skill` — xiangshu-bingjian-renlun-skill
+- `xingming-guji-skill` — xingming-guji-skill
+- `xu-shi-luoluzi-skill` — xu-shi-luoluzi
+- `yizhangjing-skill` — yizhangjing-skill
+- `ziping-zhenquan-skill` — ziping-zhenquan-skill
+
+## yi（7）
+
+- `周易精华本-朱亚燕-扫描版-skill` — 《[周易精华本].朱亚燕.扫描版》
+- `周易与易图-李申-扫描版-skill` — 《[周易与易图].李申.扫描版》
+- `huangji-jingshi-skill` — huangji-jingshi-skill
+- `lianshan-yi-skill` — 《连山易》 清·马国翰辑
+- `taixuan-jing-skill` — taixuan-jing
+- `wangbi-lueli-skill` — wangbi-lueli
+- `zhengshi-zhouyi-skill` — zhengshi-zhouyi
+
+## qimen（4）
+
+- `000易正奇门遁甲格局-skill` — 《000易正奇门遁甲格局》
+- `遁甲集成4-skill` — 《遁甲集成4》
+- `dunjia-fuying-skill` — dunjia-fuying-skill
+- `qimen-jichu-skill` — qimen-jichu
+
+## taiyi（3）
+
+- `太乙积年-skill` — 《太乙积年》
+- `太乙经-skill` — 《太乙经》
+- `taiyi-jinjing-skill` — taiyi-jinjing
+
