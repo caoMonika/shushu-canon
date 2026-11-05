@@ -1,0 +1,3253 @@
+{
+  "generated_at": "2026-11-05T09:54:33.126Z",
+  "total": 539,
+  "by_domain": {
+    "dao-yi-quan": 188,
+    "dili": 17,
+    "liuren": 131,
+    "liuyao": 59,
+    "mingli": 13,
+    "other-shushu": 18,
+    "qimen": 4,
+    "sim-ocr": 99,
+    "taiyi": 3,
+    "yi": 7
+  },
+  "path_style": "relative-to-skill-root",
+  "items": [
+    {
+      "slug": "20世纪上海地区擅用附子六大家-skill",
+      "domain": "dao-yi-quan",
+      "title": "《20世纪上海地区擅用附子六大家》",
+      "path": "books/20世纪上海地区擅用附子六大家-skill/SKILL.md"
+    },
+    {
+      "slug": "鳌头通书大全1-10卷-skill",
+      "domain": "dao-yi-quan",
+      "title": "《鳌头通书大全1-10卷》",
+      "path": "books/鳌头通书大全1-10卷-skill/SKILL.md"
+    },
+    {
+      "slug": "八仙剑-张西京-扫描版-skill",
+      "domain": "dao-yi-quan",
+      "title": "《[八仙剑].张西京.扫描版》",
+      "path": "books/八仙剑-张西京-扫描版-skill/SKILL.md"
+    },
+    {
+      "slug": "八字预测-李后启-skill",
+      "domain": "dao-yi-quan",
+      "title": "《《八字预测》李后启》",
+      "path": "books/八字预测-李后启-skill/SKILL.md"
+    },
+    {
+      "slug": "八字真途-北海闲人-凤山先生撰-skill",
+      "domain": "dao-yi-quan",
+      "title": "《八字真途(北海闲人.凤山先生撰)》",
+      "path": "books/八字真途-北海闲人-凤山先生撰-skill/SKILL.md"
+    },
+    {
+      "slug": "百馬図-乾坤-skill",
+      "domain": "dao-yi-quan",
+      "title": "《百馬図.乾坤》",
+      "path": "books/百馬図-乾坤-skill/SKILL.md"
+    },
+    {
+      "slug": "百美新咏图传-清-颜希源编-王翙绘-skill",
+      "domain": "dao-yi-quan",
+      "title": "《百美新咏图传.清.颜希源编.王翙绘》",
+      "path": "books/百美新咏图传-清-颜希源编-王翙绘-skill/SKILL.md"
+    },
+    {
+      "slug": "本草綱目-選者李時珍-明-校訂者稲生若水数量45冊書誌事項刊本-正徳04年393292343_0001-skill",
+      "domain": "dao-yi-quan",
+      "title": "《本草綱目 選者李時珍（明）／校訂者稲生若水[数量]45冊[書誌事項]刊本 ,正徳04年393292343_0001》",
+      "path": "books/本草綱目-選者李時珍-明-校訂者稲生若水数量45冊書誌事項刊本-正徳04年393292343_0001-skill/SKILL.md"
+    },
+    {
+      "slug": "本草図譜-第-冊-巻-山草之類-之上-skill",
+      "domain": "dao-yi-quan",
+      "title": "《本草図譜. 第１冊　巻５山草之類１之上》",
+      "path": "books/本草図譜-第-冊-巻-山草之類-之上-skill/SKILL.md"
+    },
+    {
+      "slug": "病源辞典_吴克潜-skill",
+      "domain": "dao-yi-quan",
+      "title": "《病源辞典_吴克潜》",
+      "path": "books/病源辞典_吴克潜-skill/SKILL.md"
+    },
+    {
+      "slug": "博物馆兽谱-帝室博物馆编-skill",
+      "domain": "dao-yi-quan",
+      "title": "《博物馆兽谱.帝室博物馆编》",
+      "path": "books/博物馆兽谱-帝室博物馆编-skill/SKILL.md"
+    },
+    {
+      "slug": "博物馆图谱-百鸟图-异兽图-skill",
+      "domain": "dao-yi-quan",
+      "title": "《博物馆图谱.百鸟图.异兽图》",
+      "path": "books/博物馆图谱-百鸟图-异兽图-skill/SKILL.md"
+    },
+    {
+      "slug": "博物馆鱼谱-skill",
+      "domain": "dao-yi-quan",
+      "title": "《博物馆鱼谱》",
+      "path": "books/博物馆鱼谱-skill/SKILL.md"
+    },
+    {
+      "slug": "補正輯光傷寒論-巻上下-吉益東洞-遺教-岑貉丘閲-終古堂-文政51822-上-skill",
+      "domain": "dao-yi-quan",
+      "title": "《補正輯光傷寒論 巻上下 吉益東洞 遺教 岑貉丘閲  終古堂 文政5[1822]（上）》",
+      "path": "books/補正輯光傷寒論-巻上下-吉益東洞-遺教-岑貉丘閲-終古堂-文政51822-上-skill/SKILL.md"
+    },
+    {
+      "slug": "测字拆字-skill",
+      "domain": "dao-yi-quan",
+      "title": "《测字拆字》",
+      "path": "books/测字拆字-skill/SKILL.md"
+    },
+    {
+      "slug": "产育全书-内外篇-水原义博著-1850-skill",
+      "domain": "dao-yi-quan",
+      "title": "《产育全书.内外篇.水原义博著.1850》",
+      "path": "books/产育全书-内外篇-水原义博著-1850-skill/SKILL.md"
+    },
+    {
+      "slug": "陈训-相理衡真_古本-skill",
+      "domain": "dao-yi-quan",
+      "title": "《陈训-相理衡真_古本》",
+      "path": "books/陈训-相理衡真_古本-skill/SKILL.md"
+    },
+    {
+      "slug": "陈诏堭-取名测字精通-skill",
+      "domain": "dao-yi-quan",
+      "title": "《陈诏堭-取名测字精通》",
+      "path": "books/陈诏堭-取名测字精通-skill/SKILL.md"
+    },
+    {
+      "slug": "陳岳明-田宅宫看经营成败-skill",
+      "domain": "dao-yi-quan",
+      "title": "《陳岳明 《田宅宫看经营成败》》",
+      "path": "books/陳岳明-田宅宫看经营成败-skill/SKILL.md"
+    },
+    {
+      "slug": "达摩一掌经-芝兰-扫描版-skill",
+      "domain": "dao-yi-quan",
+      "title": "《达摩一掌经 .芝兰.扫描版》",
+      "path": "books/达摩一掌经-芝兰-扫描版-skill/SKILL.md"
+    },
+    {
+      "slug": "大衍索隐-skill",
+      "domain": "dao-yi-quan",
+      "title": "《大衍索隐》",
+      "path": "books/大衍索隐-skill/SKILL.md"
+    },
+    {
+      "slug": "大易探微-skill",
+      "domain": "dao-yi-quan",
+      "title": "《大易探微》",
+      "path": "books/大易探微-skill/SKILL.md"
+    },
+    {
+      "slug": "单刀法选-skill",
+      "domain": "dao-yi-quan",
+      "title": "《单刀法选》",
+      "path": "books/单刀法选-skill/SKILL.md"
+    },
+    {
+      "slug": "当代中医必效奇方秘术清晰版-skill",
+      "domain": "dao-yi-quan",
+      "title": "《当代中医必效奇方秘术清晰版》",
+      "path": "books/当代中医必效奇方秘术清晰版-skill/SKILL.md"
+    },
+    {
+      "slug": "道法掌诀-skill",
+      "domain": "dao-yi-quan",
+      "title": "《《道法掌诀 》》",
+      "path": "books/道法掌诀-skill/SKILL.md"
+    },
+    {
+      "slug": "地司秘诀-skill",
+      "domain": "dao-yi-quan",
+      "title": "《《地司秘诀》》",
+      "path": "books/地司秘诀-skill/SKILL.md"
+    },
+    {
+      "slug": "東洞全集-吉益東洞著-芸備医学会編1918-東京-吐鳳堂書店-大正7-211页-754页-skill",
+      "domain": "dao-yi-quan",
+      "title": "《東洞全集 吉益東洞[著] 芸備医学会編1918 東京 吐鳳堂書店 大正7（211页-754页）》",
+      "path": "books/東洞全集-吉益東洞著-芸備医学会編1918-東京-吐鳳堂書店-大正7-211页-754页-skill/SKILL.md"
+    },
+    {
+      "slug": "董公择日-140页-skill",
+      "domain": "dao-yi-quan",
+      "title": "《董公择日 140页》",
+      "path": "books/董公择日-140页-skill/SKILL.md"
+    },
+    {
+      "slug": "斗首择日-skill",
+      "domain": "dao-yi-quan",
+      "title": "《斗首择日》",
+      "path": "books/斗首择日-skill/SKILL.md"
+    },
+    {
+      "slug": "斗數婚姻看法大全-skill",
+      "domain": "dao-yi-quan",
+      "title": "《斗數婚姻看法大全》",
+      "path": "books/斗數婚姻看法大全-skill/SKILL.md"
+    },
+    {
+      "slug": "痘疹活幼心法-巻上-京都田原仁佐衛門寛文6-1666-skill",
+      "domain": "dao-yi-quan",
+      "title": "《痘疹活幼心法 巻上 [京都]田原仁佐衛門寛文6 [1666]》",
+      "path": "books/痘疹活幼心法-巻上-京都田原仁佐衛門寛文6-1666-skill/SKILL.md"
+    },
+    {
+      "slug": "断易秘诀-skill",
+      "domain": "dao-yi-quan",
+      "title": "《断易秘诀》",
+      "path": "books/断易秘诀-skill/SKILL.md"
+    },
+    {
+      "slug": "法符秘法-skill",
+      "domain": "dao-yi-quan",
+      "title": "《《法符秘法》》",
+      "path": "books/法符秘法-skill/SKILL.md"
+    },
+    {
+      "slug": "法海遗珠-skill",
+      "domain": "dao-yi-quan",
+      "title": "《《法海遗珠》》",
+      "path": "books/法海遗珠-skill/SKILL.md"
+    },
+    {
+      "slug": "方極-東洞吉益東洞口授-品丘明筆受-田宮龍校正-skill",
+      "domain": "dao-yi-quan",
+      "title": "《方極 東洞[吉益東洞]口授 品丘明筆受 田宮龍校正》",
+      "path": "books/方極-東洞吉益東洞口授-品丘明筆受-田宮龍校正-skill/SKILL.md"
+    },
+    {
+      "slug": "方輿輗別輯撮鈔-丸散类-森立之撰-森立之自筆嘉永3-skill",
+      "domain": "dao-yi-quan",
+      "title": "《方輿輗別輯撮鈔（丸散类） 森立之撰 森立之[自筆]嘉永3》",
+      "path": "books/方輿輗別輯撮鈔-丸散类-森立之撰-森立之自筆嘉永3-skill/SKILL.md"
+    },
+    {
+      "slug": "飞星紫微斗数-skill",
+      "domain": "dao-yi-quan",
+      "title": "《飞星紫微斗数》",
+      "path": "books/飞星紫微斗数-skill/SKILL.md"
+    },
+    {
+      "slug": "佛门九宫掌气功-skill",
+      "domain": "dao-yi-quan",
+      "title": "《佛门九宫掌气功》",
+      "path": "books/佛门九宫掌气功-skill/SKILL.md"
+    },
+    {
+      "slug": "辅行诀五脏用药法要临证心得录-skill",
+      "domain": "dao-yi-quan",
+      "title": "《辅行诀五脏用药法要临证心得录》",
+      "path": "books/辅行诀五脏用药法要临证心得录-skill/SKILL.md"
+    },
+    {
+      "slug": "輔行訣臟腑用藥法要-五臟病證文幷方-skill",
+      "domain": "dao-yi-quan",
+      "title": "《輔行訣臟腑用藥法要 〔五臟病證文幷方〕》",
+      "path": "books/輔行訣臟腑用藥法要-五臟病證文幷方-skill/SKILL.md"
+    },
+    {
+      "slug": "婦嬰新說-合信氏著-1858-带log-skill",
+      "domain": "dao-yi-quan",
+      "title": "《婦嬰新說 [合信氏著] 1858（带log）》",
+      "path": "books/婦嬰新說-合信氏著-1858-带log-skill/SKILL.md"
+    },
+    {
+      "slug": "婦嬰新説-安政6-1859-乾坤-英-合信氏-著-管茂材-撰-skill",
+      "domain": "dao-yi-quan",
+      "title": "《婦嬰新説 安政6 1859（乾坤）（英）合信氏 著 管茂材 撰》",
+      "path": "books/婦嬰新説-安政6-1859-乾坤-英-合信氏-著-管茂材-撰-skill/SKILL.md"
+    },
+    {
+      "slug": "腹证奇览-稻叶克-skill",
+      "domain": "dao-yi-quan",
+      "title": "《腹证奇览 - 稻叶克》",
+      "path": "books/腹证奇览-稻叶克-skill/SKILL.md"
+    },
+    {
+      "slug": "腹证奇览-skill",
+      "domain": "dao-yi-quan",
+      "title": "《腹证奇览》",
+      "path": "books/腹证奇览-skill/SKILL.md"
+    },
+    {
+      "slug": "高尿酸血证和痛风的治疗-skill",
+      "domain": "dao-yi-quan",
+      "title": "《高尿酸血证和痛风的治疗》",
+      "path": "books/高尿酸血证和痛风的治疗-skill/SKILL.md"
+    },
+    {
+      "slug": "各骨真行图1846-麦吉尔大学图书馆藏-skill",
+      "domain": "dao-yi-quan",
+      "title": "《各骨真行图【1846.麦吉尔大学图书馆藏】》",
+      "path": "books/各骨真行图1846-麦吉尔大学图书馆藏-skill/SKILL.md"
+    },
+    {
+      "slug": "岣嵝神书-skill",
+      "domain": "dao-yi-quan",
+      "title": "《《岣嵝神书》》",
+      "path": "books/岣嵝神书-skill/SKILL.md"
+    },
+    {
+      "slug": "古本元皇秘诀法本-skill",
+      "domain": "dao-yi-quan",
+      "title": "《《古本元皇秘诀法本》》",
+      "path": "books/古本元皇秘诀法本-skill/SKILL.md"
+    },
+    {
+      "slug": "古今方彙-甲賀通元-校-望三英-重訂1808-skill",
+      "domain": "dao-yi-quan",
+      "title": "《古今方彙.甲賀通元.校.望三英.[重訂][1808]》",
+      "path": "books/古今方彙-甲賀通元-校-望三英-重訂1808-skill/SKILL.md"
+    },
+    {
+      "slug": "古筮真诠-朱辰彬-skill",
+      "domain": "dao-yi-quan",
+      "title": "《《古筮真诠》朱辰彬》",
+      "path": "books/古筮真诠-朱辰彬-skill/SKILL.md"
+    },
+    {
+      "slug": "寒热真假最紧要处-上-火神派案例赏析之四-skill",
+      "domain": "dao-yi-quan",
+      "title": "《寒热真假最紧要处(上)——火神派案例赏析之四》",
+      "path": "books/寒热真假最紧要处-上-火神派案例赏析之四-skill/SKILL.md"
+    },
+    {
+      "slug": "皇帝甲乙经-skill",
+      "domain": "dao-yi-quan",
+      "title": "《皇帝甲乙经》",
+      "path": "books/皇帝甲乙经-skill/SKILL.md"
+    },
+    {
+      "slug": "皇汉医学-skill",
+      "domain": "dao-yi-quan",
+      "title": "《皇汉医学》",
+      "path": "books/皇汉医学-skill/SKILL.md"
+    },
+    {
+      "slug": "皇漢醫籍書目-水居水編-昭和7-黑白版-skill",
+      "domain": "dao-yi-quan",
+      "title": "《皇漢醫籍書目 金水居水編 昭和7(1932)（黑白版）》",
+      "path": "books/皇漢醫籍書目-水居水編-昭和7-黑白版-skill/SKILL.md"
+    },
+    {
+      "slug": "皇極策數祖數-邵康節著劉伯溫補註-skill",
+      "domain": "dao-yi-quan",
+      "title": "《皇極策數祖數    邵康節著劉伯溫補註》",
+      "path": "books/皇極策數祖數-邵康節著劉伯溫補註-skill/SKILL.md"
+    },
+    {
+      "slug": "黄帝金匮玉衡经-一卷-清-李文田手批-skill",
+      "domain": "dao-yi-quan",
+      "title": "《黄帝金匮玉衡经 一卷 (清)李文田手批》",
+      "path": "books/黄帝金匮玉衡经-一卷-清-李文田手批-skill/SKILL.md"
+    },
+    {
+      "slug": "黄帝陰符経正義-skill",
+      "domain": "dao-yi-quan",
+      "title": "《《黄帝陰符経正義 》》",
+      "path": "books/黄帝陰符経正義-skill/SKILL.md"
+    },
+    {
+      "slug": "黄进长-紫微斗数太微命判-skill",
+      "domain": "dao-yi-quan",
+      "title": "《黄进长-紫微斗数太微命判》",
+      "path": "books/黄进长-紫微斗数太微命判-skill/SKILL.md"
+    },
+    {
+      "slug": "黃卯-詠春教頭的鈴貪得用-skill",
+      "domain": "dao-yi-quan",
+      "title": "《黃卯  《詠春教頭的鈴貪得用》》",
+      "path": "books/黃卯-詠春教頭的鈴貪得用-skill/SKILL.md"
+    },
+    {
+      "slug": "回春抄要-skill",
+      "domain": "dao-yi-quan",
+      "title": "《回春抄要》",
+      "path": "books/回春抄要-skill/SKILL.md"
+    },
+    {
+      "slug": "濟衆新編-康命吉-朝鮮-奉-撰001-skill",
+      "domain": "dao-yi-quan",
+      "title": "《濟衆新編 康命吉(朝鮮) 奉數撰001》",
+      "path": "books/濟衆新編-康命吉-朝鮮-奉-撰001-skill/SKILL.md"
+    },
+    {
+      "slug": "濟衆新編-一簑古615-135-G155j-v-1-59-卷一-带会徽-skill",
+      "domain": "dao-yi-quan",
+      "title": "《濟衆新編 一簑古615.135-G155j-v.1-59（卷一  带会徽）》",
+      "path": "books/濟衆新編-一簑古615-135-G155j-v-1-59-卷一-带会徽-skill/SKILL.md"
+    },
+    {
+      "slug": "家传符咒手抄本-skill",
+      "domain": "dao-yi-quan",
+      "title": "《《家传符咒手抄本》》",
+      "path": "books/家传符咒手抄本-skill/SKILL.md"
+    },
+    {
+      "slug": "江苏省90位名中医成功因素与临床情况的调查报告-skill",
+      "domain": "dao-yi-quan",
+      "title": "《江苏省90位名中医成功因素与临床情况的调查报告》",
+      "path": "books/江苏省90位名中医成功因素与临床情况的调查报告-skill/SKILL.md"
+    },
+    {
+      "slug": "解毒奇効方-南陽原先生輯-大内弘貞校正-skill",
+      "domain": "dao-yi-quan",
+      "title": "《解毒奇効方 南陽原先生輯 大内弘貞校正》",
+      "path": "books/解毒奇効方-南陽原先生輯-大内弘貞校正-skill/SKILL.md"
+    },
+    {
+      "slug": "解毒奇效方-原南阳-辑-skill",
+      "domain": "dao-yi-quan",
+      "title": "《解毒奇效方  原南阳 辑》",
+      "path": "books/解毒奇效方-原南阳-辑-skill/SKILL.md"
+    },
+    {
+      "slug": "解法卷-skill",
+      "domain": "dao-yi-quan",
+      "title": "《解法卷》",
+      "path": "books/解法卷-skill/SKILL.md"
+    },
+    {
+      "slug": "解体新書-5冊-skill",
+      "domain": "dao-yi-quan",
+      "title": "《解体新書 5冊》",
+      "path": "books/解体新書-5冊-skill/SKILL.md"
+    },
+    {
+      "slug": "金刚气功-skill",
+      "domain": "dao-yi-quan",
+      "title": "《金刚气功》",
+      "path": "books/金刚气功-skill/SKILL.md"
+    },
+    {
+      "slug": "金匱要略三卷-漢-張機撰-晉-王叔和集-宋-林億等詮次-中華書局-skill",
+      "domain": "dao-yi-quan",
+      "title": "《金匱要略三卷(漢)張機撰 (晉)王叔和集 (宋)林億等詮次 中華書局》",
+      "path": "books/金匱要略三卷-漢-張機撰-晉-王叔和集-宋-林億等詮次-中華書局-skill/SKILL.md"
+    },
+    {
+      "slug": "經絡彙編-skill",
+      "domain": "dao-yi-quan",
+      "title": "《經絡彙編》",
+      "path": "books/經絡彙編-skill/SKILL.md"
+    },
+    {
+      "slug": "九大类像系统-skill",
+      "domain": "dao-yi-quan",
+      "title": "《九大类像系统》",
+      "path": "books/九大类像系统-skill/SKILL.md"
+    },
+    {
+      "slug": "九宗法-skill",
+      "domain": "dao-yi-quan",
+      "title": "《九宗法》",
+      "path": "books/九宗法-skill/SKILL.md"
+    },
+    {
+      "slug": "坤道秘笈-全本-skill",
+      "domain": "dao-yi-quan",
+      "title": "《坤道秘笈(全本)》",
+      "path": "books/坤道秘笈-全本-skill/SKILL.md"
+    },
+    {
+      "slug": "良中先生自然真営道方-skill",
+      "domain": "dao-yi-quan",
+      "title": "《良中先生自然真営道方》",
+      "path": "books/良中先生自然真営道方-skill/SKILL.md"
+    },
+    {
+      "slug": "林吉成-男气色大全-skill",
+      "domain": "dao-yi-quan",
+      "title": "《林吉成-男气色大全》",
+      "path": "books/林吉成-男气色大全-skill/SKILL.md"
+    },
+    {
+      "slug": "灵宝清微诸天科-skill",
+      "domain": "dao-yi-quan",
+      "title": "《《灵宝清微诸天科》》",
+      "path": "books/灵宝清微诸天科-skill/SKILL.md"
+    },
+    {
+      "slug": "玲珑宝塔-加录阴阳表牒-skill",
+      "domain": "dao-yi-quan",
+      "title": "《《玲珑宝塔.加录阴阳表牒》》",
+      "path": "books/玲珑宝塔-加录阴阳表牒-skill/SKILL.md"
+    },
+    {
+      "slug": "刘完素-吴勉学-伤寒标本心法类萃-2卷-1601-skill",
+      "domain": "dao-yi-quan",
+      "title": "《刘完素 吴勉学 伤寒标本心法类萃 2卷 , 1601》",
+      "path": "books/刘完素-吴勉学-伤寒标本心法类萃-2卷-1601-skill/SKILL.md"
+    },
+    {
+      "slug": "柳庄神相-袁柳庄-skill",
+      "domain": "dao-yi-quan",
+      "title": "《柳庄神相 袁柳庄》",
+      "path": "books/柳庄神相-袁柳庄-skill/SKILL.md"
+    },
+    {
+      "slug": "龙行剑-胡洪-扫描版-skill",
+      "domain": "dao-yi-quan",
+      "title": "《[龙行剑].胡洪.扫描版》",
+      "path": "books/龙行剑-胡洪-扫描版-skill/SKILL.md"
+    },
+    {
+      "slug": "陆氏论医集-卷一_陆渊雷-skill",
+      "domain": "dao-yi-quan",
+      "title": "《陆氏论医集 卷一_陆渊雷》",
+      "path": "books/陆氏论医集-卷一_陆渊雷-skill/SKILL.md"
+    },
+    {
+      "slug": "履巉巖本草-題-宋-琅琊默菴撰-明抄彩繪本-skill",
+      "domain": "dao-yi-quan",
+      "title": "《履巉巖本草 題(宋)琅琊默菴撰 明抄彩繪本》",
+      "path": "books/履巉巖本草-題-宋-琅琊默菴撰-明抄彩繪本-skill/SKILL.md"
+    },
+    {
+      "slug": "脉经-10卷-晋-王叔和著-明万历29年新安吴勉学翻刻宋板-1601年-skill",
+      "domain": "dao-yi-quan",
+      "title": "《脉经.10卷.晋.王叔和著.明万历29年新安吴勉学翻刻宋板.1601年》",
+      "path": "books/脉经-10卷-晋-王叔和著-明万历29年新安吴勉学翻刻宋板-1601年-skill/SKILL.md"
+    },
+    {
+      "slug": "梅山派符咒-skill",
+      "domain": "dao-yi-quan",
+      "title": "《《梅山派符咒》》",
+      "path": "books/梅山派符咒-skill/SKILL.md"
+    },
+    {
+      "slug": "秘本医学丛书-8-skill",
+      "domain": "dao-yi-quan",
+      "title": "《秘本医学丛书 8》",
+      "path": "books/秘本医学丛书-8-skill/SKILL.md"
+    },
+    {
+      "slug": "秘传六道一掌经-skill",
+      "domain": "dao-yi-quan",
+      "title": "《秘传六道一掌经》",
+      "path": "books/秘传六道一掌经-skill/SKILL.md"
+    },
+    {
+      "slug": "民间丹方精华-skill",
+      "domain": "dao-yi-quan",
+      "title": "《民间丹方精华》",
+      "path": "books/民间丹方精华-skill/SKILL.md"
+    },
+    {
+      "slug": "明清针灸秘法丛书1-针灸捷径-skill",
+      "domain": "dao-yi-quan",
+      "title": "《明清针灸秘法丛书1 针灸捷径》",
+      "path": "books/明清针灸秘法丛书1-针灸捷径-skill/SKILL.md"
+    },
+    {
+      "slug": "明清针灸秘法丛书10-针灸灵法-skill",
+      "domain": "dao-yi-quan",
+      "title": "《明清针灸秘法丛书10 针灸灵法》",
+      "path": "books/明清针灸秘法丛书10-针灸灵法-skill/SKILL.md"
+    },
+    {
+      "slug": "明清针灸秘法丛书2-勿听子俗解八十一难经-skill",
+      "domain": "dao-yi-quan",
+      "title": "《明清针灸秘法丛书2 勿听子俗解八十一难经》",
+      "path": "books/明清针灸秘法丛书2-勿听子俗解八十一难经-skill/SKILL.md"
+    },
+    {
+      "slug": "明清针灸秘法丛书3-图注八十一难经-skill",
+      "domain": "dao-yi-quan",
+      "title": "《明清针灸秘法丛书3 图注八十一难经》",
+      "path": "books/明清针灸秘法丛书3-图注八十一难经-skill/SKILL.md"
+    },
+    {
+      "slug": "明清针灸秘法丛书4-针灸秘法全书-skill",
+      "domain": "dao-yi-quan",
+      "title": "《明清针灸秘法丛书4 针灸秘法全书》",
+      "path": "books/明清针灸秘法丛书4-针灸秘法全书-skill/SKILL.md"
+    },
+    {
+      "slug": "明清针灸秘法丛书5-彭注痈疽神妙灸经5-彭注痈疽神妙灸经-刺疔捷法-skill",
+      "domain": "dao-yi-quan",
+      "title": "《明清针灸秘法丛书5 彭注痈疽神妙灸经5 彭注痈疽神妙灸经 刺疔捷法》",
+      "path": "books/明清针灸秘法丛书5-彭注痈疽神妙灸经5-彭注痈疽神妙灸经-刺疔捷法-skill/SKILL.md"
+    },
+    {
+      "slug": "明清针灸秘法丛书6-针灸问答-skill",
+      "domain": "dao-yi-quan",
+      "title": "《明清针灸秘法丛书6 针灸问答》",
+      "path": "books/明清针灸秘法丛书6-针灸问答-skill/SKILL.md"
+    },
+    {
+      "slug": "明清针灸秘法丛书7-采艾编翼-skill",
+      "domain": "dao-yi-quan",
+      "title": "《明清针灸秘法丛书7 采艾编翼》",
+      "path": "books/明清针灸秘法丛书7-采艾编翼-skill/SKILL.md"
+    },
+    {
+      "slug": "明清针灸秘法丛书8-凌门传授铜人指穴-针灸内篇-skill",
+      "domain": "dao-yi-quan",
+      "title": "《明清针灸秘法丛书8 凌门传授铜人指穴 针灸内篇》",
+      "path": "books/明清针灸秘法丛书8-凌门传授铜人指穴-针灸内篇-skill/SKILL.md"
+    },
+    {
+      "slug": "明清针灸秘法丛书9-传悟灵济录-skill",
+      "domain": "dao-yi-quan",
+      "title": "《明清针灸秘法丛书9 传悟灵济录》",
+      "path": "books/明清针灸秘法丛书9-传悟灵济录-skill/SKILL.md"
+    },
+    {
+      "slug": "命法卷-skill",
+      "domain": "dao-yi-quan",
+      "title": "《命法卷》",
+      "path": "books/命法卷-skill/SKILL.md"
+    },
+    {
+      "slug": "奇经八穴-skill",
+      "domain": "dao-yi-quan",
+      "title": "《奇经八穴》",
+      "path": "books/奇经八穴-skill/SKILL.md"
+    },
+    {
+      "slug": "千虫谱-上中下-栗本丹洲著-服部雪斎写-skill",
+      "domain": "dao-yi-quan",
+      "title": "《千虫谱.上中下.栗本丹洲著.服部雪斎写》",
+      "path": "books/千虫谱-上中下-栗本丹洲著-服部雪斎写-skill/SKILL.md"
+    },
+    {
+      "slug": "巧用附子治顽证-skill",
+      "domain": "dao-yi-quan",
+      "title": "《巧用附子治顽证》",
+      "path": "books/巧用附子治顽证-skill/SKILL.md"
+    },
+    {
+      "slug": "秦瑞生-占星学下-skill",
+      "domain": "dao-yi-quan",
+      "title": "《秦瑞生·占星学下》",
+      "path": "books/秦瑞生-占星学下-skill/SKILL.md"
+    },
+    {
+      "slug": "轻功内炼提气法-skill",
+      "domain": "dao-yi-quan",
+      "title": "《轻功内炼提气法》",
+      "path": "books/轻功内炼提气法-skill/SKILL.md"
+    },
+    {
+      "slug": "轻身功夫-飞檐走壁水面飞行真传合刊-金铁盦-民国31年版-skill",
+      "domain": "dao-yi-quan",
+      "title": "《《轻身功夫·飞檐走壁水面飞行真传合刊》·金铁盦·民国31年版》",
+      "path": "books/轻身功夫-飞檐走壁水面飞行真传合刊-金铁盦-民国31年版-skill/SKILL.md"
+    },
+    {
+      "slug": "壬遁秘-skill",
+      "domain": "dao-yi-quan",
+      "title": "《壬遁秘》",
+      "path": "books/壬遁秘-skill/SKILL.md"
+    },
+    {
+      "slug": "壬遁秘古籍抄本-skill",
+      "domain": "dao-yi-quan",
+      "title": "《壬遁秘古籍抄本》",
+      "path": "books/壬遁秘古籍抄本-skill/SKILL.md"
+    },
+    {
+      "slug": "壬归校译释论-skill",
+      "domain": "dao-yi-quan",
+      "title": "《壬归校译释论》",
+      "path": "books/壬归校译释论-skill/SKILL.md"
+    },
+    {
+      "slug": "壬学精华-skill",
+      "domain": "dao-yi-quan",
+      "title": "《壬学精华》",
+      "path": "books/壬学精华-skill/SKILL.md"
+    },
+    {
+      "slug": "萨摩鸟谱图卷QQ-1575389080-skill",
+      "domain": "dao-yi-quan",
+      "title": "《萨摩鸟谱图卷【QQ：1575389080】》",
+      "path": "books/萨摩鸟谱图卷QQ-1575389080-skill/SKILL.md"
+    },
+    {
+      "slug": "三十六雷符秘-skill",
+      "domain": "dao-yi-quan",
+      "title": "《《三十六雷符秘》》",
+      "path": "books/三十六雷符秘-skill/SKILL.md"
+    },
+    {
+      "slug": "三世相-庆长时期刊本-skill",
+      "domain": "dao-yi-quan",
+      "title": "《三世相.庆长时期刊本》",
+      "path": "books/三世相-庆长时期刊本-skill/SKILL.md"
+    },
+    {
+      "slug": "伤寒论诠解-刘渡洲-skill",
+      "domain": "dao-yi-quan",
+      "title": "《伤寒论诠解（刘渡洲）》",
+      "path": "books/伤寒论诠解-刘渡洲-skill/SKILL.md"
+    },
+    {
+      "slug": "傷寒論-巻第1-10-張仲景述-王叔和撰次-新校宋板伤寒论-早稲田大学図書館-1QQ-1575389080-skill",
+      "domain": "dao-yi-quan",
+      "title": "《傷寒論 巻第1-10 張仲景述 王叔和撰次（新校宋板伤寒论 早稲田大学図書館）1【QQ：1575389080】》",
+      "path": "books/傷寒論-巻第1-10-張仲景述-王叔和撰次-新校宋板伤寒论-早稲田大学図書館-1QQ-1575389080-skill/SKILL.md"
+    },
+    {
+      "slug": "傷寒論-巻第1-10-張仲景述-王叔和撰次-新校宋板伤寒论-早稲田大学図書館-2-skill",
+      "domain": "dao-yi-quan",
+      "title": "《傷寒論 巻第1-10 張仲景述 王叔和撰次（新校宋板伤寒论 早稲田大学図書館）2》",
+      "path": "books/傷寒論-巻第1-10-張仲景述-王叔和撰次-新校宋板伤寒论-早稲田大学図書館-2-skill/SKILL.md"
+    },
+    {
+      "slug": "傷寒名數解-巻1-5-京都-高橋清兵衛-安永3年-1774-skill",
+      "domain": "dao-yi-quan",
+      "title": "《傷寒名數解 巻1-5 京都　高橋清兵衛 安永3年 [1774]》",
+      "path": "books/傷寒名數解-巻1-5-京都-高橋清兵衛-安永3年-1774-skill/SKILL.md"
+    },
+    {
+      "slug": "身形精氣神-skill",
+      "domain": "dao-yi-quan",
+      "title": "《身形精氣神》",
+      "path": "books/身形精氣神-skill/SKILL.md"
+    },
+    {
+      "slug": "神医奇功秘方录-黄魂-skill",
+      "domain": "dao-yi-quan",
+      "title": "《神医奇功秘方录（黄魂）》",
+      "path": "books/神医奇功秘方录-黄魂-skill/SKILL.md"
+    },
+    {
+      "slug": "神應經補瀉-楊繼洲-黑白-skill",
+      "domain": "dao-yi-quan",
+      "title": "《神應經補瀉 楊繼洲(黑白）》",
+      "path": "books/神應經補瀉-楊繼洲-黑白-skill/SKILL.md"
+    },
+    {
+      "slug": "升平署脸谱-skill",
+      "domain": "dao-yi-quan",
+      "title": "《升平署脸谱》",
+      "path": "books/升平署脸谱-skill/SKILL.md"
+    },
+    {
+      "slug": "湿重于热-即重附子-skill",
+      "domain": "dao-yi-quan",
+      "title": "《湿重于热  即重附子》",
+      "path": "books/湿重于热-即重附子-skill/SKILL.md"
+    },
+    {
+      "slug": "十四经穴歌-1卷-钞本-清代-skill",
+      "domain": "dao-yi-quan",
+      "title": "《十四经穴歌.1卷.钞本.清代》",
+      "path": "books/十四经穴歌-1卷-钞本-清代-skill/SKILL.md"
+    },
+    {
+      "slug": "石室秘錄-1-6-陳士鐸編1-带log-95页-skill",
+      "domain": "dao-yi-quan",
+      "title": "《石室秘錄 1-6 陳士鐸編1（带log 95页）》",
+      "path": "books/石室秘錄-1-6-陳士鐸編1-带log-95页-skill/SKILL.md"
+    },
+    {
+      "slug": "石室秘籙-岐伯-上古-著輯v001-skill",
+      "domain": "dao-yi-quan",
+      "title": "《石室秘籙 岐伯(上古) 著輯v001》",
+      "path": "books/石室秘籙-岐伯-上古-著輯v001-skill/SKILL.md"
+    },
+    {
+      "slug": "手相全彩图-skill",
+      "domain": "dao-yi-quan",
+      "title": "《手相[全彩图]》",
+      "path": "books/手相全彩图-skill/SKILL.md"
+    },
+    {
+      "slug": "四柱博观-张志春-skill",
+      "domain": "dao-yi-quan",
+      "title": "《《四柱博观》-张志春》",
+      "path": "books/四柱博观-张志春-skill/SKILL.md"
+    },
+    {
+      "slug": "四柱玄机-skill",
+      "domain": "dao-yi-quan",
+      "title": "《《四柱玄机》》",
+      "path": "books/四柱玄机-skill/SKILL.md"
+    },
+    {
+      "slug": "孙真人备急海上仙方-京都大学附属図書館-富士川文庫-skill",
+      "domain": "dao-yi-quan",
+      "title": "《孙真人备急海上仙方-京都大学附属図書館 富士川文庫》",
+      "path": "books/孙真人备急海上仙方-京都大学附属図書館-富士川文庫-skill/SKILL.md"
+    },
+    {
+      "slug": "孙真人养生书-skill",
+      "domain": "dao-yi-quan",
+      "title": "《孙真人养生书》",
+      "path": "books/孙真人养生书-skill/SKILL.md"
+    },
+    {
+      "slug": "谈祝味菊先生医案中附子制川乌的应用-skill",
+      "domain": "dao-yi-quan",
+      "title": "《谈祝味菊先生医案中附子制川乌的应用》",
+      "path": "books/谈祝味菊先生医案中附子制川乌的应用-skill/SKILL.md"
+    },
+    {
+      "slug": "天地冥阳水陆仪文-skill",
+      "domain": "dao-yi-quan",
+      "title": "《《天地冥阳水陆仪文》》",
+      "path": "books/天地冥阳水陆仪文-skill/SKILL.md"
+    },
+    {
+      "slug": "天师符法-skill",
+      "domain": "dao-yi-quan",
+      "title": "《《天师符法》》",
+      "path": "books/天师符法-skill/SKILL.md"
+    },
+    {
+      "slug": "萬病回春-巻之5-禮集-skill",
+      "domain": "dao-yi-quan",
+      "title": "《萬病回春 巻之5 禮集》",
+      "path": "books/萬病回春-巻之5-禮集-skill/SKILL.md"
+    },
+    {
+      "slug": "温知方軌-森立之著-手写-104页-skill",
+      "domain": "dao-yi-quan",
+      "title": "《温知方軌 森立之著（手写）104页》",
+      "path": "books/温知方軌-森立之著-手写-104页-skill/SKILL.md"
+    },
+    {
+      "slug": "五经图汇-松本愚山編纂-skill",
+      "domain": "dao-yi-quan",
+      "title": "《五经图汇.松本愚山編纂》",
+      "path": "books/五经图汇-松本愚山編纂-skill/SKILL.md"
+    },
+    {
+      "slug": "五伦行实图-李秉宪-1797-skill",
+      "domain": "dao-yi-quan",
+      "title": "《五伦行实图.李秉宪.1797》",
+      "path": "books/五伦行实图-李秉宪-1797-skill/SKILL.md"
+    },
+    {
+      "slug": "香法卷-skill",
+      "domain": "dao-yi-quan",
+      "title": "《香法卷》",
+      "path": "books/香法卷-skill/SKILL.md"
+    },
+    {
+      "slug": "萧湘识人大陆版相法全集-3-气色大全-眼神之部-skill",
+      "domain": "dao-yi-quan",
+      "title": "《萧湘识人大陆版相法全集  3  气色大全  眼神之部》",
+      "path": "books/萧湘识人大陆版相法全集-3-气色大全-眼神之部-skill/SKILL.md"
+    },
+    {
+      "slug": "心意六合拳秘传-陶景和-skill",
+      "domain": "dao-yi-quan",
+      "title": "《《心意六合拳秘传》陶景和》",
+      "path": "books/心意六合拳秘传-陶景和-skill/SKILL.md"
+    },
+    {
+      "slug": "新安医籍考-skill",
+      "domain": "dao-yi-quan",
+      "title": "《新安医籍考》",
+      "path": "books/新安医籍考-skill/SKILL.md"
+    },
+    {
+      "slug": "新编万病回春-明-龚廷贤编-明万历30年金陵周曰刊本-skill",
+      "domain": "dao-yi-quan",
+      "title": "《新编万病回春.明.龚廷贤编.明万历30年金陵周曰刊本》",
+      "path": "books/新编万病回春-明-龚廷贤编-明万历30年金陵周曰刊本-skill/SKILL.md"
+    },
+    {
+      "slug": "新刊明醫秘傳濟世奇方萬疴必愈-十一卷-沈應暘編集-何爌參訂-文樹堂建陽詹氏-明1621-1644-全-skill",
+      "domain": "dao-yi-quan",
+      "title": "《新刊明醫秘傳濟世奇方萬疴必愈 十一卷 沈應暘編集 何爌參訂（文樹堂[建陽]詹氏 [明1621~1644]）（全）》",
+      "path": "books/新刊明醫秘傳濟世奇方萬疴必愈-十一卷-沈應暘編集-何爌參訂-文樹堂建陽詹氏-明1621-1644-全-skill/SKILL.md"
+    },
+    {
+      "slug": "轩辕碑记医学祝由十三科-skill",
+      "domain": "dao-yi-quan",
+      "title": "《《轩辕碑记医学祝由十三科》》",
+      "path": "books/轩辕碑记医学祝由十三科-skill/SKILL.md"
+    },
+    {
+      "slug": "眼科名家姚和清学术经验集-skill",
+      "domain": "dao-yi-quan",
+      "title": "《眼科名家姚和清学术经验集》",
+      "path": "books/眼科名家姚和清学术经验集-skill/SKILL.md"
+    },
+    {
+      "slug": "杨连村-金钟罩铁布衫-戳脚门秘传-skill",
+      "domain": "dao-yi-quan",
+      "title": "《杨连村 金钟罩铁布衫（戳脚门秘传）》",
+      "path": "books/杨连村-金钟罩铁布衫-戳脚门秘传-skill/SKILL.md"
+    },
+    {
+      "slug": "一卦多斷卦例技法精解-skill",
+      "domain": "dao-yi-quan",
+      "title": "《一卦多斷卦例技法精解》",
+      "path": "books/一卦多斷卦例技法精解-skill/SKILL.md"
+    },
+    {
+      "slug": "一指禅-红砂手-铁砂掌-混元掌秘要真传-佚名-扫描版-skill",
+      "domain": "dao-yi-quan",
+      "title": "《[一指禅.红砂手.铁砂掌.混元掌秘要真传].佚名.扫描版》",
+      "path": "books/一指禅-红砂手-铁砂掌-混元掌秘要真传-佚名-扫描版-skill/SKILL.md"
+    },
+    {
+      "slug": "异国产马图卷-skill",
+      "domain": "dao-yi-quan",
+      "title": "《异国产马图卷》",
+      "path": "books/异国产马图卷-skill/SKILL.md"
+    },
+    {
+      "slug": "易筋经外经图说-附八段锦图-清梁世昌撰-清末上海同文书局石印本-skill",
+      "domain": "dao-yi-quan",
+      "title": "《易筋经外经图说.附八段锦图.清梁世昌撰.清末上海同文书局石印本》",
+      "path": "books/易筋经外经图说-附八段锦图-清梁世昌撰-清末上海同文书局石印本-skill/SKILL.md"
+    },
+    {
+      "slug": "癔法卷-skill",
+      "domain": "dao-yi-quan",
+      "title": "《癔法卷》",
+      "path": "books/癔法卷-skill/SKILL.md"
+    },
+    {
+      "slug": "引火归原药物应用考辨-skill",
+      "domain": "dao-yi-quan",
+      "title": "《引火归原药物应用考辨》",
+      "path": "books/引火归原药物应用考辨-skill/SKILL.md"
+    },
+    {
+      "slug": "鹰镜-河锅暁斎-文久二年-1862年-skill",
+      "domain": "dao-yi-quan",
+      "title": "《鹰镜.河锅暁斎.文久二年.1862年》",
+      "path": "books/鹰镜-河锅暁斎-文久二年-1862年-skill/SKILL.md"
+    },
+    {
+      "slug": "永宁通书-1669-锦章书局-skill",
+      "domain": "dao-yi-quan",
+      "title": "《永宁通书 1669 锦章书局》",
+      "path": "books/永宁通书-1669-锦章书局-skill/SKILL.md"
+    },
+    {
+      "slug": "占壬六大-skill",
+      "domain": "dao-yi-quan",
+      "title": "《占壬六大》",
+      "path": "books/占壬六大-skill/SKILL.md"
+    },
+    {
+      "slug": "占星-择日占星学-skill",
+      "domain": "dao-yi-quan",
+      "title": "《占星----择日占星学》",
+      "path": "books/占星-择日占星学-skill/SKILL.md"
+    },
+    {
+      "slug": "占星流年实务-skill",
+      "domain": "dao-yi-quan",
+      "title": "《占星流年实务》",
+      "path": "books/占星流年实务-skill/SKILL.md"
+    },
+    {
+      "slug": "占星学入门-skill",
+      "domain": "dao-yi-quan",
+      "title": "《占星学入门》",
+      "path": "books/占星学入门-skill/SKILL.md"
+    },
+    {
+      "slug": "中华睛明技法_10031628_莫一凡著_北京市-skill",
+      "domain": "dao-yi-quan",
+      "title": "《中华睛明技法_10031628_莫一凡著_北京市：...》",
+      "path": "books/中华睛明技法_10031628_莫一凡著_北京市-skill/SKILL.md"
+    },
+    {
+      "slug": "中华睛明技法-skill",
+      "domain": "dao-yi-quan",
+      "title": "《中华睛明技法》",
+      "path": "books/中华睛明技法-skill/SKILL.md"
+    },
+    {
+      "slug": "中医金方系列-儿科金方-高清版-skill",
+      "domain": "dao-yi-quan",
+      "title": "《中医金方系列—儿科金方（高清版）》",
+      "path": "books/中医金方系列-儿科金方-高清版-skill/SKILL.md"
+    },
+    {
+      "slug": "中医金方系列-妇科金方-高清版-skill",
+      "domain": "dao-yi-quan",
+      "title": "《中医金方系列—妇科金方（高清版）》",
+      "path": "books/中医金方系列-妇科金方-高清版-skill/SKILL.md"
+    },
+    {
+      "slug": "中医金方系列-男科金方-高清版-skill",
+      "domain": "dao-yi-quan",
+      "title": "《中医金方系列—男科金方（高清版）》",
+      "path": "books/中医金方系列-男科金方-高清版-skill/SKILL.md"
+    },
+    {
+      "slug": "中医金方系列-内科金方-高清版-skill",
+      "domain": "dao-yi-quan",
+      "title": "《中医金方系列—内科金方（高清版）》",
+      "path": "books/中医金方系列-内科金方-高清版-skill/SKILL.md"
+    },
+    {
+      "slug": "中医金方系列-外科金方-高清版-skill",
+      "domain": "dao-yi-quan",
+      "title": "《中医金方系列—外科金方（高清版）》",
+      "path": "books/中医金方系列-外科金方-高清版-skill/SKILL.md"
+    },
+    {
+      "slug": "中医金方系列-五官科金方-高清版-skill",
+      "domain": "dao-yi-quan",
+      "title": "《中医金方系列—五官科金方（高清版）》",
+      "path": "books/中医金方系列-五官科金方-高清版-skill/SKILL.md"
+    },
+    {
+      "slug": "中医眼科历代方剂汇编上-下-skill",
+      "domain": "dao-yi-quan",
+      "title": "《中医眼科历代方剂汇编上、下》",
+      "path": "books/中医眼科历代方剂汇编上-下-skill/SKILL.md"
+    },
+    {
+      "slug": "中医眼科全书-眼科方剂精选-skill",
+      "domain": "dao-yi-quan",
+      "title": "《中医眼科全书  眼科方剂精选》",
+      "path": "books/中医眼科全书-眼科方剂精选-skill/SKILL.md"
+    },
+    {
+      "slug": "中医眼科全书-眼科古文荟萃-skill",
+      "domain": "dao-yi-quan",
+      "title": "《中医眼科全书  眼科古文荟萃》",
+      "path": "books/中医眼科全书-眼科古文荟萃-skill/SKILL.md"
+    },
+    {
+      "slug": "中医眼科全书-眼科临证精华-skill",
+      "domain": "dao-yi-quan",
+      "title": "《中医眼科全书  眼科临证精华》",
+      "path": "books/中医眼科全书-眼科临证精华-skill/SKILL.md"
+    },
+    {
+      "slug": "中医眼科全书-眼科现代研究-skill",
+      "domain": "dao-yi-quan",
+      "title": "《中医眼科全书  眼科现代研究》",
+      "path": "books/中医眼科全书-眼科现代研究-skill/SKILL.md"
+    },
+    {
+      "slug": "中医眼科全书-眼科学说源流-skill",
+      "domain": "dao-yi-quan",
+      "title": "《中医眼科全书  眼科学说源流》",
+      "path": "books/中医眼科全书-眼科学说源流-skill/SKILL.md"
+    },
+    {
+      "slug": "中医眼科全书-眼科证治要诀-skill",
+      "domain": "dao-yi-quan",
+      "title": "《中医眼科全书  眼科证治要诀》",
+      "path": "books/中医眼科全书-眼科证治要诀-skill/SKILL.md"
+    },
+    {
+      "slug": "中医眼科全书-眼科治法指南-skill",
+      "domain": "dao-yi-quan",
+      "title": "《中医眼科全书  眼科治法指南》",
+      "path": "books/中医眼科全书-眼科治法指南-skill/SKILL.md"
+    },
+    {
+      "slug": "祝味菊善用附子上-skill",
+      "domain": "dao-yi-quan",
+      "title": "《祝味菊善用附子上》",
+      "path": "books/祝味菊善用附子上-skill/SKILL.md"
+    },
+    {
+      "slug": "祝味菊善用附子下-skill",
+      "domain": "dao-yi-quan",
+      "title": "《祝味菊善用附子下》",
+      "path": "books/祝味菊善用附子下-skill/SKILL.md"
+    },
+    {
+      "slug": "祝由科-秘诀奇书-乾元亨利贞五册-明末清初钞本-skill",
+      "domain": "dao-yi-quan",
+      "title": "《祝由科.秘诀奇书.乾元亨利贞五册.明末清初钞本》",
+      "path": "books/祝由科-秘诀奇书-乾元亨利贞五册-明末清初钞本-skill/SKILL.md"
+    },
+    {
+      "slug": "祝由科-skill",
+      "domain": "dao-yi-quan",
+      "title": "《祝由科》",
+      "path": "books/祝由科-skill/SKILL.md"
+    },
+    {
+      "slug": "醉八仙拳-龙飞云-扫描版-skill",
+      "domain": "dao-yi-quan",
+      "title": "《[醉八仙拳].龙飞云.扫描版》",
+      "path": "books/醉八仙拳-龙飞云-扫描版-skill/SKILL.md"
+    },
+    {
+      "slug": "醉罗汉拳-值得收藏-skill",
+      "domain": "dao-yi-quan",
+      "title": "《《醉罗汉拳》(值得收藏)》",
+      "path": "books/醉罗汉拳-值得收藏-skill/SKILL.md"
+    },
+    {
+      "slug": "chenzhou-fuzhou-skill",
+      "domain": "dao-yi-quan",
+      "title": "chenzhou-fuzhou-skill",
+      "path": "books/chenzhou-fuzhou-skill/SKILL.md"
+    },
+    {
+      "slug": "jiangnang-cuoyao-skill",
+      "domain": "dao-yi-quan",
+      "title": "jiangnang-cuoyao-skill",
+      "path": "books/jiangnang-cuoyao-skill/SKILL.md"
+    },
+    {
+      "slug": "jijiu-bianfang-skill",
+      "domain": "dao-yi-quan",
+      "title": "jijiu-bianfang-skill",
+      "path": "books/jijiu-bianfang-skill/SKILL.md"
+    },
+    {
+      "slug": "jingyan-qifang-skill",
+      "domain": "dao-yi-quan",
+      "title": "jingyan-qifang-skill",
+      "path": "books/jingyan-qifang-skill/SKILL.md"
+    },
+    {
+      "slug": "jisheng-ji-skill",
+      "domain": "dao-yi-quan",
+      "title": "jisheng-ji-skill",
+      "path": "books/jisheng-ji-skill/SKILL.md"
+    },
+    {
+      "slug": "qian-shi-chanke-skill",
+      "domain": "dao-yi-quan",
+      "title": "qian-shi-chanke-skill",
+      "path": "books/qian-shi-chanke-skill/SKILL.md"
+    },
+    {
+      "slug": "yifang-gekuo-skill",
+      "domain": "dao-yi-quan",
+      "title": "yifang-gekuo-skill",
+      "path": "books/yifang-gekuo-skill/SKILL.md"
+    },
+    {
+      "slug": "yifang-zhengzhi-gejue-skill",
+      "domain": "dao-yi-quan",
+      "title": "yifang-zhengzhi-gejue-skill",
+      "path": "books/yifang-zhengzhi-gejue-skill/SKILL.md"
+    },
+    {
+      "slug": "youke-qieyao-skill",
+      "domain": "dao-yi-quan",
+      "title": "youke-qieyao-skill",
+      "path": "books/youke-qieyao-skill/SKILL.md"
+    },
+    {
+      "slug": "陈癸龙-玄空飞星卷一学理篇-skill",
+      "domain": "dili",
+      "title": "《陈癸龙-玄空飞星卷一学理篇》",
+      "path": "books/陈癸龙-玄空飞星卷一学理篇-skill/SKILL.md"
+    },
+    {
+      "slug": "dili-bendi-jiang-luantou-skill",
+      "domain": "dili",
+      "title": "dili-bendi-jiang-luantou-skill",
+      "path": "books/dili-bendi-jiang-luantou-skill/SKILL.md"
+    },
+    {
+      "slug": "dili-bianhuo-skill",
+      "domain": "dili",
+      "title": "dili-bianhuo-skill",
+      "path": "books/dili-bianhuo-skill/SKILL.md"
+    },
+    {
+      "slug": "dili-bianzheng-skill",
+      "domain": "dili",
+      "title": "dili-bianzheng-skill",
+      "path": "books/dili-bianzheng-skill/SKILL.md"
+    },
+    {
+      "slug": "dili-xingshi-skill",
+      "domain": "dili",
+      "title": "dili-xingshi-skill",
+      "path": "books/dili-xingshi-skill/SKILL.md"
+    },
+    {
+      "slug": "ershisi-shan-fenjin-skill",
+      "domain": "dili",
+      "title": "ershisi-shan-fenjin-skill",
+      "path": "books/ershisi-shan-fenjin-skill/SKILL.md"
+    },
+    {
+      "slug": "jianggong-zizijin-skill",
+      "domain": "dili",
+      "title": "jianggong-zizijin-skill",
+      "path": "books/jianggong-zizijin-skill/SKILL.md"
+    },
+    {
+      "slug": "lingcheng-jingyi-skill",
+      "domain": "dili",
+      "title": "lingcheng-jingyi-skill",
+      "path": "books/lingcheng-jingyi-skill/SKILL.md"
+    },
+    {
+      "slug": "luoshu-shuo-skill",
+      "domain": "dili",
+      "title": "《易纂言外翼·洛书说》 元·吴澄（录自易原第十一）",
+      "path": "books/luoshu-shuo-skill/SKILL.md"
+    },
+    {
+      "slug": "pingyang-dixue-skill",
+      "domain": "dili",
+      "title": "pingyang-dixue-skill",
+      "path": "books/pingyang-dixue-skill/SKILL.md"
+    },
+    {
+      "slug": "qianyuan-mizhi-skill",
+      "domain": "dili",
+      "title": "qianyuan-mizhi",
+      "path": "books/qianyuan-mizhi-skill/SKILL.md"
+    },
+    {
+      "slug": "qingnang-yangjunsong-skill",
+      "domain": "dili",
+      "title": "qingnang-yangjunsong-skill",
+      "path": "books/qingnang-yangjunsong-skill/SKILL.md"
+    },
+    {
+      "slug": "qingwu-jing-skill",
+      "domain": "dili",
+      "title": "qingwu-jing-skill",
+      "path": "books/qingwu-jing-skill/SKILL.md"
+    },
+    {
+      "slug": "tianyu-jing-skill",
+      "domain": "dili",
+      "title": "tianyu-jing-skill",
+      "path": "books/tianyu-jing-skill/SKILL.md"
+    },
+    {
+      "slug": "tianyuan-wuge-skill",
+      "domain": "dili",
+      "title": "tianyuan-wuge-skill",
+      "path": "books/tianyuan-wuge-skill/SKILL.md"
+    },
+    {
+      "slug": "zangshu-guopu-skill",
+      "domain": "dili",
+      "title": "zangshu-guopu-skill",
+      "path": "books/zangshu-guopu-skill/SKILL.md"
+    },
+    {
+      "slug": "zengding-yifang-gejue-skill",
+      "domain": "dili",
+      "title": "zengding-yifang-gejue-skill",
+      "path": "books/zengding-yifang-gejue-skill/SKILL.md"
+    },
+    {
+      "slug": "05-林烽-大六壬入门视频讲-视频配套讲义50页-彩色版-666周易网-www-666zhouyi-com-skill",
+      "domain": "liuren",
+      "title": "《05.林烽-《大六壬入门视频讲》视频配套讲义50页(彩色版)【666周易网：www.666zhouyi.com】》",
+      "path": "books/05-林烽-大六壬入门视频讲-视频配套讲义50页-彩色版-666周易网-www-666zhouyi-com-skill/SKILL.md"
+    },
+    {
+      "slug": "13-林烽-大六壬入门视频讲-视频配套讲义50页-彩色版-666周易网-www-666zhouyi-com-skill",
+      "domain": "liuren",
+      "title": "《13.林烽-《大六壬入门视频讲》视频配套讲义50页(彩色版)【666周易网：www.666zhouyi.com】》",
+      "path": "books/13-林烽-大六壬入门视频讲-视频配套讲义50页-彩色版-666周易网-www-666zhouyi-com-skill/SKILL.md"
+    },
+    {
+      "slug": "2017年天心正运六壬奇门弧角天星正宗斗首造福通书-skill",
+      "domain": "liuren",
+      "title": "《2017年天心正运六壬奇门弧角天星正宗斗首造福通书》",
+      "path": "books/2017年天心正运六壬奇门弧角天星正宗斗首造福通书-skill/SKILL.md"
+    },
+    {
+      "slug": "八六居士大六壬推命学-手抄本-skill",
+      "domain": "liuren",
+      "title": "《八六居士大六壬推命学 手抄本》",
+      "path": "books/八六居士大六壬推命学-手抄本-skill/SKILL.md"
+    },
+    {
+      "slug": "北海闲人-大六壬心法指要-skill",
+      "domain": "liuren",
+      "title": "《北海闲人  《大六壬心法指要》》",
+      "path": "books/北海闲人-大六壬心法指要-skill/SKILL.md"
+    },
+    {
+      "slug": "大六壬翠羽歌-3卷-明嘉靖37年-skill",
+      "domain": "liuren",
+      "title": "《大六壬翠羽歌 3卷 明嘉靖37年》",
+      "path": "books/大六壬翠羽歌-3卷-明嘉靖37年-skill/SKILL.md"
+    },
+    {
+      "slug": "大六壬的思维逻辑-完整版-skill",
+      "domain": "liuren",
+      "title": "《大六壬的思维逻辑(完整版)》",
+      "path": "books/大六壬的思维逻辑-完整版-skill/SKILL.md"
+    },
+    {
+      "slug": "大六壬断法述要-skill",
+      "domain": "liuren",
+      "title": "《《大六壬断法述要》》",
+      "path": "books/大六壬断法述要-skill/SKILL.md"
+    },
+    {
+      "slug": "大六壬断经秘诀集-skill",
+      "domain": "liuren",
+      "title": "《大六壬断经秘诀集》",
+      "path": "books/大六壬断经秘诀集-skill/SKILL.md"
+    },
+    {
+      "slug": "大六壬隔山照-skill",
+      "domain": "liuren",
+      "title": "《大六壬隔山照》",
+      "path": "books/大六壬隔山照-skill/SKILL.md"
+    },
+    {
+      "slug": "大六壬軌限照心神鑑經-skill",
+      "domain": "liuren",
+      "title": "《大六壬軌限照心神鑑經》",
+      "path": "books/大六壬軌限照心神鑑經-skill/SKILL.md"
+    },
+    {
+      "slug": "大六壬彙集-壬課宮商角羽-清鈔本-skill",
+      "domain": "liuren",
+      "title": "《大六壬彙集 壬課宮商角羽 清鈔本》",
+      "path": "books/大六壬彙集-壬課宮商角羽-清鈔本-skill/SKILL.md"
+    },
+    {
+      "slug": "大六壬金口诀实用预测学-skill",
+      "domain": "liuren",
+      "title": "《大六壬金口诀实用预测学》",
+      "path": "books/大六壬金口诀实用预测学-skill/SKILL.md"
+    },
+    {
+      "slug": "大六壬精蘊-清鈔本-skill",
+      "domain": "liuren",
+      "title": "《大六壬精蘊 清鈔本》",
+      "path": "books/大六壬精蘊-清鈔本-skill/SKILL.md"
+    },
+    {
+      "slug": "大六壬精蘊-skill",
+      "domain": "liuren",
+      "title": "《大六壬精蘊》",
+      "path": "books/大六壬精蘊-skill/SKILL.md"
+    },
+    {
+      "slug": "大六壬課合恭斷訣-skill",
+      "domain": "liuren",
+      "title": "《大六壬課合恭斷訣》",
+      "path": "books/大六壬課合恭斷訣-skill/SKILL.md"
+    },
+    {
+      "slug": "大六壬入门-鲁国山人-skill",
+      "domain": "liuren",
+      "title": "《大六壬入门---鲁国山人》",
+      "path": "books/大六壬入门-鲁国山人-skill/SKILL.md"
+    },
+    {
+      "slug": "大六壬神课讲义-唐荣-skill",
+      "domain": "liuren",
+      "title": "《大六壬神课讲义 唐荣》",
+      "path": "books/大六壬神课讲义-唐荣-skill/SKILL.md"
+    },
+    {
+      "slug": "大六壬实战百例精解-王雷之-127-skill",
+      "domain": "liuren",
+      "title": "《大六壬实战百例精解(王雷之) 127》",
+      "path": "books/大六壬实战百例精解-王雷之-127-skill/SKILL.md"
+    },
+    {
+      "slug": "大六壬探原-清-袁树珊-skill",
+      "domain": "liuren",
+      "title": "《大六壬探原 清 袁树珊》",
+      "path": "books/大六壬探原-清-袁树珊-skill/SKILL.md"
+    },
+    {
+      "slug": "大六壬探源-skill",
+      "domain": "liuren",
+      "title": "《大六壬探源》",
+      "path": "books/大六壬探源-skill/SKILL.md"
+    },
+    {
+      "slug": "大六壬推命学-八六居士-手抄本-skill",
+      "domain": "liuren",
+      "title": "《大六壬推命学(八六居士)手抄本》",
+      "path": "books/大六壬推命学-八六居士-手抄本-skill/SKILL.md"
+    },
+    {
+      "slug": "大六壬心法指要-skill",
+      "domain": "liuren",
+      "title": "《大六壬心法指要》",
+      "path": "books/大六壬心法指要-skill/SKILL.md"
+    },
+    {
+      "slug": "大六壬寻原-清-张纯照-skill",
+      "domain": "liuren",
+      "title": "《大六壬寻原 清 张纯照》",
+      "path": "books/大六壬寻原-清-张纯照-skill/SKILL.md"
+    },
+    {
+      "slug": "大六壬银河棹-skill",
+      "domain": "liuren",
+      "title": "《大六壬银河棹》",
+      "path": "books/大六壬银河棹-skill/SKILL.md"
+    },
+    {
+      "slug": "大六壬銀河棹正附集-skill",
+      "domain": "liuren",
+      "title": "《大六壬銀河棹正附集》",
+      "path": "books/大六壬銀河棹正附集-skill/SKILL.md"
+    },
+    {
+      "slug": "大六壬与现代经济-skill",
+      "domain": "liuren",
+      "title": "《大六壬与现代经济》",
+      "path": "books/大六壬与现代经济-skill/SKILL.md"
+    },
+    {
+      "slug": "大六壬指面-卷五-神煞-skill",
+      "domain": "liuren",
+      "title": "《大六壬指面：卷五（神煞）》",
+      "path": "books/大六壬指面-卷五-神煞-skill/SKILL.md"
+    },
+    {
+      "slug": "大六壬总汇-鲁国山人-skill",
+      "domain": "liuren",
+      "title": "《大六壬总汇--鲁国山人》",
+      "path": "books/大六壬总汇-鲁国山人-skill/SKILL.md"
+    },
+    {
+      "slug": "大六壬總會心機獨悟絕法-skill",
+      "domain": "liuren",
+      "title": "《大六壬總會心機獨悟絕法》",
+      "path": "books/大六壬總會心機獨悟絕法-skill/SKILL.md"
+    },
+    {
+      "slug": "第一善本大六壬古版上-skill",
+      "domain": "liuren",
+      "title": "《第一善本大六壬古版上(1)》",
+      "path": "books/第一善本大六壬古版上-skill/SKILL.md"
+    },
+    {
+      "slug": "斗数金口诀-skill",
+      "domain": "liuren",
+      "title": "《斗数金口诀》",
+      "path": "books/斗数金口诀-skill/SKILL.md"
+    },
+    {
+      "slug": "湖社叢話-金口決3-skill",
+      "domain": "liuren",
+      "title": "《湖社叢話 金口決3》",
+      "path": "books/湖社叢話-金口決3-skill/SKILL.md"
+    },
+    {
+      "slug": "姜智元_-金口预言-金口诀全解-合-skill",
+      "domain": "liuren",
+      "title": "《姜智元_《金口预言、金口诀全解》合》",
+      "path": "books/姜智元_-金口预言-金口诀全解-合-skill/SKILL.md"
+    },
+    {
+      "slug": "姜智元-金口诀命运学-skill",
+      "domain": "liuren",
+      "title": "《姜智元《金口诀命运学》》",
+      "path": "books/姜智元-金口诀命运学-skill/SKILL.md"
+    },
+    {
+      "slug": "金口解秘课例选集-skill",
+      "domain": "liuren",
+      "title": "《金口解秘课例选集》",
+      "path": "books/金口解秘课例选集-skill/SKILL.md"
+    },
+    {
+      "slug": "金口诀教程-skill",
+      "domain": "liuren",
+      "title": "《金口诀教程》",
+      "path": "books/金口诀教程-skill/SKILL.md"
+    },
+    {
+      "slug": "金口诀脑中立课法-pdf-skill",
+      "domain": "liuren",
+      "title": "《金口诀脑中立课法.pdf》",
+      "path": "books/金口诀脑中立课法-pdf-skill/SKILL.md"
+    },
+    {
+      "slug": "金口诀千问千答-skill",
+      "domain": "liuren",
+      "title": "《金口诀千问千答》",
+      "path": "books/金口诀千问千答-skill/SKILL.md"
+    },
+    {
+      "slug": "李崇仰的大六壬玉藻金英-skill",
+      "domain": "liuren",
+      "title": "《李崇仰的大六壬玉藻金英》",
+      "path": "books/李崇仰的大六壬玉藻金英-skill/SKILL.md"
+    },
+    {
+      "slug": "刘科乐-六壬观月集壬学理论篇-skill",
+      "domain": "liuren",
+      "title": "《刘科乐-六壬观月集壬学理论篇》",
+      "path": "books/刘科乐-六壬观月集壬学理论篇-skill/SKILL.md"
+    },
+    {
+      "slug": "刘科乐-六壬天应集六壬应用篇-skill",
+      "domain": "liuren",
+      "title": "《刘科乐-六壬天应集六壬应用篇》",
+      "path": "books/刘科乐-六壬天应集六壬应用篇-skill/SKILL.md"
+    },
+    {
+      "slug": "刘科乐-浙派大六壬讲座-skill",
+      "domain": "liuren",
+      "title": "《刘科乐-浙派大六壬讲座》",
+      "path": "books/刘科乐-浙派大六壬讲座-skill/SKILL.md"
+    },
+    {
+      "slug": "六壬寶鑑無惑鈐-skill",
+      "domain": "liuren",
+      "title": "《六壬寶鑑無惑鈐》",
+      "path": "books/六壬寶鑑無惑鈐-skill/SKILL.md"
+    },
+    {
+      "slug": "六壬粹言-清-刘赤江-skill",
+      "domain": "liuren",
+      "title": "《六壬粹言 清 刘赤江》",
+      "path": "books/六壬粹言-清-刘赤江-skill/SKILL.md"
+    },
+    {
+      "slug": "六壬大教法本-skill",
+      "domain": "liuren",
+      "title": "《《六壬大教法本》》",
+      "path": "books/六壬大教法本-skill/SKILL.md"
+    },
+    {
+      "slug": "六壬风火院符书-skill",
+      "domain": "liuren",
+      "title": "《六壬风火院符书》",
+      "path": "books/六壬风火院符书-skill/SKILL.md"
+    },
+    {
+      "slug": "六壬管洛神书-skill",
+      "domain": "liuren",
+      "title": "《六壬管洛神书》",
+      "path": "books/六壬管洛神书-skill/SKILL.md"
+    },
+    {
+      "slug": "六壬决胜兵机-skill",
+      "domain": "liuren",
+      "title": "《六壬决胜兵机》",
+      "path": "books/六壬决胜兵机-skill/SKILL.md"
+    },
+    {
+      "slug": "六壬祕占-清鈔本-skill",
+      "domain": "liuren",
+      "title": "《六壬祕占 清鈔本》",
+      "path": "books/六壬祕占-清鈔本-skill/SKILL.md"
+    },
+    {
+      "slug": "六壬启蒙-skill",
+      "domain": "liuren",
+      "title": "《六壬启蒙》",
+      "path": "books/六壬启蒙-skill/SKILL.md"
+    },
+    {
+      "slug": "六壬神機游都魯都法-skill",
+      "domain": "liuren",
+      "title": "《六壬神機游都魯都法》",
+      "path": "books/六壬神機游都魯都法-skill/SKILL.md"
+    },
+    {
+      "slug": "六壬神课古典秘本-skill",
+      "domain": "liuren",
+      "title": "《六壬神课古典秘本》",
+      "path": "books/六壬神课古典秘本-skill/SKILL.md"
+    },
+    {
+      "slug": "六壬思源大六壬神课-skill",
+      "domain": "liuren",
+      "title": "《六壬思源大六壬神课》",
+      "path": "books/六壬思源大六壬神课-skill/SKILL.md"
+    },
+    {
+      "slug": "六壬通天-skill",
+      "domain": "liuren",
+      "title": "《六壬通天》",
+      "path": "books/六壬通天-skill/SKILL.md"
+    },
+    {
+      "slug": "六壬仙师法-skill",
+      "domain": "liuren",
+      "title": "《六壬仙师法》",
+      "path": "books/六壬仙师法-skill/SKILL.md"
+    },
+    {
+      "slug": "六壬指迷-初学必读-最新版-skill",
+      "domain": "liuren",
+      "title": "《六壬指迷（初学必读）最新版》",
+      "path": "books/六壬指迷-初学必读-最新版-skill/SKILL.md"
+    },
+    {
+      "slug": "内部资料六壬格局神断_曹福京著-skill",
+      "domain": "liuren",
+      "title": "《内部资料六壬格局神断_曹福京著》",
+      "path": "books/内部资料六壬格局神断_曹福京著-skill/SKILL.md"
+    },
+    {
+      "slug": "壬窍-全本-skill",
+      "domain": "liuren",
+      "title": "《《壬窍》（全本）》",
+      "path": "books/壬窍-全本-skill/SKILL.md"
+    },
+    {
+      "slug": "壬窍全手打成word版-skill",
+      "domain": "liuren",
+      "title": "《壬窍全手打成word版》",
+      "path": "books/壬窍全手打成word版-skill/SKILL.md"
+    },
+    {
+      "slug": "图解六壬3-skill",
+      "domain": "liuren",
+      "title": "《图解六壬3》",
+      "path": "books/图解六壬3-skill/SKILL.md"
+    },
+    {
+      "slug": "推盘布局-六壬学即查即用版-skill",
+      "domain": "liuren",
+      "title": "《推盘布局+六壬学即查即用版》",
+      "path": "books/推盘布局-六壬学即查即用版-skill/SKILL.md"
+    },
+    {
+      "slug": "伍建宏-数术大六壬预测函授面授讲义-skill",
+      "domain": "liuren",
+      "title": "《伍建宏-数术大六壬预测函授面授讲义》",
+      "path": "books/伍建宏-数术大六壬预测函授面授讲义-skill/SKILL.md"
+    },
+    {
+      "slug": "小六壬上册-skill",
+      "domain": "liuren",
+      "title": "《小六壬上册》",
+      "path": "books/小六壬上册-skill/SKILL.md"
+    },
+    {
+      "slug": "小六壬下册-skill",
+      "domain": "liuren",
+      "title": "《小六壬下册》",
+      "path": "books/小六壬下册-skill/SKILL.md"
+    },
+    {
+      "slug": "徐伟刚-袖里干坤-大六壬新探-skill",
+      "domain": "liuren",
+      "title": "《徐伟刚《袖里干坤》——大六壬新探》",
+      "path": "books/徐伟刚-袖里干坤-大六壬新探-skill/SKILL.md"
+    },
+    {
+      "slug": "一揽登堂-大六壬断法述要北海闲人-skill",
+      "domain": "liuren",
+      "title": "《一揽登堂 大六壬断法述要[北海闲人]》",
+      "path": "books/一揽登堂-大六壬断法述要北海闲人-skill/SKILL.md"
+    },
+    {
+      "slug": "易境桃源-大六壬讲义-skill",
+      "domain": "liuren",
+      "title": "《易境桃源.大六壬讲义》",
+      "path": "books/易境桃源-大六壬讲义-skill/SKILL.md"
+    },
+    {
+      "slug": "袁树珊-大六壬探原-精校版-skill",
+      "domain": "liuren",
+      "title": "《袁树珊《大六壬探原》(精校版）》",
+      "path": "books/袁树珊-大六壬探原-精校版-skill/SKILL.md"
+    },
+    {
+      "slug": "张容平-历代六壬占验汇选二-skill",
+      "domain": "liuren",
+      "title": "《张容平-历代六壬占验汇选二[]》",
+      "path": "books/张容平-历代六壬占验汇选二-skill/SKILL.md"
+    },
+    {
+      "slug": "张容平-历代六壬占验汇选一-skill",
+      "domain": "liuren",
+      "title": "《张容平-历代六壬占验汇选一》",
+      "path": "books/张容平-历代六壬占验汇选一-skill/SKILL.md"
+    },
+    {
+      "slug": "D_大六壬入门-鲁国山人-skill",
+      "domain": "liuren",
+      "title": "《D_大六壬入门---鲁国山人》",
+      "path": "books/D_大六壬入门-鲁国山人-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-beihai-gaoji-skill",
+      "domain": "liuren",
+      "title": "liuren-beihai-gaoji",
+      "path": "books/liuren-beihai-gaoji-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-beihai-jichu-skill",
+      "domain": "liuren",
+      "title": "liuren-beihai-jichu",
+      "path": "books/liuren-beihai-jichu-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-beihai-zhinan-skill",
+      "domain": "liuren",
+      "title": "liuren-beihai-zhinan",
+      "path": "books/liuren-beihai-zhinan-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-bifa-skill",
+      "domain": "liuren",
+      "title": "liuren-bifa",
+      "path": "books/liuren-bifa-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-bingqin-skill",
+      "domain": "liuren",
+      "title": "liuren-bingqin",
+      "path": "books/liuren-bingqin-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-caofujing-skill",
+      "domain": "liuren",
+      "title": "liuren-caofujing",
+      "path": "books/liuren-caofujing-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-cuiyu-fu-skill",
+      "domain": "liuren",
+      "title": "liuren-cuiyu-fu",
+      "path": "books/liuren-cuiyu-fu-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-daquan-skill",
+      "domain": "liuren",
+      "title": "liuren-daquan",
+      "path": "books/liuren-daquan-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-duanan-shuzheng-skill",
+      "domain": "liuren",
+      "title": "liuren-duanan-shuzheng",
+      "path": "books/liuren-duanan-shuzheng-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-duanan-skill",
+      "domain": "liuren",
+      "title": "liuren-duanan",
+      "path": "books/liuren-duanan-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-guanlu-shu-skill",
+      "domain": "liuren",
+      "title": "liuren-guanlu-shu",
+      "path": "books/liuren-guanlu-shu-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-gushi-skill",
+      "domain": "liuren",
+      "title": "liuren-gushi",
+      "path": "books/liuren-gushi-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-huiyao-skill",
+      "domain": "liuren",
+      "title": "liuren-huiyao",
+      "path": "books/liuren-huiyao-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-jianhong-skill",
+      "domain": "liuren",
+      "title": "liuren-jianhong",
+      "path": "books/liuren-jianhong-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-jichu-skill",
+      "domain": "liuren",
+      "title": "liuren-jichu",
+      "path": "books/liuren-jichu-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-jindai-jiangyi-skill",
+      "domain": "liuren",
+      "title": "liuren-jindai-jiangyi",
+      "path": "books/liuren-jindai-jiangyi-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-jingjian-skill",
+      "domain": "liuren",
+      "title": "liuren-jingjian",
+      "path": "books/liuren-jingjian-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-jingwei-skill",
+      "domain": "liuren",
+      "title": "liuren-jingwei",
+      "path": "books/liuren-jingwei-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-jinjiaojian-skill",
+      "domain": "liuren",
+      "title": "liuren-jinjiaojian",
+      "path": "books/liuren-jinjiaojian-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-jinkou-anli-skill",
+      "domain": "liuren",
+      "title": "liuren-jinkou-anli",
+      "path": "books/liuren-jinkou-anli-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-jinkou-jichu-skill",
+      "domain": "liuren",
+      "title": "liuren-jinkou-jichu",
+      "path": "books/liuren-jinkou-jichu-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-jinkou-jifa-skill",
+      "domain": "liuren",
+      "title": "liuren-jinkou-jifa",
+      "path": "books/liuren-jinkou-jifa-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-jinkou-quanshu-skill",
+      "domain": "liuren",
+      "title": "liuren-jinkou-quanshu",
+      "path": "books/liuren-jinkou-quanshu-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-jixuan-skill",
+      "domain": "liuren",
+      "title": "liuren-jixuan",
+      "path": "books/liuren-jixuan-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-juanji-skill",
+      "domain": "liuren",
+      "title": "liuren-juanji",
+      "path": "books/liuren-juanji-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-junzhang-skill",
+      "domain": "liuren",
+      "title": "liuren-junzhang",
+      "path": "books/liuren-junzhang-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-kejing-skill",
+      "domain": "liuren",
+      "title": "liuren-kejing",
+      "path": "books/liuren-kejing-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-kuonangfu-skill",
+      "domain": "liuren",
+      "title": "liuren-kuonangfu",
+      "path": "books/liuren-kuonangfu-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-linfeng-skill",
+      "domain": "liuren",
+      "title": "liuren-linfeng",
+      "path": "books/liuren-linfeng-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-linzheng-skill",
+      "domain": "liuren",
+      "title": "liuren-linzheng",
+      "path": "books/liuren-linzheng-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-linzhihua-taojin-skill",
+      "domain": "liuren",
+      "title": "liuren-linzhihua-taojin",
+      "path": "books/liuren-linzhihua-taojin-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-liukele-skill",
+      "domain": "liuren",
+      "title": "liuren-liukele",
+      "path": "books/liuren-liukele-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-lixing-skill",
+      "domain": "liuren",
+      "title": "liuren-lixing",
+      "path": "books/liuren-lixing-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-miao-shao-skill",
+      "domain": "liuren",
+      "title": "liuren-miao-shao",
+      "path": "books/liuren-miao-shao-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-miben-skill",
+      "domain": "liuren",
+      "title": "liuren-miben",
+      "path": "books/liuren-miben-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-qinruisheng-skill",
+      "domain": "liuren",
+      "title": "liuren-qinruisheng",
+      "path": "books/liuren-qinruisheng-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-rengui-skill",
+      "domain": "liuren",
+      "title": "liuren-rengui",
+      "path": "books/liuren-rengui-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-renqiao-skill",
+      "domain": "liuren",
+      "title": "liuren-renqiao",
+      "path": "books/liuren-renqiao-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-shenjiang-shi-skill",
+      "domain": "liuren",
+      "title": "liuren-shenjiang-shi",
+      "path": "books/liuren-shenjiang-shi-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-shensha-skill",
+      "domain": "liuren",
+      "title": "liuren-shensha",
+      "path": "books/liuren-shensha-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-shenyingshencha-skill",
+      "domain": "liuren",
+      "title": "liuren-shenyingshencha",
+      "path": "books/liuren-shenyingshencha-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-shuoyue-skill",
+      "domain": "liuren",
+      "title": "liuren-shuoyue",
+      "path": "books/liuren-shuoyue-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-tuiming-skill",
+      "domain": "liuren",
+      "title": "liuren-tuiming",
+      "path": "books/liuren-tuiming-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-tujie-daquan-skill",
+      "domain": "liuren",
+      "title": "liuren-tujie-daquan",
+      "path": "books/liuren-tujie-daquan-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-wangleizhi-skill",
+      "domain": "liuren",
+      "title": "liuren-wangleizhi",
+      "path": "books/liuren-wangleizhi-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-wuyao-quanheng-skill",
+      "domain": "liuren",
+      "title": "liuren-wuyao-quanheng",
+      "path": "books/liuren-wuyao-quanheng-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-xiaoliu-daochuan-skill",
+      "domain": "liuren",
+      "title": "liuren-xiaoliu-daochuan",
+      "path": "books/liuren-xiaoliu-daochuan-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-xiaoliu-minjian-skill",
+      "domain": "liuren",
+      "title": "liuren-xiaoliu-minjian",
+      "path": "books/liuren-xiaoliu-minjian-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-xinjing-skill",
+      "domain": "liuren",
+      "title": "liuren-xinjing",
+      "path": "books/liuren-xinjing-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-xuweigang-2-skill",
+      "domain": "liuren",
+      "title": "liuren-xuweigang-2",
+      "path": "books/liuren-xuweigang-2-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-xuweigang-skill",
+      "domain": "liuren",
+      "title": "liuren-xuweigang",
+      "path": "books/liuren-xuweigang-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-yangzhai-skill",
+      "domain": "liuren",
+      "title": "liuren-yangzhai",
+      "path": "books/liuren-yangzhai-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-yinhezhao-skill",
+      "domain": "liuren",
+      "title": "liuren-yinhezhao",
+      "path": "books/liuren-yinhezhao-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-yixianke-skill",
+      "domain": "liuren",
+      "title": "liuren-yixianke",
+      "path": "books/liuren-yixianke-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-zabiangu-skill",
+      "domain": "liuren",
+      "title": "liuren-zabiangu",
+      "path": "books/liuren-zabiangu-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-zhinan-skill",
+      "domain": "liuren",
+      "title": "liuren-zhinan",
+      "path": "books/liuren-zhinan-skill/SKILL.md"
+    },
+    {
+      "slug": "liuren-zhonghuang-skill",
+      "domain": "liuren",
+      "title": "liuren-zhonghuang",
+      "path": "books/liuren-zhonghuang-skill/SKILL.md"
+    },
+    {
+      "slug": "Removed_大六壬推命学-八六居士-手抄本-skill",
+      "domain": "liuren",
+      "title": "《Removed_大六壬推命学(八六居士)手抄本》",
+      "path": "books/Removed_大六壬推命学-八六居士-手抄本-skill/SKILL.md"
+    },
+    {
+      "slug": "xiaoliuren-maqianke-skill",
+      "domain": "liuren",
+      "title": "xiaoliuren-maqianke-skill",
+      "path": "books/xiaoliuren-maqianke-skill/SKILL.md"
+    },
+    {
+      "slug": "八宅风水真伪辩-一-六爻变序论-skill",
+      "domain": "liuyao",
+      "title": "《八宅风水真伪辩（一）六爻变序论》",
+      "path": "books/八宅风水真伪辩-一-六爻变序论-skill/SKILL.md"
+    },
+    {
+      "slug": "初学六爻预测-王虎应-达仁宝库liaohan-net更新nblax520-com-微信1131084518-skill",
+      "domain": "liuyao",
+      "title": "《初学六爻预测+王虎应-【达仁宝库【liaohan.net】更新nblax520.com 微信1131084518】》",
+      "path": "books/初学六爻预测-王虎应-达仁宝库liaohan-net更新nblax520-com-微信1131084518-skill/SKILL.md"
+    },
+    {
+      "slug": "焦氏易林-汉-焦赣04-skill",
+      "domain": "liuyao",
+      "title": "《《焦氏易林》 (汉)焦赣04》",
+      "path": "books/焦氏易林-汉-焦赣04-skill/SKILL.md"
+    },
+    {
+      "slug": "教你学梅花预测-skill",
+      "domain": "liuyao",
+      "title": "《教你学梅花预测》",
+      "path": "books/教你学梅花预测-skill/SKILL.md"
+    },
+    {
+      "slug": "黎光-六爻预测学-skill",
+      "domain": "liuyao",
+      "title": "《黎光－六爻预测学》",
+      "path": "books/黎光-六爻预测学-skill/SKILL.md"
+    },
+    {
+      "slug": "李顺祥-六爻玄机-八卦推断详解-skill",
+      "domain": "liuyao",
+      "title": "《（李顺祥）六爻玄机——八卦推断详解》",
+      "path": "books/李顺祥-六爻玄机-八卦推断详解-skill/SKILL.md"
+    },
+    {
+      "slug": "六爻卦象解密王虎应-skill",
+      "domain": "liuyao",
+      "title": "《六爻卦象解密王虎应》",
+      "path": "books/六爻卦象解密王虎应-skill/SKILL.md"
+    },
+    {
+      "slug": "六爻黄金宝好-达仁宝库liaohan-net更新nblax520-com-微信1131084518-skill",
+      "domain": "liuyao",
+      "title": "《六爻黄金宝【好】-【达仁宝库【liaohan.net】更新nblax520.com 微信1131084518】》",
+      "path": "books/六爻黄金宝好-达仁宝库liaohan-net更新nblax520-com-微信1131084518-skill/SKILL.md"
+    },
+    {
+      "slug": "六爻基础入门电子版-skill",
+      "domain": "liuyao",
+      "title": "《六爻基础入门电子版》",
+      "path": "books/六爻基础入门电子版-skill/SKILL.md"
+    },
+    {
+      "slug": "六爻問答集-卦由谁来摇-王虎应-skill",
+      "domain": "liuyao",
+      "title": "《六爻問答集-卦由谁来摇（王虎应）》",
+      "path": "books/六爻問答集-卦由谁来摇-王虎应-skill/SKILL.md"
+    },
+    {
+      "slug": "六爻预测学理论全集-吕文艺-skill",
+      "domain": "liuyao",
+      "title": "《六爻预测学理论全集（吕文艺）》",
+      "path": "books/六爻预测学理论全集-吕文艺-skill/SKILL.md"
+    },
+    {
+      "slug": "梅花秘技-六神象断法-skill",
+      "domain": "liuyao",
+      "title": "《梅花秘技―六神象断法》",
+      "path": "books/梅花秘技-六神象断法-skill/SKILL.md"
+    },
+    {
+      "slug": "梅花易数-李峰-skill",
+      "domain": "liuyao",
+      "title": "《梅花易数  李峰》",
+      "path": "books/梅花易数-李峰-skill/SKILL.md"
+    },
+    {
+      "slug": "梅花易数-万物类象-skill",
+      "domain": "liuyao",
+      "title": "《《梅花易数》万物类象》",
+      "path": "books/梅花易数-万物类象-skill/SKILL.md"
+    },
+    {
+      "slug": "青岚-六爻基础入门-skill",
+      "domain": "liuyao",
+      "title": "《青岚-六爻基础入门》",
+      "path": "books/青岚-六爻基础入门-skill/SKILL.md"
+    },
+    {
+      "slug": "太极派六爻-skill",
+      "domain": "liuyao",
+      "title": "《太极派六爻》",
+      "path": "books/太极派六爻-skill/SKILL.md"
+    },
+    {
+      "slug": "中国六爻同盟入门教材-很全的六爻基础书-skill",
+      "domain": "liuyao",
+      "title": "《中国六爻同盟入门教材（很全的六爻基础书）》",
+      "path": "books/中国六爻同盟入门教材-很全的六爻基础书-skill/SKILL.md"
+    },
+    {
+      "slug": "dayi-bushi-yuangui-skill",
+      "domain": "liuyao",
+      "title": "dayi-bushi-yuangui-skill",
+      "path": "books/dayi-bushi-yuangui-skill/SKILL.md"
+    },
+    {
+      "slug": "duanyi-guilingjing-skill",
+      "domain": "liuyao",
+      "title": "duanyi-guilingjing-skill",
+      "path": "books/duanyi-guilingjing-skill/SKILL.md"
+    },
+    {
+      "slug": "haidiyan-skill",
+      "domain": "liuyao",
+      "title": "haidiyan-skill",
+      "path": "books/haidiyan-skill/SKILL.md"
+    },
+    {
+      "slug": "huozhulin-skill",
+      "domain": "liuyao",
+      "title": "huozhulin-skill",
+      "path": "books/huozhulin-skill/SKILL.md"
+    },
+    {
+      "slug": "jingshi-yizhuan-skill",
+      "domain": "liuyao",
+      "title": "jingshi-yizhuan",
+      "path": "books/jingshi-yizhuan-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-bushi-quanshu-skill",
+      "domain": "liuyao",
+      "title": "liuyao-bushi-quanshu",
+      "path": "books/liuyao-bushi-quanshu-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-caipiao-guping-skill",
+      "domain": "liuyao",
+      "title": "liuyao-caipiao-guping",
+      "path": "books/liuyao-caipiao-guping-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-cebing-fenke-skill",
+      "domain": "liuyao",
+      "title": "liuyao-cebing-fenke-skill",
+      "path": "books/liuyao-cebing-fenke-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-duan-liunian-skill",
+      "domain": "liuyao",
+      "title": "liuyao-duan-liunian-skill",
+      "path": "books/liuyao-duan-liunian-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-duangua-jifa-skill",
+      "domain": "liuyao",
+      "title": "liuyao-duangua-jifa-skill",
+      "path": "books/liuyao-duangua-jifa-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-fenlei-zhanduan-skill",
+      "domain": "liuyao",
+      "title": "liuyao-fenlei-zhanduan-skill",
+      "path": "books/liuyao-fenlei-zhanduan-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-gaoceng-duanjie-skill",
+      "domain": "liuyao",
+      "title": "liuyao-gaoceng-duanjie",
+      "path": "books/liuyao-gaoceng-duanjie-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-guosanguan-skill",
+      "domain": "liuyao",
+      "title": "liuyao-guosanguan-skill",
+      "path": "books/liuyao-guosanguan-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-guping-shizhan-skill",
+      "domain": "liuyao",
+      "title": "liuyao-guping-shizhan-skill",
+      "path": "books/liuyao-guping-shizhan-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-huanben-guizong-skill",
+      "domain": "liuyao",
+      "title": "liuyao-huanben-guizong",
+      "path": "books/liuyao-huanben-guizong-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-huangjinbao-skill",
+      "domain": "liuyao",
+      "title": "liuyao-huangjinbao",
+      "path": "books/liuyao-huangjinbao-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-huoduan-dianqiao-skill",
+      "domain": "liuyao",
+      "title": "liuyao-huoduan-dianqiao",
+      "path": "books/liuyao-huoduan-dianqiao-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-kuaisu-duanfa-skill",
+      "domain": "liuyao",
+      "title": "liuyao-kuaisu-duanfa-skill",
+      "path": "books/liuyao-kuaisu-duanfa-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-kuaisu-gousi-skill",
+      "domain": "liuyao",
+      "title": "liuyao-kuaisu-gousi-skill",
+      "path": "books/liuyao-kuaisu-gousi-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-liuchangming-skill",
+      "domain": "liuyao",
+      "title": "liuyao-liuchangming-skill",
+      "path": "books/liuyao-liuchangming-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-liuhongyan-skill",
+      "domain": "liuyao",
+      "title": "liuyao-liuhongyan",
+      "path": "books/liuyao-liuhongyan-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-lixiangxue-skill",
+      "domain": "liuyao",
+      "title": "liuyao-lixiangxue",
+      "path": "books/liuyao-lixiangxue-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-luwenyi-skill",
+      "domain": "liuyao",
+      "title": "liuyao-luwenyi-skill",
+      "path": "books/liuyao-luwenyi-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-mangpai-zhenjing-skill",
+      "domain": "liuyao",
+      "title": "liuyao-mangpai-zhenjing",
+      "path": "books/liuyao-mangpai-zhenjing-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-shaoweihua-skill",
+      "domain": "liuyao",
+      "title": "liuyao-shaoweihua",
+      "path": "books/liuyao-shaoweihua-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-shicao-yingqi-skill",
+      "domain": "liuyao",
+      "title": "liuyao-shicao-yingqi-skill",
+      "path": "books/liuyao-shicao-yingqi-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-shiyaowangshuai-skill",
+      "domain": "liuyao",
+      "title": "liuyao-shiyaowangshuai-skill",
+      "path": "books/liuyao-shiyaowangshuai-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-taiji-pai-skill",
+      "domain": "liuyao",
+      "title": "liuyao-taiji-pai",
+      "path": "books/liuyao-taiji-pai-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-xiangshu-skill",
+      "domain": "liuyao",
+      "title": "liuyao-xiangshu",
+      "path": "books/liuyao-xiangshu-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-xiangyi-quxiang-skill",
+      "domain": "liuyao",
+      "title": "liuyao-xiangyi-quxiang-skill",
+      "path": "books/liuyao-xiangyi-quxiang-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-xiangzhen-skill",
+      "domain": "liuyao",
+      "title": "liuyao-xiangzhen",
+      "path": "books/liuyao-xiangzhen-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-xiaoao-qianian-skill",
+      "domain": "liuyao",
+      "title": "liuyao-xiaoao-qianian",
+      "path": "books/liuyao-xiaoao-qianian-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-xinpai-dongyuanchen-skill",
+      "domain": "liuyao",
+      "title": "liuyao-xinpai-dongyuanchen-skill",
+      "path": "books/liuyao-xinpai-dongyuanchen-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-xinpai-ketang-skill",
+      "domain": "liuyao",
+      "title": "liuyao-xinpai-ketang-skill",
+      "path": "books/liuyao-xinpai-ketang-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-yidonglin-skill",
+      "domain": "liuyao",
+      "title": "liuyao-yidonglin",
+      "path": "books/liuyao-yidonglin-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-yihuo-zhimi-skill",
+      "domain": "liuyao",
+      "title": "liuyao-yihuo-zhimi-skill",
+      "path": "books/liuyao-yihuo-zhimi-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-yinyangjing-skill",
+      "domain": "liuyao",
+      "title": "liuyao-yinyangjing",
+      "path": "books/liuyao-yinyangjing-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-zengshan-buyi-skill",
+      "domain": "liuyao",
+      "title": "liuyao-zengshan-buyi-skill",
+      "path": "books/liuyao-zengshan-buyi-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-zhangding-jifa-skill",
+      "domain": "liuyao",
+      "title": "liuyao-zhangding-jifa-skill",
+      "path": "books/liuyao-zhangding-jifa-skill/SKILL.md"
+    },
+    {
+      "slug": "liuyao-zhuanti-buyi-skill",
+      "domain": "liuyao",
+      "title": "liuyao-zhuanti-buyi-skill",
+      "path": "books/liuyao-zhuanti-buyi-skill/SKILL.md"
+    },
+    {
+      "slug": "lushi-yijie-skill",
+      "domain": "liuyao",
+      "title": "《陆氏易解》 明·姚士粦辑（吴·陆绩注）",
+      "path": "books/lushi-yijie-skill/SKILL.md"
+    },
+    {
+      "slug": "wenwang-jinqianke-skill",
+      "domain": "liuyao",
+      "title": "《文王金钱课》 旧题周·姬昌（民间钱筮歌本）",
+      "path": "books/wenwang-jinqianke-skill/SKILL.md"
+    },
+    {
+      "slug": "故宫珍本丛刊第423册-命书相书-御定五星精义-星平集腋统宗-神相汇编-子平管见集解-skill",
+      "domain": "mingli",
+      "title": "《故宫珍本丛刊第423册·命书相书：御定五星精义·星平集腋统宗·神相汇编·子平管见集解》",
+      "path": "books/故宫珍本丛刊第423册-命书相书-御定五星精义-星平集腋统宗-神相汇编-子平管见集解-skill/SKILL.md"
+    },
+    {
+      "slug": "果老星宗-skill",
+      "domain": "mingli",
+      "title": "《果老星宗》",
+      "path": "books/果老星宗-skill/SKILL.md"
+    },
+    {
+      "slug": "命理千金赋-千里命稿-skill",
+      "domain": "mingli",
+      "title": "《《命理千金赋》千里命稿》",
+      "path": "books/命理千金赋-千里命稿-skill/SKILL.md"
+    },
+    {
+      "slug": "新命理探原-_-清-袁树珊著-skill",
+      "domain": "mingli",
+      "title": "《《新命理探原》_（清）袁树珊著》",
+      "path": "books/新命理探原-_-清-袁树珊著-skill/SKILL.md"
+    },
+    {
+      "slug": "渊海子平-skill",
+      "domain": "mingli",
+      "title": "《《渊海子平》》",
+      "path": "books/渊海子平-skill/SKILL.md"
+    },
+    {
+      "slug": "lixuzhong-mingshu-skill",
+      "domain": "mingli",
+      "title": "《李虚中命书》 旧题鬼谷子 / 唐·李虚中",
+      "path": "books/lixuzhong-mingshu-skill/SKILL.md"
+    },
+    {
+      "slug": "luoluzi-sanming-skill",
+      "domain": "mingli",
+      "title": "luoluzi-sanming",
+      "path": "books/luoluzi-sanming-skill/SKILL.md"
+    },
+    {
+      "slug": "xiangfa-xufu-xinxiang-skill",
+      "domain": "mingli",
+      "title": "xiangfa-xufu-xinxiang-skill",
+      "path": "books/xiangfa-xufu-xinxiang-skill/SKILL.md"
+    },
+    {
+      "slug": "xiangshu-bingjian-renlun-skill",
+      "domain": "mingli",
+      "title": "xiangshu-bingjian-renlun-skill",
+      "path": "books/xiangshu-bingjian-renlun-skill/SKILL.md"
+    },
+    {
+      "slug": "xingming-guji-skill",
+      "domain": "mingli",
+      "title": "xingming-guji-skill",
+      "path": "books/xingming-guji-skill/SKILL.md"
+    },
+    {
+      "slug": "xu-shi-luoluzi-skill",
+      "domain": "mingli",
+      "title": "xu-shi-luoluzi",
+      "path": "books/xu-shi-luoluzi-skill/SKILL.md"
+    },
+    {
+      "slug": "yizhangjing-skill",
+      "domain": "mingli",
+      "title": "yizhangjing-skill",
+      "path": "books/yizhangjing-skill/SKILL.md"
+    },
+    {
+      "slug": "ziping-zhenquan-skill",
+      "domain": "mingli",
+      "title": "ziping-zhenquan-skill",
+      "path": "books/ziping-zhenquan-skill/SKILL.md"
+    },
+    {
+      "slug": "cezi-midie-skill",
+      "domain": "other-shushu",
+      "title": "cezi-midie-skill",
+      "path": "books/cezi-midie-skill/SKILL.md"
+    },
+    {
+      "slug": "leisiqi-yitu-skill",
+      "domain": "other-shushu",
+      "title": "leisiqi-yitu",
+      "path": "books/leisiqi-yitu-skill/SKILL.md"
+    },
+    {
+      "slug": "lingqi-jing-skill",
+      "domain": "other-shushu",
+      "title": "lingqi-jing-skill",
+      "path": "books/lingqi-jing-skill/SKILL.md"
+    },
+    {
+      "slug": "mawangdui-wuxingzhan-skill",
+      "domain": "other-shushu",
+      "title": "mawangdui-wuxingzhan-skill",
+      "path": "books/mawangdui-wuxingzhan-skill/SKILL.md"
+    },
+    {
+      "slug": "qianxu-skill",
+      "domain": "other-shushu",
+      "title": "qianxu-skill",
+      "path": "books/qianxu-skill/SKILL.md"
+    },
+    {
+      "slug": "qinxing-yanyi-skill",
+      "domain": "other-shushu",
+      "title": "qinxing-yanyi-skill",
+      "path": "books/qinxing-yanyi-skill/SKILL.md"
+    },
+    {
+      "slug": "rudiyan-quanshu-skill",
+      "domain": "other-shushu",
+      "title": "rudiyan-quanshu-skill",
+      "path": "books/rudiyan-quanshu-skill/SKILL.md"
+    },
+    {
+      "slug": "songyuan-yixue-notes-skill",
+      "domain": "other-shushu",
+      "title": "songyuan-yixue-notes",
+      "path": "books/songyuan-yixue-notes-skill/SKILL.md"
+    },
+    {
+      "slug": "tieban-shenshu-skill",
+      "domain": "other-shushu",
+      "title": "tieban-shenshu-skill",
+      "path": "books/tieban-shenshu-skill/SKILL.md"
+    },
+    {
+      "slug": "tuibei-tu-skill",
+      "domain": "other-shushu",
+      "title": "tuibei-tu-skill",
+      "path": "books/tuibei-tu-skill/SKILL.md"
+    },
+    {
+      "slug": "xieji-bianfang-skill",
+      "domain": "other-shushu",
+      "title": "《钦定协纪辨方书》 清·梅毂成等奉敕",
+      "path": "books/xieji-bianfang-skill/SKILL.md"
+    },
+    {
+      "slug": "yishu-goushentu-skill",
+      "domain": "other-shushu",
+      "title": "yishu-goushentu",
+      "path": "books/yishu-goushentu-skill/SKILL.md"
+    },
+    {
+      "slug": "yiwei-zhengxuan-skill",
+      "domain": "other-shushu",
+      "title": "yiwei-zhengxuan",
+      "path": "books/yiwei-zhengxuan-skill/SKILL.md"
+    },
+    {
+      "slug": "yongle-baiwen-skill",
+      "domain": "other-shushu",
+      "title": "yongle-baiwen-skill",
+      "path": "books/yongle-baiwen-skill/SKILL.md"
+    },
+    {
+      "slug": "yuzhao-shenying-skill",
+      "domain": "other-shushu",
+      "title": "yuzhao-shenying-skill",
+      "path": "books/yuzhao-shenying-skill/SKILL.md"
+    },
+    {
+      "slug": "zangfa-daozhang-skill",
+      "domain": "other-shushu",
+      "title": "zangfa-daozhang-skill",
+      "path": "books/zangfa-daozhang-skill/SKILL.md"
+    },
+    {
+      "slug": "zhengyi-xinfa-skill",
+      "domain": "other-shushu",
+      "title": "zhengyi-xinfa",
+      "path": "books/zhengyi-xinfa-skill/SKILL.md"
+    },
+    {
+      "slug": "zhuge-shenshu-skill",
+      "domain": "other-shushu",
+      "title": "zhuge-shenshu-skill",
+      "path": "books/zhuge-shenshu-skill/SKILL.md"
+    },
+    {
+      "slug": "000易正奇门遁甲格局-skill",
+      "domain": "qimen",
+      "title": "《000易正奇门遁甲格局》",
+      "path": "books/000易正奇门遁甲格局-skill/SKILL.md"
+    },
+    {
+      "slug": "遁甲集成4-skill",
+      "domain": "qimen",
+      "title": "《遁甲集成4》",
+      "path": "books/遁甲集成4-skill/SKILL.md"
+    },
+    {
+      "slug": "dunjia-fuying-skill",
+      "domain": "qimen",
+      "title": "dunjia-fuying-skill",
+      "path": "books/dunjia-fuying-skill/SKILL.md"
+    },
+    {
+      "slug": "qimen-jichu-skill",
+      "domain": "qimen",
+      "title": "qimen-jichu",
+      "path": "books/qimen-jichu-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_冰鉴-清-曾国藩-skill",
+      "domain": "sim-ocr",
+      "title": "《冰鉴-清-曾国藩》",
+      "path": "books/sim_冰鉴-清-曾国藩-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_兵要望江南-唐-易靜-skill",
+      "domain": "sim-ocr",
+      "title": "《兵要望江南-唐-易靜》",
+      "path": "books/sim_兵要望江南-唐-易靜-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_卜筮全书-明-姚际隆-skill",
+      "domain": "sim-ocr",
+      "title": "《卜筮全书-明-姚际隆》",
+      "path": "books/sim_卜筮全书-明-姚际隆-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_卜筮正宗-清-王洪绪-skill",
+      "domain": "sim-ocr",
+      "title": "《卜筮正宗-清-王洪绪》",
+      "path": "books/sim_卜筮正宗-清-王洪绪-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_参同契-汉-魏伯阳-skill",
+      "domain": "sim-ocr",
+      "title": "《参同契-汉-魏伯阳》",
+      "path": "books/sim_参同契-汉-魏伯阳-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_插泥剑-明-蒋大鸿-skill",
+      "domain": "sim-ocr",
+      "title": "《插泥剑-明-蒋大鸿》",
+      "path": "books/sim_插泥剑-明-蒋大鸿-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_催官篇-宋-赖文俊-skill",
+      "domain": "sim-ocr",
+      "title": "《催官篇-宋-赖文俊》",
+      "path": "books/sim_催官篇-宋-赖文俊-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_大易断例卜筮元龟目-skill",
+      "domain": "sim-ocr",
+      "title": "《大易断例卜筮元龟目-》",
+      "path": "books/sim_大易断例卜筮元龟目-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_道德经-老子-skill",
+      "domain": "sim-ocr",
+      "title": "《道德经-老子》",
+      "path": "books/sim_道德经-老子-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_地理辨惑-清-马泰清-skill",
+      "domain": "sim-ocr",
+      "title": "《地理辨惑-清-马泰清》",
+      "path": "books/sim_地理辨惑-清-马泰清-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_地理辨正-清-蒋大鸿-skill",
+      "domain": "sim-ocr",
+      "title": "《地理辨正-清-蒋大鸿》",
+      "path": "books/sim_地理辨正-清-蒋大鸿-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_地理古镜歌-明-蒋大鸿-skill",
+      "domain": "sim-ocr",
+      "title": "《地理古镜歌-明-蒋大鸿》",
+      "path": "books/sim_地理古镜歌-明-蒋大鸿-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_地理醒心录-明-天中星垣主人-skill",
+      "domain": "sim-ocr",
+      "title": "《地理醒心录-明-天中星垣主人》",
+      "path": "books/sim_地理醒心录-明-天中星垣主人-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_滴天髓-维基-skill",
+      "domain": "sim-ocr",
+      "title": "《滴天髓-维基》",
+      "path": "books/sim_滴天髓-维基-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_滴天髓阐微-清-任铁樵-skill",
+      "domain": "sim-ocr",
+      "title": "《滴天髓阐微-清-任铁樵》",
+      "path": "books/sim_滴天髓阐微-清-任铁樵-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_东坡易传-宋-苏东坡-skill",
+      "domain": "sim-ocr",
+      "title": "《东坡易传-宋-苏东坡》",
+      "path": "books/sim_东坡易传-宋-苏东坡-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_断易鬼灵经-佚名-skill",
+      "domain": "sim-ocr",
+      "title": "《断易鬼灵经-佚名》",
+      "path": "books/sim_断易鬼灵经-佚名-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_断易天机-明-佚名-skill",
+      "domain": "sim-ocr",
+      "title": "《断易天机-明-佚名》",
+      "path": "books/sim_断易天机-明-佚名-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_遁甲演义-明-程道生-skill",
+      "domain": "sim-ocr",
+      "title": "《遁甲演义-明-程道生》",
+      "path": "books/sim_遁甲演义-明-程道生-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_二十四山八卦罗经图-skill",
+      "domain": "sim-ocr",
+      "title": "《二十四山八卦罗经图》",
+      "path": "books/sim_二十四山八卦罗经图-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_鬼谷子神奇相法全书-skill",
+      "domain": "sim-ocr",
+      "title": "《鬼谷子神奇相法全书-》",
+      "path": "books/sim_鬼谷子神奇相法全书-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_撼龙经-唐-杨筠松-skill",
+      "domain": "sim-ocr",
+      "title": "《撼龙经-唐-杨筠松》",
+      "path": "books/sim_撼龙经-唐-杨筠松-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_虎鈐經-宋-許洞-skill",
+      "domain": "sim-ocr",
+      "title": "《虎鈐經-宋-許洞》",
+      "path": "books/sim_虎鈐經-宋-許洞-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_淮南子-skill",
+      "domain": "sim-ocr",
+      "title": "《淮南子》",
+      "path": "books/sim_淮南子-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_黄帝阴符经-skill",
+      "domain": "sim-ocr",
+      "title": "《黄帝阴符经》",
+      "path": "books/sim_黄帝阴符经-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_黄金策-明-刘基-skill",
+      "domain": "sim-ocr",
+      "title": "《黄金策-明-刘基》",
+      "path": "books/sim_黄金策-明-刘基-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_黃金策-明-劉基-skill",
+      "domain": "sim-ocr",
+      "title": "《黃金策-明-劉基》",
+      "path": "books/sim_黃金策-明-劉基-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_金匮要略-汉-张仲景-skill",
+      "domain": "sim-ocr",
+      "title": "《金匮要略-汉-张仲景》",
+      "path": "books/sim_金匮要略-汉-张仲景-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_开元占经-唐-瞿昙悉达-skill",
+      "domain": "sim-ocr",
+      "title": "《开元占经-唐-瞿昙悉达》",
+      "path": "books/sim_开元占经-唐-瞿昙悉达-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_列子-skill",
+      "domain": "sim-ocr",
+      "title": "《列子》",
+      "path": "books/sim_列子-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_灵台秘苑-宋-王安礼-skill",
+      "domain": "sim-ocr",
+      "title": "《灵台秘苑-宋-王安礼》",
+      "path": "books/sim_灵台秘苑-宋-王安礼-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_柳庄相法-明-袁珙-skill",
+      "domain": "sim-ocr",
+      "title": "《柳庄相法-明-袁珙》",
+      "path": "books/sim_柳庄相法-明-袁珙-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_六壬兵占-明-佚名-skill",
+      "domain": "sim-ocr",
+      "title": "《六壬兵占-明-佚名》",
+      "path": "books/sim_六壬兵占-明-佚名-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_六壬存验-清-吴师青-skill",
+      "domain": "sim-ocr",
+      "title": "《六壬存验-清-吴师青》",
+      "path": "books/sim_六壬存验-清-吴师青-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_六壬大全-明-郭载騋-skill",
+      "domain": "sim-ocr",
+      "title": "《六壬大全-明-郭载騋》",
+      "path": "books/sim_六壬大全-明-郭载騋-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_六壬断案-宋-邵彦和-skill",
+      "domain": "sim-ocr",
+      "title": "《六壬断案-宋-邵彦和》",
+      "path": "books/sim_六壬断案-宋-邵彦和-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_六壬灵觉经-佚名-skill",
+      "domain": "sim-ocr",
+      "title": "《六壬灵觉经-佚名》",
+      "path": "books/sim_六壬灵觉经-佚名-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_六壬秘本-清-金正音-skill",
+      "domain": "sim-ocr",
+      "title": "《六壬秘本-清-金正音》",
+      "path": "books/sim_六壬秘本-清-金正音-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_六壬神定经-宋-扬维德-skill",
+      "domain": "sim-ocr",
+      "title": "《六壬神定经-宋-扬维德》",
+      "path": "books/sim_六壬神定经-宋-扬维德-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_六壬神课金口诀古本-佚名-skill",
+      "domain": "sim-ocr",
+      "title": "《六壬神课金口诀古本-佚名》",
+      "path": "books/sim_六壬神课金口诀古本-佚名-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_六壬心镜-唐-徐道符-skill",
+      "domain": "sim-ocr",
+      "title": "《六壬心镜-唐-徐道符》",
+      "path": "books/sim_六壬心镜-唐-徐道符-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_六壬一字诀玉连环-宋-徐汶滨-skill",
+      "domain": "sim-ocr",
+      "title": "《六壬一字诀玉连环-宋-徐汶滨》",
+      "path": "books/sim_六壬一字诀玉连环-宋-徐汶滨-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_六壬拃河棹-明-张松源-skill",
+      "domain": "sim-ocr",
+      "title": "《六壬拃河棹-明-张松源》",
+      "path": "books/sim_六壬拃河棹-明-张松源-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_六壬直指御定-清-佚名-skill",
+      "domain": "sim-ocr",
+      "title": "《六壬直指御定-清-佚名》",
+      "path": "books/sim_六壬直指御定-清-佚名-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_六壬指南-明-陈公献-skill",
+      "domain": "sim-ocr",
+      "title": "《六壬指南-明-陈公献》",
+      "path": "books/sim_六壬指南-明-陈公献-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_六壬指南注解-明-陈公献-skill",
+      "domain": "sim-ocr",
+      "title": "《六壬指南注解-明-陈公献》",
+      "path": "books/sim_六壬指南注解-明-陈公献-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_命理探源-袁树珊-skill",
+      "domain": "sim-ocr",
+      "title": "《命理探源-袁树珊》",
+      "path": "books/sim_命理探源-袁树珊-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_命理正宗-张神峰-skill",
+      "domain": "sim-ocr",
+      "title": "《命理正宗-张神峰》",
+      "path": "books/sim_命理正宗-张神峰-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_脾胃论-金-李东垣-skill",
+      "domain": "sim-ocr",
+      "title": "《脾胃论-金-李东垣》",
+      "path": "books/sim_脾胃论-金-李东垣-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_平沙玉尺辨伪总括歌-清-姜垚汝-skill",
+      "domain": "sim-ocr",
+      "title": "《平沙玉尺辨伪总括歌-清-姜垚汝》",
+      "path": "books/sim_平沙玉尺辨伪总括歌-清-姜垚汝-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_平砂玉尺辨伪-明-蒋平阶-skill",
+      "domain": "sim-ocr",
+      "title": "《平砂玉尺辨伪-明-蒋平阶》",
+      "path": "books/sim_平砂玉尺辨伪-明-蒋平阶-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_平砂玉尺经-元-刘秉忠-skill",
+      "domain": "sim-ocr",
+      "title": "《平砂玉尺经-元-刘秉忠》",
+      "path": "books/sim_平砂玉尺经-元-刘秉忠-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_奇门宝鉴御定-唐-徐道符-skill",
+      "domain": "sim-ocr",
+      "title": "《奇门宝鉴御定-唐-徐道符》",
+      "path": "books/sim_奇门宝鉴御定-唐-徐道符-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_奇门遁甲秘笈大全-明-刘伯温-skill",
+      "domain": "sim-ocr",
+      "title": "《奇门遁甲秘笈大全-明-刘伯温》",
+      "path": "books/sim_奇门遁甲秘笈大全-明-刘伯温-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_奇门遁甲统宗-三国蜀-诸葛亮-skill",
+      "domain": "sim-ocr",
+      "title": "《奇门遁甲统宗-三国蜀-诸葛亮》",
+      "path": "books/sim_奇门遁甲统宗-三国蜀-诸葛亮-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_奇门遁甲元灵经-许松如-skill",
+      "domain": "sim-ocr",
+      "title": "《奇门遁甲元灵经-许松如》",
+      "path": "books/sim_奇门遁甲元灵经-许松如-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_奇门法窍-清-锡孟樨-skill",
+      "domain": "sim-ocr",
+      "title": "《奇门法窍-清-锡孟樨》",
+      "path": "books/sim_奇门法窍-清-锡孟樨-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_奇门旨归-清-朱浩文-skill",
+      "domain": "sim-ocr",
+      "title": "《奇门旨归-清-朱浩文》",
+      "path": "books/sim_奇门旨归-清-朱浩文-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_千金要方-唐-孙思邈-skill",
+      "domain": "sim-ocr",
+      "title": "《千金要方-唐-孙思邈》",
+      "path": "books/sim_千金要方-唐-孙思邈-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_穷通宝鉴-明-余春台-skill",
+      "domain": "sim-ocr",
+      "title": "《穷通宝鉴-明-余春台》",
+      "path": "books/sim_穷通宝鉴-明-余春台-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_人伦大统赋-金-张行简-skill",
+      "domain": "sim-ocr",
+      "title": "《人伦大统赋-金-张行简》",
+      "path": "books/sim_人伦大统赋-金-张行简-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_人子须知-明-徐继善-skill",
+      "domain": "sim-ocr",
+      "title": "《人子须知-明-徐继善》",
+      "path": "books/sim_人子须知-明-徐继善-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_三命通会-明-万民英-skill",
+      "domain": "sim-ocr",
+      "title": "《三命通会-明-万民英》",
+      "path": "books/sim_三命通会-明-万民英-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_山海经-skill",
+      "domain": "sim-ocr",
+      "title": "《山海经》",
+      "path": "books/sim_山海经-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_山洋指迷原本-明-周景一-skill",
+      "domain": "sim-ocr",
+      "title": "《山洋指迷原本-明-周景一》",
+      "path": "books/sim_山洋指迷原本-明-周景一-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_神峰通考-明-张楠-skill",
+      "domain": "sim-ocr",
+      "title": "《神峰通考-明-张楠》",
+      "path": "books/sim_神峰通考-明-张楠-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_神农本草经-skill",
+      "domain": "sim-ocr",
+      "title": "《神农本草经》",
+      "path": "books/sim_神农本草经-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_神相全编-宋-陈抟-skill",
+      "domain": "sim-ocr",
+      "title": "《神相全编-宋-陈抟》",
+      "path": "books/sim_神相全编-宋-陈抟-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_神相铁关刀-清-云谷山人-skill",
+      "domain": "sim-ocr",
+      "title": "《神相铁关刀-清-云谷山人》",
+      "path": "books/sim_神相铁关刀-清-云谷山人-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_太白陰經-唐-李荃-skill",
+      "domain": "sim-ocr",
+      "title": "《太白陰經-唐-李荃》",
+      "path": "books/sim_太白陰經-唐-李荃-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_太清神鉴-五代-王朴-skill",
+      "domain": "sim-ocr",
+      "title": "《太清神鉴-五代-王朴》",
+      "path": "books/sim_太清神鉴-五代-王朴-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_太乙秘书-宋-王佐-skill",
+      "domain": "sim-ocr",
+      "title": "《太乙秘书-宋-王佐》",
+      "path": "books/sim_太乙秘书-宋-王佐-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_温病条辨-清-吴瑭-skill",
+      "domain": "sim-ocr",
+      "title": "《温病条辨-清-吴瑭》",
+      "path": "books/sim_温病条辨-清-吴瑭-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_吴园易解-宋-张根-skill",
+      "domain": "sim-ocr",
+      "title": "《吴园易解-宋-张根》",
+      "path": "books/sim_吴园易解-宋-张根-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_五行大义-隋-萧吉-skill",
+      "domain": "sim-ocr",
+      "title": "《五行大义-隋-萧吉》",
+      "path": "books/sim_五行大义-隋-萧吉-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_五行精纪-宋-廖中-skill",
+      "domain": "sim-ocr",
+      "title": "《五行精纪-宋-廖中》",
+      "path": "books/sim_五行精纪-宋-廖中-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_伊川易传-宋-程颐-skill",
+      "domain": "sim-ocr",
+      "title": "《伊川易传-宋-程颐》",
+      "path": "books/sim_伊川易传-宋-程颐-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_乙巳占-唐-李淳风-skill",
+      "domain": "sim-ocr",
+      "title": "《乙巳占-唐-李淳风》",
+      "path": "books/sim_乙巳占-唐-李淳风-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_易林补遗-明-张世宝-skill",
+      "domain": "sim-ocr",
+      "title": "《易林补遗-明-张世宝》",
+      "path": "books/sim_易林补遗-明-张世宝-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_易冒-清-程良玉-skill",
+      "domain": "sim-ocr",
+      "title": "《易冒-清-程良玉》",
+      "path": "books/sim_易冒-清-程良玉-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_易隐-清-曹九锡-skill",
+      "domain": "sim-ocr",
+      "title": "《易隐-清-曹九锡》",
+      "path": "books/sim_易隐-清-曹九锡-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_增删卜易-野鹤老人-skill",
+      "domain": "sim-ocr",
+      "title": "《增删卜易-野鹤老人》",
+      "path": "books/sim_增删卜易-野鹤老人-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_宅经-skill",
+      "domain": "sim-ocr",
+      "title": "《宅经-》",
+      "path": "books/sim_宅经-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_张果星宗-明-佚名-skill",
+      "domain": "sim-ocr",
+      "title": "《张果星宗-明-佚名》",
+      "path": "books/sim_张果星宗-明-佚名-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_针灸甲乙经-晋-皇甫谧-skill",
+      "domain": "sim-ocr",
+      "title": "《针灸甲乙经-晋-皇甫谧》",
+      "path": "books/sim_针灸甲乙经-晋-皇甫谧-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_周易-佚名-skill",
+      "domain": "sim-ocr",
+      "title": "《周易-佚名》",
+      "path": "books/sim_周易-佚名-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_周易本义-宋-朱熹-skill",
+      "domain": "sim-ocr",
+      "title": "《周易本义-宋-朱熹》",
+      "path": "books/sim_周易本义-宋-朱熹-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_周易禅解-明-释智旭-skill",
+      "domain": "sim-ocr",
+      "title": "《周易禅解-明-释智旭》",
+      "path": "books/sim_周易禅解-明-释智旭-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_周易杭氏学-清-杭辛斋-skill",
+      "domain": "sim-ocr",
+      "title": "《周易杭氏学-清-杭辛斋》",
+      "path": "books/sim_周易杭氏学-清-杭辛斋-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_周易口诀义-唐-史徵-skill",
+      "domain": "sim-ocr",
+      "title": "《周易口诀义-唐-史徵》",
+      "path": "books/sim_周易口诀义-唐-史徵-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_周易口义-宋-胡瑗-skill",
+      "domain": "sim-ocr",
+      "title": "《周易口义-宋-胡瑗》",
+      "path": "books/sim_周易口义-宋-胡瑗-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_周易浅述-清-陈梦雷-skill",
+      "domain": "sim-ocr",
+      "title": "《周易浅述-清-陈梦雷》",
+      "path": "books/sim_周易浅述-清-陈梦雷-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_周易尚氏学-清-尚秉和-skill",
+      "domain": "sim-ocr",
+      "title": "《周易尚氏学-清-尚秉和》",
+      "path": "books/sim_周易尚氏学-清-尚秉和-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_周易尚占-元-李道纯-skill",
+      "domain": "sim-ocr",
+      "title": "《周易尚占-元-李道纯》",
+      "path": "books/sim_周易尚占-元-李道纯-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_周易新讲义-宋-耿南仲-skill",
+      "domain": "sim-ocr",
+      "title": "《周易新讲义-宋-耿南仲》",
+      "path": "books/sim_周易新讲义-宋-耿南仲-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_周易正义-唐-孔颖达-skill",
+      "domain": "sim-ocr",
+      "title": "《周易正义-唐-孔颖达》",
+      "path": "books/sim_周易正义-唐-孔颖达-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_诸病源候论-隋-巢元方-skill",
+      "domain": "sim-ocr",
+      "title": "《诸病源候论-隋-巢元方》",
+      "path": "books/sim_诸病源候论-隋-巢元方-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_庄子-skill",
+      "domain": "sim-ocr",
+      "title": "《庄子》",
+      "path": "books/sim_庄子-skill/SKILL.md"
+    },
+    {
+      "slug": "sim_子平真诠评注-清-沈孝瞻-skill",
+      "domain": "sim-ocr",
+      "title": "《子平真诠评注-清-沈孝瞻》",
+      "path": "books/sim_子平真诠评注-清-沈孝瞻-skill/SKILL.md"
+    },
+    {
+      "slug": "太乙积年-skill",
+      "domain": "taiyi",
+      "title": "《太乙积年》",
+      "path": "books/太乙积年-skill/SKILL.md"
+    },
+    {
+      "slug": "太乙经-skill",
+      "domain": "taiyi",
+      "title": "《太乙经》",
+      "path": "books/太乙经-skill/SKILL.md"
+    },
+    {
+      "slug": "taiyi-jinjing-skill",
+      "domain": "taiyi",
+      "title": "taiyi-jinjing",
+      "path": "books/taiyi-jinjing-skill/SKILL.md"
+    },
+    {
+      "slug": "周易精华本-朱亚燕-扫描版-skill",
+      "domain": "yi",
+      "title": "《[周易精华本].朱亚燕.扫描版》",
+      "path": "books/周易精华本-朱亚燕-扫描版-skill/SKILL.md"
+    },
+    {
+      "slug": "周易与易图-李申-扫描版-skill",
+      "domain": "yi",
+      "title": "《[周易与易图].李申.扫描版》",
+      "path": "books/周易与易图-李申-扫描版-skill/SKILL.md"
+    },
+    {
+      "slug": "huangji-jingshi-skill",
+      "domain": "yi",
+      "title": "huangji-jingshi-skill",
+      "path": "books/huangji-jingshi-skill/SKILL.md"
+    },
+    {
+      "slug": "lianshan-yi-skill",
+      "domain": "yi",
+      "title": "《连山易》 清·马国翰辑",
+      "path": "books/lianshan-yi-skill/SKILL.md"
+    },
+    {
+      "slug": "taixuan-jing-skill",
+      "domain": "yi",
+      "title": "taixuan-jing",
+      "path": "books/taixuan-jing-skill/SKILL.md"
+    },
+    {
+      "slug": "wangbi-lueli-skill",
+      "domain": "yi",
+      "title": "wangbi-lueli",
+      "path": "books/wangbi-lueli-skill/SKILL.md"
+    },
+    {
+      "slug": "zhengshi-zhouyi-skill",
+      "domain": "yi",
+      "title": "zhengshi-zhouyi",
+      "path": "books/zhengshi-zhouyi-skill/SKILL.md"
+    }
+  ]
+}
