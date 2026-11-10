@@ -1,9 +1,10 @@
-.DS_Store
+﻿.DS_Store
 Thumbs.db
 *.log
 .cursor/
 node_modules/
 *.zip
-
+.idea/
+.vscode/
 *.pre_llm.bak
 **/*.pre_llm.bak

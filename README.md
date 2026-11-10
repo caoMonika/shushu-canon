@@ -1,4 +1,4 @@
-# shushu-canon · 术数典籍总库
+﻿# shushu-canon · 术数典籍总库
 
 把约 **539** 部六壬 / 紫微 / 梅花 / 六爻 / 奇门 / 命理 / 风水 / 太乙等相关材料，收成 **一个可安装的 Cursor / Agent Skill 入口**，并附带全部子书正文（compact-pack + LLM 精修）。
 
