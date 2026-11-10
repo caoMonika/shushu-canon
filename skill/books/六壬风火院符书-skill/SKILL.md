@@ -1,83 +1,66 @@
 ---
 name: 六壬风火院符书-skill
-description: >
-  用户要用《六壬风火院符书》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 六壬风火院符书。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《六壬风火院符书》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 六壬风火院符书。
 source_book: 《六壬风火院符书》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《六壬风火院符书》· RIA++ 蒸馏
+# 《六壬风火院符书》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 歸檀各各歸正勒勉請上天霆吾奉太止老君急急如
+## 核心原则（常驻速览）
 
-> 請到馆中无事者請上天溪六壬仙師絮位仙師各各
+1. 座以恩一來领受二来保佑弟于必焚香拜清茶净
+2. 来揭開云头舍起香烟降駕到期座位得裳到座以吉到
+3. 过弟子百打百胜石然潜藏百无禁忌萬無一失大吉大昌
+4. 带信符二張不可乱用恶符能尺
+5. 此狗頭符不可用為人順天行道
+6. 奖六壬仙師老師在此不忌重言
 
-> 五方五路各各請歸本位有宫歸宫无宫正有事者
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《六壬风火院符书》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「第1段」相关的查阅/断法/方证问题 | references/capabilities/第1段.md | overview / cheatsheet |
+| 与「第2段」相关的查阅/断法/方证问题 | references/capabilities/第2段.md | overview / cheatsheet |
+| 与「第3段」相关的查阅/断法/方证问题 | references/capabilities/第3段.md | overview / cheatsheet |
+| 与「第4段」相关的查阅/断法/方证问题 | references/capabilities/第4段.md | overview / cheatsheet |
+| 与「第5段」相关的查阅/断法/方证问题 | references/capabilities/第5段.md | overview / cheatsheet |
+| 与「第6段」相关的查阅/断法/方证问题 | references/capabilities/第6段.md | overview / cheatsheet |
+| 与「第7段」相关的查阅/断法/方证问题 | references/capabilities/第7段.md | overview / cheatsheet |
+| 与「第8段」相关的查阅/断法/方证问题 | references/capabilities/第8段.md | overview / cheatsheet |
+| 与「第9段」相关的查阅/断法/方证问题 | references/capabilities/第9段.md | overview / cheatsheet |
+| 与「第10段」相关的查阅/断法/方证问题 | references/capabilities/第10段.md | overview / cheatsheet |
+| 与「第11段」相关的查阅/断法/方证问题 | references/capabilities/第11段.md | overview / cheatsheet |
+| 与「第12段」相关的查阅/断法/方证问题 | references/capabilities/第12段.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 十.
-- 火教三百六十
-- 每晚三元六南
-- 律全大吉大昌萬无一失
-- 歸檀各各歸正勒勉請上天霆吾奉太止老君急急如
-- 請到馆中无事者請上天溪六壬仙師絮位仙師各各
-- 五方五路各各請歸本位有宫歸宫无宫正有事者
-- 北方葫来转北方中央請來鞭中夹五方五路來转
-- 克方請來轉东方南方來轉南方西方請來转西方
-- 送神轉念北咒
-- 座以恩一來领受二来保佑弟于必焚香拜清茶净
-- 来揭開云头舍起香烟降駕到期座位得裳到座以吉到
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：十.；火教三百六十；每晚三元六南；律全大吉大昌萬无一失；歸檀各各歸正勒勉請上天霆吾奉太止老君急急如；請到馆中无事者請上天溪六壬仙師絮位仙師各各；五方五路各各請歸本位有宫歸宫无宫正有事者；北方葫来转北方中央請來鞭中夹五方五路來转
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《六壬风火院符书》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《六壬风火院符书》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/1-五行特性.md": "ce941c37ae649586150340ac6311d29b098c96931f5029bd7918f14481dd29fc",
+    "references/capabilities/二-用八卦预测信息的方法很多-六交预测法是我国的大宗之法-六交.md": "777ea572c6a453a703f6cc0865d93586f87e8669aaea3cf5e726a59c055f035a",
+    "references/capabilities/本卦.md": "fe2940c39b678a1ae182a670c76e5b1518ba3ed8351c06a6906c30c4a1cba7aa",
+    "references/capabilities/本卦-2.md": "94012473fd01098025f8ce9c9a61b6dee267c5bc71b9d3f3a1ee8ed8a3c8e037",
+    "references/capabilities/二-卦中各交发生相互作用力之后会使各卦交的旺衰之力发生增力或减.md": "e65aaf1575a6ed104718be0bd15620c4c71f451a024ad8763ad621c682aba384",
+    "references/capabilities/六-预测者下断语时要根据卦象信息定向锁定原理-注意不是每卦都适.md": "dd04eb0079fba1e66ddd1d7ad43ba20653ba9582f5c0d5ee3c1295390cfc3f6d",
+    "references/capabilities/一-卦中静交层次最低-它只能在同层次静交间发生生克-而不能去生.md": "491af7e4fc4717953689b02f0a56fe635b4fbc78ce26462fa2555da784ecfe32",
+    "references/capabilities/二-高层次交冲低层次交.md": "31b9fba2494578081a6b4e645cdfc726dfbdb697d88a5f034810bd99c26a6119",
+    "references/capabilities/4-子孙持世-是不利工作事业之象-因子孙为剥官制鬼之神-通常.md": "5093ae82e6c51d6c084f0dca8b899116ffeb068cfc1e75ca4f9e155fc0e31560",
+    "references/capabilities/一-普通考试.md": "16d1034dc55979bd42300adb929abd862f61b859a05b76474207e472fd72a596",
+    "references/capabilities/六-开商场.md": "0523404d51b864bc37be842c106bf09ff22869dd252c671387ea8cbd50e5d1d6",
+    "references/capabilities/求助-今天身体不适-请看看病在何处-有反馈哦.md": "f63fcc3992acade85179af3b686cc6bbc74c1e75b6985516fcbb0872dea37d35",
+    "references/overview.md": "2655a379a384bf8a71bb05780197427568d0d73b08e998c4d56f4ea9128bacb1",
+    "references/glossary.md": "cf248fc8891dbe95ac0047cb825d0454440a7c4aea323d2b3671aa8ba81cee18",
+    "references/cheatsheet.md": "8546e2a67ee9768aee63891f8857627bd753d020945e6ae46e67c552be895940",
+    "references/capability-index.md": "78341ee65f0a1dc82ee4513bf0114dc73cbfa010b82c21e83b4fd6469cf823a7",
+    "SKILL.md": "273198ea406af4c6e8e9e4be10c4d6dce0bc87498668b585d2abeb5596ab2f9d"
+  },
+  "generated_at": "2026-11-07T07:40:57.292329+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

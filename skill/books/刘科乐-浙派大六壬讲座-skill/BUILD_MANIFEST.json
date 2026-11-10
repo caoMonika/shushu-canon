@@ -1,0 +1,18 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 3,
+  "published_hashes": {
+    "references/capabilities/一-学壬的误区.md": "fd0572d21f5692ac8d5bd6c0d4c4c218d70b187bf4127af05665bd8f46368492",
+    "references/capabilities/二-六壬的缘起.md": "ccf15dce743aab8ba0a62e5815c9530a48f94982e70499f04d26a4ae399dccd7",
+    "references/capabilities/三-起课的奥义.md": "8b6f626b2c12796fc485da579dae310b7967a932f63be97f34559fcfcda7abb9",
+    "references/overview.md": "0379502dfb9baaca972f8b33d251c33e094c4c5577b9dbb910f19a61ce5ac34b",
+    "references/glossary.md": "7c22e6a16174660f5a91544ee149539b3e361c70053c0d3acc99f7bc93020695",
+    "references/cheatsheet.md": "cd38231a84a3c43f79d735981ea1c8efcfc5d76858368e675c5942521bd0e171",
+    "references/capability-index.md": "5ebe5d823c69fa45be19764ec46f75c35921fab741698288928dfaf279ab0d57",
+    "SKILL.md": "4ab8223296c8849ca3bb0ed87044c988b59e22f47ef87e14d16ecaa61d4888f4"
+  },
+  "generated_at": "2026-11-07T07:40:54.391192+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/姜托-惟當守正-不可人.md": "a9862d18b6f0e9504fbf6373a219eda9a83983673fe0c8a05a229ccb214aee46",
+    "references/capabilities/天時-夜占龍神發用-至未日有雨.md": "6abbb9bd09ae7820c9c69815d873ccb80fb7ac1d4400f82d272a04ac15394231",
+    "references/capabilities/家笔.md": "00a7d2f54a487b5cd45687945059e64e726c3873df4c332eb585949adedc0885",
+    "references/capabilities/捕亡-易獲.md": "87ea6002e10f1f3183512a62a529e0385ce065b7fb68164cb3f95a59b5012923",
+    "references/capabilities/天時-多小雨有電.md": "66e2a9a4b8b52a4d4e84f23fc7a57fec67a72d7fec406a1c864e2075217aface",
+    "references/capabilities/天時-有風-出旬乃雨.md": "f08ccfa91a6480118f6fe5ab4e1daf747e2da57235864d1a671c2e76230d8573",
+    "references/capabilities/天時-大雷雨.md": "7b54f7a93143c56255d8c3a5cc57471f51ec73f6c54f68c8dc0662c0a66446a0",
+    "references/capabilities/婚姻.md": "8427ec9eee8a0129c95ea136724304a18c1ada61c276ccf7ba7e43d4e7370fda",
+    "references/capabilities/家宅.md": "94d3851f2b3c0da20727d6329d0ff5dcf036b80f5295196192211d36449ce68a",
+    "references/capabilities/四-程明先撰辑之-青囊經義秘旨.md": "060d79b76721b92a8c73f198fe1c62fefb95634cd1c93c273f678049b5a4954a",
+    "references/capabilities/天時-晴雨調匀.md": "e328cba28b8cad9c8a2d8a956785b8f769438796ea95452a9b7b0eeac0ccd2ea",
+    "references/capabilities/天時-風多雨少-不久即晴.md": "cae426c7f5e812eb540f8841da181460494303e3cba72bdff9516c8e36df7300",
+    "references/overview.md": "e8f8e7c6a3b369256dfe37ad6f22cc2502b478abe40c6d3ad5c43d1732da0330",
+    "references/glossary.md": "6b417deb4cf4d464eb757fddd4f5c282cf1e5ed6b5e86260e1fc6be68c8caa2c",
+    "references/cheatsheet.md": "baa188e1c2135ed5c9d0a6dae8fb3f6d2f9a1610ff5eb8ff15086d79579bd75c",
+    "references/capability-index.md": "5683633b92bd05dba30535d8ba35a79a4d604669a73d8564c89234ac4792ed8e",
+    "SKILL.md": "4619e2e37b05581bfaa82eced98c57137aa9e02e12b498db1022d76ab9a92da3"
+  },
+  "generated_at": "2026-11-07T07:40:57.192530+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

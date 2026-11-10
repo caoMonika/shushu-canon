@@ -1,83 +1,66 @@
 ---
 name: 图解六壬3-skill
-description: >
-  用户要用《图解六壬3》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 图解六壬3。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《图解六壬3》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 图解六壬3。
 source_book: 《图解六壬3》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《图解六壬3》· RIA++ 蒸馏
+# 《图解六壬3》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 集术数、易学、天文、地理、中医等为一体，全面趋吉避凶的学说
+## 核心原则（常驻速览）
 
-> 《四库全书》文渊阁十二卷全本.300余幅图表，细致整理.深入解读
+1. 地支，以及源于易经的阴阳五行
+2. 以此为基础，发展出许多璀璨的
+3. 个信息的交汇，占课者便是以此
+4. 为后妃，主官廷阴私、妇女、胎产以及赏赐、恩泽等。
+5. 以及争斗之事，又主财帛之类的喜事。
+6. 现象，都可以按十二支神所属，
 
-> 丁为腾蛇，居丁已火位。腾蛇在天为车骑都尉，主
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《图解六壬3》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「【白话详解图解本】」相关的查阅/断法/方证问题 | references/capabilities/白话详解图解本.md | overview / cheatsheet |
+| 与「第三部」相关的查阅/断法/方证问题 | references/capabilities/第三部.md | overview / cheatsheet |
+| 与「第三部」相关的查阅/断法/方证问题 | references/capabilities/第三部-2.md | overview / cheatsheet |
+| 与「【白话提要】」相关的查阅/断法/方证问题 | references/capabilities/白话提要.md | overview / cheatsheet |
+| 与「第三部」相关的查阅/断法/方证问题 | references/capabilities/第三部-3.md | overview / cheatsheet |
+| 与「第三部·毕法赋」相关的查阅/断法/方证问题 | references/capabilities/第三部-毕法赋.md | overview / cheatsheet |
+| 与「图解六壬大全第三部·毕法赋」相关的查阅/断法/方证问题 | references/capabilities/图解六壬大全第三部-毕法赋.md | overview / cheatsheet |
+| 与「第三部」相关的查阅/断法/方证问题 | references/capabilities/第三部-4.md | overview / cheatsheet |
+| 与「【原文】」相关的查阅/断法/方证问题 | references/capabilities/原文.md | overview / cheatsheet |
+| 与「【原文】」相关的查阅/断法/方证问题 | references/capabilities/原文-2.md | overview / cheatsheet |
+| 与「【原文】」相关的查阅/断法/方证问题 | references/capabilities/原文-3.md | overview / cheatsheet |
+| 与「第三部·毕法赋」相关的查阅/断法/方证问题 | references/capabilities/第三部-毕法赋-2.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 卷九
-- 卷十《毕法赋》下
-- 卷十第十宫分野上
-- 卷十二十二宫分野下
-- 附录三：六壬大全·兵占卷，
-- 卷二神将释
-- 卷一人手法
-- 卷三六壬歌诀
-- 卷六课经二
-- 卷四六壬赋辞
-- 卷五课经一
-- 卷八课经四
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：卷九；卷十《毕法赋》下；卷十第十宫分野上；卷十二十二宫分野下；附录三：六壬大全·兵占卷，；卷二神将释；卷一人手法；卷三六壬歌诀
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《图解六壬3》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《图解六壬3》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

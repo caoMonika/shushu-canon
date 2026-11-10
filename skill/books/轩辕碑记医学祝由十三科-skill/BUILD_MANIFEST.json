@@ -1,0 +1,16 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 1,
+  "published_hashes": {
+    "references/capabilities/星禮斗第十三章.md": "78c00f5ebbc3fba7e56505ec2902e1ead39c9e9e283423d161f966945012ca59",
+    "references/overview.md": "ae15c9e5e5855d6c3f0b5ae4b6b3fdb8448c49c7cc47df81b17d81fbb83fcfb9",
+    "references/glossary.md": "df8fe6037ac82c203af07f8b97b336c649aa3afef0fb99df45496573f4c78cbe",
+    "references/cheatsheet.md": "0a7808916848e3d6774fb28a7cc143a2848e06bbffcab475cc95bcf3f142429f",
+    "references/capability-index.md": "65836e0a306f6c611bc19122ce46f80476be3f0fb39378eb2c59c37b2ab25bc6",
+    "SKILL.md": "ff2d1cd1551c91fb909e84b658d315b8bb40401fb2d871e5e3749a26a7f8c8c0"
+  },
+  "generated_at": "2026-11-07T07:40:51.905675+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

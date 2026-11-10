@@ -1,0 +1,16 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 1,
+  "published_hashes": {
+    "references/capabilities/三-集说-皆采集古人名论-有发明课体义蕴者-有详考王学源流者-细心.md": "0a20d8be5d118dd49c0b4fa73b1ab280ab9ea08d8dd9aed082b18415fb46b7e3",
+    "references/overview.md": "18b171220766aa76aaaaf0d16af49c8fac02799f5a2c6090eb7b76327d3a834f",
+    "references/glossary.md": "93d43e0a414cd00b57ccb683e7c221c25756635e67cad49e030e7fc86a42e729",
+    "references/cheatsheet.md": "d4f2926037eac6aae86f21cf53914fe049bf11094a4a98aad3ca9da085217b73",
+    "references/capability-index.md": "4e5c7da91edb18c768b55b5675560e181934ae97befa05055f77c945ac62950e",
+    "SKILL.md": "ee1ddc146ba9bcb9149c9f164489b8015529f4eac992e90e59e6d306cdb0f981"
+  },
+  "generated_at": "2026-11-07T07:40:53.027900+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

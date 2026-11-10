@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/57.md": "f6645269d14d465d3680312d5474d55f7cfbec0e1a44e4f3b6e29100d2073a31",
+    "references/capabilities/适应证-慢性骨髓炎.md": "d54cc02b6130e4330cf3c9cfacc3156465b9d7243c283b61abecc29f681e6257",
+    "references/capabilities/药物组成-乳香30-克-没药30克-全蝎30克-红花30.md": "555b9817d75a2bec2b84c26b032ef7d3887cf131eac24f0d42bb18b45274582d",
+    "references/capabilities/二-慢性胆囊炎.md": "e26c71691c72d50a9b1f4b83d38aabc90315fdd7d110449e5632eb4beea3fa65",
+    "references/capabilities/药物组成-党参9克-白术9克-泽泻9克-谷芽9克.md": "8e7ace21606f1b51641bbfd7324d45dc8ab9d965569f68d55dbdef0256c776cb",
+    "references/capabilities/用法-水煎-每日1剂-分3次服.md": "494481f3d4194f28a5c3c191f0d3dde9611fd1ceef0dae4525791c1bb4514ab4",
+    "references/capabilities/用法-水煎服-每日1剂.md": "bb5ce44b0bc5830a8336d2d9a1455e57eeb9ade9570f1c03c84f17949bac7c50",
+    "references/capabilities/药物组成-乳香6克-没药6克-参三七6克-桃仁6克.md": "368296ce64588fb3c819534651909f4a1e5693700e1de09312acbea6ade26a82",
+    "references/capabilities/用法-药浸酒内20分-加水250毫升-煎至沸腾后倒人盆.md": "30cc5a64629cb954402ca61a51e312b37c612f7e32ce4231bdfb64051cd4832f",
+    "references/capabilities/药物组成-桃仁12克-红花12克-熟地-30克-山药30.md": "5a0ad28cc1c86146fa91cbee2afcbd3a3eaca787cd52a8a9c2c58a71e7d3088e",
+    "references/capabilities/药物组成-黄芪-40-克-鹿角霜-20-克-白术-20-克-当归.md": "6a48edee6037e21502b560fbcc6263bd2425f5b942bcaeb66414d5b162f88afe",
+    "references/capabilities/用法-方①红参或高丽参另炖对人-后3味加水600毫升.md": "0299130fc1a1b9bac670954c15fe19ed197353c41d9589919c50c3b563956f5d",
+    "references/overview.md": "312be31da070c9d91fbacbb73c967a2fb26227f0509bb4a08e67e1f86b871cae",
+    "references/glossary.md": "9cdc662a91c0d1fdb95417417967976c60a82d6a58d22238831b2fe79fa18f4e",
+    "references/cheatsheet.md": "27d49c0242bab8484aa1b0a9fd24d29f8351c67e1afe1c867cce03e5c2eabbaa",
+    "references/capability-index.md": "5cd7bc52bdaf2af5a4cea8c2b26bf18ec3878971a6ff5183b46c5212296a363a",
+    "SKILL.md": "76a89eeecca312b848d9717ef0acb1bb743a39de5069afe69c2561bba3d8f1f8"
+  },
+  "generated_at": "2026-11-07T07:41:01.414722+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

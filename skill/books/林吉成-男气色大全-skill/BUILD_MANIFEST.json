@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/第四章-十二宫辩識氣色聯圖-23.md": "a553c30bd37eb4a8cd787cae687921892fddf1a15aeae177e809694d7fac27ea",
+    "references/capabilities/第二章五形人之分别.md": "a442badf7e13339f77bcf51d6b12a177e980367d2eb1f1b87bcdf861d14f259d",
+    "references/capabilities/三.md": "63a4833a21e744512163f7de7c1de9b55d0224caa6d79e288865aaac1c6f3322",
+    "references/capabilities/第七章.md": "f1967a6c72167d6555a0183b531d1b9726ba516c0984d821bec39cc1247477bf",
+    "references/capabilities/第九章十二宫氣色吉凶.md": "28f94431544af6fd4f11369367b5d7590d3b782729aefdd09695dd2bf90dcc14",
+    "references/capabilities/第十章十二宫年龄流年.md": "bef6474fdd22806553aa73e4d4ddbddaa0a0027798b4175be97e26018852eda6",
+    "references/capabilities/第十一章五魔六腑所發氣色吉凶.md": "929ef2e3beb3feba4cad52efb1e84fb3f3cffd4e64deb4baa565d953a3cf39df",
+    "references/capabilities/第十二章-十二宫男女配婚法.md": "f45e7480a92ae445ebdc44c637c827def460b4ad0476b12fe68d6ede2bd2eb7f",
+    "references/capabilities/第十三章-五形男女配婚法.md": "f5e06670e21f3e98b7479f088e3b9b7c7fa1d8bdd327fbd57adfbd8528841349",
+    "references/capabilities/第十四章五形合資創業成败.md": "e58d5eac0a9e4ac809404db8002a1b04877151ca83742a20021cd2dd0e40e814",
+    "references/capabilities/第十四章五形合資創業成败-2.md": "d2696a935cccac3268c2bc7b8d71c361e2b3e1325282fe9db2c3a8a25d4557a3",
+    "references/capabilities/第十七章.md": "18a981cabd54e727814d08c0018fa2f599280afdf32ea60f90c139f067e4455e",
+    "references/overview.md": "d4e0b7c26d73229cdb22c771397d47aded17964376eb9fe78ea9ebe6a207aca9",
+    "references/glossary.md": "09de293dcf9bb0bf20e68773716bbd27087371209e66e7f1a0a9a87fa0578789",
+    "references/cheatsheet.md": "c62f7ea4c871e940b479bfe4e259f52c0d347706d8e38158bf290f5d7307c208",
+    "references/capability-index.md": "317c7862f6bddaeb072a4fa7365f6ba0bb55cfae27914c1ce32c7bf90ef47add",
+    "SKILL.md": "c7dd7cb042b2ff0f21e5509af95ee605b2b8972de6738303f984b3e1b0fa7c12"
+  },
+  "generated_at": "2026-11-07T07:40:54.445447+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

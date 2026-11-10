@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/一-底本为繁体字刻本-抄本者-本次出版时均依.md": "c5fdd1ca5ee044c8e2157709ec89e04be89a185e7d0fde330cb1bc23a32134ac",
+    "references/capabilities/三-对于底本脱漏字-本次整理时进行了增补-新补.md": "671df8b86ff83c64bce8457c7246f91c878dac2807c199e04f5d777ea331f2c4",
+    "references/capabilities/九-底本中原有的注文-本次出版时均用小五号楷体.md": "0d9bc6b52022f74472300702baa91b5ec7a7bca4ec413765d1bcc41505e68ffa",
+    "references/capabilities/55.md": "6b77fbc14d6f089fa09196b374566d704cdba54eb73f088f0ce20fbdd04b0691",
+    "references/capabilities/98.md": "ce4311d255fdbff94cc48e4fd53bcd688799a2e407711f5c6680851e68a86f0f",
+    "references/capabilities/快-气气痰侵-照海有功议定.md": "c76fb0d09abbd8af38df722782496c4c1c2edaa3ddbd7291868554b643f6f2a6",
+    "references/capabilities/整理者按-图中有上下两个步廊穴-其中下侧步廊穴疑误-当删.md": "3b1dff45c31dd29c7080bb20260370696737d8493f24ed5d03e1637c6fe3537c",
+    "references/capabilities/一-凌门传授铜人指穴-概述.md": "8cceae4607c95a35ebd37e6f286c89c8e363561d7d516526d27e0a134a1a56f8",
+    "references/capabilities/二-凌门传授铜人指穴-特点.md": "7668112025e5fadb605228eff8cf3eef666139433709f13936ed85421f9f3ca0",
+    "references/capabilities/炼针法.md": "996cca719017c432479cf5468186ed8cabd2767b5634befbf5509a5d08787183",
+    "references/capabilities/一-针灸内篇-概述.md": "e3475ff76fb1c5bf89d362da71be910802027892f97a405997d654317cae1328",
+    "references/capabilities/二-针灸内篇-特点.md": "8d38444e4642fbc51d609da0c8d0055ecae5c8a21d3f23b2b9ff4101af988288",
+    "references/overview.md": "5b88c69dd02d6ac33fcad2bfb51296e1cb90cb2128d6ccc99ccdd4147587c421",
+    "references/glossary.md": "0464cbf5383fdf4ba4468fdfe842018cdb71d47dc4231826738b4077e17abb9d",
+    "references/cheatsheet.md": "388811476d6f311525da327423cb4f4d67e33296f14cbe571b875725cbfa5c87",
+    "references/capability-index.md": "7ca4803aad36dbb9e9c950f84ffad0cb328567e99a27518556999d96a26e4bd5",
+    "SKILL.md": "96e342e93ebe09ffa92780132c80fbb06ed7489abd07a15e2b296630e75921cd"
+  },
+  "generated_at": "2026-11-07T07:40:59.820099+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

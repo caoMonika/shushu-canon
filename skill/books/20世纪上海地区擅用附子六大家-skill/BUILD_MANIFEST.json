@@ -1,0 +1,16 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 1,
+  "published_hashes": {
+    "references/capabilities/15-陈耀堂-陈泽霖-陈梅芳1-附子在临床上之运用1-中医杂.md": "579c4253468813392d817d18665ca3021b4a2301b545ac10dff7ccf5288c8f58",
+    "references/overview.md": "1c166d0c50416178d68d693c4d5f8c2a2c569f37020f074af30a8d5c7c19af2f",
+    "references/glossary.md": "f0ccd7486cb3db8a7f7ce1e0b261cd5db79e0c84f7062fb87c5530b4929cdfa6",
+    "references/cheatsheet.md": "6a32bd42ed08aafba3866a65ffe13d9662c06fa8a8dbd9b19874736922865a15",
+    "references/capability-index.md": "592e57c0688fc625c3f557ffa76eba14c92903aa3a8f41d12360ebb83a16358f",
+    "SKILL.md": "e03cdbd313bb9a2de7d2c3cc283449b3e5637351cc982eb47dfdb377c455595b"
+  },
+  "generated_at": "2026-11-07T07:40:57.666528+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

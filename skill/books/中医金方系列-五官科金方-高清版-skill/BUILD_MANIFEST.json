@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/98.md": "173d28b6928f7854afcd7e9f538c59f4c9fc2af18e5e2d36c98a5b6a1258a6f2",
+    "references/capabilities/药物组成-柴胡10克-黄芩10克-积壳10克-白术10.md": "b42b6f15d28b07149a82e6b8f836e15e4dff7b2cd228d1637eda51269f4b10b9",
+    "references/capabilities/二-慢性闭角型青光眼.md": "12cb0eca92d05bdcd16c1625b8804186eaf9108058255c728149265bba5b96e1",
+    "references/capabilities/药物组成-黄芩10克-黄连10克-泽泻10克-柴胡10.md": "6025ab81c04d162ca256bd215288d999fcacaa8a8c03f0f5f0e37b776a99e246",
+    "references/capabilities/适应证-急性卡他性中耳炎.md": "bd1451a634973feb49b6344e68ea4443092c2d54b71e9546c4b6a506679cc18e",
+    "references/capabilities/药物组成-僵蚕15克-当归12克-桂枝10克-白芍10.md": "6e9b40c315d268c75baff798e8266ebd21be231f5a1dfc0a6e848c80c96e2ddd",
+    "references/capabilities/药物组成-党参6克-白术6克-泽泻6克-黄芪6克.md": "01b2806bf2cbb28737c05eef9185f01b09837dcae6cbb3bf63e7cebde5d3992e",
+    "references/capabilities/用法-上药加水煎煮2次-药液混合-分2次服-每日1.md": "082c1005ce1de3cb20197a5c97ff2ba943f0df466aab84e81540964e4c99d9c2",
+    "references/capabilities/用法-每日1剂-水煎-分2次服.md": "ae32a428beff604d4df81a82141a576bf39775b543b2e41b5ae464892374b424",
+    "references/capabilities/药物组成-银花40克-连翘40克-桔梗15克-牛蒡子.md": "5f5c01469e3122af930e008905fe73f893556ac0f932b8c99dee648fab3bf69f",
+    "references/capabilities/药物组成-七叶一枝花10克-夏枯草10克-银花10克.md": "88a526e49442b77a24fdd7668ba5342dc48fcc34519b4e8913c6642fc80442a9",
+    "references/capabilities/用法-上药粉碎-过20-40目筛后加工成袋装-沸开水泡.md": "3e88a7565141c9a256e0b5aaf7c4b3cb67be8388fdb32f422a1f017f3efb16cb",
+    "references/overview.md": "18a1aef1a47766feaa7c6ac6bdce28c3911fd982bb0fbefe21ed4a9003a6e017",
+    "references/glossary.md": "acf8ad377d8be9a458d93ff41dba45c975f61497cd27ff53acb11ce895b886b8",
+    "references/cheatsheet.md": "12a54f365291a7115a30143a5435e8ceeb04b5cda6e7cc96808248218d63ef53",
+    "references/capability-index.md": "a8487af8d2d33b2ee32aea73ffecc4628922b7d076b85fb975202abb65908f91",
+    "SKILL.md": "28d418a872028fe86334e09660c36bb54fe2dc816ed02dc31e2633fe356d13e9"
+  },
+  "generated_at": "2026-11-07T07:41:01.184402+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

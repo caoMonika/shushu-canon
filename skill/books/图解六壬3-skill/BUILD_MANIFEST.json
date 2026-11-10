@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/白话详解图解本.md": "4657f5c4295e9bcf4ad0c977000491bd17d23dc3968557fc6d98b96412fa348b",
+    "references/capabilities/第三部.md": "27209233933b5522c4340799ffd9167aa1985616d620e927435ea3860044271a",
+    "references/capabilities/第三部-2.md": "a7bc5785d7f6cd4d09d34497acb0aa0332f2c599fb8dab2029d03f5d7854a16d",
+    "references/capabilities/白话提要.md": "60333d9f1d4ff4eaa843f8b8137b7f379210b32815aa712e997eb0688e5ca02d",
+    "references/capabilities/第三部-3.md": "5550c86760b7a6c80a236e5d1b801f0926dd6e8ebaddf198c626663613401ef4",
+    "references/capabilities/第三部-毕法赋.md": "e5cb79ff5ffb3d51b47262a787c808b0d09c9e8d25c3a0a3ee54f5dced7b4a30",
+    "references/capabilities/图解六壬大全第三部-毕法赋.md": "ca9c11036322cd0c78b97693cc8b09517b12d8f689a26174cc05391a325e895b",
+    "references/capabilities/第三部-4.md": "07e1fb862be3dcc0a2a0c0b2f78219475a9dc309c2e5a2f398798ba5c9cb362f",
+    "references/capabilities/原文.md": "0e0309688bcfa1418cffba1dc4d7b6b9925ba251a098fd9c3e3cb5305b7a7bb7",
+    "references/capabilities/原文-2.md": "2a5c14a0e88bf452af5e87af0946ebfde54db0659c17b2adedf1695a7ad0c8e1",
+    "references/capabilities/原文-3.md": "edbc34180d48ca9898ba457669adc9801cef4d071b8b4f14f78b57e88d5302ff",
+    "references/capabilities/第三部-毕法赋-2.md": "916b1c9722e27dea488f13723c1ab4af1c200d1993b0cfbd8405919974e02960",
+    "references/overview.md": "2def93448348eb9522edc6855c97e247fe1e48595099409d522c9c2daf9513ab",
+    "references/glossary.md": "b04a70288598c65901de0272e666607ba866201fc6f4de3db1007bfee0c1a0e2",
+    "references/cheatsheet.md": "fa5c6d1abad5af826c82816562be42d2a3652df43e7edd6dad530fe55f3a72ee",
+    "references/capability-index.md": "d33a35dddddc4888e5ff51b74aa9ed34ca15505370e8ca88ce268e837def432c",
+    "SKILL.md": "5f63a6aab6e28a4ba5f3dbc10457f9c2dec47272730a912cbc0b6a6e8c85a686"
+  },
+  "generated_at": "2026-11-07T07:40:56.513128+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

@@ -1,0 +1,23 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 8,
+  "published_hashes": {
+    "references/capabilities/一-底本为繁体字刻本-抄本者-本次出版时均依.md": "fb4a00ce57ed1d296803cb837399e82c6e4311702fffada61c3690068bc08ab7",
+    "references/capabilities/三-对于底本脱漏字-本次整理时进行了增补-新补.md": "922f37f2f36ba1518c6ae5c818e046c7478ed90bfa2b1d5d318ef15295e728a5",
+    "references/capabilities/十一-为保留古籍原貌-本次整理时-对原书中的咒.md": "dec5c6cbffbea4b043bf3bf34088c8290a5b9c5ef4b3676f9c5731ca852a2e03",
+    "references/capabilities/98.md": "f5c5802925377c55bdf77d4c5db679efb1c281bc318c655eb0535876ded3db60",
+    "references/capabilities/手.md": "17c25e87daf4f98b88bcd9ea6cfbd7cf664f5984017cd7874f9728f182c9c51f",
+    "references/capabilities/一-图注八十一难经-概述.md": "7d49fed0c2da83d59bdab9020f4935bc4ad38aa18841918ad5d5f171cd14c37c",
+    "references/capabilities/二-图注八十一难经-特点.md": "0f14bce28b0253d0335b8811fb3bb606b15a5408e6d3fb74d87d7ad093da86e8",
+    "references/capabilities/3-李经纬-蔡景峰-中医人物辞典-M-上海-上海辞.md": "3292cfba2e07c223cd81d3b383795830944c2bb1ebb5b22ac9cd56124fbf66eb",
+    "references/overview.md": "7f453ad40d584f366938406a83cb7856270faa0e4231acf9e235ebce418920df",
+    "references/glossary.md": "0bbb78762b85e0d4f8e4b2ec228e3da34eab4be6b0fdabf3cceb257d85b6d2fc",
+    "references/cheatsheet.md": "61a8b81391dbce36aa04066f7a61b676ee67c03a4ab7fc3398a2edf5651f0de1",
+    "references/capability-index.md": "ecbe922ca8c6488e73568b0a1b7f31221cfa367dd06900f2a9091b07a72a933f",
+    "SKILL.md": "a43dd0bbcd0d42098b740ef970e9cdd44cd7bef86905d1b35d69cb91e5931e7e"
+  },
+  "generated_at": "2026-11-07T07:40:59.521208+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

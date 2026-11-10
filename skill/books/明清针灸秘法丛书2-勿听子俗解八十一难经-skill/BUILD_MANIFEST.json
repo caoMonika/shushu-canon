@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/一-底本为繁体字刻本-抄本者-本次出版时均依.md": "6607a39cfedb6c6d4f0bb7db1fc6994fc45c0953a4b4b7e4f152f2195477a5a3",
+    "references/capabilities/二难.md": "6ef8393604f96894d0676e4e8d7a3b7b953381d536f80915f01d0fa4994b542f",
+    "references/capabilities/九难.md": "c03a73e050bedcc5b2b21a2e7f2662a74568be424d078ca4ae46c74f8669159a",
+    "references/capabilities/十六难.md": "f2c43dba1e6cb4ff8a6a2a8da6ca291bab26856d56e2d11b187c804b9146ae6a",
+    "references/capabilities/二十二难.md": "b37e00678760d465d69442508dbc6b2e42a81bd72c7172ffcf08478e4b248a7e",
+    "references/capabilities/三十难.md": "10b49ac83348b422302c3528c615dd77ba9a95f259ae85971a199c8e27411cc9",
+    "references/capabilities/三十八难.md": "dd1faceb9ddbee8f313e21f49e1b8271202c2c53cb11571e0a82291fca276d67",
+    "references/capabilities/四十五难.md": "5be947cec97e04bc6d90cadb985724f29b2d7401f5e911e32d5085c5a72d5614",
+    "references/capabilities/五十二难.md": "f9d19f6309402d0aff80c6728e1bbe5146e5d5a4d889a89b49538b7ccab9798d",
+    "references/capabilities/六十一难.md": "6e8fe14cd0c5000c891df822e67129025687f4ea9960c1d594abe4e274eaf2d4",
+    "references/capabilities/六十七难.md": "6113c566696dcc09bb6c205374ae2d542dc2938ee3224a9764772a63156b831b",
+    "references/capabilities/七十七难.md": "bb6ba9c23d0169bbc6e1afa45ff03cab3f679a2e8431cf11af223ee1d3b0e174",
+    "references/overview.md": "919234e626150abe1c64402af83f7e651f30c411b64411e7975501d09e7a317e",
+    "references/glossary.md": "d77f28126fa02561075b0770af19b3f1b60e99c122ea6b504e5fee887e0a0161",
+    "references/cheatsheet.md": "aada276beb9adad3d0bf52d7435d1659ebc19a420823c425b39ce8db1e72e5ea",
+    "references/capability-index.md": "c649316f57edd582ffeda0bc398a19a26b373df2bf21e6892dc6b7a9e778d2a0",
+    "SKILL.md": "e5acb486e6223a69a8be87b2ce7ea94510c6deeadf0603ae89b3ad0dc6e3ab5f"
+  },
+  "generated_at": "2026-11-07T07:40:59.529392+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

@@ -1,0 +1,17 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 2,
+  "published_hashes": {
+    "references/capabilities/第三章烯黏新航墓.md": "ac9d08279515a0aca62f97790b2de08b50cb1b1eade1a021c9ad7426281c0b6b",
+    "references/capabilities/第十五章蜓腹粥.md": "26ce66f2287aaeb252d9110899a75175b2c6cf8e696f22b4553e6a47131cdfdd",
+    "references/overview.md": "397b92e8fdcb08edeacf33a0c0807201c31bbc3bcece0a53f1e59c10161b23e9",
+    "references/glossary.md": "8d89b1f44f372073d4d321e9fb01423168d9a0b5d555a567e7f59b56711b53da",
+    "references/cheatsheet.md": "7d49cf7d583b0bc94e35ed7791ff8ab07cf00fcf704dcb22a007f1ca17667272",
+    "references/capability-index.md": "1402e4b47ee5774cdbb8c91b971b8125572737d0bed22f83d5de8f5578c854e0",
+    "SKILL.md": "985ad37cc361fa8aea2994f88271dc049b9528569ee998fad375d72c462c7e6c"
+  },
+  "generated_at": "2026-11-07T07:40:51.605115+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

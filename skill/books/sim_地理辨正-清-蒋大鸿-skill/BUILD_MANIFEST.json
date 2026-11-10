@@ -1,0 +1,25 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 10,
+  "published_hashes": {
+    "references/capabilities/第一章-青囊奥语.md": "f47ce7d20c2dc9171dadf59216c714d0945bc383f4421456dc2c59a7718920d4",
+    "references/capabilities/劝君再把星辰辨-吉凶祸福如神见-识得此篇真妙微-又见郭璞再出现.md": "ad8fcc32f208d06ec9604e519cb54a3074a89540c1f2404a2e4c9c9c1d21e4a0",
+    "references/capabilities/父母排来到子息-须去认生克-水上排龙点位分-兄弟更子孙.md": "ad6efefbd79cd523940b18d92b9b3b5445c539c4eaf6a4898a6ff89c8d5b6b71",
+    "references/capabilities/五行位中出一位-仔细秘中记-假若来龙骨不真-从此误千人.md": "f724c6b516f0d1c95c8dc9ac41e7d68c5f3e4717192137c8840754ea6d4c4fcc",
+    "references/capabilities/依得四神为第一-官职无休息-穴上八卦要知情-穴内卦装清.md": "06d5581f7df5ffbfa137896b435d3efa15448375d91a33e8fba3d729358d7021",
+    "references/capabilities/一龙宫中水便行-子息受艰辛-四三二一龙逆去-四子均荣贵-龙行位远主离乡-四位发.md": "922d0a0802812a423d8f6ae6d6354c1fd75edbde20d493c30883780ca19f94ae",
+    "references/capabilities/天下军州总住空-何曾撑着后头龙-祗向水神朝处取-莫说后无主-立穴动静中间求-须.md": "086f6b264129c1bc0a58107265e3dc598701963c2d8968cb8bc571ecdd100531",
+    "references/capabilities/都天大卦总阴阳-玩水观山有主张-能知山情与水意-配合方可论阴阳.md": "1da84462b967385d82da64f309977d9243856fdd65d0bc422fb8648f6fb0ba32",
+    "references/capabilities/前水来朝又摆头-淫邪凶恶不知羞-干流自是名绳索-自缢因公败可忧.md": "7a9b74cc851daa38a85a676c34dd20d35e756c20d5adea08dffe09664046bff3",
+    "references/capabilities/龙若直来不带关-支兼干出是福山-立得吉向无差误-催禄催官指日间.md": "3827fefaab3db522a30969f64b605bf6063482f796f1eb3761e4cec7ea35cd58",
+    "references/overview.md": "3923f4d34f370d3ac9ef519da75c4db93e124480bf4c055c39135c0c663eb2b4",
+    "references/glossary.md": "66e5a769657157acc60f2090bb0aa395f18b46aa2813ed727e21690bd0a26a45",
+    "references/cheatsheet.md": "8dad39ffe5e0b5042c50a6a2c6eeb948e4e168e829d970cfd33842d5a7ada423",
+    "references/capability-index.md": "fc435b55df6632fdcc08d7ab0c2d11791db7f8c2a3fdb8b141afa7497d9b257e",
+    "SKILL.md": "4e852d80c84cd600fe3e9ad7a9cee294fb2b27ada2c2d2cf796e8c56f5a0a891"
+  },
+  "generated_at": "2026-11-07T07:41:02.610497+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

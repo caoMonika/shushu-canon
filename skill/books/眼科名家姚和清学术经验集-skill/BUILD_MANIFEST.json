@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/九-流泪症.md": "c685e7017d4f46ca4802d4db24f9046c2b2aa72cccd4909dbc47ba139a443a5d",
+    "references/capabilities/一-火胀大头-眼脸丹毒.md": "4baf9c0d58f01dadbf1b83ba4bb40d04e85764d2c67fd3a978f00ca3356a1ae3",
+    "references/capabilities/六-脸废-眼脸下垂.md": "b945f0e76428008313e145845d061312b1c5089dab2c3f2d102c6e0f9965a9cd",
+    "references/capabilities/十二-泪不禁.md": "d571a9cf684e485b22f68c834da912c786e7596fe34ec09e0d9444030ada6359",
+    "references/capabilities/十六-痒若虫行-春季结膜炎.md": "b35750b02142cc418c511244f32b68582c26d6e353bf42e2f8c9f55a95c8ad36",
+    "references/capabilities/二十二-陷.md": "f4b46181b9f19963aab9385c99c6a270e488eb673c23adba1986124cb64496bf",
+    "references/capabilities/二十七-妄见.md": "c177076c36f9c591f00e8d90b816f64244845f1c19690aa136f910a47c83cae1",
+    "references/capabilities/三十一-青盲-视网膜退行性变-视神经炎与.md": "d4d0383ce843f18d5b31abf2ba84b465a0924ad3cb70f59d3bddbc01df7e159e",
+    "references/capabilities/五-瞳神干缺.md": "372d6ecbdb27c21ee49a6f23d626b2016ec19607f4a99f43177bd674fcfa8a49",
+    "references/capabilities/一-补中益气汤治疗眼脸下垂病例简介.md": "da99779a52dfc6e72f809edb6b35f505deb563b146db49097b5e95038cc2da18",
+    "references/capabilities/五-中医对角膜软化症的认识.md": "358897c3e66347af25aea6b7f8eeea13ef25d785dbf3c9085049aaf39d822f31",
+    "references/capabilities/十-针术治疗白内障的初步介绍.md": "2f6e1f421e027ec0a572ed693e19b90aa4bec5b6ee789ffd90f6850bce96a58f",
+    "references/overview.md": "2242b0d5d2593a499eb0cf713edaeda5aeb792893524e914d4923c3b8cd7f85a",
+    "references/glossary.md": "185196857875bd76a5de317472331db54cbb768d05c289acf85a763ab3410d1a",
+    "references/cheatsheet.md": "923c843b58c0cbfe902f9bdd6c366c876927ef3db4fc82bb28d4368578bb56e3",
+    "references/capability-index.md": "7acfbb27344fac161ecafa94e49b084f1243bea39532617d3f21367eff51860d",
+    "SKILL.md": "bfb8b18efc12eac7854073b545d6b7d038d54a7ba2261d65b67f1f033b2e572f"
+  },
+  "generated_at": "2026-11-07T07:40:56.467589+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

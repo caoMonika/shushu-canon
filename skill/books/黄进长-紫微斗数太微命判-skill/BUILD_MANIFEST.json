@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/三-大限無四化-流年有四化.md": "800c2de8ea1882966d387dd2295cc958a4dd2cbcc742e567b09ba80424d949ae",
+    "references/capabilities/一第二章星.md": "99058b2a82cde06465450182fbf40ab57c1759eb789be1b7643cd87dedbc92cf",
+    "references/capabilities/一第四章泛瀚四大主星用盤之性.md": "0b0ab503a857d2cb4949671e83e27a7f58f217ebf3614b803b11ee6c14919d82",
+    "references/capabilities/一第五章案例解析.md": "448f74bc3ba2b13294346324a6013710a2333c79d4ff618c4b6b8497e97c7403",
+    "references/capabilities/第五章.md": "36d303bf0eb9cf61ae82b54935033e37eabd146aeabcbc51fc2d5326e3839919",
+    "references/capabilities/一第五章.md": "973b60b9d4ee590b16df65e4b5244d118f8e0ddf12864dbbcafc3546e6e70e17",
+    "references/capabilities/第五章案例解析.md": "506e269c965ff69e4749cdbfa7d8cc1723e511977e9486f6fb3c4183515811bd",
+    "references/capabilities/第五章案例解析-2.md": "a24469f0bc82c0af56a1ca25db223a2d0373e235204ab81b26cb8739f0a6b634",
+    "references/capabilities/第五章案例解析-3.md": "fc51ac7450915b48c3ff813d2ff872378b802930e5c86b0be0017daa99393ebc",
+    "references/capabilities/第五章案例解析-4.md": "26560e2cf6b471b109bd5b7e1ad0067c96aed752e08f907ea0e160d7f0db309e",
+    "references/capabilities/一第五章-2.md": "b8adbcf1541dc23b798ec9d5e3b6dd51576709dd5af8c74e783f663383a87e43",
+    "references/capabilities/第五章案例解析-5.md": "15a98c2910de3ceb10ace47802ab3213b9b279f31a490b5e7009a81b1255ec94",
+    "references/overview.md": "41133abfa64aa3eb565cb0eb873e1965303c88a5119eeb476accea38fa8a01db",
+    "references/glossary.md": "f506e111b3ac2b14eb282e561e83b3b5f7acc5b7c7392d5d3a76967ad364e6a0",
+    "references/cheatsheet.md": "aebbae8a3a5bfb52014b68958e18f6ea6376436bca68a53cdd935593278fc584",
+    "references/capability-index.md": "4bcd09a61d469dd3001c0014e5f038d7a98b7a346a2495a9452271e31bcfb03f",
+    "SKILL.md": "718aa01c27f85c505a2739ec1ff1d46daae98c8e5f10765e152a1e7f636648e6"
+  },
+  "generated_at": "2026-11-07T07:40:53.865227+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

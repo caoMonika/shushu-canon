@@ -1,0 +1,16 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 1,
+  "published_hashes": {
+    "references/capabilities/一-地分-田宅-子孙-奴仆-鞍马-六畜.md": "f17b286b7c490a7292e9b547b205c3d933dc3a949b91fe39c9d53de495d61199",
+    "references/overview.md": "6b06d3dd6ef3817b1b482220fb645217030747601d425632cf910394759789d2",
+    "references/glossary.md": "ecdccbf6fb65af25092db6ca03599045ab170dcd8e41312a3a726a802ce9550e",
+    "references/cheatsheet.md": "f28629f2f9c5ff36ce70ff76acc5a2bd6aff7c78451b82ef1ab1019d040cd187",
+    "references/capability-index.md": "e460d1e082e899a71c3e30e6ca0cf914bf3019a83ea3749a253de7becc7ee974",
+    "SKILL.md": "7f60bd962f4e50ffac699321887deca2a8d2d44a8858a5667b90263564b5ae2b"
+  },
+  "generated_at": "2026-11-07T07:41:03.544618+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

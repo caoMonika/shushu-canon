@@ -1,0 +1,20 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 5,
+  "published_hashes": {
+    "references/capabilities/六-陽更主顯達.md": "a47560ba2210a9aa6970f3cd08f4fc0c8638004d389a2d4fc29ece2906aef5ff",
+    "references/capabilities/二-孤春月春也用.md": "7376a47ffa2e9459d3b320e1cc45bc9f808b579f8b7981bdd7a8f48bbfcd0ca8",
+    "references/capabilities/二.md": "aea3e0d07a9d74eee9009e4c6229f8fa61a96dc84011c8d23f75a795148da884",
+    "references/capabilities/二-符.md": "45a29618387d0ef34cf0a1bad7b57a1f6e4276dab468c0716f46e629b2f63f1b",
+    "references/capabilities/十-心.md": "2daf447b725d54fbb871a8d4971b8e36ac4d9e2aa685f635bad95eb72b4418a3",
+    "references/overview.md": "f1f5376d3ead87851e0aee9fa6c7342c1802cc3dab5deb3ef5b13cd6d8864a22",
+    "references/glossary.md": "83f829d913f13606d34d67ba7eb5e138d40bee1ef464e3658efd406d8332b898",
+    "references/cheatsheet.md": "bbcdc6cf7bd55d40e7cf37fd4b2a97820684173536b3ab727efba9ffba6cfc6d",
+    "references/capability-index.md": "41ac610e4a20deaa462a576ea71700793ea27de846a1e46c2cf868f8ff54406d",
+    "SKILL.md": "682e2578913295cbee9359d96ce4f361c8e17b903f167e1e5fd38d74471a373e"
+  },
+  "generated_at": "2026-11-07T07:40:51.835455+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

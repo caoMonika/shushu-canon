@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/上體者頭也見于第六篇其之者.md": "1c84cbc6cdfa3becf2a57e8d8e4f63bf630b16705ea2a52da0f1d4efeaec7f11",
+    "references/capabilities/者見于第十九篇之上下谷二指.md": "6c827e8a5ce96cff8ef9c9f398409b81449633ea263ad841cd61489f03f0bb8d",
+    "references/capabilities/人所以-養-小兒-者也見于第十三篇.md": "2148965a94b36a02b6c9fa4e2b0888b0306b4408e7887646c12cce0343cb8d04",
+    "references/capabilities/舌骨见干第十二篇.md": "74a5b4267831970d5178d3c1cdec8dada13bd3acb7e97c7b85059a51fa8a658a",
+    "references/capabilities/矣-一日二三四加見于第五篇.md": "581a03b41444f60060a58c450e87c5747f857d502d33f7689fcaa36797e693f0",
+    "references/capabilities/之孔也-見于第五篇.md": "2043e959ceb256b4771addc82536d71541be66f837f4ec234ac350aa20f4fa64",
+    "references/capabilities/第五一篇.md": "9c82a892efc12f6d81c16ab3cb973c8e2faca4ab04ba9e08d170471164be9f6b",
+    "references/capabilities/第十六七篇.md": "ae45069d2e47ccfd4c5320e0df8281362fb38e8167b04eb1f0329e8e22c773c7",
+    "references/capabilities/其别者-見于第二十七篇.md": "c4371ce0492a958ce0dcec74a5a52440b5a0d442a93067fd16428b2d51ba1cbe",
+    "references/capabilities/肠見于第二十篇.md": "412ea8449bdc8f3d59842afd9d6557162d13cef7911832a7746ccebc913f27d4",
+    "references/capabilities/也見干第十六篇.md": "f74f71bc2cee4f21b1cb95f76f7424f8829c81c64943f487d98a3e95f53b20f4",
+    "references/capabilities/筋有三部如其状第三篇八符.md": "9ea741cd51fb360ebb960d9ad8a6e77041485469e15a98e87ca90f7c8c113553",
+    "references/overview.md": "301f6d50ea478b8e21452810055e2bd4504e4cae660799385332ac829c38d28a",
+    "references/glossary.md": "b9163abcc417097d84e60aac4f14e283c671b0340f78024a0992746450482903",
+    "references/cheatsheet.md": "f6bb23aa586d3f55938858efe64b82363c9d9dd30fa7b327d99b60f191441a54",
+    "references/capability-index.md": "761afcc1caaf90702b4405702a0b38aab6c188c3ccc06069fa1e8bf83b010119",
+    "SKILL.md": "b900af0880f455c0263e52b1f32f5190af4d95c82aac197d4dcb21f91c4b4802"
+  },
+  "generated_at": "2026-11-07T07:40:59.036105+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

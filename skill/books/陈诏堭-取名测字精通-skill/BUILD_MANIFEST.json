@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/02-23621183.md": "d51bd64875fddfc90624e44b2cf047292e72eff1c4cec5f074809accf64ae0c4",
+    "references/capabilities/一一九.md": "7e75ce9b5c1ae18d988d0432c9c05f451f5aa1c84c619e897e932bb115cfa856",
+    "references/capabilities/三-字义的选择.md": "da239f9053e227266b5fc0c8a1fd1c75a93b98800d98a1f2f5943b94ab78ab6b",
+    "references/capabilities/第二章-怎样改名化解凶祸.md": "abee7a3cde80379f9ea40c8bbf1fb8ec76d8436a012e1f3bf1a9db2c230070aa",
+    "references/capabilities/1-甲-庄茂林先生八了.md": "5991dcaacd878c2979e0bc32dc5cf63d8512c1912c9260073c73aa15e84e78fc",
+    "references/capabilities/15-病一旺衰补运之一-中凶-司徒劳-虚弱-过劳-疾.md": "0c991b87ad183e98ddb07edec6439227d4d9aa9e1d3e2a030404546062b3c834",
+    "references/capabilities/14-偏官-一十神宿星之一-顽刚争斗-有扶弱理强的侠义.md": "0ff27f9f293c8676dcdd230819cc24284c64dbff1f32c568204369e56128ab30",
+    "references/capabilities/二-木部.md": "0f865fd167c0602560ec5538a33fa20a0b84517399e36d200d290c6a5ea8f9ed",
+    "references/capabilities/四-火部.md": "3bb14c547af820f2bbb8ea6cbeb0859342308bb7f1a2cb10c46e427c047cf4c9",
+    "references/capabilities/第六章取名常用吉凶字典.md": "54ee49254519af10af118a3d7b222d67096f4ee55578eb86d2e524bb0b8d97dc",
+    "references/capabilities/三-水部.md": "e21e7a3ccc1cbec0af2d5ac4eb457b8d7308d2ff120b31107252940fffedbcb2",
+    "references/capabilities/四-土部.md": "14d02a4b899de93bc1f0a0a50c4593a39252090aaad272b4faa500cc12210caa",
+    "references/overview.md": "5137e3eeeea764ddf5ef346c6678ee2f61039308eefcc412a73ff07eb7cdb115",
+    "references/glossary.md": "51a78b00cafafc68c280f2322fd6dd2ec2c34106805886b06b494ed23481acd9",
+    "references/cheatsheet.md": "1a186b162dc76255482651a95b9b308274b7174abf5c9b9f83bb3872f0d936f9",
+    "references/capability-index.md": "1a1b5bd02763ed3db44b3a244b9bff96483f08b5af42f73909c7b1fcb007ab5a",
+    "SKILL.md": "0a48f14c3c4c0ee9ab82a16ae3cacb14d91260b8139c79a2feec50d1a44ccb11"
+  },
+  "generated_at": "2026-11-07T07:40:52.828918+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

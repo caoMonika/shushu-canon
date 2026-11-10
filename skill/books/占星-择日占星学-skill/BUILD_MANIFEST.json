@@ -1,0 +1,24 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 9,
+  "published_hashes": {
+    "references/capabilities/目录-微.md": "44511e0df5deaec26b8096a2e2a10ed860a4ef96b2673ce9b7298c1d53164b6a",
+    "references/capabilities/第二章择日原则.md": "4621ded05b0a92178102f220494fe31c8d9debc886ad90b19c2c6ee69dd39b60",
+    "references/capabilities/第三章实例说明.md": "e9e955e4ce66913d5c94f88059599cd3b1c229edcacde72a60433c62ba8c4141",
+    "references/capabilities/第一章基本概念理子.md": "cfedad3e31f3273f8ef38fe5cc1799050ad54a6a388a7b8d9579f5195f520944",
+    "references/capabilities/3-变动宫-包括申宫-已宫-寅宫和亥宫-是一种缓和已.md": "6cb1fd3e3375e2bd0593ec028b680475807adfb56f95263e65656a8bb12567d2",
+    "references/capabilities/第二章择日原则已.md": "4b59b1713e81db527d25fec6c580deff60dbb937c9d10fbf21ef6109feee859f",
+    "references/capabilities/因此-如果从心灵或精神的角度来看待择日的话-这就如同第一章中所提到过的鸟类的飞行.md": "3bcd5d2131e8111ceaa76bd4744fcfd5dc74dd6131987a278a71e3cfc3db60c9",
+    "references/capabilities/第三章实例说明理.md": "3e95819841340433784f5b1d70a18985fd089ddef70a0d15a8cc1c3db57fd2d4",
+    "references/capabilities/典礼具有特殊意义-或者是具有特殊性诉求的话-如前面第二章所举例的雷根加州州长的就.md": "62a78ad5bb06bb008304804b7b7e0e8d86d044f940f9ac1e2f6b675d111273a0",
+    "references/overview.md": "2ece50e73bee3bb87d0bfe2e53047f427619cdca75e54efff086ea852cdc95fb",
+    "references/glossary.md": "f8ed8208a2c618cda965fcc0f881713922d884ca5e57a1c49c1883fc0959d56a",
+    "references/cheatsheet.md": "33be036cd49b6b8f66467414700d07065b6bca40a923a1fbd5a4976a424fdd59",
+    "references/capability-index.md": "797baa93e6495d33da51af9b52b47c1ce017511128d964bf5a13287709c3e043",
+    "SKILL.md": "b0e18f1d79e97f5c0167b509e5a560beb42dc795835806cfced2f47e565411ae"
+  },
+  "generated_at": "2026-11-07T07:40:56.830819+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

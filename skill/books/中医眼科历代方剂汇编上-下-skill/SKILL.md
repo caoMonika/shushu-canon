@@ -1,83 +1,66 @@
 ---
 name: 中医眼科历代方剂汇编上-下-skill
-description: >
-  用户要用《中医眼科历代方剂汇编上、下》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 中医眼科历代方剂。OCR自动蒸馏，请核对原书。
+description: |
+  用户询问《中医眼科历代方剂汇编上、下》方证/治法/医案/条文，或本书未单列意图时调用本路由。 不适用于：不构成医疗建议；急症须就医。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 方证, 治法, 医案, 中医眼科历代方剂汇编上、下。
 source_book: 《中医眼科历代方剂汇编上、下》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, tcm]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《中医眼科历代方剂汇编上、下》· RIA++ 蒸馏
+# 《中医眼科历代方剂汇编上、下》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不构成医疗建议；急症须就医。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> （按笔划及首笔（、工一工：工/工]的顺序）
+## 核心原则（常驻速览）
 
-> 公猪胆一枚去皮取汁入锅内麒成膏白1.2克乳汁1克事荠
+1. 研细末，以乳汁和调，使用。
+2. 入。合用姜、连、片、胆，大热大寒以制之。所谓“从其所欲，
+3. 折以所畏”，或更嘀通天散（10~242），熏服胜风汤（9一412）。
+4. 捣烂敷眼胞上。或为末，以鸡子清调匀敷之。
+5. 治清泪时流，阳气归肝，阴气归肾，肝肾位左，故以为名。
+6. 荒蔚子10克褚实子10克夏枯草10克·九味滋养肝中阳气兼以琥风而实孔窍
 
-> 1一3一捻金（图书集成、准绳、奇效、普济、济生）
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《中医眼科历代方剂汇编上、下》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「[ - ]」相关的查阅/断法/方证问题 | references/capabilities/cap-1.md | overview / cheatsheet |
+| 与「（51)」相关的查阅/断法/方证问题 | references/capabilities/51.md | overview / cheatsheet |
+| 与「二、迎风流泪··」相关的查阅/断法/方证问题 | references/capabilities/二-迎风流泪.md | overview / cheatsheet |
+| 与「一、天吊····」相关的查阅/断法/方证问题 | references/capabilities/一-天吊.md | overview / cheatsheet |
+| 与「（43）」相关的查阅/断法/方证问题 | references/capabilities/43.md | overview / cheatsheet |
+| 与「（81)」相关的查阅/断法/方证问题 | references/capabilities/81.md | overview / cheatsheet |
+| 与「（15）」相关的查阅/断法/方证问题 | references/capabilities/15.md | overview / cheatsheet |
+| 与「（75)」相关的查阅/断法/方证问题 | references/capabilities/75.md | overview / cheatsheet |
+| 与「五、偏正头风」相关的查阅/断法/方证问题 | references/capabilities/五-偏正头风.md | overview / cheatsheet |
+| 与「（92)」相关的查阅/断法/方证问题 | references/capabilities/92.md | overview / cheatsheet |
+| 与「（39）」相关的查阅/断法/方证问题 | references/capabilities/39.md | overview / cheatsheet |
+| 与「（83）」相关的查阅/断法/方证问题 | references/capabilities/83.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 七、冬十，候日数已足，入洁净大锅内。慢火熬至药枯浮起为度，
-- 一、二剂，再加大温者。
-- 五、七次，作二度使。
-- 8一2视星羔一名卷舜羔（普济）
-- 五、六次即效。亦治眼赤肉，风眼疼痛。
-- 三、四日晴必坏，五、六日不可为矣！急性生地、芙蓉花、土郁
-- 三、五次点眼。
-- 白芷甘草大豆黄卷妙·各等分
-- 三、冬七日滤去渣，以渣复愈三、四次，取尽药力，以熟密绢开
-- 八、九月取莲汁。
-- 八、九月取莲子草汁修合佳。
-- 三、眼丹
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：七、冬十，候日数已足，入洁净大锅内。慢火熬至药枯浮起为度，；一、二剂，再加大温者。；五、七次，作二度使。；8一2视星羔一名卷舜羔（普济）；五、六次即效。亦治眼赤肉，风眼疼痛。；三、四日晴必坏，五、六日不可为矣！急性生地、芙蓉花、土郁；三、五次点眼。；白芷甘草大豆黄卷妙·各等分
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《中医眼科历代方剂汇编上、下》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《中医眼科历代方剂汇编上、下》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

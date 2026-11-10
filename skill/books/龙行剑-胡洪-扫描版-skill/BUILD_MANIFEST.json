@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/二-龙行剑的手-眼-身-步-心法.md": "1dd33e6e8ad7dfcd5a63ca4dabf20b7a80b965c79a535529e109230a5818e940",
+    "references/capabilities/五-龙行剑术名.md": "366644eb39509f814b4842b9c6f21e20700d64507a030c416f44f9c7d21ad2de",
+    "references/capabilities/二-肘底剑动作分解.md": "fb2cc57f8ae3bc7570130059848f562204a7742f1b33304e825b435f386fa8c9",
+    "references/capabilities/十-業燕儷翼功作說明.md": "f2a977aef11224e5906446ae808adbda77068938075600a0daf424721d040525",
+    "references/capabilities/十五-力劈华山动作說明.md": "54fd232568448af3683ab65546c0d3b1987b93fd10f16d32bf9e03ac6a7d268b",
+    "references/capabilities/十九-横扫千軍-动作分解.md": "4a4b9ca9c7ca895d06c55fda17fbc923cac1a86b105318a6702d5f1a283dd1ab",
+    "references/capabilities/二十五-麟立幾群-动作說明.md": "b30a970b9e2bb84eface51e0ae39a0d221414fbeb40d1d084665bcc529a68a59",
+    "references/capabilities/三十-燕子探海-动作說明.md": "9c26c829549f527146913d1d05b1c336dabe15d0503ba9fced059f96bd8e1ef7",
+    "references/capabilities/三十八-白蛇吐信动作分解.md": "648f959e4fb4b933f1a8c64885b05da0336ec97eb0e260266bff31b3ff17e19a",
+    "references/capabilities/四十一-白猿献果-动作說明.md": "bd0dd2e3d2ecd5d854cad4b1b5fc07d1446b2a375b599551b05740c382ec7fa3",
+    "references/capabilities/四十五-大蟒翻身动作分解.md": "9033125ff45773205c0bd08fe68ed2cdf26ddb00bc325e4786567f4235d07c2d",
+    "references/capabilities/五十一-左右烏龙紋柱动作分解.md": "0396dc2b757a7f113a948af1ba03c735e2b3a08a1356019abd7a2bdc78cf0cf9",
+    "references/overview.md": "f86ae31b5e32f5c17ae44cde4b9152150f84aa0fd167558603120774bc6f4cce",
+    "references/glossary.md": "0ea8d483d98abf534cab6dfeddf623d6e6cd02998d5ed5946df4821eee52f694",
+    "references/cheatsheet.md": "4898206ec9718a4807614b72ee6f8604269d16e6e3bf0dcacc4c356aa0abaa6e",
+    "references/capability-index.md": "f7ee7bee464a8ae7dcec683f111e4a47562370c6e306d614784982cb8241ee0a",
+    "SKILL.md": "4f9eefa0e60681601ed0154b5af60892c48cf54dcd08651fd8ce9b1b784a62ff"
+  },
+  "generated_at": "2026-11-07T07:40:50.743395+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

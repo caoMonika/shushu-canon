@@ -1,0 +1,22 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 7,
+  "published_hashes": {
+    "references/capabilities/第1段.md": "0708302fa4c74d746e5adbb5359b24d9ee46cb8d097757aa9cf0e564db9adc34",
+    "references/capabilities/第2段.md": "0f783576481f256a40d9a6969d10733031cbe494576744bde99b11b9e7cbeee0",
+    "references/capabilities/第3段.md": "a3b82ab20efd1fb4a3889d458d0d2daad094fc09c28d3108039a38e390088794",
+    "references/capabilities/第4段.md": "7e3ea974dfdf909ebd64cb3d9804105ba889d91eebddeda2a6f337d474bc2652",
+    "references/capabilities/第5段.md": "b668372d6b9fd65432371a3cf9cbfde8e9947cb456d1b7609e0ce44c335ac028",
+    "references/capabilities/第6段.md": "95c19080a314f1cb87813a27a899d77665e9c6d85a6487f15ed30e5b61bfc2d8",
+    "references/capabilities/第7段.md": "b0e02bf5a0d7db7c0bc9af875d963bd50c925b624bd47cbd00ec1333983a070b",
+    "references/overview.md": "28b41d245c0b8ecaa7d92d60e4aec69f2338507e277f547407a7f12448c26ee3",
+    "references/glossary.md": "f2183f3e0aa3067d618e2bd0814dfe5bb846ca11b31504f977b20b1d32f97cc4",
+    "references/cheatsheet.md": "208709f9ab5dacc3e2761a5a06ce7462e8353975779003df4e9b76e1a43e50df",
+    "references/capability-index.md": "722277c107b47af611c28123342cb7ced32d3ca90e56ffcefc0efbf92c8e3bdc",
+    "SKILL.md": "bb8f080594dcf6d9a1a0c11ca580a4ea4e1121866e625608dfcd8eba81fe5b0e"
+  },
+  "generated_at": "2026-11-07T07:41:02.670442+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

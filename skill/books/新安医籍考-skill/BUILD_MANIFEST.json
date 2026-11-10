@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/求条晰博辨-考镜源流-故此书的编成-堪称是我国第一部地区性.md": "9c12d5a92c1ab2f8d747b99b643791c616984be92d23cbc5a24a59c6e74661ad",
+    "references/capabilities/二-伤.md": "dad8990b6db0de4cb86715580a7b35facfe9eb9a79d885a24add6d12e5ab7259",
+    "references/capabilities/九-方.md": "2c5c169d4cc870a657399dfcdb80dc5a42179960931b6903c24b733868eb6e83",
+    "references/capabilities/十五-附.md": "dbd54eb01a87f460a55c6a7d9efc3dba396a4e23f7724537f6cbf9151f9e4a52",
+    "references/capabilities/差后等病-分第六卷-痉湿喝及辨脉法-分第七卷-汗吐下可不可.md": "02ac92b9da594654ce41b125a9b3d71d7c2e196f05d27d35af9e56f549830b22",
+    "references/capabilities/五-针-灸.md": "6c84efce0930942dffdc9a879db47e3b45c97656b779b35f2906a12ccd37fdf5",
+    "references/capabilities/九-方论-4.md": "0d660e0f4907d0d8a6139aa3bdf443ffedacd236035c714b437939333752309d",
+    "references/capabilities/一-凡治一病-只注明立某方用药似亦可矣-一切闲语尽皆削.md": "ec3fffc586d0b4fe61ab412c74b4e37a8aae55b30de93832b0f8a2fe8b5dac2f",
+    "references/capabilities/8-博集稀痘方论二卷-明-郭子章撰.md": "b9f179af0c1b5cc8269f353a86fc63d57b8b1599b773b9030c50358df311038c",
+    "references/capabilities/15-正骨心法要旨四卷.md": "110b48b2861245714c8ba62a073317cffcc1bc260a851d2dbddfa1fe9a65d4a8",
+    "references/capabilities/7-橡村治验.md": "5985fa37e7acde340e06cf9dc70acff6a100480afff7d59b40d0586f83a988a3",
+    "references/capabilities/十四-考证医籍.md": "cae5f8be2bc818d05dce3fa3a41fbbf28f5683197c6486a98b2b7318ae7d08c3",
+    "references/overview.md": "62fbac845a2568c37232e294fa9631d560d2020af20fbdc87d966c8eecbb392d",
+    "references/glossary.md": "a434bee0d04f6e2d44985fba0124c3edd7c1e29ffdf6c225c80acaaecde8d707",
+    "references/cheatsheet.md": "44307424d70c3d8a4d9cf8ce9fa0d6db9eba14db5194621044cafdc3bc937c59",
+    "references/capability-index.md": "0842e3d783862a6bf7c2305796c03269a534e23e7a87ea5c6581c4d21e6a3133",
+    "SKILL.md": "bbd8eb927d696c2708185bd2579c8ebc6c137a66c4fd036ba6179a8a9033342d"
+  },
+  "generated_at": "2026-11-07T07:41:01.232423+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

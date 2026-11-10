@@ -1,0 +1,25 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 10,
+  "published_hashes": {
+    "references/capabilities/一-天算-正时课-是大趋势-大气候-非个人所能左右的-二-人算.md": "6daf2e63df45537511f401345de4bbf0145f48682756c0c70153d5fc6f7995af",
+    "references/capabilities/第三章-六壬课式的起法-br-End-of-picture-text.md": "0688efb0b793e3279930e83dca930b8abe794ef1dcd2fe48552f6724497c8a4d",
+    "references/capabilities/一-贼克法-br-End-of-picture-text.md": "8df5e3cc54e1eb837aa9c63bc605088ad51579d94d9d4f95b4ddf384f139603b",
+    "references/capabilities/三-涉害法-br-End-of-picture-text.md": "f4d169ac94ee3dbcf8fd5f2a59175c1a43e50a956c1c7b93e7418b39c63f0da8",
+    "references/capabilities/三-涉害法-br-End-of-picture-text-2.md": "25f1c348c980883d568faeb512f1f238a900271f3e225ca448cb025a64c41e7d",
+    "references/capabilities/六-别责法.md": "4ea378d1a9265c32eeaf6a75350b7a349fc38b67051143516d78f42d3783a067",
+    "references/capabilities/七-八专法-br-End-of-picture-text.md": "d583f63f841e92d2e7ad8a2a44637ddb4c71569e955fff40802215bb2f377c28",
+    "references/capabilities/八-伏吟课-br-End-of-picture-text.md": "6033696ce939e65ec7f53926cde0605ca71b6e5768dcf0852148e878965d2426",
+    "references/capabilities/九-反吟课-br-End-of-picture-text.md": "c4782f78b9451608107d3bc360f83348fafa138864b8ae5797c026749e6a7d8f",
+    "references/capabilities/二-起遁干和六亲.md": "fee785bb781fc6f5b2a22986240b830c44922d859ab17cd9194629ffa6e9bb1d",
+    "references/overview.md": "ebc46dffe8038bd2f0108478391d6abe5099c7c5edeb8a191faeaf22797e2a6b",
+    "references/glossary.md": "89c907b49fcab1b822b050292f8924b02a27815ffa6ab7c974cf2f3a5c3f9ff4",
+    "references/cheatsheet.md": "e5578fe97ef53c42bac18cb2986fde6c58ef8de8b178c93ca2772848381032fe",
+    "references/capability-index.md": "dffac8f8c6781102ef2e523b4b913d2d34089898444af1a2ca20aad5fae79410",
+    "SKILL.md": "65ab1ed172693f32d6391610f263e5314fcba6c1b2ab90c3ad97a45fd30ab967"
+  },
+  "generated_at": "2026-11-07T07:40:52.036912+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

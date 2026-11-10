@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/02-十二月戊申日子将申时-寅卯空亡-午未落空-元首-润下-励德-六仪-占晴.md": "03cecebdc189fa30d9ecfb38362af1d5751918937e5ff5e91908e6853e7e7b7e",
+    "references/capabilities/04-张九翁戊午生五十一岁-占宅-戊申年九月庚寅日辰将未时-午未空亡-卯辰落空.md": "90b0ad126360c5ea15b079d90a825ce3a1aec33e083a5319f25420e24b00477a",
+    "references/capabilities/12-郑宣义占宅-八月癸丑日巳将丑时-寅卯空亡-午未落空-渉害-从革.md": "3a8179821ce941f95a6d08258bef16d6356ac7eb8e7dc9d5b6604bc542527042",
+    "references/capabilities/18-任太公甲午生七十五岁占宅-戊申年正月丙戌日子将辰时-午未空亡-寅卯落空.md": "c6610ae81d3c7efc6f00b81cc10b65fffd6c9d30494b04e762e7aae80d5c017b",
+    "references/capabilities/29-江文老占家宅七月十五丁酉日午将辰时-辰巳空亡-午未落空-重审-间传-不.md": "299f0b594699afdc762c739123282aeaaa396a5f01a4fde80f3bb34cf8602e5c",
+    "references/capabilities/35-伊伯廷甲戌生三十六岁占宅-己酉年丙午日卯将申时-寅卯空亡-酉戌落空-四.md": "2083592289078fe095a6b5a086c77eef87323b37763f4cfb510f683a8c38b4c2",
+    "references/capabilities/39-某占家宅-正月己巳日子将酉时-戌亥空亡-丑寅落空-重审-元胎-斩关-励.md": "2713cce194b75d57397ac259196d574bd5ac439499818e2e675686c41db07488",
+    "references/capabilities/44-应贡元丁卯生四十二岁占前程-戊申年六月丁丑日午将未时-申酉空亡-未申落空.md": "ad6ca61ea8198ec4325e5fa6d5cd2952603fe3e1ded6675a21f8bcdaca057687",
+    "references/capabilities/51-叶助教四十五岁占前程-戊寅日申将未时-申酉空亡-酉戌落空-重审-进茹.md": "6d776d91dd1d57a49ea7039a07b341181d2bd1ef7a468aeceb2256a7505c9a44",
+    "references/capabilities/77-时监院庚午生四十岁占谋动迁转-己酉年正月辛巳日子将酉时-申酉空亡-亥子落.md": "609e7d1bee70abee08f698456a7646734460421ce9fffad13849831780f7708e",
+    "references/capabilities/90-赵知县丁巳生五十二岁在任占前程-戊申年十一月乙未日寅将未时-辰巳空亡.md": "2a4e75fbd21fe244aa6fb4d999674ebff21ab9cd19f21e505009412e1df20e51",
+    "references/capabilities/94-应汝言癸巳生二十九岁占前程-己酉年丁未日卯将寅时-寅卯空亡-卯辰落空.md": "b24cbb88342ccc06762d1f7b2ffe67176a470b26f35866614812cd69cbfae9cd",
+    "references/overview.md": "530b0ee618043aa0fa6b42d03eaa7067b9ad2ab744fd1e0766dccd03dee0decb",
+    "references/glossary.md": "e8aad101e83935f23156c7ec5b9995ad32a50929a73334ff15c376bf663ca7bd",
+    "references/cheatsheet.md": "b1d74d723c98712262156bfc7370a731bbadc23bcae4adc3192ec284d2322025",
+    "references/capability-index.md": "023186152314951428b4a22cda427bec1761f83156743b8e9a72b83298ef9978",
+    "SKILL.md": "ab01e1b757f19e70ff1e52e6ab2e52d0eecdcc2e70d516800ca8cc36fb4dc3c7"
+  },
+  "generated_at": "2026-11-07T07:41:03.213568+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

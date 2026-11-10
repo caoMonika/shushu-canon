@@ -1,79 +1,65 @@
 ---
 name: 占星学入门-skill
-description: >
-  用户要用《占星学入门》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 占星学入门。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《占星学入门》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 占星学入门。
 source_book: 《占星学入门》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 11
 ---
 
-# 《占星学入门》· RIA++ 蒸馏
+# 《占星学入门》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 4.5.1 月亮南北交点落入星座宫位的含义
+## 核心原则（常驻速览）
 
-> 33.10.9 从婚神星和太阳/月亮看恋爱结婚对象
+1. 33.8 一两个相位看命运
+2. 33.9.1 教你如何看事业运与公司运
+3. 33.9.3 从行星看工作状况
+4. 33.10.9 从婚神星和太阳/月亮看恋爱结婚对象
+5. 35.3.4 百变巫女看合盘的经验谈
+6. 35.3.5 循序渐进看婚姻
 
-> 33.10.12 离婚倾向的星盘长得酱紫
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《占星学入门》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「（1）上升点表示我们此生的面具，也就是说今生我们要在人生的舞台扮演一个怎」相关的查阅/断法/方证问题 | references/capabilities/1-上升点表示我们此生的面具-也就是说今生我们要在人生的舞台扮演一个怎.md | overview / cheatsheet |
+| 与「（3）星座行星发挥力量的舞台。前面讲*在不同的星座，行星的力量会得到张扬」相关的查阅/断法/方证问题 | references/capabilities/3-星座行星发挥力量的舞台-前面讲-在不同的星座-行星的力量会得到张扬.md | overview / cheatsheet |
+| 与「一．」相关的查阅/断法/方证问题 | references/capabilities/一.md | overview / cheatsheet |
+| 与「二、EROS：爱萝丝的“激情”」相关的查阅/断法/方证问题 | references/capabilities/二-EROS-爱萝丝的-激情.md | overview / cheatsheet |
+| 与「第三部:爱摩（AMOR）[亲爱的]」相关的查阅/断法/方证问题 | references/capabilities/第三部-爱摩-AMOR-亲爱的.md | overview / cheatsheet |
+| 与「四、相位关系」相关的查阅/断法/方证问题 | references/capabilities/四-相位关系.md | overview / cheatsheet |
+| 与「二．太阳返照图做为判断一年的运程的依据，一般只能判断这一年是否有桃花，详细到具体」相关的查阅/断法/方证问题 | references/capabilities/二-太阳返照图做为判断一年的运程的依据-一般只能判断这一年是否有桃花-详细到具体.md | overview / cheatsheet |
+| 与「一.认识星盘」相关的查阅/断法/方证问题 | references/capabilities/一-认识星盘.md | overview / cheatsheet |
+| 与「二.基本操作」相关的查阅/断法/方证问题 | references/capabilities/二-基本操作.md | overview / cheatsheet |
+| 与「三.合盘与流年盘」相关的查阅/断法/方证问题 | references/capabilities/三-合盘与流年盘.md | overview / cheatsheet |
+| 与「图象模式在第一部分中已经讲过了。在文字模式中，除了上述的条目，还有另外几」相关的查阅/断法/方证问题 | references/capabilities/图象模式在第一部分中已经讲过了-在文字模式中-除了上述的条目-还有另外几.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 一．
-- 四、相位关系
-- 五、其余事项说明：
-- 二．太阳返照图做为判断一年的运程的依据，一般只能判断这一年是否有桃花，详细到具体
-- 一.认识星盘
-- 二.基本操作
-- 三.合盘与流年盘
-- 四.Chart 菜单中的图表
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：一．；四、相位关系；五、其余事项说明：；二．太阳返照图做为判断一年的运程的依据，一般只能判断这一年是否有桃花，详细到具体；一.认识星盘；二.基本操作；三.合盘与流年盘；四.Chart 菜单中的图表
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《占星学入门》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《占星学入门》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

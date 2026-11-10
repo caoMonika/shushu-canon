@@ -1,0 +1,16 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 1,
+  "published_hashes": {
+    "references/capabilities/一-點錘二藥功.md": "6cb26f9fd5f9faeeb7cf4806c81d79ab470bd3c6bcdbcdb5085d5070b2906dd9",
+    "references/overview.md": "5acf5c4e265543c8fef68fd86451c7717b84a48a13b348faa216df5f6a53bfdb",
+    "references/glossary.md": "c75243e388526eef0500ea4e65ac8f5c27760a8758e025693b985ff8582d8745",
+    "references/cheatsheet.md": "3f55377118e86cba29f04ec7d7d7577c4c3228c04cb8c9666bf46fd21b417f7b",
+    "references/capability-index.md": "7a28efbb46ea8eea0a37d914a1f76f3f54ad6e0a1917e7001ac1ade7b6ad65e7",
+    "SKILL.md": "2e1884881bbaf30266899990ee7700fe558e12455d4ae65285851a8e22951000"
+  },
+  "generated_at": "2026-11-07T07:40:50.729994+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

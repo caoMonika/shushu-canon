@@ -1,77 +1,66 @@
 ---
 name: sim_东坡易传-宋-苏东坡-skill
-description: >
-  用户要用《东坡易传-宋-苏东坡》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 东坡易传-宋-苏。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《东坡易传-宋-苏东坡》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 东坡易传-宋-苏东坡。
 source_book: 《东坡易传-宋-苏东坡》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《东坡易传-宋-苏东坡》· RIA++ 蒸馏
+# 《东坡易传-宋-苏东坡》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> “乾”之所以取于“龙”者，以其能飞能潜也。飞者其正也，不能其正而能潜，非天下之至健，其孰能之？
+## 核心原则（常驻速览）
 
-> 飞者，龙之正行也；天者，龙之正处也。见其在田，明其可安而非正也。
+1. “乾”之所以取于“龙”者，以其能飞能潜也。飞者其正也，不能其正而能潜，非天下之至健，其孰能之？
+2. 下之上，上之下，其为重刚而不中。上不在天，下不在田者，均也。而至于九四，独“跃”而不“惕”者，何哉？曰：九四，既进而不可复返者也。退则入于祸，故教之“跃”。其所
+3. 今之飞者，夕之潜者也，而谁？非“大人”欤？曰“见大人者”，皆将有求也。惟其处安居正，而后可以求得。九二者，龙之安；九五者，龙之正也。
+4. 此论“元”也。元之为德，不可见也，其可见者“万物资始”而已。天之德不可胜言也，惟是为能“统”之，此所以为“元”也。
+5. 此所以为“利”也。生而“成”之，乾之“终始”也。成物，之谓“利”矣。
+6. 飞、潜、见、跃，各适其时以用我，刚健之德也。
 
-> 下之上，上之下，其为重刚而不中。上不在天，下不在田者，均也。而至于九四，独“跃”而不“惕”者，何哉？曰：九四，既进而不可复返者也。退则入于祸，故教之“跃”。其所以异于五者，犹有疑而已。三与四皆祸福杂，故有以处之，然后无咎。
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《东坡易传-宋-苏东坡》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「【校注】」相关的查阅/断法/方证问题 | references/capabilities/校注.md | overview / cheatsheet |
+| 与「【校注】」相关的查阅/断法/方证问题 | references/capabilities/校注-2.md | overview / cheatsheet |
+| 与「【校注】」相关的查阅/断法/方证问题 | references/capabilities/校注-3.md | overview / cheatsheet |
+| 与「【校注】」相关的查阅/断法/方证问题 | references/capabilities/校注-4.md | overview / cheatsheet |
+| 与「【校注】」相关的查阅/断法/方证问题 | references/capabilities/校注-5.md | overview / cheatsheet |
+| 与「【校注】」相关的查阅/断法/方证问题 | references/capabilities/校注-6.md | overview / cheatsheet |
+| 与「【校注】」相关的查阅/断法/方证问题 | references/capabilities/校注-7.md | overview / cheatsheet |
+| 与「【校注】」相关的查阅/断法/方证问题 | references/capabilities/校注-8.md | overview / cheatsheet |
+| 与「【校注】」相关的查阅/断法/方证问题 | references/capabilities/校注-9.md | overview / cheatsheet |
+| 与「【校注】」相关的查阅/断法/方证问题 | references/capabilities/校注-10.md | overview / cheatsheet |
+| 与「【校注】」相关的查阅/断法/方证问题 | references/capabilities/校注-11.md | overview / cheatsheet |
+| 与「【校注】」相关的查阅/断法/方证问题 | references/capabilities/校注-12.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 《东坡易传》卷之一
-- 《东坡易传》卷之二
-- 《东坡易传》卷之三
-- 《东坡易传》卷之四
-- 《东坡易传》卷之五
-- 东坡易传卷六
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：《东坡易传》卷之一；《东坡易传》卷之二；《东坡易传》卷之三；《东坡易传》卷之四；《东坡易传》卷之五；东坡易传卷六
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《东坡易传-宋-苏东坡》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《东坡易传-宋-苏东坡》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

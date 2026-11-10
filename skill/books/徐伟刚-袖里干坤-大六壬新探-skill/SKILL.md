@@ -1,83 +1,66 @@
 ---
 name: 徐伟刚-袖里干坤-大六壬新探-skill
-description: >
-  用户要用《徐伟刚《袖里干坤》——大六壬新探》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 徐伟刚《袖里干坤。OCR自动蒸馏，请核对原书。
-source_book: 《徐伟刚《袖里干坤》——大六壬新探》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+description: |
+  用户要用《徐伟刚袖里干坤——大六壬新探》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 徐伟刚袖里干坤——大六壬新探。
+source_book: 《徐伟刚袖里干坤——大六壬新探》
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《徐伟刚《袖里干坤》——大六壬新探》· RIA++ 蒸馏
+# 《徐伟刚袖里干坤——大六壬新探》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 大六壬作为古传“三式”之一，在中国传统数术文
+## 核心原则（常驻速览）
 
-> 化中享有非常崇高的地位。大六壬依预测人事特别灵验
+1. 而著名风行于世，自古以来备受历代知识分子社会精英
+2. 新恩想丰富多彩可以发人神智，曲尽六壬预测之微妙
+3. 化，必须首先弘扬中国古代哲学中的精华。
+4. 中国古代哲学的主干，是以《周易》为代表几千年来形成的
+5. 事，以检验易学思辨理论的正确程度和准确率。这不能不说中国
+6. 二十世纪八十年代改革开放以来，在中国大地上掀起了学
 
-> 而著名风行于世，自古以来备受历代知识分子社会精英
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《徐伟刚《袖里干坤》——大六壬新探》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「(87)」相关的查阅/断法/方证问题 | references/capabilities/87.md | overview / cheatsheet |
+| 与「第二章六壬占法及实例研究」相关的查阅/断法/方证问题 | references/capabilities/第二章六壬占法及实例研究.md | overview / cheatsheet |
+| 与「二、六壬起课」相关的查阅/断法/方证问题 | references/capabilities/二-六壬起课.md | overview / cheatsheet |
+| 与「三、在“长生十二诀“上的取用方面」相关的查阅/断法/方证问题 | references/capabilities/三-在-长生十二诀-上的取用方面.md | overview / cheatsheet |
+| 与「三、排四课定三传」相关的查阅/断法/方证问题 | references/capabilities/三-排四课定三传.md | overview / cheatsheet |
+| 与「（1）戊为刚日，以地盘酉位上神戌为初传；」相关的查阅/断法/方证问题 | references/capabilities/1-戊为刚日-以地盘酉位上神戌为初传.md | overview / cheatsheet |
+| 与「第五章」相关的查阅/断法/方证问题 | references/capabilities/第五章.md | overview / cheatsheet |
+| 与「七、太乙巳」相关的查阅/断法/方证问题 | references/capabilities/七-太乙巳.md | overview / cheatsheet |
+| 与「第七章」相关的查阅/断法/方证问题 | references/capabilities/第七章.md | overview / cheatsheet |
+| 与「六、释论青龙」相关的查阅/断法/方证问题 | references/capabilities/六-释论青龙.md | overview / cheatsheet |
+| 与「十三、小结」相关的查阅/断法/方证问题 | references/capabilities/十三-小结.md | overview / cheatsheet |
+| 与「一、先依据九宗门课体特点、天乙顺逆、发用气数、发用地」相关的查阅/断法/方证问题 | references/capabilities/一-先依据九宗门课体特点-天乙顺逆-发用气数-发用地.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 第二章
-- 第三章
-- 第四章
-- 第五章
-- 第一节
-- 第二节课式变化与特征
-- 第六章六壬和纳甲法的关系
-- 第七章六壬与八字命学的关系
-- 第一章壬学常识与运算程序
-- 第二章九宗门一排传的九种方法
-- 第一节贼克法
-- 第二节
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：第二章；第三章；第四章；第五章；第一节；第二节课式变化与特征；第六章六壬和纳甲法的关系；第七章六壬与八字命学的关系
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《徐伟刚《袖里干坤》——大六壬新探》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《徐伟刚《袖里干坤》——大六壬新探》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

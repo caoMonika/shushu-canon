@@ -4,3 +4,6 @@ Thumbs.db
 .cursor/
 node_modules/
 *.zip
+
+*.pre_llm.bak
+**/*.pre_llm.bak

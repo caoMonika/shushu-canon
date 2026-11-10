@@ -1,0 +1,17 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 2,
+  "published_hashes": {
+    "references/capabilities/三-十二宫之本意-壬学关节也.md": "3e9a35d04d31210f995158b742f5c632e740ea736877be57aafabe9ce3cbe99d",
+    "references/capabilities/二-申为贵人-动中有利.md": "e03f69d4d545ceafbb76476285422adea2fa517f7db0d28df5a72b372a0765f4",
+    "references/overview.md": "9dc82ca290ecd5cb15895f5c3f0e94ac1cc131cd905dca8ff58a1d1093b8cc68",
+    "references/glossary.md": "6c28c2097a90dd75a8d949adb2b8465b08e648df2d4a740ddc7253698bf62648",
+    "references/cheatsheet.md": "ea90569d85178257adb983cd7189d303a2729f354227f947df24f350eb3a9fed",
+    "references/capability-index.md": "2b83d0585102879230c7aa7e8d8c9276ad240652e22aa06c4d2833b8e7240a3b",
+    "SKILL.md": "ccba0b4ec0d9008a63c2cc100f036a35807d7e1a54fc3e6a33e6a58ef7154663"
+  },
+  "generated_at": "2026-11-07T07:41:03.081181+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

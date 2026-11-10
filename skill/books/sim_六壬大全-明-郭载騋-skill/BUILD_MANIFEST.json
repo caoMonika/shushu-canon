@@ -1,0 +1,16 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 1,
+  "published_hashes": {
+    "references/capabilities/八-克合-主交渉中生出争讼-或匿怨相友-笑里藏刀如庚子日干上丑克支与支合-支上巳.md": "f614d67fae695bb6a45ec9b836f59012e59d70fb8371c1f7ecfa788d05863369",
+    "references/overview.md": "6fb8317ee6325e16eebead1abf1b11ca706f333398b1cb1cf2912e8ff250ac42",
+    "references/glossary.md": "f7b304a1c951a897032c5f5bbff39ee0c0f2dccece0002c55ca8e7a78834657a",
+    "references/cheatsheet.md": "e03819c4047b0eb81425a1a93fd03a4c4018b9a74ea00dfd5411c80faeced524",
+    "references/capability-index.md": "8627ac8f5ea02d6901acbf82a5c3e95aac695e8f11450cb1f07eb21caf0ad39c",
+    "SKILL.md": "7a988652e82d7a46b955bbab25d96557d3fc1be8dbb7d723d6fe69cbdc2abc06"
+  },
+  "generated_at": "2026-11-07T07:41:02.227806+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

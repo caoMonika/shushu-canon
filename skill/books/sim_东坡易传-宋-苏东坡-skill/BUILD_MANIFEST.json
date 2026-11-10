@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/校注.md": "34414613e0982e42e4120a9406035f750085abb94a3690753530acb697f7e2ad",
+    "references/capabilities/校注-2.md": "d75866be2a5a89808c00e2bc80d39a799d6b2c140ccaea49f6a831855727e320",
+    "references/capabilities/校注-3.md": "554210bdb933a8166a09eba3237700ba093589641da659de2a9dd30e1b080f5b",
+    "references/capabilities/校注-4.md": "1f2b44151a8175c232cd3e79a3a6b997b0a62b6a7d25143eb42df482066eba62",
+    "references/capabilities/校注-5.md": "ad62c6015c29e512f95c755da0fe4b13fc857d8381ff2d7b9e3aa36743337c51",
+    "references/capabilities/校注-6.md": "0d26e2c40e3712b6fd4e0238651f56f9cea6fce6024e7557abcad82012316c43",
+    "references/capabilities/校注-7.md": "96fcab82e9bf08bee8eb0dea771593ad8e2ef36e631fd4dde913b0a5a5925044",
+    "references/capabilities/校注-8.md": "9163c92781d80fb81074d43d6d0861cf782c272d2a54229117b693d710f7de81",
+    "references/capabilities/校注-9.md": "07e0af6202b5bf1438cfa25dcb3579b9edac16a8a701619d18510cb0b604513f",
+    "references/capabilities/校注-10.md": "999b8550d0339202f30cc3f8609b4cbb634f4ce70d71bfcae4846324fcb2ed5f",
+    "references/capabilities/校注-11.md": "9e4b559fa49cb64966af5d60bd71c637139a80f7284381bc6e0700db5e3015d7",
+    "references/capabilities/校注-12.md": "e139d9df6be871648644bb8f6d4b01736da3686a0126b343ef34414a0017134c",
+    "references/overview.md": "50df775d3b96232f446965e8351127d5239c04d669635db5a6996211d4ba20be",
+    "references/glossary.md": "0ea497d285802cd329162a533c046764493afafa73af1d4dfd0f2789518aab9f",
+    "references/cheatsheet.md": "6609978f8cf0cff564de42be0c1a1db7fb3af492bd8de4b108ff1b6c48eb8154",
+    "references/capability-index.md": "7b3523ed03d9e4500a5b38f5fcb903e0b0c4525138d98fa6ddff2f74589f2d84",
+    "SKILL.md": "31f927b8a599447cb23c0c660967cb4f295da9cfcdd76819176e5d324953d962"
+  },
+  "generated_at": "2026-11-07T07:41:01.403211+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

@@ -1,0 +1,18 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 3,
+  "published_hashes": {
+    "references/capabilities/铁牛人会员课-男人必备技.md": "32ed0ed27b1f559cec022e2b4ac5921a5483d7c74ecd399877317788797eec32",
+    "references/capabilities/08-江湖奇术-道家丹功法-民间失传绝技-丹道周天功-符咒-密宗超能术-辟谷术.md": "ba0578774756c0e55495ee71206829268b37ff708e646124dcf9dd317109ac25",
+    "references/capabilities/18-道医-易医-道家知识-经典-现代研究等400-本.md": "06fcaee1efeacd89c7b9861278c7bbc89421a3af3d07e5577ad304160803b0c7",
+    "references/overview.md": "f0cdeb7710687cee02d16ffea5a9d54680d3f7a8221490fa9e0ae051735bfe45",
+    "references/glossary.md": "354486374f37610de947e7c563b02b99422e27e45f949b93b74f8491ce596cb0",
+    "references/cheatsheet.md": "fed15393ec959d4c638c4f8b299546df0ea2605f2d8e891a71366a5ba2e61c13",
+    "references/capability-index.md": "897e624e75c16bbe314f8d2c50ef82868333ac6c73964321117e0da8dd1cc3a5",
+    "SKILL.md": "14b53921e62b998a5981de03a010fde1df55c030d367e95bd31547449446420f"
+  },
+  "generated_at": "2026-11-07T07:40:54.767821+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

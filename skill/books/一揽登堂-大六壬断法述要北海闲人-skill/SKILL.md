@@ -1,83 +1,66 @@
 ---
 name: 一揽登堂-大六壬断法述要北海闲人-skill
-description: >
-  用户要用《一揽登堂 大六壬断法述要[北海闲人]》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 一揽登堂 大六壬。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《一揽登堂 大六壬断法述要[北海闲人]》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 一揽登堂 大六壬断法述要[北海闲人]。
 source_book: 《一揽登堂 大六壬断法述要[北海闲人]》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《一揽登堂 大六壬断法述要[北海闲人]》· RIA++ 蒸馏
+# 《一揽登堂 大六壬断法述要[北海闲人]》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 六壬神奇，令人艳羡。但头绪繁多，不易人门。
+## 核心原则（常驻速览）
 
-> 即使典籍满柜，如在宝山而不知所取，每每让学者望
+1. 象的过程。我们读王书就是看：①书里如何运用理气：
+2. 略地看-遍，不求深解，在把握大体内容，在头脑中
+3. 然开朗，反观诸书，是顿有恍然之感。今以其思路为
+4. 蓝本，发明深义，以利后学。
+5. 三十二、“四课看现状，三传看发展”？..266
+6. 二十一、干之寄宫空亡仍以空论
 
-> 然而大道尚简，备极精淳之王术，必有一条极
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《一揽登堂 大六壬断法述要[北海闲人]》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「一、壬书的选择」相关的查阅/断法/方证问题 | references/capabilities/一-壬书的选择.md | overview / cheatsheet |
+| 与「三、迅捷起课的方法」相关的查阅/断法/方证问题 | references/capabilities/三-迅捷起课的方法.md | overview / cheatsheet |
+| 与「六、取类」相关的查阅/断法/方证问题 | references/capabilities/六-取类.md | overview / cheatsheet |
+| 与「八、求财占察类例释」相关的查阅/断法/方证问题 | references/capabilities/八-求财占察类例释.md | overview / cheatsheet |
+| 与「十一、闲谈干支定位」相关的查阅/断法/方证问题 | references/capabilities/十一-闲谈干支定位.md | overview / cheatsheet |
+| 与「十三、大六壬一揽登堂总断赋」相关的查阅/断法/方证问题 | references/capabilities/十三-大六壬一揽登堂总断赋.md | overview / cheatsheet |
+| 与「十七、《王归》求财占“琐占约云”简释」相关的查阅/断法/方证问题 | references/capabilities/十七-王归-求财占-琐占约云-简释.md | overview / cheatsheet |
+| 与「二十一、干之寄宫空亡仍以空论」相关的查阅/断法/方证问题 | references/capabilities/二十一-干之寄宫空亡仍以空论.md | overview / cheatsheet |
+| 与「二十四、破败」相关的查阅/断法/方证问题 | references/capabilities/二十四-破败.md | overview / cheatsheet |
+| 与「二十七、神煞综论」相关的查阅/断法/方证问题 | references/capabilities/二十七-神煞综论.md | overview / cheatsheet |
+| 与「二十八、《大六壬会纂指南》趋谒章简释」相关的查阅/断法/方证问题 | references/capabilities/二十八-大六壬会纂指南-趋谒章简释.md | overview / cheatsheet |
+| 与「三十一、关于旺禄临身」相关的查阅/断法/方证问题 | references/capabilities/三十一-关于旺禄临身.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 一、壬书的选择，
-- 二、大六壬的学习：
-- 三、迅捷起课的方法
-- 四、壬占总纲.
-- 五、理气
-- 七、察类.
-- 八、求财占察类简释.
-- 九、察类的一个例子.
-- 十、类象琐谈.
-- 十一、闲谈干支定位
-- 十二、几个经典课例类象的分析
-- 十三、大六壬一揽登堂总断赋
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：一、壬书的选择，；二、大六壬的学习：；三、迅捷起课的方法；四、壬占总纲.；五、理气；七、察类.；八、求财占察类简释.；九、察类的一个例子.
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《一揽登堂 大六壬断法述要[北海闲人]》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《一揽登堂 大六壬断法述要[北海闲人]》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

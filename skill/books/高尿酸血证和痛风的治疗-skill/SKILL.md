@@ -1,76 +1,60 @@
 ---
 name: 高尿酸血证和痛风的治疗-skill
-description: >
-  用户询问与《高尿酸血证和痛风的治疗》相关方证/治法/医案时；仅文献参考。 不适用于：不构成医疗建议；急症须就医。 触发词：方证, 治法, 高尿酸血证和痛风。OCR自动蒸馏，请核对原书。
+description: |
+  用户询问《高尿酸血证和痛风的治疗》方证/治法/医案/条文，或本书未单列意图时调用本路由。 不适用于：不构成医疗建议；急症须就医。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 方证, 治法, 医案, 高尿酸血证和痛风的治疗。
 source_book: 《高尿酸血证和痛风的治疗》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, tcm]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, tcm]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 6
 ---
 
-# 《高尿酸血证和痛风的治疗》· RIA++ 蒸馏
+# 《高尿酸血证和痛风的治疗》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不构成医疗建议；急症须就医。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> ! ! 痛风患者不仅会出现关节炎以及包括痛风结节、
+## 核心原则（常驻速览）
 
-> 尿路结石在内的肾脏损害，还常伴有肥胖、高血压、高
+1. ! ! 痛风患者不仅会出现关节炎以及包括痛风结节、
+2. 患者约有"#$ 不同程度合并上述生活习惯病。所以，
+3. 已经转变到,# 岁段；推测与年轻人过度饮食倾向以及
+4. 如果急性关节炎频发，则出现以尿
+5. 出尿酸盐结晶诱发关节炎。因此，如果以前就患有高
+6. 断标准可以确诊。另外，尚有诊断中的注意问题（表
 
-> 脂血症和糖耐量异常等症状；同样，具有高尿酸血症的
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《高尿酸血证和痛风的治疗》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「一、痛风的诊断」相关的查阅/断法/方证问题 | references/capabilities/一-痛风的诊断.md | overview / cheatsheet |
+| 与「二、高尿酸血症的诊断」相关的查阅/断法/方证问题 | references/capabilities/二-高尿酸血症的诊断.md | overview / cheatsheet |
+| 与「三、痛风的药物治疗」相关的查阅/断法/方证问题 | references/capabilities/三-痛风的药物治疗.md | overview / cheatsheet |
+| 与「三、痛风、高尿酸血症的治疗」相关的查阅/断法/方证问题 | references/capabilities/三-痛风-高尿酸血症的治疗.md | overview / cheatsheet |
+| 与「4)*+ )- 应当视做开始治疗的下限。」相关的查阅/断法/方证问题 | references/capabilities/4-应当视做开始治疗的下限.md | overview / cheatsheet |
+| 与「四、生活指导」相关的查阅/断法/方证问题 | references/capabilities/四-生活指导.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 一、痛风的诊断
-- 二、高尿酸血症的诊断
-- 三、痛风的药物治疗
-- 三、痛风、高尿酸血症的治疗
-- 四、生活指导
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：一、痛风的诊断；二、高尿酸血症的诊断；三、痛风的药物治疗；三、痛风、高尿酸血症的治疗；四、生活指导
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《高尿酸血证和痛风的治疗》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《高尿酸血证和痛风的治疗》怎么说" / "方证"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认属文献检索
-2. **步骤2**: 按纲目定位
-3. **步骤3**: 摘录主治与禁忌并标注出处
-4. **步骤4**: 声明非医疗建议
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 急重症、抓药自疗；OCR 不清处不得臆补剂量。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

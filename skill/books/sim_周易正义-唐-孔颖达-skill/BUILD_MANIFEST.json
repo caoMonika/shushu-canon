@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/疏-正义曰-贤人虽在下位-不为之辅助也.md": "bfe6584eb2e33f4a7567edbc9cfaf460a85a80c562a36e1b46cbdb670a71ed93",
+    "references/capabilities/疏-正义曰-其义吉-者-以阳升阴-以刚应柔-其义於理吉也.md": "7101398805d301c113f4be267fe2b66badcdd232f4ccc6e9b66c9db9df4bb228",
+    "references/capabilities/疏-正义曰-释-系小子-之意-既随此初九-则失彼九五丈夫-是不能两处兼有-故云.md": "2aa0ed11b4896651bd7d36467444d741ddbeab670a9fa141e212002e5d41f6b6",
+    "references/capabilities/疏-正义曰-释不远之复-也-所以不远速复者-以能脩正其身-有过则改故也.md": "0087617b04ac8f4f3ed8a9ce9d55787866b0b4222af525059c4bc9ed48c7dc30",
+    "references/capabilities/疏-正义曰-志末也-者-末犹浅也-感以心为深-过心则谓之浅末矣.md": "59c656e2330e1a721d3b86e4c30eba1b1b10bfdaf723ecbd90a1dc9550738d52",
+    "references/capabilities/疏-正义曰-志未变也-者-释在初防闲之义-所以在初防闲其家者-家人志未变黩也.md": "1c2d407600da9d48a5faa27c1627983b69330fe2af585e30323770c5f6376717",
+    "references/capabilities/疏-正义曰-以益志-者-既为公所从-其志得益也.md": "ce33d3406ca53f2373be0bc669a32673ab45da268374a78b8b65dbc7bddc711b",
+    "references/capabilities/疏-正义曰-乘刚-者-明二为蒺藜也-不祥也-者-祥-善也-吉也-不吉-必有.md": "640d4043931f69bf1ab11dd4373cee0559bbf77d626aa9431617e64e3f739b6e",
+    "references/capabilities/疏-正义曰-义无咎-者-备如-经-释.md": "7f995078fa75872dbf3840622af4ec6bff1a3f46f6410fb53abfa30607dd6edf",
+    "references/capabilities/疏-正义曰-观难而行-不与险争-故曰-顺也.md": "fd971f40d60dcc4866294b1ca8e82fa9b546ad982b3ea43c1c3f3a288f24d0c6",
+    "references/capabilities/疏-正义曰-濡尾力竭-不能相续而终-至於登岸-所以无攸利也.md": "90af58521dd380b25ecf1f234173003b204e6b3b84de9ce4dc079fe9aed928cc",
+    "references/capabilities/疏-正义曰-营谓经营-谓四度经营蓍策-乃成易之一变也.md": "3d961eb843108745e718bfa6af0f5cbae16ca0b3f576d89eab1bac8d2a1459d8",
+    "references/overview.md": "53a3dbe422af35eb6dedd2930f688624d8c79d33014fc911769b493b4a45e2e6",
+    "references/glossary.md": "b07e8c8bc2c3049fbcb750935499adbb1565d661eb55d51c892bc294eca346ff",
+    "references/cheatsheet.md": "66d11834c63d8364694d2d8c5510c7c0429d8f174b61f04c93030a0f93b96074",
+    "references/capability-index.md": "ba355b657620fe0426c638e47b7823fc22876b6c366927e3715ee935b23ea8a3",
+    "SKILL.md": "09df0dd7b57e651403abcdccc1fd7b25209969138e36b4acecece9100da4e183"
+  },
+  "generated_at": "2026-11-07T07:41:03.879625+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

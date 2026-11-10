@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/83.md": "deaff5cf27a2626b993933cd6461d4da3373f544534ea9754447754c7ecfc477",
+    "references/capabilities/药物组成-黑小豆或黑大豆-赤小豆-白扁豆.md": "6069d9c93c4b81e53d32e6b2f17426395e6d73936cafa3b5312d066bf754bd0e",
+    "references/capabilities/药物组成-丹参150克-益母草250克-红糖100克.md": "5e11c02862c9e1cae5216abe45075d3e4289c1a4f2bb6e3fcc7de9e08ba5b8e3",
+    "references/capabilities/药物组成-熟地-20-40克-当归12-18克-酸枣仁-15.md": "34be31e123e8fb8c98110790732cfbaa5c40c44e815b7d2a9922f548e6f226d2",
+    "references/capabilities/适应证-外阴白色病变.md": "7c333674ba4838f2a32eb5986c0470ed94cae9fdcf70574206438b622f29b571",
+    "references/capabilities/药物组成-丹参30克-乳香6克-没药6克-赤芍12克.md": "ac027aa538dc9df8d84081a47b749894885962168a72180b8f77d6f6f6020562",
+    "references/capabilities/药物组成-熟地20克-当归20克-川芎20-克-白芍-20.md": "69f97d3022d4c028013c38e0920010b645569a1aa85da5981f51cd41ef348f0a",
+    "references/capabilities/药物组成-当归15克-丹参15克-乳香6克-没药6克.md": "ec86f2880d6fb8241f88a368c2aba15f9bea80d5dd62639fc58dbf105dd0671e",
+    "references/capabilities/适应证-宫颈癌初期-热毒血内结-接触性出血-白带.md": "dfdf5f9c605bcb2498bbb2769f2badb3095b78b889a3e85900819a4314e4f7cb",
+    "references/capabilities/适应证-产后阴道出血淋漓不断-或突然下血量多-腹痛.md": "a8fb095d8f9ebef695a36d5fb5752f4e3a0e20961a5528d5ae8755b89f87de7c",
+    "references/capabilities/药物组成-桃仁9-15克-大黄9-15克-丹皮12克-赤.md": "9834f282d7349c9bdef86d33b35dbabe54b5e2dbeaf1be6cd84f9e0f7a0a42c2",
+    "references/capabilities/药物组成-黄芪20克-党参15克-当归15克-王不留行.md": "a4c0f75dd023339f8c72045a186b6ee0947ba3599ba147c4429957cc111b1f1f",
+    "references/overview.md": "8f2d009f30fd3db08fc3b92b46b5b761830a7fdd2edeb4715f1af9459e7b6ff1",
+    "references/glossary.md": "67e95232dae78617a71fe7d77e1eb20e68c02aa2549ffff5cfdf47e29f7e1e0d",
+    "references/cheatsheet.md": "c1901788bbe02ce90adcac304f791c9e1f9e36b830fa701b630b1b126f685ea0",
+    "references/capability-index.md": "e511ce0eb203ea0422101f73cc9b3387c2847c01f2a40fbd48415475486c659c",
+    "SKILL.md": "2240f869257bca61b661626cfe7ea367ce8690d07398301e46aa251093b959c5"
+  },
+  "generated_at": "2026-11-07T07:41:01.004468+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

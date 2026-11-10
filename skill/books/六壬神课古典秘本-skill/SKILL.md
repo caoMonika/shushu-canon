@@ -1,83 +1,66 @@
 ---
 name: 六壬神课古典秘本-skill
-description: >
-  用户要用《六壬神课古典秘本》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 六壬神课古典秘本。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《六壬神课古典秘本》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 六壬神课古典秘本。
 source_book: 《六壬神课古典秘本》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《六壬神课古典秘本》· RIA++ 蒸馏
+# 《六壬神课古典秘本》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 用之於自修外，宜用於善政以治人民。若非暨人须秘而不可漏。若不能修之即埋入名山
+## 核心原则（常驻速览）
 
-> 子日，昔日玄女授朕六壬神課。其中有口傅六壬十二經及三十六用法，今欲傅給汝等。
+1. 用之於自修外，宜用於善政以治人民。若非暨人须秘而不可漏。若不能修之即埋入名山
+2. 基，將其日之干支組成四課三傅，以獲神示之秘占。
+3. 古人云『君子预知害，以防為先」，吾人必须遵守此教，防未然，細計劃
+4. 吉凶正之術始於易學，具有各各様之術教。爲吉凶，六壬神課乃以太陽
+5. 六壬神課乃設象避之神也。六壬神課之吉凶，若課格相同，亦因所看之事有别，
+6. 象。象乃天地人三才之三傳，可造式太陽少陽、太陰少陰四課，以解馥之人事相。
 
-> ，於事無補，悔之已晚矣。本書如能助你獲得虑世指南隽幸矣。
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《六壬神课古典秘本》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「八、十二.·」相关的查阅/断法/方证问题 | references/capabilities/八-十二.md | overview / cheatsheet |
+| 与「一、天干合」相关的查阅/断法/方证问题 | references/capabilities/一-天干合.md | overview / cheatsheet |
+| 与「第二章」相关的查阅/断法/方证问题 | references/capabilities/第二章.md | overview / cheatsheet |
+| 与「第二章」相关的查阅/断法/方证问题 | references/capabilities/第二章-2.md | overview / cheatsheet |
+| 与「第三章」相关的查阅/断法/方证问题 | references/capabilities/第三章.md | overview / cheatsheet |
+| 与「【吉凶正断活用原则】」相关的查阅/断法/方证问题 | references/capabilities/吉凶正断活用原则.md | overview / cheatsheet |
+| 与「二、腾蛇之解」相关的查阅/断法/方证问题 | references/capabilities/二-腾蛇之解.md | overview / cheatsheet |
+| 与「第四章」相关的查阅/断法/方证问题 | references/capabilities/第四章.md | overview / cheatsheet |
+| 与「第五章」相关的查阅/断法/方证问题 | references/capabilities/第五章.md | overview / cheatsheet |
+| 与「一、元首課」相关的查阅/断法/方证问题 | references/capabilities/一-元首課.md | overview / cheatsheet |
+| 与「八、昂星課」相关的查阅/断法/方证问题 | references/capabilities/八-昂星課.md | overview / cheatsheet |
+| 与「二、内外之事」相关的查阅/断法/方证问题 | references/capabilities/二-内外之事.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 第一章五行
-- 七、十.支之方．八
-- 五、十千之性能
-- 四、十千之五行·
-- 三、五行相生、相起原.理··.·
-- 二、五行之性典色·九
-- 第二章六壬組法
-- 一、萬年（节入表·三二
-- 七、通星
-- 四、地支七·
-- 三、地支三
-- 八、十二.時.·
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：第一章五行；七、十.支之方．八；五、十千之性能；四、十千之五行·；三、五行相生、相起原.理··.·；二、五行之性典色·九；第二章六壬組法；一、萬年（节入表·三二
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《六壬神课古典秘本》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《六壬神课古典秘本》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

@@ -1,83 +1,66 @@
 ---
 name: 中医眼科全书-眼科证治要诀-skill
-description: >
-  用户要用《中医眼科全书  眼科证治要诀》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 中医眼科全书  。OCR自动蒸馏，请核对原书。
+description: |
+  用户询问《中医眼科全书  眼科证治要诀》方证/治法/医案/条文，或本书未单列意图时调用本路由。 不适用于：不构成医疗建议；急症须就医。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 方证, 治法, 医案, 中医眼科全书  眼科证治要诀。
 source_book: 《中医眼科全书  眼科证治要诀》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, tcm]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《中医眼科全书  眼科证治要诀》· RIA++ 蒸馏
+# 《中医眼科全书  眼科证治要诀》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不构成医疗建议；急症须就医。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 胞脸又名眼胞、脸、眼睑、眼皮、脸胞，脸皮，啤、H胞。为眼的最外部分，分上脸、下险，
+## 核心原则（常驻速览）
 
-> 习称上胞下脸。胞脸是目瞩的卫外屏障，对保护情珠起着十分重要的作用。胞脸能司眼之
+1. 睫毛可以阻挡灰砂、尘埃进人眼中，还能减少强光对睛珠的刺激。由此可见，“且胞险有了
+2. 胞脸属眼的卫外屏障，易受六涵侵袭，而尤以风湿热三邪为患者最多，故以疏风、清
+3. 热、除湿为治疗胞脸疾病之常法。胞脸内应于脾胃，脾胃上饮食的受纳与运化，以滋养全
+4. 身，需润空窍.若饮食失宜，损伤脾胃以致湿热内蕴或脾胃虚弱，运化失常，脏腑精血不足，
+5. 本病叮发生于任何年龄，季节，单眼或双服发病，见以青少年为多见：素休虚弱，近视、
+6. 远视，过度疲劳、不注意眼部卫生者尤易患病、且可反复发作。上胞、下险均可患病，但以上
 
-> 开合，可使睛珠免受强光、暴力的损伤。胞脸具有瞬目运动，不但可及时除去粘附在晴珠表
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《中医眼科全书  眼科证治要诀》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「(12)」相关的查阅/断法/方证问题 | references/capabilities/12.md | overview / cheatsheet |
+| 与「【临床装现】」相关的查阅/断法/方证问题 | references/capabilities/临床装现.md | overview / cheatsheet |
+| 与「【分型论证】」相关的查阅/断法/方证问题 | references/capabilities/分型论证.md | overview / cheatsheet |
+| 与「【预后】」相关的查阅/断法/方证问题 | references/capabilities/预后.md | overview / cheatsheet |
+| 与「【临床表现】」相关的查阅/断法/方证问题 | references/capabilities/临床表现.md | overview / cheatsheet |
+| 与「【释名】」相关的查阅/断法/方证问题 | references/capabilities/释名.md | overview / cheatsheet |
+| 与「【分型论治】」相关的查阅/断法/方证问题 | references/capabilities/分型论治.md | overview / cheatsheet |
+| 与「【预后】」相关的查阅/断法/方证问题 | references/capabilities/预后-2.md | overview / cheatsheet |
+| 与「二、因其它眼疾导致晶珠混浊而无光感或光定位不准，红绿色觉不能辨识，眼压低或」相关的查阅/断法/方证问题 | references/capabilities/二-因其它眼疾导致晶珠混浊而无光感或光定位不准-红绿色觉不能辨识-眼压低或.md | overview / cheatsheet |
+| 与「【预后】」相关的查阅/断法/方证问题 | references/capabilities/预后-3.md | overview / cheatsheet |
+| 与「【临床表现】」相关的查阅/断法/方证问题 | references/capabilities/临床表现-2.md | overview / cheatsheet |
+| 与「一、内治」相关的查阅/断法/方证问题 | references/capabilities/一-内治.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 第一章胞脸疾病
-- 第一节针眼…
-- 第二节
-- 第三节
-- 第四节
-- 第五节
-- 第六节
-- 第七节
-- 第八节
-- 第九节
-- 第十节
-- 第二章
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：第一章胞脸疾病；第一节针眼…；第二节；第三节；第四节；第五节；第六节；第七节
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《中医眼科全书  眼科证治要诀》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《中医眼科全书  眼科证治要诀》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

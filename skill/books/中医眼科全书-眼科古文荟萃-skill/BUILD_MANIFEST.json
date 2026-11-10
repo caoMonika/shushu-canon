@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/15.md": "a020b93ac59633db66afdf8d3b0fb2306385a491a45be39c343c3d56e9ad5b07",
+    "references/capabilities/医家简介.md": "dae044a8d22a9cacf8f75dacf416fc0a53804f280540615478f8b68e6c638ee9",
+    "references/capabilities/原文.md": "a1a188a2c54e11db2c5efc09f4e5fe78b1c03cc56620732f8f34d781f65dc1f3",
+    "references/capabilities/按语.md": "24efd12368fb1ddaefe75d3b673acef7389a3ff49295fab513c8cf7d3e2be31b",
+    "references/capabilities/按语-2.md": "61092daee18455063c10b662da137926afca220dd3851d2d1d1addbde77284c1",
+    "references/capabilities/8-抽薪饮-出黄苓-石斜-本通-炒栀子-黄柏-积壳-泽泻-甘草组成-治火郑纵蔡.md": "8305c0eff9b238e38ad09bd7b6e7433ec7f66003f6afe6a93bca5b8bf7b8af8c",
+    "references/capabilities/内容提要.md": "d3fc345b3b86ddc3024254df17cfe5a6d44da958d9d40a4ec0abc238a4fee4ea",
+    "references/capabilities/原文-2.md": "d23af6e364c8138307d996cdbebea55db41a9954d202635388005ab237e90c81",
+    "references/capabilities/3-怒伤肝-悲胜怒-喜伤心-恐胜喜-思伤肿-胜恩-优伤肺-穿胜优-恐伤肾-思胜.md": "d40395a3dec73462af405f7369eb10f963b0a2925e884fd965bf2efd37716e06",
+    "references/capabilities/原文-3.md": "3c78dfc881381e03fb086dec1551b6e685101be859e2d39fd51ddbe3acbd98c9",
+    "references/capabilities/注释.md": "389fc89e00bf9a6f7072d3233f19df551e6497cc0156b9cca594306776fc1f10",
+    "references/capabilities/29-位-等待-久立.md": "7349d140c4ec06646ac8bdcd8b21b6941d6d0ea55e7e1f274fffbf826ed82e6e",
+    "references/overview.md": "e854c9ceab08cd61ba6d3af57c85c79d1001a16162bc52d242027ca4ada7a008",
+    "references/glossary.md": "1a48c26957d3e9b53159006585cb6e6853cd09728a8534c702f0c5ce515c0ee5",
+    "references/cheatsheet.md": "2fe2b14de740962df2c09f7b63ed47e072d0d0b6e7f7b45160a43b3ac4615024",
+    "references/capability-index.md": "205b4cf4586c067e4a03eb278cf27d8aeea9b785df6ae03a88407da04da83d07",
+    "SKILL.md": "d1c9e969cc6e74bd8532884a94e9639860ec1cf171da66fe25353b5bfe2f273a"
+  },
+  "generated_at": "2026-11-07T07:40:57.584419+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

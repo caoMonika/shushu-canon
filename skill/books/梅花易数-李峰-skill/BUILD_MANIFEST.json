@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/宋-康节尧夫先生邵雍著.md": "f026b2ea693fe65c910582e19df37c35700be530a08f3cdf6d45ba5c9b99662c",
+    "references/capabilities/原文-二字占-二字为两仪-平分以一字为上卦-以一字.md": "dacfd3cfe0a7fba72c29c23285258bf14838f007f75bad03a228275eb703ed0f",
+    "references/capabilities/注解-此卦断应期十七日者-是以主卦上七下三之数加时.md": "9405b8b78ce52a15c7e0e6c1b5d51e2852a1954c8eeeae80968819462c4a9fb8",
+    "references/capabilities/四-用卦生体克体-还要分别是真克还是假克-是真生还是.md": "21b4452c0502cdf1c4f951f5ba3807e934a582464e41e7a11c173543826165c5",
+    "references/capabilities/原文-占坟墓以体为主-用为坟墓-体克用-葬之吉-用克.md": "2ab05e0e6f341235fb9f5890b48908ff6532b8f1d4e03465175a38f9ef60d749",
+    "references/capabilities/原文-大抵占器物-并不喜见兑卦-盖兑为毁折也-若坎.md": "dcdc6954459225c28f6e2617615bb7b5051353a611a78aa1aa7f11531ba91e0b",
+    "references/capabilities/原文-混沌开辟立人极-吉凶响应尤难避.md": "6724ac3b87dffc7360e174a17ca534f8503aa6bc307e08f8187667204329d234",
+    "references/capabilities/原文-龟形未判-此为太古之淳风-鸟迹既分-爱识当时之.md": "397cf764f4c58e3c2d4a6030d5c9e99308d7f35bfc39aebc01ada0e5d492361b",
+    "references/capabilities/原文-有所喜-如问财-见-金-宝-偏旁-及-未-斗.md": "fb920145ab6d17f404b85b42cf37876c4da09b392429a74f413c5109d981d1b5",
+    "references/capabilities/注解-例一-一官欲赴京选-问行期-书-门-字-兼叩功名.md": "c6d8e8ca73f94ccad668e4fd87357bca9467c71c9b0ffcc974919e2b8cdd0633",
+    "references/capabilities/原文-一点一画五行全-试看首尾秘为占.md": "70ac526922e080b0cf823a06e495146b70732f3c78704095c2dfbab9e2481b2a",
+    "references/capabilities/注解-浑天甲子定局既八纯卦之纳甲-法从下往上装-以.md": "05d45299361ca9d54259752d8b66e05e344c4f56a2807c1a55c37180e4fd1ce5",
+    "references/overview.md": "38a8b4c48b12838172b45db15529a123391fc091098890967afc8e05ff8d350c",
+    "references/glossary.md": "3daf5aaf2b7133e76a7dd0516f2f9b2a370c96f0c6b06d22a4569884fb0a153a",
+    "references/cheatsheet.md": "de0782a9b5b9f8631acfa87cf772f50c6eb6f94c794673b814892e97ac3f8f93",
+    "references/capability-index.md": "6639f6b7fad9fd251555f1d820361e746febc9401336de1bcd00d2e2e4cc6f7e",
+    "SKILL.md": "96181c1d44e1722fb58ea2d3ca820aefd56b77e955d8964bb58a3354e53986ec"
+  },
+  "generated_at": "2026-11-07T07:40:55.276802+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/十九-参约爻-之卦-互卦例.md": "5cfe3ff61f5d6e4786b4134ff39b33708acab67b0b3c54c623a30c74f7466875",
+    "references/capabilities/二十-不全爻象各卦歌.md": "5b6999d0a802fb5fceb9c12d2400f77349da832ef6cce1efe5c1d1521acd98b4",
+    "references/capabilities/本-卦.md": "1d9c650bd5f0715e7a501545f2a571136c1d9acf34710fe4460deecc77bfc75e",
+    "references/capabilities/一-无鬼无气.md": "e3cc2f061afc3153c136c450e0ccf53bac5ef89a01f281732e1223014d19268e",
+    "references/capabilities/二十六-月建直符-正月寅爻动是也-主管一月之事.md": "6315d90b92169eafffa480f654582176c35daedbdc361111da525bb078a0e68b",
+    "references/capabilities/十二-儒业科举章-五首.md": "f6a5aa771dceab9ebe8baa333814adb8e6317542dba158380be55e29165c4990",
+    "references/capabilities/二十四-词讼章-六首.md": "0538b8d6d8b823c921a0decbdf4064efd634a72d2267151b37ff80df5771f740",
+    "references/capabilities/十-行人章.md": "f39ca0cabf55b39906ad298808a66abc75b851ecad65d3a65961a010e2e4d3c6",
+    "references/capabilities/四-征战.md": "1178554a9b4c8f7723ec481771837e877a5baf3699f42494a7f1f4e86d88c2e0",
+    "references/capabilities/十四-蚕桑.md": "02f312bf3b4d44f3979809844e302115137e95f4dd137a148ca7b2b28655a5ef",
+    "references/capabilities/二十五-逃亡.md": "87e38868eeb9fbff0e156dc00263c49a3644cb94df623c96cbda89818588dd18",
+    "references/capabilities/七-家宅秘诀.md": "e2c842e915e917073d44a671fe88b350d42ce1f77a6eb22d857ac6d0c80af7d7",
+    "references/overview.md": "945f86b0bec56c3b71e7b9ad3a0714df4a9c5dcd9f96d908908896fb502ba012",
+    "references/glossary.md": "a2537dc9c89f3df047070bfdaf820792182d85a05fa35101e8c3cdea305a0153",
+    "references/cheatsheet.md": "fb86139dee97c0d55db4b9bed1fd74b3253b3399f70bb35dfebfd299b305185d",
+    "references/capability-index.md": "270cd4b949586a56ecb130a6c61fdedafd772b95b0b91c63ade908a8d4f44041",
+    "SKILL.md": "42c6367b42b9268aa63a806d99a819c00f5dadd7042868ba71ae1a197e00a8dd"
+  },
+  "generated_at": "2026-11-07T07:41:01.698059+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

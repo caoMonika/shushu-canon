@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/第一卷.md": "34089015882a695fdfc01cd8a5a1b4ad1345eed72d1acc0d9b2d1a3fd99ca6d9",
+    "references/capabilities/第二卷.md": "1bff2d5c6dd80031118ca1d7d13d8e7b449e33e708e47182e389a318c73f4857",
+    "references/capabilities/第一章.md": "8daeaf4f39b39d40144631806c348f15293228c94ff68b7997e14e18c31e92e7",
+    "references/capabilities/第八章.md": "be7bdcd163731a749134290533a685ba7c8eee0151f334245078b16ac0464e8f",
+    "references/capabilities/第九章.md": "1a41e2823ab36a4dec5399e6d8e6809d720c163e0071bd683451d0341ebf036a",
+    "references/capabilities/第十章.md": "1105e64d397d81388092c777ca3a27c9ff207642b64fd3faacd234305181066c",
+    "references/capabilities/属-或恐是错简-宜在第八章之末.md": "85439d5ba7ad3f2133183fdd2a077d69ea7dcafc1bedb30f17d2503fb9527dbd",
+    "references/capabilities/上第一章-此章言卦爻吉凶-造化功业.md": "1e22602051e5e526f2f0ae2bc1251e6f3da6833dc0a476920db9173f244de82d",
+    "references/capabilities/上第五章.md": "a01db95b1b943afdcaa00d2f7e5d5f0552ee50b2a444f6af9d206bb331b56498",
+    "references/capabilities/上第七章-此章三陈九卦-以明处忧患之道.md": "456f25bce4ed55ed09da4a92b530080be054894265011a5c8040845394713d5b",
+    "references/capabilities/第四卷.md": "db6431d7b724adb6119c7f2d71096b1c5f98f15c2d26b72598436e607b30eccc",
+    "references/capabilities/上第十一章-此章广八卦之象-其间多不可晓者-求之于经-亦不尽合也.md": "40056a1e383437ddc178cf456c87bd9c91f8d7958a738195c11d13ae3b3a3b48",
+    "references/overview.md": "03a1fe67a701ea14b2120928cbbe0831f17cd907e28e6184eec6acf19fef642e",
+    "references/glossary.md": "435a3e429da7c31d67b9a7a9a379f5ed30143e252a47a1d86ab31f0713b00f59",
+    "references/cheatsheet.md": "88e11c64e0144c3fe6ad233b73b754ca152113fe6d58aa931e4a023e683a952a",
+    "references/capability-index.md": "c08dc619370145f5e9f49091e7d397b2c9bad93b85b98239a89fa7f5900064e6",
+    "SKILL.md": "add9d63301226d8f148077426ba770e895f9cba53e8b942c6147738b9442206b"
+  },
+  "generated_at": "2026-11-07T07:41:03.362734+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

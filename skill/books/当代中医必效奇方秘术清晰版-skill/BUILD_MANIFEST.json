@@ -1,0 +1,18 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 3,
+  "published_hashes": {
+    "references/capabilities/七-川栋子-上尿道结石-加王不留行-下尿道结石-加大.md": "e765dcd4864b5fdcdead2a7a7022e6ecb2d27f80c8e7eddfb562a8a6a1b165c1",
+    "references/capabilities/6-川军神安散治囊狂.md": "d5b32f7c339179b0cd9d24b706a8b3ae6d909a493c5d293724c7575e2f46c020",
+    "references/capabilities/三七-野艾等.md": "9f819479648f05617b74b68b7f73d1183b2db98986ea11b7738718d938d76b45",
+    "references/overview.md": "3fed64745eb7f93a73f3d9ddb4326d0141612b139ece914374b0c4d396186ce1",
+    "references/glossary.md": "ba7a8d53d01658cebd2ad151a5dd22f62486a3dd24039f5b14758be855707e66",
+    "references/cheatsheet.md": "67b200671af07be077b1c201da3dde5022a9845fef38edb56839830183b6f673",
+    "references/capability-index.md": "f2919d63dc57f0d41465038b6247ded930d1cc86cde5ad21726665547bfd7684",
+    "SKILL.md": "33ada648272c192448efceee41670d04f65e5880cea00ef9289abb70a0a905a9"
+  },
+  "generated_at": "2026-11-07T07:40:58.649820+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

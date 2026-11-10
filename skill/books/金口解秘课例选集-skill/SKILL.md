@@ -1,83 +1,66 @@
 ---
 name: 金口解秘课例选集-skill
-description: >
-  用户要用《金口解秘课例选集》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 金口解秘课例选集。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《金口解秘课例选集》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 金口解秘课例选集。
 source_book: 《金口解秘课例选集》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《金口解秘课例选集》· RIA++ 蒸馏
+# 《金口解秘课例选集》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 金口诀教材之一：《金口解秘》课例选集   第 1 页 共 83 页
+## 核心原则（常驻速览）
 
-> 金口诀教材之一：《金口解秘》课例选集   第 2 页 共 83 页
+1. 金口诀教材之一：《金口解秘》课例选集   第 1 页 共 83 页
+2. 中华古代最高层次预测学金口诀系列教材
+3. 金口诀教材之一：《金口解秘》课例选集   第 2 页 共 83 页
+4. 金口诀教材之一：《金口解秘》课例选集   第 3 页 共 83 页
+5. 金口诀教材之一：《金口解秘》课例选集   第 4 页 共 83 页
+6. 金口诀教材之一：《金口解秘》课例选集   第 5 页 共 83 页
 
-> 金口诀教材之一：《金口解秘》课例选集   第 3 页 共 83 页
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《金口解秘课例选集》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「三、干支相配..................................」相关的查阅/断法/方证问题 | references/capabilities/三-干支相配.md | overview / cheatsheet |
+| 与「一、占人的流年运气............................ 84」相关的查阅/断法/方证问题 | references/capabilities/一-占人的流年运气-84.md | overview / cheatsheet |
+| 与「四、占子女................................. 1」相关的查阅/断法/方证问题 | references/capabilities/四-占子女-1.md | overview / cheatsheet |
+| 与「一、占住宅...................................」相关的查阅/断法/方证问题 | references/capabilities/一-占住宅.md | overview / cheatsheet |
+| 与「四、死灾三例：」相关的查阅/断法/方证问题 | references/capabilities/四-死灾三例.md | overview / cheatsheet |
+| 与「(1)  一个木葫芦，胜过五千元。」相关的查阅/断法/方证问题 | references/capabilities/1-一个木葫芦-胜过五千元.md | overview / cheatsheet |
+| 与「(3) 一块红布遮窗，收入翻了三番。」相关的查阅/断法/方证问题 | references/capabilities/3-一块红布遮窗-收入翻了三番.md | overview / cheatsheet |
+| 与「(4) 信仰不真诚，头上留“记号”。」相关的查阅/断法/方证问题 | references/capabilities/4-信仰不真诚-头上留-记号.md | overview / cheatsheet |
+| 与「(5) 穿上黄衣服，三日就见金。」相关的查阅/断法/方证问题 | references/capabilities/5-穿上黄衣服-三日就见金.md | overview / cheatsheet |
+| 与「(1) 神在课内得生，生年提拔；神在课内遭冲，冲年不顺。」相关的查阅/断法/方证问题 | references/capabilities/1-神在课内得生-生年提拔-神在课内遭冲-冲年不顺.md | overview / cheatsheet |
+| 与「（3）空亡分局课 失职志难伸」相关的查阅/断法/方证问题 | references/capabilities/3-空亡分局课-失职志难伸.md | overview / cheatsheet |
+| 与「（4） 领导关系搞不好，经常穿小鞋」相关的查阅/断法/方证问题 | references/capabilities/4-领导关系搞不好-经常穿小鞋.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 第一章 五行基础
-- 四、遁与顺
-- 第二章 金口立课
-- 三、金口立课
-- 第三章 解课知识
-- 第四章 解课法则
-- 第五章 占流年流月
-- 第六章  占亲友及他人
-- 第七章 占事业官运
-- 第八章 占财运
-- 第九章 占婚姻
-- 第十章 占灾祸
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：第一章 五行基础；四、遁与顺；第二章 金口立课；三、金口立课；第三章 解课知识；第四章 解课法则；第五章 占流年流月；第六章  占亲友及他人
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《金口解秘课例选集》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《金口解秘课例选集》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/第一部分学习卦交预测学必须明白的道理.md": "8458c65fa64d4b76d000e18d08ec874310800b2c1992e4e444eeae45bbd783dd",
+    "references/capabilities/一-六十四卦的排列.md": "0514e3c44ff89bc8bf587d643fe9dc83638c8fe34ae00ea607f57dfbeef5283e",
+    "references/capabilities/三-定世应.md": "5676b6f450dad282ca7a52033f2a8920620e0f5a1000454595f98e0802a41b86",
+    "references/capabilities/二-测官运时求测点.md": "ae613f905e078aa3ff8544421126a5006f7f9ccc0ff8447571bd31ce94406e24",
+    "references/capabilities/6-与自己夫-妻-的兄弟姐妹打官司兄弟.md": "46b4ac21c0e7909ff49f0c412b81d68c1210381eaf8a623f9fa6e2571b55d7d2",
+    "references/capabilities/五-空破组合意义.md": "8adb05b412ea6cae9bf514811cfa3aacc45de846d3867b1a1405380f86705579",
+    "references/capabilities/5-变交不入变交墓.md": "be4ae40a947334e822e19ddf597ad071b06f4fea19ed9dd9ba1a77154d43155e",
+    "references/capabilities/2-静卦没有月日冲例.md": "281ecd7d663092e4c06d3e0d84d068cc9309556d2fbd231b7a0b7ff62d4d0442",
+    "references/capabilities/三-测经营.md": "9d06538a33409bbc16e437c63234c3cdd13cd03bedc3f8bcd8c4f041cef0638e",
+    "references/capabilities/二-自鬼谷以来-以钱代善而易之道一变-其所重者用神-原神-总神-仇神-飞神.md": "094973dcfce2d2769ad4bc17dcfc7cae01fef5d4bcc95619e6fd0bf469e1760a",
+    "references/capabilities/三-辟-易林补遗-胎养衰病之谬.md": "5a1efe37ef2dcfee40f969c46bd14a1978249b1edb4802b7970ae1e1ac8ee4d7",
+    "references/capabilities/二十三-词讼.md": "71cc23b1f5f06912ef8ed29edac81489f316852b9b977b69b250e015199c6d25",
+    "references/overview.md": "b554e54cd29fbde7b72ded77f3f1b7663de3a1d9e05384fdc99f30866c9b81da",
+    "references/glossary.md": "e98bfc1d747c83bd12eb4b7b2da68bdac7533bb3047f657c9baea3c809af2bbe",
+    "references/cheatsheet.md": "ef0ed0ceeefed7c8c27f47f3a05acd8c6c5577d663169644bf1c290ff11089d4",
+    "references/capability-index.md": "be75eb25c920d80ab5be197b6d933167c601b7b188ee2c5e11d67ce30b3bfa01",
+    "SKILL.md": "a41983ecc446c994c5fa7cc938ed42a4bc1a0a54d6b445f39c336bbbecf16b89"
+  },
+  "generated_at": "2026-11-07T07:40:55.723790+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

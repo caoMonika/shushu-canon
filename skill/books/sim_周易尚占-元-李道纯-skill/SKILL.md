@@ -1,83 +1,66 @@
 ---
 name: sim_周易尚占-元-李道纯-skill
-description: >
-  用户要用《周易尚占-元-李道纯》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 周易尚占-元-李。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《周易尚占-元-李道纯》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 周易尚占-元-李道纯。
 source_book: 《周易尚占-元-李道纯》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《周易尚占-元-李道纯》· RIA++ 蒸馏
+# 《周易尚占-元-李道纯》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 无者，虚无自然之谓也。始于无始，穷于无穷，不可极而极者也。圣人强名曰无，字之曰太极。周子 曰：“无极而太极，太极动而生阳，静而生阴，一阴一阳互为其根，两仪立焉”。即《易》所谓：“易有太极，是生两仪”。言太极之变也。
+## 核心原则（常驻速览）
 
-> ▅▅▅▅▅者，阳也；▅▅　▅▅者，阴也。老子云：“道生一”，即无极而太极也。又云：“一生二”，即太极生两仪也。邵子 所谓“一分为二”者是也。所谓二者，一阴一阳也。阳动也，阴静也。动极复静，静极复动，互为互静而生四象。《易、系》 云：“两仪生四象”。邵子云：“二分为四”。言两仪之变也。
+1. 图局部第一（凡十章）
+2. 旁通部第二（凡十章）
+3. 发端部第三（凡十二章）
+4. 决断部第四（凡六章）
+5. 三材部第五（凡五章）
+6. 人事部第六（凡四章）
 
-> ▅▅▅▅▅    （老阳）者，动之极也，是谓老阳。
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《周易尚占-元-李道纯》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「[[元]大德丁未年版]」相关的查阅/断法/方证问题 | references/capabilities/元-大德丁未年版.md | overview / cheatsheet |
+| 与「一、六位例」相关的查阅/断法/方证问题 | references/capabilities/一-六位例.md | overview / cheatsheet |
+| 与「六、八卦（八节）休旺例」相关的查阅/断法/方证问题 | references/capabilities/六-八卦-八节-休旺例.md | overview / cheatsheet |
+| 与「二、六神断例」相关的查阅/断法/方证问题 | references/capabilities/二-六神断例.md | overview / cheatsheet |
+| 与「三、住居宅地章」相关的查阅/断法/方证问题 | references/capabilities/三-住居宅地章.md | overview / cheatsheet |
+| 与「四、胎孕章」相关的查阅/断法/方证问题 | references/capabilities/四-胎孕章.md | overview / cheatsheet |
+| 与「三、蚕桑章」相关的查阅/断法/方证问题 | references/capabilities/三-蚕桑章.md | overview / cheatsheet |
+| 与「五、公讼章」相关的查阅/断法/方证问题 | references/capabilities/五-公讼章.md | overview / cheatsheet |
+| 与「二、八卦断例章」相关的查阅/断法/方证问题 | references/capabilities/二-八卦断例章.md | overview / cheatsheet |
+| 与「二、八卦断例章」相关的查阅/断法/方证问题 | references/capabilities/二-八卦断例章-2.md | overview / cheatsheet |
+| 与「二、八卦断例章」相关的查阅/断法/方证问题 | references/capabilities/二-八卦断例章-3.md | overview / cheatsheet |
+| 与「二、八卦断例章」相关的查阅/断法/方证问题 | references/capabilities/二-八卦断例章-4.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 卷上
-- 一、无极而太极图
-- 二、太极生两仪图
-- 三、两仪生四象图
-- 四、四象生八卦图
-- 五、八卦方位图
-- 六、乾坤生六子图
-- 七、天干纳甲图
-- 八、地支纳音图
-- 九、支干纳音图
-- 十、五子归元图
-- 一、六位例
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：卷上；一、无极而太极图；二、太极生两仪图；三、两仪生四象图；四、四象生八卦图；五、八卦方位图；六、乾坤生六子图；七、天干纳甲图
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《周易尚占-元-李道纯》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《周易尚占-元-李道纯》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

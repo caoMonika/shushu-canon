@@ -1,83 +1,66 @@
 ---
 name: 黄进长-紫微斗数太微命判-skill
-description: >
-  用户要用《黄进长-紫微斗数太微命判》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 黄进长-紫微斗数。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《黄进长-紫微斗数太微命判》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 黄进长-紫微斗数太微命判。
 source_book: 《黄进长-紫微斗数太微命判》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《黄进长-紫微斗数太微命判》· RIA++ 蒸馏
+# 《黄进长-紫微斗数太微命判》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 不可能有举智朵微平载款年部集法输命的情示
+## 核心原则（常驻速览）
 
-> 您有#情十年各之格·是学求微斗载不可多再的
+1. 用西化·所以四化不食汤天脉·期单易学冒
+2. 不可能有举智朵微平载款年部集法输命的情示
+3. 您有#情十年各之格·是学求微斗载不可多再的
+4. 本地有聲，然細究其内容，又都是套命以求自圆其説面已。
+5. 及長，更以研究各種命理丶堪為興趣。在滁命學術中以八字、斗数爲主轴，後來逐
+6. 缺赋文，每人解讀不同，看法心得更無一致性·也難能把推演技巧傅承下去，故斗數
 
-> 法相結合，界定吉煞關係，使吉凶之理一目了然。其法精簡，断命罕见失，
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《黄进长-紫微斗数太微命判》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「三、大限無四化，流年有四化。」相关的查阅/断法/方证问题 | references/capabilities/三-大限無四化-流年有四化.md | overview / cheatsheet |
+| 与「一第二章星」相关的查阅/断法/方证问题 | references/capabilities/一第二章星.md | overview / cheatsheet |
+| 与「一第四章泛瀚四大主星用盤之性」相关的查阅/断法/方证问题 | references/capabilities/一第四章泛瀚四大主星用盤之性.md | overview / cheatsheet |
+| 与「一第五章案例解析」相关的查阅/断法/方证问题 | references/capabilities/一第五章案例解析.md | overview / cheatsheet |
+| 与「第五章」相关的查阅/断法/方证问题 | references/capabilities/第五章.md | overview / cheatsheet |
+| 与「一第五章」相关的查阅/断法/方证问题 | references/capabilities/一第五章.md | overview / cheatsheet |
+| 与「第五章案例解析」相关的查阅/断法/方证问题 | references/capabilities/第五章案例解析.md | overview / cheatsheet |
+| 与「第五章案例解析」相关的查阅/断法/方证问题 | references/capabilities/第五章案例解析-2.md | overview / cheatsheet |
+| 与「第五章案例解析」相关的查阅/断法/方证问题 | references/capabilities/第五章案例解析-3.md | overview / cheatsheet |
+| 与「第五章案例解析」相关的查阅/断法/方证问题 | references/capabilities/第五章案例解析-4.md | overview / cheatsheet |
+| 与「一第五章」相关的查阅/断法/方证问题 | references/capabilities/一第五章-2.md | overview / cheatsheet |
+| 与「“第五章案例解析」相关的查阅/断法/方证问题 | references/capabilities/第五章案例解析-5.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 一、先取盤，定個性·傅法以命、身富看個性（先天的個性），有一定的
-- 四、命盤十二宫爲固定宫位，不會隨著大限、流年而改變。
-- 三、大限無四化，流年有四化。
-- 第一章
-- 第四章
-- 第二章
-- 第二章
-- 第五章
-- 第一章
-- 一第一章排骚
-- 五、金四丶木三丶水二，分别對應酉丶午丶亥丶辰丶丑，再依序飛宫）。
-- 一第一章排盤
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：一、先取盤，定個性·傅法以命、身富看個性（先天的個性），有一定的；四、命盤十二宫爲固定宫位，不會隨著大限、流年而改變。；三、大限無四化，流年有四化。；第一章；第四章；第二章；第二章；第五章
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《黄进长-紫微斗数太微命判》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《黄进长-紫微斗数太微命判》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

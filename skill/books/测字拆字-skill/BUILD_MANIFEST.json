@@ -1,0 +1,25 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 10,
+  "published_hashes": {
+    "references/capabilities/一-裝頭測字.md": "b7c217027eadb9cf4592d6ebb65ce6078a38b3ffe347267438aa7807055e00a9",
+    "references/capabilities/合-答-屈-窟-魚-鯊-鼇-至-窒-台-見.md": "8aff37254b61a5c3dc9369fdf3ebdd11a7c7b47753ccba9702db6d709fd31528",
+    "references/capabilities/四-包籠測法.md": "13168e4cb1340fb3ae7bd3507477b4d9ec19b475ab9c75f8c9686450ed64364f",
+    "references/capabilities/行-術-衙-衍-辛-章-共-莫-黃-衣-鵞.md": "5899c301168c5d5889ce6a28314652fed1cf20dc65a70ec532731fb9548f1769",
+    "references/capabilities/七-減筆測法.md": "d9ae94b963841489f8d885cb758a03bb1b7a78f72e442bd0000a2a093ea3e226",
+    "references/capabilities/八-對關測法.md": "7ecce5748188b9debb51d491d97eb46dec2b1e857f2c23abcc0d95d332deb2be",
+    "references/capabilities/九-摘字测法.md": "5bcd954662ee6e7dba5b6b9d74005588c49d1b37240c718b9d59acdd5ce49f88",
+    "references/capabilities/十-觀梅測法.md": "505af5042bc4af1a76411b14e8ba2a4effdcadf0c2a6292becc4c731f56d26b8",
+    "references/capabilities/曰-日-兩口相近貼-甜密-親近之象.md": "8bb6eaabec9f4e4d91a3f84d6ca08cabfc6186efbe5a202338c57c3c35352f31",
+    "references/capabilities/五-指事测法.md": "0a1dcd8b2a7cfdbd0c87023c0d5dd8dbdd92bf8b74195fb1a32e6c18bb85ad81",
+    "references/overview.md": "2fc37ae714806deae32766a0eead8fd1979a4fee5da56d34d21cdd5a4083531b",
+    "references/glossary.md": "8a5a538415f489f89610f186beca4badbc548c9a22a97cc416005af7c06e0652",
+    "references/cheatsheet.md": "0515efd1f4fa2f04528a78710ff2d190816e4aeb8e9ed191f33e443269a2f06d",
+    "references/capability-index.md": "f6a3ee347e3e41cfe44653dff7486316e2d78788d1fe9b10e06dd3b303a41ea9",
+    "SKILL.md": "57a22d2c2bb2d46ec3771ed384354dd244a2112bdff4855d51939b5f383af634"
+  },
+  "generated_at": "2026-11-07T07:40:50.693284+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

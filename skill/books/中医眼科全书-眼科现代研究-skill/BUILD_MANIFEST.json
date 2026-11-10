@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/第一章理论研究.md": "808236849cb976709a191af40b60ddc9428946bb71e6fc0140fe2323b60f3578",
+    "references/capabilities/第二章辨证与治法研究.md": "726a05a65a3e1f7e123c5e9fc479dd1a3a9e448a1816c8b3d9c980e4410bb648",
+    "references/capabilities/1-头一带-眼区-位于眼周围-其范围-内至眶缘-下至颊部眶下孔-外人发际约5分.md": "eb36c53c31d9fe9f05ca3b15012e8f4f56d72c545624a2cd334583e4ef2ac66a",
+    "references/capabilities/二-病因病机探讨.md": "18ffbb659f1cdf5756be529c77d9e453b2b5e6c5603c9ff3962a65fbbe4cab4d",
+    "references/capabilities/22-方颂告等板监根-银黄液治疗流行性山血性结膜费疗效观察-中西医结合眼科.md": "2f72af1993cbc320c7f36dd69c7443a925a743aa84dfbe70456975493e73dd65",
+    "references/capabilities/3-舞臀汤-出光活-川弯-陈皮-半夏-茯苓-麻黄-白芷-黄芩-薬本-板蓝根-荒.md": "9975de7b998c7171b302689c3ab231575086c6abb87e550ec01fe940ac4c576b",
+    "references/capabilities/一-临床症状.md": "b75d1dc5c636234db7537109d78ad256b511a687c0867a17d9e3e1eb8f2afde5",
+    "references/capabilities/2-牌胃气虚型.md": "401236853cc6e7b68daa9fb4c458b51a56657d6490503e14ad4f4872c51a933d",
+    "references/capabilities/2-获苓合剂-由茯苓15克-当归9克-半夏12克浓缩成10毫升-一次口服-店氏.md": "0a67f9c66e79ee665067d6e3ac7cf97da9951a587dfbdfb9e8671b3b0202f94d",
+    "references/capabilities/6-及时进行心理治疗-消除病人的紧张恐惧心理和剧烈的情志变化.md": "345e9549a6ebf3090a86774523f27471ed6a54d8058d8ec7f7b0c036f516d52a",
+    "references/capabilities/1-脾虚型.md": "700daf7ce146db025e964b80a42482e2ba89d333b7b0823d8abd983f1334e955",
+    "references/capabilities/1-加味五苓散-由茯苓-猪苓-泽泻-白术-桂枝-丹参-蒲公英-川芎-夏枯草-黄.md": "fc71f3b4aa822024ca99ed9399dafb637f67def9647d02f3fa6eb12366fb7e96",
+    "references/overview.md": "b95984c0ba51e0970a0fe43454531640a56b695c364f92a8e18abb6c2cff2760",
+    "references/glossary.md": "fd42b47025ad2012ec2ef97848b4b32114ed4c197033659f42ac569e4f86e17a",
+    "references/cheatsheet.md": "ed4d57e89e266dc0926142bf5b62c5eb763040e1baf5b3537d3d18738973dce5",
+    "references/capability-index.md": "46a36f94fc7925e4ecbf21a0f3cd5a7233642ed9736d2f7e18b0b712f99fcbf8",
+    "SKILL.md": "a9732575f4914d2424ff2f90c19bc723fd695bc0d99f9d37285fe90038db387f"
+  },
+  "generated_at": "2026-11-07T07:40:57.545000+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

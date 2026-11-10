@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/不意孫氏高明千金方以婦人居首而求嗣又為婦科之開宗明义第一章.md": "208c244d2ad793c3fbbef551a47b826a3059fabcfa17ff3d4224f35fef3251f4",
+    "references/capabilities/笺疏-此節出服經第九卷考服經一書單行住本不易得金山氏守.md": "b5e795d0d53c97a337d061a07972ae9a188fd75a57f403c324892a38606a43af",
+    "references/capabilities/第二卷.md": "031025bb1197862d88f7e2c40170befced86210987600c7d84783fb7831d18f7",
+    "references/capabilities/第三卷.md": "e3e0df32d06567c0c2cf7527acc26042ed25a9d411332a5324a33d5f5d7493a5",
+    "references/capabilities/第二章明喉腑宗.md": "fd106eb26d0ba5593381fbf251e6fb561371cba79e5695584b4edc89f8710ee4",
+    "references/capabilities/第二三章三陰二阳王在少陰少陽.md": "d2601a565eaa3f5c14e9a7c6aaa8c2495139e1812d0519aa2bc48e6b7c93c8a9",
+    "references/capabilities/第六章喉虚實宜辨.md": "eb87fe7f5a229f24a726966d3a05173501dbc1142111f1c41a043662ee722026",
+    "references/capabilities/第七章决断生死看法.md": "b0f3bbe85052ebb771b5e151afb7f290ca75655693ea2a0c7896eece761e8677",
+    "references/capabilities/第九章醫士臨症偏急生藥庫.md": "9235671671841ad681dc0aa811789d0b7f93b8cedbe8a109f43f59791cef1559",
+    "references/capabilities/第十章藥品選眞製法知.md": "12cd5a28fa6922932c819174d17f529d3f269a102ef6af66c2de4421d6579645",
+    "references/capabilities/第十二章喉症六淫方款.md": "1eb1b15ebb5ad4b6bb334f6c691c61a52732fd2e263729dc500efdbc1bb534f4",
+    "references/capabilities/以四神丹一枚當頭安上經宿即根出矣-方在第十二卷中錄载.md": "9cd3f803099a3dae921e7f70820456f204d33e6d87fbe14fe1c5560de77f18ba",
+    "references/overview.md": "a68b8ce7db3f583a66aeab9979611ed36658f1c23379e87b6f3a676006e4b960",
+    "references/glossary.md": "9bc95d1307b19b843a1f2852dd599c0562e240b6352a0b729f8a9ff94052ac40",
+    "references/cheatsheet.md": "0032e3034dcb967cf654a34fcf6055b96d6e0173dae64672ff6cf82e3c139aca",
+    "references/capability-index.md": "333f7384e6d9e8c5c362e82891610137ae4cb411a5807de6b46bf76f368705a1",
+    "SKILL.md": "3dfbe3a2de7c806d02bd8bd6277ec1d3bb2f89d699936e0037225c62b195ef69"
+  },
+  "generated_at": "2026-11-07T07:40:59.796269+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/一-断例.md": "6fc8ba037b8a9dfd4f793eed99db5c9afd3b572fbed01e157c4170156ddf37dd",
+    "references/capabilities/一-河魁度亥-主失登庸.md": "a6cbb5b64a702ea70fb3ccfffdf570fd85e11d3ad800b946737dc96e41041c64",
+    "references/capabilities/一-天赦-皇恩生干支-主解凶.md": "cbccf49c200b3bae113bc1b874133d467d080b9bc2610a51985b9813385229b5",
+    "references/capabilities/一-访贼人宜在游都之下.md": "8b0198c1d307ef4d22c738f75cf41b799ab861ac9ed00287c7ccf503e56b8e91",
+    "references/capabilities/三-重-审-课重审者主先迷而后利.md": "d8d003d357bc80e07054b46879a704d5201826412f750ec0878ebbe1efd085fc",
+    "references/capabilities/四-元-首-课元首者-象天-主先喜而后忧.md": "b992dc7b7f5154128d54ea0de92e20f9ce8126563c42aee69d81afd0e647faae",
+    "references/capabilities/五-比-用-课.md": "458624225e2dcbdb74bf9cab8fcf5b8037bb31581390e49f21bc8e9226494fba",
+    "references/capabilities/六-涉-害-课.md": "6fe8ac184470ccaa531b0f1f59f2ec610f82ce28ae00ad54321628e35985a0ac",
+    "references/capabilities/八-昴-星-课.md": "8126936b834c3d4df454125d90d4a15bdecab0b9c8857f962ca75535381bfa2d",
+    "references/capabilities/九-别-责-课又曰不备.md": "0de1df2faeaf2cac1b272855abfd96bf212fae992001a6beb39f8f40a29eb1b6",
+    "references/capabilities/十-伏-吟-课.md": "33318ef2083b6c449a400b3aae94073e7aa65f55cd8d6d71317d69efde60a533",
+    "references/capabilities/十一-返-吟-课.md": "14fc53ca691a6d9f239fe0783c9945c0fb72ebf3c14fbeb4efea6fc4d90c9706",
+    "references/overview.md": "747ed3cac86b945d29ae6c5db340973fa456e91b82aed9f38d0a2e45f6b1fff1",
+    "references/glossary.md": "fc9959a52fe95a58e8bcc9648fdbc33e48d569d9536d9778ad58877b894baebd",
+    "references/cheatsheet.md": "a8c6f426d5b4dd70703107296cc06c52f3479888acd7d58f1dcefaa2e000a34f",
+    "references/capability-index.md": "c11bdb4bf371e60652f0e8607b2188acbe451dd65c9c81ff6e2a12763979fd6f",
+    "SKILL.md": "ee4e9fa0597a2b54331eeb9c3c16b69cabceec39a320e6a7c82e283c261bbde6"
+  },
+  "generated_at": "2026-11-07T07:41:02.020262+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

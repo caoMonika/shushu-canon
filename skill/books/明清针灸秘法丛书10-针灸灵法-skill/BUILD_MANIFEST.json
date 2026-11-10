@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/一-底本为繁体字刻本-抄本者-本次出版时均依.md": "e7953bbaa9586afa28b5401b505044c3bf00f250fb7d76f8c27d0b8cd03a2724",
+    "references/capabilities/58.md": "33f8325cfbac06854bce78d4b55e43ab4f00c4900a2d5b3c4d9b9bf6cb8de278",
+    "references/capabilities/第二章手术.md": "6421215892f0bd12b6055e58d6b25f33da1cdf938a30786b6bb53afa8a64801e",
+    "references/capabilities/十-天门入虎口法.md": "66321da968488d57ccccbc08a647882a1e71676e98d7b82a54bffdcf7ab30974",
+    "references/capabilities/二十-老汉扳臀法.md": "8a39e528ecc23b6dff0355190ac1c41f7df63bd4a731a0d1924a42332fdba896",
+    "references/capabilities/二-看小儿面色受何病症.md": "b90df7de36afe2d448106db7af31f235f2388f501e9891c4541bf37953115e27",
+    "references/capabilities/七-鲫鱼惊.md": "353e08fdcb1602ad454a508cef42b11f357ec10e66d23e7f9285521cb4d8128f",
+    "references/capabilities/十八-月家惊.md": "58c99c8cb482d6a86c698cec6c7c53f409bbb67f7368fecfca5aace20f262db2",
+    "references/capabilities/三十一-两手惊.md": "9ad31023cd9eebf1169bf8e2c82d0bb8c532da70ba44d2e48d9d1d3901074fd0",
+    "references/capabilities/九-温泻不响.md": "ea182ddb45db62d9bc5247ba51c44bf77e324441104aaab828101b5ef421c169",
+    "references/capabilities/六-推拿法.md": "54e435f7a5578c594cef73c602e2adc95d7de6366d679e20b9c98f7e74303126",
+    "references/capabilities/十三-腰上夹板腰柱图器六.md": "164ec6fd72dd09347db8685c661c72972e0a3d0a9a48afe56ef1f1e60b5155df",
+    "references/overview.md": "5c204b68ef204049b44cc826cccf31fdd369b9f753beedd485728e220aa8b400",
+    "references/glossary.md": "9a99d465739542ba4b5cd5617bed1f0f73f9a9f79ab35973da695b8f23b11347",
+    "references/cheatsheet.md": "02928a23dc42bba7793db14a2e5d1260d209cc396eaafaff1f85cbe7a9922397",
+    "references/capability-index.md": "483d0d5571a109b909bdaceb52124173e01bf4df8aab59685589e33ee7c8854d",
+    "SKILL.md": "a259d900f8fcd820b99f64342251834d7950fac41c05211392d38eb3c4bd92e2"
+  },
+  "generated_at": "2026-11-07T07:40:59.458311+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

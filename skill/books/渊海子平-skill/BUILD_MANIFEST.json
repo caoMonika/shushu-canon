@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/2.md": "f3ff0bca322f4e5f1fd48f0c8644ff20e327fa169757b76d93a1b464ed87229a",
+    "references/capabilities/原文-甲子旬中无成亥-甲成旬中无申酉.md": "86deecd402ea3fd993b022bc9e5f3dd2e25f7df091a152bf821e988594dc48b8",
+    "references/capabilities/原文-阴木独遇子时-为六乙鼠贵之地一此论大怕午字.md": "e05f038406dc0276c18382985c4185beb004e8fae42c5d9b99df370e4df857bf",
+    "references/capabilities/原文-岁伤日下-有祸必轻-日犯岁君-灾殃必重一一若太.md": "59ec0d47f3250d25e88467a7e837e16990a8962f9d49a0a8bd62004ad37e1545",
+    "references/capabilities/原文-喜财食神相食-独一位见之-此为福人-然终亦不清.md": "d1f157ae0282da2feeec7080d476ee51e68bb97932114c8a50025c584dc01b57",
+    "references/capabilities/原文-以戊己日生-值辰戌丑未是也-忌东方运及北方财.md": "72d4c71a22bf3e00b36d56e0835e332a77dbaf187813cb6a7c9864044b05030b",
+    "references/capabilities/意译与解说-日时逢羊刃虽凶-如果身弱用刃-或用刃敌.md": "5625d55be8c9e65ddb1b5fe97825fedcce94334c84e4068593a91a3d21f3c212",
+    "references/capabilities/意译与解说-鬼象与前从象中的从杀格同-详参前.md": "47fd614077cd91ec1b33b038b4a0d638b05f7749f3c13d8fb9cdef70a25aac9b",
+    "references/capabilities/原文-卯刑子位子刑卯-癸乙相刑贵.md": "683e8347e97d37c46bd4075cfe3cc942f6df57d70634e8f100d7292d9e9bcadc",
+    "references/capabilities/意译与解说-见以下诸例.md": "a2f69a262bcf73edc26aa44709bb5a034b35be74c781629dc17c7df51a87de6a",
+    "references/capabilities/意译与解说-寅卯若为全局用神-大运顺行先逢申金冲寅.md": "f20831e434d70b55e53686d49e52c76bacd3438167f8c052ab71adfec175d448",
+    "references/capabilities/原文-壬骑龙背喜非常-寅字辰多转发扬.md": "e5f0c857d0715840b3a6f7daced070e9bfc05bc161d68a8acec561386b1e4113",
+    "references/overview.md": "3ffffc9342b99a9cbbe3efa723efbbea345178110821f66d575abc01a4e1a956",
+    "references/glossary.md": "02bf873d54f9d8fe04d926e7a340fe8aca94a04e987cca9a1755179a13168fc8",
+    "references/cheatsheet.md": "458661ee38cabd975ea395e19918d621d899aaf45ded0bd741c69565166e52d2",
+    "references/capability-index.md": "9c2701c72b6f09a63df0b10d3af6c8a0493ed638a47294cf3b2ff33e70d80e96",
+    "SKILL.md": "fd78cc40376ef0b4e0f9da3cbab757915aba051fbc650dc1843708a2688632eb"
+  },
+  "generated_at": "2026-11-07T07:40:52.747339+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

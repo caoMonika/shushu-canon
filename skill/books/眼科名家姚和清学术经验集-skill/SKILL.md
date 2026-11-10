@@ -1,83 +1,66 @@
 ---
 name: 眼科名家姚和清学术经验集-skill
-description: >
-  用户要用《眼科名家姚和清学术经验集》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 眼科名家姚和清学。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《眼科名家姚和清学术经验集》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 眼科名家姚和清学术经验集。
 source_book: 《眼科名家姚和清学术经验集》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《眼科名家姚和清学术经验集》· RIA++ 蒸馏
+# 《眼科名家姚和清学术经验集》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 十一、天行赤眼（急慢性结膜炎，又称"涩症）
+## 核心原则（常驻速览）
 
-> 三十一、青盲（视网膜退行性变、视神经炎与视神经萎缩）116
+1. 便难。症由风热化毒、热毒上窜，治宜清热解毒、驱风逐邪。
+2. 热化毒、气血双蟠：治以清热解毒。
+3. 面部亦红肿高胀，以致头部较正常人为大，所以有大头之称。至于
+4. 红肿高胀的症状，以致两眼脸裂如线，无法睁大。与此同时，胞险
+5. 及面颊表面并出现斑疹风粟，或者小的疮疖，皮肤溃烂流水，以后
+6. 因溃烂而结疤，所以后期红肿虽退，胞验莓因结疤、皮肤收缩率
 
-> 七、用中药治疗球后视神经萎缩病例初步报告
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《眼科名家姚和清学术经验集》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「九、流泪症」相关的查阅/断法/方证问题 | references/capabilities/九-流泪症.md | overview / cheatsheet |
+| 与「一、火胀大头（眼脸丹毒）」相关的查阅/断法/方证问题 | references/capabilities/一-火胀大头-眼脸丹毒.md | overview / cheatsheet |
+| 与「六、脸废（眼脸下垂）」相关的查阅/断法/方证问题 | references/capabilities/六-脸废-眼脸下垂.md | overview / cheatsheet |
+| 与「十二、泪不禁」相关的查阅/断法/方证问题 | references/capabilities/十二-泪不禁.md | overview / cheatsheet |
+| 与「十六、痒若虫行（春季结膜炎）」相关的查阅/断法/方证问题 | references/capabilities/十六-痒若虫行-春季结膜炎.md | overview / cheatsheet |
+| 与「二十二、陷」相关的查阅/断法/方证问题 | references/capabilities/二十二-陷.md | overview / cheatsheet |
+| 与「二十七、妄见」相关的查阅/断法/方证问题 | references/capabilities/二十七-妄见.md | overview / cheatsheet |
+| 与「三十一、青盲（视网膜退行性变、视神经炎与」相关的查阅/断法/方证问题 | references/capabilities/三十一-青盲-视网膜退行性变-视神经炎与.md | overview / cheatsheet |
+| 与「五、瞳神干缺」相关的查阅/断法/方证问题 | references/capabilities/五-瞳神干缺.md | overview / cheatsheet |
+| 与「一、补中益气汤治疗眼脸下垂病例简介」相关的查阅/断法/方证问题 | references/capabilities/一-补中益气汤治疗眼脸下垂病例简介.md | overview / cheatsheet |
+| 与「五、中医对角膜软化症的认识」相关的查阅/断法/方证问题 | references/capabilities/五-中医对角膜软化症的认识.md | overview / cheatsheet |
+| 与「十、针术治疗白内障的初步介绍」相关的查阅/断法/方证问题 | references/capabilities/十-针术治疗白内障的初步介绍.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 三、胞脸疮疡（眼脸疗）
-- 四、胞轮振跳（眼脸疫挛)
-- 五、胞虚如球（眼脸水肿）.
-- 六、脸废（眼脸下垂）··.
-- 七、月珠不正
-- 八、口眼歪斜
-- 九、流泪症
-- 十一、天行赤眼（急慢性结膜炎，又称"涩症）
-- 十二、哆泪不禁
-- 十四、白晴发黄
-- 十五、门珠俱青（巩膜炎，又称火疮）·
-- 十六、痒若虫行（春季结膜炎）
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：三、胞脸疮疡（眼脸疗）；四、胞轮振跳（眼脸疫挛)；五、胞虚如球（眼脸水肿）.；六、脸废（眼脸下垂）··.；七、月珠不正；八、口眼歪斜；九、流泪症；十一、天行赤眼（急慢性结膜炎，又称"涩症）
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《眼科名家姚和清学术经验集》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《眼科名家姚和清学术经验集》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

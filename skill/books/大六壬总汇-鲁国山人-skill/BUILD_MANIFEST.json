@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/一-克贼.md": "9a4ca5790775b5c1ecbf692c9f8436d9bdb5ec3dad30e918bb4ac233d532e646",
+    "references/capabilities/七-别责.md": "71f3a8cc622cc33702ae772d2f981dab1d298e6043804a3b46da62bc2e7fcedf",
+    "references/capabilities/十六-十七.md": "b8dfa26628fca4fece53b409a2900a5c49d732609e9cb6f40144f76dc31dede8",
+    "references/capabilities/一-日辰上见德神.md": "0239a26367ffcbd74041c113bb7c819d24b8f45474549cc7dde59af4d10f8d74",
+    "references/capabilities/一-日上课不足.md": "46aecba853313e6a59d2b657ee04252500d402fcf5ad89d2c3b0a2ba5797ef8c",
+    "references/capabilities/一-支临干同类相培.md": "0fc4dfebd2bac58eca6ecb147867b90b7f255f8fae445b145eb526bd2e262e14",
+    "references/capabilities/一-传凶.md": "e988de43d4e2c015c0d2989c4180092f1b6bfb27862045dc89aaa6a4a5f04e37",
+    "references/capabilities/一-三传四课皆在六阳之位.md": "91754ca5f6a75905e90fc07615cdbb6cded09e99322760642b57c6860f1dcb10",
+    "references/capabilities/一-三传日辰俱下克者.md": "d0080cde024fb4a0e086fb38eb2bd83b8f1c8d53edcb3c019bf2b3af02ab0880",
+    "references/capabilities/一-三传纯子孙.md": "b7a9816404c6c8da097b9dd2b327aaa0a246de49b71ec56afa6d55222a55924a",
+    "references/capabilities/一-用下贼上.md": "a396b9f13b4860164638d28f5c199fa188146bf2b723639348184c69071d814b",
+    "references/capabilities/一-用克太岁.md": "49c985ef83f78bcd1328831b4da9073c8fba1b3193eacfa1833ebd0893af792e",
+    "references/overview.md": "288237680867a5bfc5ec5c30e81cbdef69649d09f3f3e641f9b6510d7866bb58",
+    "references/glossary.md": "687d2b15d02d380792733ef5549177290a35a4b68708f7d1afc9370099ae36e1",
+    "references/cheatsheet.md": "04128efa24ac5ab5449be1cd724d3669e1ba8ebc51ad30702f14b3f2e16f1c60",
+    "references/capability-index.md": "77c609fe4c273074e200ee122a4431e3f47e3d5289fe71f24591129e111d3968",
+    "SKILL.md": "fdb750228e003e7ed77431753f16b480127d0842ae9447669ac1691a290148b0"
+  },
+  "generated_at": "2026-11-07T07:40:54.283334+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

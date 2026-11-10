@@ -1,0 +1,24 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 9,
+  "published_hashes": {
+    "references/capabilities/一-贼克法.md": "ec1ca14c2517a4b041493ed20abb02020b0153bbed02eb137a03923bc31349ed",
+    "references/capabilities/二-比用法.md": "d58dd831d49a1ce0de6ca41fa6046aedde7446b3782b2907829115ab34090f32",
+    "references/capabilities/三-涉害法.md": "02bf288b027b8e48703a789cdfe08fa6ec06f94ec724b2d19e85c2d0d1939f86",
+    "references/capabilities/四-遥克法.md": "ed46a5f5ef0169056c82c409870779d93d179dd27a708681db9dbd28e8a04868",
+    "references/capabilities/五-昴星法.md": "f93f32a214d9dfe1daa020d8fba1a4b8c69690473c5b3af7172daed50622e0b7",
+    "references/capabilities/六-别责法.md": "c67cdd1a433df12614e8f833e862cfb076f327774cf7cb042ff45efe7c68c668",
+    "references/capabilities/七-八专法.md": "8f811408371cb84119bd9bb01d32e6241a9d0d76922ac211bf4d20f732cde502",
+    "references/capabilities/八-伏吟法.md": "f9cde15047e225b049d8ce0ad831bcfd0add4958430ead17d9e3122b32963ad2",
+    "references/capabilities/九-反吟法.md": "de284fabe29f3d6598139d3ce2a1aae9afe059b521a4ae2b9e4f8733f0470c30",
+    "references/overview.md": "f508622f872968982bdfa589e623e16d1714cfe0aac108a2615a40e185268b1f",
+    "references/glossary.md": "9551deee7ceadbd5f3bdc723b97fa725b73ea8cce928e366051bc69b22b23283",
+    "references/cheatsheet.md": "6f11b6ffb943e1c658fa1bbb287994a150fe2952ff163ede693f4a45253edad0",
+    "references/capability-index.md": "bf6d5882393d9d12deba6f06858774dd9f154a66cf5ab0b424f7c5072a3d0a31",
+    "SKILL.md": "66b5c5976bd565b035e5219ec7c19a3b4fc617dc14e7f9c9d0a9ac718b515311"
+  },
+  "generated_at": "2026-11-07T07:40:56.518134+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

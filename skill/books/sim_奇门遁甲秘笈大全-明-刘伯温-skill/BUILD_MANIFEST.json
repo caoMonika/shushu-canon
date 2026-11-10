@@ -1,0 +1,16 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 1,
+  "published_hashes": {
+    "references/capabilities/九-天乙火神.md": "544a6823651ffdce96bd66844bdce0648465bdc8b23aef0f1c5b53565ff0f999",
+    "references/overview.md": "3911443ce7a9d4d44144c473a80cbad9565c95d2d08a2343d390eae12e08aae8",
+    "references/glossary.md": "1e1b88b3617722af2eea4fe7f72536ae49a0679139f53bc25ee59bc38c3a3896",
+    "references/cheatsheet.md": "73faaac289ffe9ac4901778897139f3c6c6a28af359849195705a5a8789cc0b5",
+    "references/capability-index.md": "ab2235d56e4d97aa812371834686bc99c54e41a1f0265c9299c5fd36cf8ce697",
+    "SKILL.md": "dbe644d71bd96e284933574d65ed83e14e3cbb810fbbfc6cd4a5b42fdca09104"
+  },
+  "generated_at": "2026-11-07T07:41:02.689945+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

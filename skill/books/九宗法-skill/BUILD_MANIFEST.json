@@ -1,0 +1,26 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 11,
+  "published_hashes": {
+    "references/capabilities/一-賊剋法-取課先從下賊呼-如無下賊上剋初.md": "3468db9f2081acad3ea06582b633eb8a74983001f475ddda7638fd675d84aa58",
+    "references/capabilities/一-三課為下賊上-第一課上一字寅為陽-第三課上一字酉為陰-辛巳日辛為陰-陰比陰取.md": "559652aeecf15aa461407f93143d70ab550ecd31b0a2b53b50e31689636adb8e",
+    "references/capabilities/三-四課為上剋下-有下賊上者先論-第一課上一字未為陰-第二課上一字子為陽-甲午日.md": "69f6222a3fa146829bbc9e1f36dd16cf3c705ad63bb44c97eefec0615d3313ea",
+    "references/capabilities/三-涉害法-涉害行來本家止-路逢多剋初傳取-孟深仲淺季當休-復等柔辰剛日擬.md": "5fa2fa3be5e95cd4375be141518cb3e7ca3a0dcf27f8ac39cbc51adf49b9c9a7",
+    "references/capabilities/三-四課均為下賊上-丑亥與日干丁俱為陰-無法取用神-乃以丑在地盤卯-亥在地盤丑順.md": "36f31d5617eacc3142091fb7cca02b39134448940a473c7ff17aaff9638a0c35",
+    "references/capabilities/四-遙剋法-四課無剋取遙剋-日與神兮遞互招-先取神遙剋其日-如無方取日來遙.md": "6a9a3476af7d5bf25131f67577ba51c2a64ab701057f004e0f35ababfdf65d36",
+    "references/capabilities/五-昂星法.md": "50635e798de6763988feed39ed559ee343478467177c709a217cdeb0a994355c",
+    "references/capabilities/六-別責法.md": "2531cd38e72e1b47270846ce3a6177d1e6f9d805d49c7bfa496a770282e4c59a",
+    "references/capabilities/七-八專法.md": "fc86e959c32a757d13c08e5d9aecfdebffde6bf6ece80b93cf4e286426eae745",
+    "references/capabilities/八-伏吟法.md": "09494eb96ac22fd034c86d5e42aba09c818218d389667e2783deadff9ab24ae0",
+    "references/capabilities/九-返吟法-返吟有剋亦為用-無剋別有井欄名-丑日用亥未用巳-辰中日末容易尋.md": "9c8b45cacefac5acb046b895d86355abd0a7c4dd3275b6ce0d803c30f91ce398",
+    "references/overview.md": "5ccedd0d342f70d441a08caf56568e04a1add829872954f1450f462646472b12",
+    "references/glossary.md": "719f3dbcdd4a9d8d24b877a271d9ca13249460d85215c52a19d3f90f7aa5c14d",
+    "references/cheatsheet.md": "00a1c8417c24edb14ae9d8e89c9a7f962acf5e92a5a3fef317b534a46254cacb",
+    "references/capability-index.md": "aaf7d388edd4ef5c7868183dbd6bd4f06b921f8f93e874bf314b767b44e0b554",
+    "SKILL.md": "d21511bcbae02fd0125a28aecbc4e4bb98dfc4c6b5130c34a455dd54033edcb4"
+  },
+  "generated_at": "2026-11-07T07:40:54.064735+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

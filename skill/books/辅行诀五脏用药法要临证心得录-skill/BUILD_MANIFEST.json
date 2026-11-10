@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/张大昌先生弟子个人专者.md": "2576b3c206286f404b0e89318c701a00dd7911ac283d559a5f0140ef76a33f33",
+    "references/capabilities/下篇-第一章-第四节-五-5-学苑出版社-2010年.md": "e36b2ea5f8e6e6135996e306f700c3547062db819bc2d936753529ae238d6576",
+    "references/capabilities/3-辛甘化苦法.md": "d55a52186f22b050eda07a2a143a40082e7eaf12dc07882f47028b82d53696da",
+    "references/capabilities/2-五脏-为古代文题和书名常用词.md": "3ac811a08f4850d05358052d63f529e129ac9bfd56567cec255cf241fcb4ecc2",
+    "references/capabilities/1-熟地黄.md": "dfdb1b37d4f7f6c191431342776e83996dd1773389b60d5338e23ed9e455bca3",
+    "references/capabilities/4-本县郭牛村55岁男子郭某-2003年8月23日.md": "0ef6709b1fbf1e0822c50c756001d8683d0d859c1b434c9cdb324343ed024868",
+    "references/capabilities/1-本县张营乡马庄5旬妇张某-2006年5月诊-右.md": "190de007a782e40ac16f3a2e3450ad259f4e16637dea839edb91003afeb1d750",
+    "references/capabilities/七-五脏大补泻-救误大泻-救劳损补方-均据各篇后.md": "b931f4f9865de2c000e482678d1dfc73b53954499ca96b49b13e815345d87a3b",
+    "references/capabilities/1-1965年传抄本系列概览.md": "fa6d96a054517ce53d6260d44962ec96a7feb5926c437a53ec8a1188fe828447",
+    "references/capabilities/6-大泻心汤诸传抄本主治异同-I漏衍倒误-无意致别.md": "f81ff2786a21246fb2a60d7fa008bdefe13c573926cba9ae7a8375be999ce292",
+    "references/capabilities/16-大补牌汤诸传抄本主治异同-Ⅲ行文退异-明显区别.md": "24d070f0e3691d6bfe30284da2aa89787cef4375488ec6320e986de2441ccdd7",
+    "references/capabilities/25-泻肝汤诸传抄本主治异同-Ⅲ行文退异-明显区别.md": "a17a1fcb9e8d0d49c3e4d8449734f13d0f28c9c5ee1d2d8cc398d9aa8cd23fd8",
+    "references/overview.md": "bc101f0e0bfc8a3a15ef02adbf22107f29f1b00f5c26f1609651b14c9890a590",
+    "references/glossary.md": "60fb9a09b5d3cde5fae95ac6d0ddfbb5d32a15353e38d8cae611dbdb3075fec9",
+    "references/cheatsheet.md": "9f3e21a331da5208a95a00fcad3f951615b859493501e8d5d3e708ee62b13936",
+    "references/capability-index.md": "d4370f63570ee664d2f26223d39a89edd77562bf4ac03b37c95aa01022283e75",
+    "SKILL.md": "288e132217be29650d7d6cb8b6b012f478a9bb882fa3485304fc6fe98f5ea12c"
+  },
+  "generated_at": "2026-11-07T07:40:58.796315+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

@@ -1,83 +1,66 @@
 ---
 name: 六爻预测学理论全集-吕文艺-skill
-description: >
-  用户要用《六爻预测学理论全集（吕文艺）》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 六爻预测学理论全。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《六爻预测学理论全集（吕文艺）》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 六爻预测学理论全集（吕文艺）。
 source_book: 《六爻预测学理论全集（吕文艺）》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《六爻预测学理论全集（吕文艺）》· RIA++ 蒸馏
+# 《六爻预测学理论全集（吕文艺）》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 第二节学习命运预测学的五种思想方法....
+## 核心原则（常驻速览）
 
-> 只有坚持“科学发展观"易学事业才能健康发展
+1. 第一部分学习卦交预测学必须明白的道理
+2. 第十二节彩票号码预测必须解决的三大问题
+3. 第二部分学习“吕文艺六交预测学"必须明白的道理
+4. 第三部分学习“吕文艺六交预测学”必须掌握的基础知识
+5. 3、原神忌神仇神（传统理论，易友参考一下即可，不可深研）
+6. 4、原神忌神论（传统理论、易友参考一下即可，不可深研），
 
-> 第二部分学习“吕文艺六交预测学"必须明白的道理
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《六爻预测学理论全集（吕文艺）》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「第一部分学习卦交预测学必须明白的道理」相关的查阅/断法/方证问题 | references/capabilities/第一部分学习卦交预测学必须明白的道理.md | overview / cheatsheet |
+| 与「一、六十四卦的排列」相关的查阅/断法/方证问题 | references/capabilities/一-六十四卦的排列.md | overview / cheatsheet |
+| 与「三、定世应」相关的查阅/断法/方证问题 | references/capabilities/三-定世应.md | overview / cheatsheet |
+| 与「二、测官运时求测点」相关的查阅/断法/方证问题 | references/capabilities/二-测官运时求测点.md | overview / cheatsheet |
+| 与「（6）与自己夫（妻）的兄弟姐妹打官司兄弟」相关的查阅/断法/方证问题 | references/capabilities/6-与自己夫-妻-的兄弟姐妹打官司兄弟.md | overview / cheatsheet |
+| 与「五、空破组合意义」相关的查阅/断法/方证问题 | references/capabilities/五-空破组合意义.md | overview / cheatsheet |
+| 与「（5）变交不入变交墓」相关的查阅/断法/方证问题 | references/capabilities/5-变交不入变交墓.md | overview / cheatsheet |
+| 与「（2）静卦没有月日冲例」相关的查阅/断法/方证问题 | references/capabilities/2-静卦没有月日冲例.md | overview / cheatsheet |
+| 与「三、测经营」相关的查阅/断法/方证问题 | references/capabilities/三-测经营.md | overview / cheatsheet |
+| 与「二、自鬼谷以来，以钱代善而易之道一变。其所重者用神、原神、总神、仇神、飞神、」相关的查阅/断法/方证问题 | references/capabilities/二-自鬼谷以来-以钱代善而易之道一变-其所重者用神-原神-总神-仇神-飞神.md | overview / cheatsheet |
+| 与「三、辟《易林补遗》胎养衰病之谬」相关的查阅/断法/方证问题 | references/capabilities/三-辟-易林补遗-胎养衰病之谬.md | overview / cheatsheet |
+| 与「二十三、词讼」相关的查阅/断法/方证问题 | references/capabilities/二十三-词讼.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 第一节命运预测的八大原则
-- 第二节学习命运预测学的五种思想方法....
-- 第三节
-- 第四节
-- 第五节六交预测学的真理何在？
-- 第六节命运预测的本质是什么？
-- 第七节
-- 第八节什么是吉？什么是凶？
-- 第九节人的命运是由谁来决定？
-- 第十节赌博输赢也能百分之百测准确
-- 第十一节股票价格波动也能百分之百测准确
-- 第十二节彩票号码预测必须解决的三大问题
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：第一节命运预测的八大原则；第二节学习命运预测学的五种思想方法....；第三节；第四节；第五节六交预测学的真理何在？；第六节命运预测的本质是什么？；第七节；第八节什么是吉？什么是凶？
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《六爻预测学理论全集（吕文艺）》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《六爻预测学理论全集（吕文艺）》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

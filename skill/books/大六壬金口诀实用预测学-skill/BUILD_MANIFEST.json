@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/6.md": "4f5bb96db7f3c1fd017f968c5758eacf0025997216276909ad688469ffa52597",
+    "references/capabilities/十四-官符-病符-丧门-吊客.md": "7d224c15355429b44ac11428b70cc346fd5d6cf57d7f939363e287aea6e6c9a0",
+    "references/capabilities/一-信息妙论.md": "73f5a0ac379333ad788af16e4f8b4689a5f92d10ce21d0319f6a83157866fb3d",
+    "references/capabilities/三-占人身上瘢.md": "4599a72834f86b7e8061311d0ddc5ae95730e5292560e46f20b77c3e0c32f822",
+    "references/capabilities/第五章主要歌诀与卦例验证.md": "7d2fa7db27487eda78e74ac110e29b44322bdb3c5fec87aa694b69a0a936d102",
+    "references/capabilities/第六章阴阳五行生克变化关系.md": "c819b3e3b1792669bacd1495c28188919c776631e59758de3b275b41d08cb38c",
+    "references/capabilities/三-五比同类与千元类.md": "2d2e54de679e768304987ea98e8ed3b9688cd3be608bc6a352b87fe84e1e2c48",
+    "references/capabilities/十九-斩关课.md": "fbb52bc14724524681c7d76c2c318d4858bcae6c0b189fd0d802afc9d7724878",
+    "references/capabilities/四十六-进体相克课.md": "ca30031e89aab79945c7e556323254e94fe85f6e8e515c3a83613d094a6d2837",
+    "references/capabilities/第十章问题解答.md": "707c63b7b30b79719749458ee4ecb747247fc384dade895259f038819ac6085c",
+    "references/capabilities/十八-命运能否改变.md": "9419dc4c9368cdf25930f1b68aa4c8fb6681b81d55e313c3fc4d15577947b9b8",
+    "references/capabilities/二十九-很少见到有人在国家正式出版的刊物上发表有关-金.md": "033849481433e422aa38ce9bdd68ba792805b36bf3c682365568efae3c9acd50",
+    "references/overview.md": "7dcc439e12238ba4abe4cfedb2ce28b44b8f7591b3f96be6e0c1bdd60e06c3af",
+    "references/glossary.md": "f1632c11fd371ca90070a14927d1391b15e64e71701e4ce7a889be6695d28d30",
+    "references/cheatsheet.md": "d7a2ff5ec5faf3f33dbcd7f000753375b4bce03a1b17815bde3e17cfb6901a34",
+    "references/capability-index.md": "69383d476f214b4e081ced1f48195b620ab9275d14afe19bc8e5d35afb65ec8c",
+    "SKILL.md": "cb0d8de2755bff221175c4ed834e1e1eace843690df4df61b8852fac8defbe89"
+  },
+  "generated_at": "2026-11-07T07:40:53.052058+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

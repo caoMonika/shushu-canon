@@ -1,0 +1,16 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 1,
+  "published_hashes": {
+    "references/capabilities/08-江湖奇术-道家丹功法-民间失传绝技-丹道周天功-符咒-密宗超能术-辟谷术.md": "8d9412ad91cec859ae6920fca29c6208d1d05241f3c71cbf91a137916043f09a",
+    "references/overview.md": "82dc7914cd175eecc6078c96101e71eadaa71d24477827090f678b57f8732c0d",
+    "references/glossary.md": "89cb4213d2853c18229034bb5cb3af07aaa1aee6445ff0b43d0dcc4d8976bed2",
+    "references/cheatsheet.md": "13f5018933b9072d3554add49258d2533f8876ddc0b9c0e8731a25586f3bb6d0",
+    "references/capability-index.md": "5b3b06e0becf759e14f5bd05b0eeccbdd9511909c145ce5d51cbe994568c56f2",
+    "SKILL.md": "c9585979485e1478cd2a192c097d16ee0fdeed86f58950b02ed10e1015245987"
+  },
+  "generated_at": "2026-11-07T07:40:52.614517+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

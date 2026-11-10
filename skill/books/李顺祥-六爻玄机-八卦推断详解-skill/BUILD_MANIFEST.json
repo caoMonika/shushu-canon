@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/第一章-阴阳五行基础知识.md": "6ec92d8377de4b57e848e2852739598fc88d8237646bfabd7b4ab67bb5fc7e7b",
+    "references/capabilities/第一章阴阳五行基础知识.md": "1663a50f6bb2b958c5c34fbf7ce7b2b80b6c39f51251110d95f6988e3566e65a",
+    "references/capabilities/拱-三合局-三会局缺中间一宁者为拱局-如申辰拱子-亥丑拱子.md": "f9f7f44c11038a300cfb9995eec75f83d3c3ef083337222cb8cfab5818192a1b",
+    "references/capabilities/一-按时间起卦.md": "be07c094cc4eeb27bcd098dd8db2db9e333829e0a565124576d2d66c7bae35e8",
+    "references/capabilities/第一章起卦纳甲.md": "ba4241e1f1a66882839ce8f72b65ff309e9e69f8fba399b54cf1f5d01887d8e3",
+    "references/capabilities/一-原神旺于月-日建有力者.md": "d7b7d8a0e8305bfef521545f01f4c91a1674ae58dc8208fafdc9e2d0504d69a4",
+    "references/capabilities/4-伏神休囚空破无生扶.md": "927d8160541af44d912a7b617b63669c98f83f834a0400c58547252b16e9c53d",
+    "references/capabilities/1-六合变六冲-即六合卦变六冲卦-2-日月冲卦中相合之爻-3-有合之.md": "16f3844240f513997dcc1caf71df9d58cb707b3853944a7bcc0c6088c65815b5",
+    "references/capabilities/二-断易通玄赋.md": "c314af9d565376729790be9ff24ba0c3fcbbfd7340be63d95b322e094cf990b6",
+    "references/capabilities/2-财爻子水月破日克衰败至极-虽化子孙酉金-然酉金失令又旬空-尤力生财-用神逢.md": "e1d6338aeea2c5c0802d62ff0cb155971c5ea5695c3682c4a254ea2aecf2e501",
+    "references/capabilities/1-世交临日辰动-急欲出行之象-动而无合-今日可动身.md": "0030f54558996c904abd28fc55a0cd9d32ffaf05d3dbd91179247722989caa2a",
+    "references/capabilities/三-总结.md": "388b24260ee9344e40c99ef662fa92463637583947ee9b1896307e01b67aaea4",
+    "references/overview.md": "72e7e03b567539d3a6ff4c6d63ba433dba69fdccdd186c9d382a24c0cf2d2672",
+    "references/glossary.md": "46ba22f58e16bf599eb0182db61e3677a27de900b331fdc0e34029f11fc7566f",
+    "references/cheatsheet.md": "95c7180d86cf0abff7a149d5f1869ca43dcf05bb7ee7bcf42b02717a92b17691",
+    "references/capability-index.md": "6b304d7f184a5fbd585823fb1db3ef9baac98cf4b476e4ea9306b7d34126eeac",
+    "SKILL.md": "151f577cdfaab4c334b6e203372b8268cfe9ac0ce14c24e1d3e1a29ebc1f1333"
+  },
+  "generated_at": "2026-11-07T07:40:50.958948+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

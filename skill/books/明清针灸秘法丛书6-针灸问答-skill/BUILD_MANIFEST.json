@@ -1,0 +1,23 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 8,
+  "published_hashes": {
+    "references/capabilities/一-底本为繁体字刻本-抄本者-本次出版时均依.md": "9268a14de4c66264518b59b9a19e3b858c0eb0f2a2e9699cc6f8d6e5dd9c885b",
+    "references/capabilities/三-对于底本脱漏字-本次整理时进行了增补-新补.md": "af82b2fc3233a6d81c004b4e9241591da8acfcd77417e3e448897bc6a1df6440",
+    "references/capabilities/九-底本中原有的注文-本次出版时均用小五号楷体.md": "7b54a328faf49dc1eaebce1c5e93fdc861f75f4856d0f84f5609da638b0daf9b",
+    "references/capabilities/22.md": "c48874bfd9ffcb2b63a288f877a42a4a43c93fa6476be849255ba212b64b4fea",
+    "references/capabilities/整理者按-底本此处缺图.md": "bd1ac51381c7251f3a50af3b4079c05c7ec936c2571aacd231c3c4fc5119671c",
+    "references/capabilities/0-98.md": "1ba09830fb2630fda12e19d34fbdae3a29abe5ea7432364965ba2843d64851b1",
+    "references/capabilities/一-针灸问答-概述.md": "8f0c80fa0fc7d940d2ee84e5c314f1b2bdf2d24527346886dfca69b56eebae34",
+    "references/capabilities/二-针灸问答-特点.md": "e93957073dd30629d258144217294ad0712f4174b3d1204d6d588fa859b8698e",
+    "references/overview.md": "6d766ab11386d902ea8b3f73499a3a9b8757647e2333995dcc4551c6aa87c63d",
+    "references/glossary.md": "87f3257d7497b10353b258cf1e8959854f043179e30f326dd65f38f84b966143",
+    "references/cheatsheet.md": "e866cc04d06ab8ac14d4a1b461247096479b78e7f35716779e097a2aef33f80e",
+    "references/capability-index.md": "9b1e5b978936900e7a83629134a4558fee8339c2b42af9323e18418867359c7a",
+    "SKILL.md": "80e24ddd9c806d73716cec5a34bc868c1c07110e92aa369985139d6a10be4a56"
+  },
+  "generated_at": "2026-11-07T07:40:59.608101+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

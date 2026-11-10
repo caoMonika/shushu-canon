@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/九四-重刚不中-上不在天-下不在田-中不在人-故或之-或之者-疑之也-故无咎.md": "5c0b219ff18d13e1ed29e5c1f625f97cff3d895b871620d2793c46809a267f9e",
+    "references/capabilities/二-地位-二变为离-离日在地-莫夜之象-离为戈兵-有戎之象.md": "40568a8982ac5411ff4dbaa03c27e06cf6ae1056b374a3f4d6715a2992e757a5",
+    "references/capabilities/右第二章第三章释卦爻辞之通例-而后教人体卦爻辞之功.md": "97314eff75b604aa0e4166f4d496d435b927416b02d0cfe0aa729179b2ab966a",
+    "references/capabilities/右第五章第六章赞易之广大而原于乾坤之二卦也.md": "f55440d13b5a6eb5c411358299d2642cc1ccea3b4b19511b04e20e1c9a809119",
+    "references/capabilities/右第九章第十章承上章而言易中之用有四者-皆神之所为也.md": "e57dd513e280d1340d73b21435e9179c797a30bd0b57d0726303f89a29f62964",
+    "references/capabilities/第一章言卦爻吉凶造化功业.md": "cf9fe287b73c539421f31aa6f3b009027b442489cacec50fc667a2162538b4fd",
+    "references/capabilities/第五章错举九卦十一爻发明其义-与上繫之七卦皆象传之文言-欲学易者-触类以及其余也.md": "f19b55e220c72a119f7dcd760d5ed3870fa8295b8afcdfa248060a64d3fe82a1",
+    "references/capabilities/第七章三陈九卦以明处忧患之道.md": "aeb3b8d701b2f8b6eb376d50cd51854a3c56cb796b5ecf01d49d2705cd9c0c06",
+    "references/capabilities/第十章论六爻备天地人之道-而不外阴阳二物错杂成文-以为得失吉凶之象-摠以见易书之.md": "af5cff4ad5962fa0a0c4057396df8644b4a04bdc9a8ec9355b20df275d13feb0",
+    "references/capabilities/右第十二章.md": "b849a77adc6455df6b5ab431e470ffc5e5bf0ca65cd296e145f1d9d3d6d3c7e2",
+    "references/capabilities/第四章言先天方图之位-六子之用统於乾坤-而造化流行有生长收藏之功也.md": "012d5ba4f98983d66943e8017867b4f6bbc29c13f812fc171fad41cbf3f7a278",
+    "references/capabilities/第八章远取诸物之象.md": "ceb67a65312feabb931c6ad36441de672e03d47f1f1c0f2ddf739ff059cfc597",
+    "references/overview.md": "51d27392da148d81062ae9b501aa2ea4badc74a8af70fb786e3d8cb9bab520d0",
+    "references/glossary.md": "96971c458b00f7193baa01f98ff6d91bdf2bd192a79620efea8747821d264340",
+    "references/cheatsheet.md": "2b26d54fafd2bb61dccf83b748dbddd6dbdbd5a2eb92de6b98728f877c015cb9",
+    "references/capability-index.md": "057e915ac337bc2e4b5160058288d7ea4ae58fc607c91d9bc7fbfabb5a7e225c",
+    "SKILL.md": "7243a7a3c6101e0877d5a5a5bfffae630867edb68f5f84e765e411fcfdcb99cb"
+  },
+  "generated_at": "2026-11-07T07:41:03.857744+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

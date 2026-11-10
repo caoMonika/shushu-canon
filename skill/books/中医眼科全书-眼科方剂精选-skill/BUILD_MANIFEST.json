@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/一-外障通用剂.md": "6ea3a55b0ef0b88884a8a08c00b8a9468e9e75badbb998a3e23eb71d28f3d907",
+    "references/capabilities/81.md": "24fe4302d55bf78095f9830c74be20da62808003dbbfe329d6c3761dc758a731",
+    "references/capabilities/方解-本方用熟地-梅杞为君-以滋肝肾之阴-用肉芡蓉-川巴戟-川续断-山莫肉.md": "10b649e8131d76da8d632337c0b263159bda1d2d1ae35fe6db62f682ae2ce0ac",
+    "references/capabilities/方解-暨晴多属肝热过甚-蒸日内胆精-胆精不其蒸-故风轮里层突出风轮外.md": "6bcbb7a0e84a17f11525dcb23f5c1a8ee63972525b2960f9f71826c940726cb2",
+    "references/capabilities/方解-风寒湿邪-外束肌表-胰理闭塞-里热不得外泄-上攻目窍-放见双月红肿赤.md": "36371d5c8e666533bc0c45d9b2fbe8a5f6917e0ec41e0fbcf480e76f01ca9132",
+    "references/capabilities/按语-绿风内障即现代医学所说的急性充血性青光限或亚急性允血性青光眼-病.md": "90cad2a0276cd6999d787e7b377dd1e60344a132df2c3fede31b7c5b4e724183",
+    "references/capabilities/按语-本方轻清什酸-熄风养阴-散不件燥-滋不赋滞-产生失血发热或因高热耗.md": "2e938fcd3ca9288559dbf31213cf1cce3d7d6746a5b949f92680724e62f6420b",
+    "references/capabilities/第九章理血剂.md": "8bff6cf1c3e7b76a6c2d9bde9f5937807bd27fa6c1efbd2391a25cb39f6f6ccc",
+    "references/capabilities/第十二章补益剂.md": "c8c771af0235c1999759f776bb28acc84651e9092b5ef648b89f2f52ebc8d17b",
+    "references/capabilities/功用-益气养血-滋阴清热.md": "d965ac65d8cf8ca6d1952c49837969710b2baf57cb3150e72a9f767ea08ab6de",
+    "references/capabilities/按语-本方主要应用于能近法远症-所谓能近快远即近视清明-远视不清-此种情.md": "3eed61a097a616a52c7be0b980c1e669968043fd42b50faa7b55a542e0363e85",
+    "references/capabilities/按语-熊胆眼药水适用于肝热目赤-风热或疫病之邪所致眼目疾病-近代药理研.md": "5a3de9a870ad80ce07025b496de917f70b555b8f66617c65aaaa70d6e753c282",
+    "references/overview.md": "7a22eacfbfb792239a614e1d97a78446edb97c63dc2ee6f57e2a384bbeda706f",
+    "references/glossary.md": "ffd720bce39c930936967910038ab5b5bc82592e0a967eed99970973307ac517",
+    "references/cheatsheet.md": "7f47976d842e41f6258618693ff7a1a6ee8bb47df922398237b00b1b2e89c4fb",
+    "references/capability-index.md": "a0a34562b362989577ec2f0dc62dc946396772dda51c5c65df57c5cf4c24c2b9",
+    "SKILL.md": "a792f4a4ea04a4f96193a92b120b996bcd4a1038204e681b1a874dd5a401dc4e"
+  },
+  "generated_at": "2026-11-07T07:40:57.404611+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

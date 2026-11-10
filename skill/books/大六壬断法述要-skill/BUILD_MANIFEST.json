@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/一-壬书的选择.md": "c41d14b4e63115b3b6a836bfe50957a79ff3fd32be215e3179891453f67a198b",
+    "references/capabilities/三-迅捷起课的方法.md": "c2756c09bde60ed3099f53010a8a2f3dafe391d8caad9970d1982f6f602c2a55",
+    "references/capabilities/六-取类.md": "3e3b7e1a513c96af43beb2cd255882f9db3fbe4393d6bb0ae30b2f468bb9e0ce",
+    "references/capabilities/九-察类的一个例子.md": "412ad4287d333d1473db211ac8c3f78649ccd5e397f0ebc273751e06d9f5ecd1",
+    "references/capabilities/十一-闲谈干支定位.md": "8b3fcd9c7176faa23cbfa09de771f8cf2fbc4bdd0272c5e0f549d5ee119f706b",
+    "references/capabilities/十四-壬归-谋望占的类象分析.md": "47da584f504e3c39ec6cd7e8e0aae4a0fc327e390cc91e668a6e223f05d155df",
+    "references/capabilities/十七-壬归-求财占-琐占约云-简释.md": "7962488596d699ac8462f3b790ec7291988a2a1f18660e330c9caa8a0ceef8c6",
+    "references/capabilities/二十-空亡详释.md": "0656864ffc225dc956961d905238acee7c6e0420246076e68994a51d47f1d6bd",
+    "references/capabilities/二十四-破败.md": "a8400f8d895715947b04710dfa4397edb7b4ebec43878fbc9f2eb2fcad56baa8",
+    "references/capabilities/二十七-神煞综论.md": "10270ffc471274b4aebe3d064d7e1f22a7e6525de88f9a1e5afafb2c90d0aa34",
+    "references/capabilities/二十八-大六壬会篡指南-趋谒章简释.md": "b2613407f4fe25b89e45c4b0b8ae19559f32477404f537467308b31516b21faf",
+    "references/capabilities/三十一-关于旺禄临身.md": "a0cd82e8227d97dcb239272318556f6c107f3adfefe39a19e355c0e8177aaeca",
+    "references/overview.md": "0692fc487faa567daaa0e4748f8f53656255459ec0e912740d8829ff2d37ce36",
+    "references/glossary.md": "b9a8529daf42ac7ae41404b8b5d300e6d62c350a917fa65be911d29410b986da",
+    "references/cheatsheet.md": "3a49252ed17f129d68863a171612504b5988132d89e4dc9b28a115dfeff5c433",
+    "references/capability-index.md": "7d270fdec4b0b465ab0d51e5a1cdc0b1c425faf32a152b341b70cdf30b4d270c",
+    "SKILL.md": "1d1c413dd2803f3fd2333dd2e8c76c66e0c91b077c739c0b144f172b763e3882"
+  },
+  "generated_at": "2026-11-07T07:40:51.083959+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

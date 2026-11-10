@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/87.md": "c6f2bf3cc94363a0091ddc19273276c69e6b73831d6793e8a002af33de50802e",
+    "references/capabilities/第二章六壬占法及实例研究.md": "ae387f8258896c308c727c7d9d666b83c0818af27140b7d0c01f2a9257382ef0",
+    "references/capabilities/二-六壬起课.md": "436448532cd289901addd31e0c7b48e2ce04e9c10e37701da847095ee2efb4bd",
+    "references/capabilities/三-在-长生十二诀-上的取用方面.md": "82ebb8c77cda4966123af44fd2593809df45c30281554171af6ec261e376be93",
+    "references/capabilities/三-排四课定三传.md": "6cb4a333da6387a702f904a8cbdaebbef213c838e243ea9c1842bf155cda2cee",
+    "references/capabilities/1-戊为刚日-以地盘酉位上神戌为初传.md": "98f2c019d997e10934c07021e0333c9975509976703839678faaf078b298142d",
+    "references/capabilities/第五章.md": "10fb8e22145bc36e01cf4de6340f096284ccc85d54077539cc7fe4c63e7db07c",
+    "references/capabilities/七-太乙巳.md": "2039fee3f89d87903ac27c32905fc4984d51af747efb0a35cc7127f0d1c7b9e4",
+    "references/capabilities/第七章.md": "922da3dd8d701151e9e188aafdfe9afb36513a840867fe89e5338a722acd072b",
+    "references/capabilities/六-释论青龙.md": "ca52242988be636e115ed1f79a6a53519bd24ec8c1d0506bd41f7c126d80942d",
+    "references/capabilities/十三-小结.md": "5f3fc21e22974d82013ec708ca6df7024eb29960a8ebc980d15d289c093ab5e1",
+    "references/capabilities/一-先依据九宗门课体特点-天乙顺逆-发用气数-发用地.md": "3a0ddaa7a7d5d5b08a7077d52a83b2d6a1ea0a12800fd7fc8c3c3ffeba68d704",
+    "references/overview.md": "bc2239e72b64c15ca9cf3f9b0054730490115e423369f0bac23f415aba1c8f71",
+    "references/glossary.md": "c450d4b4a4f2dd5c1c351b103bfe135bd504f3965ed23213fff4b6347c334f61",
+    "references/cheatsheet.md": "6a05a0f0150e9c31fa029b3ad69002d3eeb836b48444d97b6e135e7f817bd311",
+    "references/capability-index.md": "ac6541fd3db4586d1fd26bfc31870cf51dee616812e78e42ae2360db02fa6742",
+    "SKILL.md": "cdc76ab8d00a9c8a79180ac7f857bc263524e5b72e5e4566f5c4c0c34afea5a5"
+  },
+  "generated_at": "2026-11-07T07:40:56.755651+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

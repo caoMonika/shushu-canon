@@ -1,98 +1,66 @@
 ---
 name: 焦氏易林-汉-焦赣04-skill
-description: >
-  用户要用《《焦氏易林》 (汉)焦赣04》的体例/口诀/断法框架做术数推演或文献对照时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 口诀, 《焦氏易林》 (。来源 OCR 自动蒸馏，重要结论请核对原书。
-source_book: 《《焦氏易林》 (汉)焦赣04》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+description: |
+  用户要用《焦氏易林 (汉)焦赣04》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 焦氏易林 (汉)焦赣04。
+source_book: 《焦氏易林 (汉)焦赣04》
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《《焦氏易林》 (汉)焦赣04》· RIA++ 蒸馏
+# 《焦氏易林 (汉)焦赣04》 — 来源路由入口（compact pack）
 
-> 本 skill 由 PDF OCR → cangjie RIA++ 单卡形态自动生成；原文引用≤150字。OCR 可能含误识，关键口诀请回原书核对。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 大騏驥綠耳章明造父夙伯奉獻衰續厥緒佐文成伯為晉元輔
+## 核心原则（常驻速览）
 
-> 井木為大牀患厭不起季伯夜行與善相逢鼎烏孫氏女深目黑醜嗜欲不同過時無耦
+1. 姤河伯大呼津不可渡往復示故乃無大悔
+2. 蒙躓跌未起失利後市不得鹿子需結珠懷履卓斯以思為君奴婢
+3. 履鼓瑟歌舞懽悅於酒龍喜張口大悅在後泰凶憂災殃日益明章禍不可救王却夷傷否水流趨下遂成東海求我所有貿鱣與鯉
+4. 謙鄉 壅遏隄防水不得行大慎陽光陰霓伏藏先歸其
+5. 隨實沈參伐以義斷割次陸服刑成我霸功蠱金泉黃寶宜與我市娶嫁有息利後過母
+6. 復合匏同牢姬姜並居壽考長乂无妄關睢淑女賢妃聖偶宜家壽母福祿長久大畜騅驥脫乳不知子處旋踵悲鳴痛傷我心頤知嚴絕理陰孽謀主十日不食困於中亥
 
-> 震子鉏執麟春秋作陰元聖將終尼父悲心 豫之 大有艮灼火泉源釣魴山巔魚不可得火不肯燃 鼎之 旅
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《《焦氏易林》 (汉)焦赣04》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「第1段」相关的查阅/断法/方证问题 | references/capabilities/第1段.md | overview / cheatsheet |
+| 与「第2段」相关的查阅/断法/方证问题 | references/capabilities/第2段.md | overview / cheatsheet |
+| 与「第3段」相关的查阅/断法/方证问题 | references/capabilities/第3段.md | overview / cheatsheet |
+| 与「第4段」相关的查阅/断法/方证问题 | references/capabilities/第4段.md | overview / cheatsheet |
+| 与「第5段」相关的查阅/断法/方证问题 | references/capabilities/第5段.md | overview / cheatsheet |
+| 与「第6段」相关的查阅/断法/方证问题 | references/capabilities/第6段.md | overview / cheatsheet |
+| 与「第7段」相关的查阅/断法/方证问题 | references/capabilities/第7段.md | overview / cheatsheet |
+| 与「第8段」相关的查阅/断法/方证问题 | references/capabilities/第8段.md | overview / cheatsheet |
+| 与「第9段」相关的查阅/断法/方证问题 | references/capabilities/第9段.md | overview / cheatsheet |
+| 与「第10段」相关的查阅/断法/方证问题 | references/capabilities/第10段.md | overview / cheatsheet |
+| 与「第11段」相关的查阅/断法/方证问题 | references/capabilities/第11段.md | overview / cheatsheet |
+| 与「第12段」相关的查阅/断法/方证问题 | references/capabilities/第12段.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-本书可执行骨架按下列纲目组织（由 OCR 文本抽出）：
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-- 欽定四庫全書 焦氏易林卷四 子部
-- 焦氏易林卷四
-- 卷四
-- 卷四
-- 卷四
-- 卷四
-- 卷四
-- 卷匹
-- 卷止
-- 焦氏易林卷四
-- 卷四9
-- 卷四
+## 边界与判停
 
-摘要线索：欽定四庫全書 焦氏易林卷四 子部；焦氏易林卷四；卷四；卷四；卷四；卷四；卷四；卷匹
-
-Agent 使用时：先用纲目定位，再回到 R 段原句与 PDF 原文核对，禁止凭空补字。
-
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练（原书未提供同一问答）
-- **问题/输入**: 用户给出与本书主题相关的具体问题
-- **方法论的使用**: 用纲目缩小范围 → 抽取对应原句 → 转成步骤
-- **结论**: 给出可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-### 用户会在什么情境下需要这个 skill?
-
-1. 明确提到《《焦氏易林》 (汉)焦赣04》或其中独特体例/方证名
-2. 需要把本书方法落到可执行步骤
-3. 与相邻术数/医书 skill 对照时需要本书口径
-
-### 语言信号
-
-- "《《焦氏易林》 (汉)焦赣04》怎么说"
-- "断法"
-- "按这本书的方法"
-
-### 与相邻 skill 的区分
-
-- 与 `liuren-jichu-skill / liuyao-zengshan-buyi-skill / ziping-zhenquan-skill` 的区别: 本 skill 只服务《《焦氏易林》 (汉)焦赣04》文本口径；通用入门回对应总纲 skill。
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题、相关条件（四柱/卦象/症状描述等，按领域）
-**交付物与完成标准**: 步骤化说明 + ≤150字原文引用 + 边界声明
-
-1. **步骤1**: 确认问题类型（起例/断法/文献对照）。
-2. **步骤2**: 按本书纲目定位规则或口诀。
-3. **步骤3**: 给出可执行步骤与完成标准，引用书中原句≤150字。
-4. **步骤4**: 声明边界：文献方法，结果需用户自行核验。
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 要求包票吉凶、违法用途、或原文 OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识；不得把乱码当原文。
-- **失败模式**: 把自动摘要当成原书定论；遗漏禁忌/条件句。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

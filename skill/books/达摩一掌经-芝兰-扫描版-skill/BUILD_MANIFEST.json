@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/2-很精緻-很優雅-就是禪宗的精神傅過去的.md": "af6e6d587588a06e64b19be45f05532667696cd5ee20bd2237849314c8c87354",
+    "references/capabilities/2-緣覺-根性比-聲聞-稍利-因緣接觸到佛法而修道覺.md": "ea22bc55aa8742cb9743405dbc55d9f9e36d0b865e2a7f9b665c1862dcf80391",
+    "references/capabilities/1-欲界-有六重天-也跟人間一般-有男女飲食的欲望.md": "8618187c3af8966b4f2197314eb3ea3a5b5dde6e220c8b74fb10a261c18f5d57",
+    "references/capabilities/仙男.md": "a3c9d9565fd1022027f0cee8c3f5a31d8cd502b904e338a74f21f9d97eca22e7",
+    "references/capabilities/仙男-2.md": "6dd578ed2038846421c912e4fc516bd54b5909e1adf0ae0fa6b2622348c86940",
+    "references/capabilities/仙男-3.md": "a795899516f0d71a6c22026833fd4b637394614910ef5a357f35be2ef1198c7b",
+    "references/capabilities/畜牲道.md": "c7bd60a2d5ae81a4d79b20ff0777262dbe81fb2a5e695652a2055d064e0043fb",
+    "references/capabilities/仙男-4.md": "8e6bf6f430583ed6520d592261fe15625aa94dd260c80119232ada8a9afe0ed6",
+    "references/capabilities/畜牲道-2.md": "8abb82d5c5632e447a5bc2abccc96bc032cc89fa8b75429010f139baf49b5dfb",
+    "references/capabilities/人道-出家人.md": "3cb6a33899c83deebb91e2628b1eb08eee5017903ebb0eb372bd03fc30e4507c",
+    "references/capabilities/人道-出家人-2.md": "3525deeca4912cb56798d36d535b8a75b0044f235aa4a579d0d5656a1c2dd005",
+    "references/capabilities/仙男-5.md": "fb253279b4a9c10ca939cb1d84a22e0c5d546597a0933a1f884828b39fbd5243",
+    "references/overview.md": "94118b813e9384abf31f626cece41d8c25b227646082652e0855c606f06fcc0d",
+    "references/glossary.md": "b58d4ff3f7df5435fe1e77aa1ef82d5e136cb2d68c3ec20838c50e3fc5517da7",
+    "references/cheatsheet.md": "e4703ffc1586d206b9a61a741ceac7416ed0d3e7aa7cfc9a7a3ff1b42f31c2a7",
+    "references/capability-index.md": "38e22633d7b3c48f72ad3e9119a8f81ab291c1fc0738d4f6dc8481e84043020a",
+    "SKILL.md": "0db18ad3c3fac082452f313d115ac4b89d3993c8a94d258a7c761558a5774ff2"
+  },
+  "generated_at": "2026-11-07T07:40:52.857148+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

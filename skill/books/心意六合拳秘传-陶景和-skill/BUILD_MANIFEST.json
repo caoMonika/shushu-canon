@@ -1,0 +1,21 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 6,
+  "published_hashes": {
+    "references/capabilities/一-心意六合拳的基本常識.md": "fb9ca038128d82913eab8d15d7fd30d60dc074fc3e708754bec6c5dccf786e5f",
+    "references/capabilities/一-心意六合拳概逑.md": "434348fe8a12a2b76249e213eeecbf28638428d68b203369cb6bd66d4fe664b0",
+    "references/capabilities/二-心意六合拳的基本常識.md": "3c4ce5713d524841f76d51e85a55dde3621d637fc21bb9d8b62d443d7afb4178",
+    "references/capabilities/五.md": "a7ca01c9a7145c8fd8992aa0a8019e5dd006b77307d7f3f6cf62b6c49b8095a0",
+    "references/capabilities/11.md": "f5a04cbc263a25c3e99fe6ed55b162737038ea4167936d22a50b204fa27b5dd9",
+    "references/capabilities/01.md": "90848b05b14c8cbcefed2b106d20a3dbfb180b60d15a10ce931fdf550d33aaff",
+    "references/overview.md": "c6b39187d7e3849b80cd59cf806f8bd3d76e27e9c4111dde5b2b8cae1146f9b8",
+    "references/glossary.md": "12d86d52d885150705dbd933176978c4bd4f8a75f63f4e166ad298aa1caeb31b",
+    "references/cheatsheet.md": "ce0db09d08154df32e8e646b08d1e9fa5167457b0902a4615bd5005516b6dad5",
+    "references/capability-index.md": "b86e2072a55cdc679dd116ac72f33d8271392d769be449cde6b9d0666b94e128",
+    "SKILL.md": "2feed25d16252318f254ecf569c27c204c2f2e6e10ef7bd8602b6e026bea5d26"
+  },
+  "generated_at": "2026-11-07T07:40:52.065078+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

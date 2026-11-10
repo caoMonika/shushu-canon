@@ -1,83 +1,66 @@
 ---
 name: 小六壬上册-skill
-description: >
-  用户要用《小六壬上册》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 小六壬上册。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《小六壬上册》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 小六壬上册。
 source_book: 《小六壬上册》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《小六壬上册》· RIA++ 蒸馏
+# 《小六壬上册》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 中华传统易学文化博大精深，源远流长。随着当代易经热的兴起，各种预测法术亦开始
+## 核心原则（常驻速览）
 
-> 从民间走入大雅之堂。易经研究也从半公开、半隐半现，逐步走向现代化和规范化。
+1. 薇、六交、梅花、四柱、大六壬、金口诀等，这些预测术的起课方法繁琐，断课复杂，星煞
+2. 众多，要详细分析，面面俱到，使一般人难以精通。
+3. 统完善，占课详细，以五星为天，六宫为地，六亲为人，以六亲为主结合六宫、六神、五星
+4. 综合判断事物的吉凶祸福，来龙去脉，前因后果。它可以直接抓住要点，研究事物的产生发
+5. 江氏小六壬起课方法简捷，快速，断事明确，一目了然，可以一课多断，预测范围广，
+6. 可以直接抓住主要矛盾，研究事物的产生发展和结局，进行快速分析判断。预测时随手掐指
 
-> 易经的科学性及其所蕴含着巨大的科学价值和社会价值亦被更多人所接受和认识，中
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《小六壬上册》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「一、五行相生含义」相关的查阅/断法/方证问题 | references/capabilities/一-五行相生含义.md | overview / cheatsheet |
+| 与「（2）兄弟临六宫所主：」相关的查阅/断法/方证问题 | references/capabilities/2-兄弟临六宫所主.md | overview / cheatsheet |
+| 与「（6）玄武临六亲所主：」相关的查阅/断法/方证问题 | references/capabilities/6-玄武临六亲所主.md | overview / cheatsheet |
+| 与「四、五星的起法」相关的查阅/断法/方证问题 | references/capabilities/四-五星的起法.md | overview / cheatsheet |
+| 与「七、小六壬占十岁以前小运排盘法」相关的查阅/断法/方证问题 | references/capabilities/七-小六壬占十岁以前小运排盘法.md | overview / cheatsheet |
+| 与「四、小六壬抽签起课排盘法」相关的查阅/断法/方证问题 | references/capabilities/四-小六壬抽签起课排盘法.md | overview / cheatsheet |
+| 与「三、六亲六宫五星六神在课内的主次作用」相关的查阅/断法/方证问题 | references/capabilities/三-六亲六宫五星六神在课内的主次作用.md | overview / cheatsheet |
+| 与「十、寻人断法」相关的查阅/断法/方证问题 | references/capabilities/十-寻人断法.md | overview / cheatsheet |
+| 与「（1）择吉日」相关的查阅/断法/方证问题 | references/capabilities/1-择吉日.md | overview / cheatsheet |
+| 与「四、占贵人例」相关的查阅/断法/方证问题 | references/capabilities/四-占贵人例.md | overview / cheatsheet |
+| 与「九、占讨债例」相关的查阅/断法/方证问题 | references/capabilities/九-占讨债例.md | overview / cheatsheet |
+| 与「十四、占小人例」相关的查阅/断法/方证问题 | references/capabilities/十四-占小人例.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 第一章五行
-- 一、五行相生含义
-- 二、五行相克含义
-- 三、五行方向所属
-- 四、五行脏腑所属
-- 五、五行之性
-- 第二章十二地支
-- 一、十二地支名称
-- 二、十二地支阴阳
-- 三、十二地支与生肖
-- 四、十二地月建
-- 五、十二地支方向所属
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：第一章五行；一、五行相生含义；二、五行相克含义；三、五行方向所属；四、五行脏腑所属；五、五行之性；第二章十二地支；一、十二地支名称
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《小六壬上册》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《小六壬上册》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

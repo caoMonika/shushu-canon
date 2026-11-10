@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/第七章天宫圖中的其他特殊點和星體.md": "7dcf2a1f683030dfe3c06eb6fa8ac818ae8975edc16e5d4776edcfcd46fa5dd0",
+    "references/capabilities/第七章.md": "0bf160250e6208fd13f8f48261c8ca8b6492fbdba0a6a0ea7321d14508ff8fb7",
+    "references/capabilities/第七章-2.md": "8517a8669955829795de11543d356d6bd52afb642cbda6098e174709cc68589d",
+    "references/capabilities/第八章.md": "01551eb984342377be1941903f6a57715cf3a740c8e279fe60b62830e20d5bff",
+    "references/capabilities/第八章-2.md": "e2f4ac7e0a235c39fdd9bb135c8f3cc4379d76b4499e76cb88916d2565813343",
+    "references/capabilities/第八章-3.md": "2f62b71c59dc740a5e1d458dbfa78f2ffebda2b7232a3bccb2fca891a244e981",
+    "references/capabilities/第九章.md": "b590f213eb0597c9ffe0b7a2495630f6ca2904ee3029b5f4de3bfc0f230fefce",
+    "references/capabilities/查第3章所列-應注意涉及-的-之容許度分别.md": "161ec5b546a5f01eff4c6d6c85ee9e6b8e41a0af1179939485193151bf08ad28",
+    "references/capabilities/2-許信良前民進黛黛主席-MC在雙子-案例十.md": "ee5aa648295aa5e29664ee707cadd7962262b968d161b15a8899933dcbd06864",
+    "references/capabilities/第千章.md": "b7f0aa6869b07f566ec0933a698db6d96c006527892e0a2f16e5f81f266a5aa3",
+    "references/capabilities/第十一章.md": "0c31b1c28a961d12ecea5a44e2cc0b4dd4a676f16b26cf75fe161c57da7398c7",
+    "references/capabilities/第十一章-2.md": "110dcef0a3cf5850497998c2236c7cf6cb1e44c61420182d552b1e92ec561ba9",
+    "references/overview.md": "973b0bce93b0fe0130661e48e5b44653b19d9c6815007e8cfbe871bebef0d6d7",
+    "references/glossary.md": "8bd2997a4c5d3289937474338003e01f2f10b52b0c339447a8b6b05b5a8348e7",
+    "references/cheatsheet.md": "3b2540d4185fd287ddf41cbefc6bcfaf43c59f499277a9f4ab66bd8819666bda",
+    "references/capability-index.md": "648dbe8299586994023ca7fe9b23eb1ac9c372097d5ae6aaf47b0f1e3bf6e004",
+    "SKILL.md": "11971b4748ecccdbcddc2d806ffcd63c8b9f077fd35ce98c0168e9058259d805"
+  },
+  "generated_at": "2026-11-07T07:40:55.517218+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

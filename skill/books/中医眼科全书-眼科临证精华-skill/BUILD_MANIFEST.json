@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/7.md": "0c34d46e5aefdf1bc59eb1e2a6307baf795e5aa3606d584d15681e839f2c11f5",
+    "references/capabilities/6.md": "6e8a6b3f80a3aae387dfe9467376ee6ec7b5049af45851fb56a321c21305413f",
+    "references/capabilities/四-消积导滞法适用于食伤脾肾-或营养不良-精微失运-内生积滞-证见黑白两睛.md": "a21dcf2e3af8c3abe042d0968d6084140188df0d7a431155654dc1117b8f1001",
+    "references/capabilities/一-上下取.md": "96ec80c043694d770843b5604f4b149fa0e0e78302efba12d91c05f43d363232",
+    "references/capabilities/四-清热泻火治疗黄液上冲.md": "a8c4e17049794964f304f1752ff4a5a72d19784cb4afe9d099e7b6a8972da9b4",
+    "references/capabilities/四-黑清鹅障.md": "47a6b89fcee2c3727e8b1211a17f36edbad278a71fa35e74afe16fc851c04090",
+    "references/capabilities/一-临床资料.md": "a318ba2e45c7285427da165ccda0c02ff657729f76a793084054ef1b8952e8ee",
+    "references/capabilities/一-经之血-急当祛散.md": "ec334d96b2aa42fa68506564d7f856948a05940fe29cf360b0b29ae96b7af799",
+    "references/capabilities/一-辨证与辨病应当统一.md": "c2a085a5582f29cfd4e30a779de8d42255219cf7e81f75bbde051993f3756332",
+    "references/capabilities/第七章眼科血证.md": "ae2e4af9df9fb519c539b35fd6a627e436205fb9500d42bb5590cf8577d5d6db",
+    "references/capabilities/一-辨证论治.md": "715b9bcd4dbac74a509efa15d2a94803366243338bd57bbb2461a4f69c144d3a",
+    "references/capabilities/一-主要经验.md": "d9ea00f1ff62567c530bd305c3212d2295e7e74cbb0265c3631bb7419e007ad8",
+    "references/overview.md": "c95679c3bf56e6cc60a2cc7f8defacab520373e66278c73156d7bb539571fdc5",
+    "references/glossary.md": "310d6aa7cd8ca600a390258c5aa3944697c31961c23d29790f8a2851f2509879",
+    "references/cheatsheet.md": "82bb7eb1b6ad9c0de32d4b106c7e1f3cf6c90ae77b48ec37dc298be229459c01",
+    "references/capability-index.md": "625858592a89c429ca9fb343d15d0c92cc6aa6cc84952e1d889a384768b21d7c",
+    "SKILL.md": "84fe2b09b9c277758a5b8a6e0bbe56d8314d6dbc8766ab72469ce244cd0e97cf"
+  },
+  "generated_at": "2026-11-07T07:40:57.504718+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/明-袁柳庄著.md": "6b3460896afc11ce018cab215a0633a2edf1a785d6e08fec5405d2aea20a6740",
+    "references/capabilities/原文.md": "0425c5dd505ccc9ec6280775a07548a189cef01ea921854e3c3897a56e4c23a3",
+    "references/capabilities/原文-2.md": "3ff7f7620b19f99c6764eaaf4583aa63d341a857729ace9f37ba9876c75cea26",
+    "references/capabilities/今译.md": "3ad0a7ed69959aec980de9089c6296261a39f10996774df7a37c15583c0fb818",
+    "references/capabilities/今译-2.md": "9e812338752db820ee281e7caa6278e6a0b1fdc2d1a8b3e95c8a969f66168798",
+    "references/capabilities/原文-3.md": "524bf647cba97e9621233130d25a3d8d7ba38c0c271b5f35902757b6ec87eaeb",
+    "references/capabilities/今译-3.md": "7a19bfc9c1b34050dc9b92160699ae36610a39fa8eb6ee562395e16a75443ae1",
+    "references/capabilities/原文-4.md": "8838f061170088cb43fd87127ae347372203c5ecba7c77f70ca728aad1456637",
+    "references/capabilities/今译-4.md": "3afe57c0bf873718e0b1300ae4ff823b35884b3e401bc6ce78b5c3d9f288da1e",
+    "references/capabilities/今译-5.md": "80b8958c7f45d8a13b812409f62f35021a83fea1842eb62659d072dbdd41bebf",
+    "references/capabilities/今译-6.md": "3d78140bd18a9ecc0db70c602adab9907df1b3fad8bc7bb46d56d21ed6a02d5b",
+    "references/capabilities/今译-7.md": "09b5b1a5e739b853eb4d53ddcb4379cd3aaa577b9270be2fc18d76a54e11959f",
+    "references/overview.md": "25cab17926ed756aa29d523b909b5c52c4d3153b2c9ecd363e07d1271f9daa9f",
+    "references/glossary.md": "83cf5746d5455caa7bd4f77d5b71b121c16098ac0f0bdb037c84591e971ba2aa",
+    "references/cheatsheet.md": "b1bf2da7fa80c4c0d254b6e6edec751643c85d8af62c68e788dcee0b95feff6c",
+    "references/capability-index.md": "59510d430a8d37c2718033e08529633388c6de2b9f41756dbe01b88289520769",
+    "SKILL.md": "3e54dbbf4d6c55357064bf689b341906197e0fa4478c3bf98c9f466fef12f854"
+  },
+  "generated_at": "2026-11-07T07:40:54.907460+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

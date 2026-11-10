@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/四大国学经典解读.md": "23e9d1478ea0554fea27a980f0288039b18972e8f0cfec3e8473d20a425ee73d",
+    "references/capabilities/解读.md": "cb5cad7d711ce0f2ea3b889276212d6a5487e7042f00118c0e0a30a19c2149a8",
+    "references/capabilities/译文.md": "e2d6e1741cc0e68f41cc74cf82e6a7da509f8ea94dc6313b0d005c0797adf217",
+    "references/capabilities/译文-2.md": "e2d8c82a8efa4d1873f0e1c8b842dab9967ef1cc95dc505e1cb3f1ee1b762d21",
+    "references/capabilities/解读-2.md": "fe39d107005fbdee5765e4ce45f03890ca81012b509838cc82dedf52d12c99c2",
+    "references/capabilities/解读-3.md": "fdc3440314a8f00870f8bfeaf6d3567301309a8f296b07a83284f511cc73dfe1",
+    "references/capabilities/经文.md": "71eeffa9c525b22be7f4798c10140454629b6ea971334957fd82b2c2691a7cc6",
+    "references/capabilities/解读-4.md": "77cc7d1098468ff2798f9135d2d545c0c87c9e065a7e81223f345659555eba7a",
+    "references/capabilities/经文-2.md": "1c8a1ffe5607d54abd897533ab31d33d2d00905bdfbcdb8215b90c3c9c0e217a",
+    "references/capabilities/注释.md": "a9f7bbc18569d5762cef0c872c07cbbb137422b00cf8e763304cc113696ca61e",
+    "references/capabilities/解读-5.md": "6a8b85de9f217029441446de689e536bb6f0459ecb36415ac10a60da1f6b3a39",
+    "references/capabilities/经文-3.md": "fd074af62e9df3e7083dd6094b46351d2b11067580ccfc98cfd7b51001c1ce18",
+    "references/overview.md": "c8f7815cbe36e99bcc103066a4e62896009a22355ddcd9a513b9eccf0a19594e",
+    "references/glossary.md": "d65248147c7b57630015212b82c076274c7423fd49a2ea0a8d77d344e69b843d",
+    "references/cheatsheet.md": "68da37d726a9dda85fccc8d1afc156f2856ad53a800933dd3350ace8cce255ec",
+    "references/capability-index.md": "f675c2a784f6b47d6e62c2da79258ea2e90019db8944c230397c6f69178f8a01",
+    "SKILL.md": "7ddb7df4429c58c76c8c3f01b29f8658cb35f5d73a8d0cc56e2df2ef87c0bf55"
+  },
+  "generated_at": "2026-11-07T07:40:50.931048+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/一-出马仙开光程序.md": "318cb485a7b1e445b19c95edde9e08cdd397a71ade88cbdf378740f85f610222",
+    "references/capabilities/三-三项断愈病法.md": "a35ae35049d0c86a73524dde3eef7ee2bb67e899b37444600be88b836597b6c2",
+    "references/capabilities/三-破解一切邪妖鬼魅秘法.md": "9fa562659850d17b06c0b8df82541fbcbde106870349df8b72eff112e01755e9",
+    "references/capabilities/十五-讨债法.md": "380a06fe5e5135ac53e87a1c4040219a34181b79aaaccdf51191513edbe030fd",
+    "references/capabilities/三十-家业兴旺招财法.md": "3bb9264b234fcaff2b50e67403d18caefad31d887dac28c339a0f3a392426007",
+    "references/capabilities/三-关公一关圣帝开光程序.md": "0e9780557253cff803dd8649934416ca530d2a7d5fb68934f89d021e4974885b",
+    "references/capabilities/七-镜子开光程序.md": "107826092774f7d7839cb1556a5b6dfc43edaddd820a31b4d862473d29966670",
+    "references/capabilities/十二-文昌塔开光程序.md": "731dab00bb6a0cad4dc757f397d142ddd3ffc8b977044bbe53dd0cb3a1f527da",
+    "references/capabilities/十七-十二生肖开光程序.md": "7b4e265541f1a56673dbb4556d0dd33dadfbfe99c7922937517516a855e15460",
+    "references/capabilities/八-灵羊开光.md": "8a3a336794ed955931ba1dd0b4c4300eec48400fa6e23ef5d5606728c9b77bc3",
+    "references/capabilities/十二-金猪开光.md": "25b46811ef756ca2b2e03703c7376004bc33dadd29cad4c5cf38f31901d53cdc",
+    "references/capabilities/四-得病查日支.md": "8ef9de04837181a1699bfe7804981a69acd80e8bd70e244c03152fb22ad3b9e5",
+    "references/overview.md": "b13bafb9d324b4f0dbb64c363ddea8cca653a49d7eea22cbf0aedcfeaf0fa5f1",
+    "references/glossary.md": "9d6f4cbbb121a2cebedf3792dae4e00893a3b9274ef7a4cb0521e6fdd77f9159",
+    "references/cheatsheet.md": "a2edfe20b9030449ab5cfcaca2cfcb5f1d356ffaca4d05218f552a4e55862ad7",
+    "references/capability-index.md": "68218ef7d798b63fd41c0aa63df6ca370527fa8170932d9d5933d947eb30c60d",
+    "SKILL.md": "c62f04b9ddb2615150b6f7949c47dee39977d0988c372b94125dfdfe6908333e"
+  },
+  "generated_at": "2026-11-07T07:40:56.231274+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

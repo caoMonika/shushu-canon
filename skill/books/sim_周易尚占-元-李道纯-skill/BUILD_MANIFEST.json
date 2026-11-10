@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/元-大德丁未年版.md": "697eb4a48d54454ad5ec3f1af7f4c0a921ed9724e92ef0172d0f7b9d55875372",
+    "references/capabilities/一-六位例.md": "585bcee85de5f138c04d380b0b94877b7b5677f3660bdb3955d0c04cc3241033",
+    "references/capabilities/六-八卦-八节-休旺例.md": "d4cbff8ead5192f075905db98bef7155ad636466a820d071f74a36a7a304e285",
+    "references/capabilities/二-六神断例.md": "0513a2a68cb07369bd62271ae0bb7c38d8126f23b0dabaf6ee374c88ff834099",
+    "references/capabilities/三-住居宅地章.md": "159ed86b243115aff97481242f2dc66f553a5611ed8b3c1e59f1d62fab9df44f",
+    "references/capabilities/四-胎孕章.md": "0e65d5902a34e4c6c6fae6e63bbe83d435520c56d055139c3212adeb02e7aa07",
+    "references/capabilities/三-蚕桑章.md": "6c0aca0e3120c0016899ce8b2d98a73badbc2b536e8e92069a2d01cb29615287",
+    "references/capabilities/五-公讼章.md": "c6907d9c0c7c03465ed0af2bd33780bbf0476201a6d27650b3d9f652d7ff9223",
+    "references/capabilities/二-八卦断例章.md": "16d313f603c79d4fa31e171bafbf38afbbe7a78ba0b70ddd3d5e3cd1776d566e",
+    "references/capabilities/二-八卦断例章-2.md": "3cbe841de703851306a846086a6933759d2524b97d01c2cb9a7498e60307cf15",
+    "references/capabilities/二-八卦断例章-3.md": "15d91f1ecf758d6fa793e4dc9147b46656a63614d3698bdb6614da2d954e6832",
+    "references/capabilities/二-八卦断例章-4.md": "0c1ef99acc4ef467ce2872fa21f0b777d3e5efb807f2311b5272da54cd9e1d14",
+    "references/overview.md": "d64ca171698e38a7e17f2d8bf08310756880c197afc1b80038633c2dfa79a56f",
+    "references/glossary.md": "d4151e77e51999e585c9bd1dedf7363b5020c0db983860dc238e9d7572e26efc",
+    "references/cheatsheet.md": "a3bc876739d4b801511241b37e4c02ed77caa7a2ec857bdd1bb990fbb8f5339a",
+    "references/capability-index.md": "0080cb35db18d28af883a98268f9bcf7ae7b71c5d68dcd35aedea9194a459331",
+    "SKILL.md": "6d4113a651828c5d148f8054757b619994e89d6ebdddcb9424b8756e2052cb35"
+  },
+  "generated_at": "2026-11-07T07:41:02.742506+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

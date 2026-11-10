@@ -1,80 +1,66 @@
 ---
 name: sim_增删卜易-野鹤老人-skill
-description: >
-  用户要用《增删卜易-野鹤老人》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 增删卜易-野鹤老。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《增删卜易-野鹤老人》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 增删卜易-野鹤老人。
 source_book: 《增删卜易-野鹤老人》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《增删卜易-野鹤老人》· RIA++ 蒸馏
+# 《增删卜易-野鹤老人》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 野鹤曰：卜易之道，乃伏羲、文王、周公、孔子四大圣人之心法也。得其精者可以参天量地；粗知其理亦可趋吉避凶。凡学卜者可以深求，亦可浅学。浅学者只要先学装卦，知道动变及卦之六冲，卦变六冲看熟用神章中占何人占何事以何爻为用神；再看何为旬空、月破及春夏秋冬四时衰旺、生克冲刑即知决断祸福。
+## 核心原则（常驻速览）
 
-> 假令占功名者得旺官持世，或动爻作官星生合世爻，求名如拾芥耳。倘遇子孙持世，或子孙动于卦中，不拘占入场占升迁悉如水中捞月。占求财若得财星持世，或日月动爻作子孙生合世爻，或官鬼持世财动生之，或父母持世财动克之世，皆许求财之易如摘枝耳。若遇兄弟持世及兄弟爻动于卦中，或世临旬空月破，何异缘木求鱼。
+1. 如占一年月令现任官者，宜官星持世，财动生之，皆许吉庆。若遇官鬼相克，日月动爻作子孙冲克世爻，或作官鬼冲克世爻，或世空世、官破官空，或世动化回头克及子孙持世皆为凶
+2. 凡占三党六亲及官长、师生、婢仆诸人之病，皆于用神章内以取用神。
+3. 占朋友、外人以应爻为用神，理之常也，往往多有不验者何也？疑因不甚关切，不诚之故耳。
+4. 用神、元神、忌神、仇神章第九
+5. 元神、忌神、衰旺章第十—
+6. 卖货宜守宜动章第七十四
 
-> 如占一年月令现任官者，宜官星持世，财动生之，皆许吉庆。若遇官鬼相克，日月动爻作子孙冲克世爻，或作官鬼冲克世爻，或世空世、官破官空，或世动化回头克及子孙持世皆为凶兆。
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《增删卜易-野鹤老人》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「第1段」相关的查阅/断法/方证问题 | references/capabilities/第1段.md | overview / cheatsheet |
+| 与「第2段」相关的查阅/断法/方证问题 | references/capabilities/第2段.md | overview / cheatsheet |
+| 与「第3段」相关的查阅/断法/方证问题 | references/capabilities/第3段.md | overview / cheatsheet |
+| 与「第4段」相关的查阅/断法/方证问题 | references/capabilities/第4段.md | overview / cheatsheet |
+| 与「第5段」相关的查阅/断法/方证问题 | references/capabilities/第5段.md | overview / cheatsheet |
+| 与「第6段」相关的查阅/断法/方证问题 | references/capabilities/第6段.md | overview / cheatsheet |
+| 与「第7段」相关的查阅/断法/方证问题 | references/capabilities/第7段.md | overview / cheatsheet |
+| 与「第8段」相关的查阅/断法/方证问题 | references/capabilities/第8段.md | overview / cheatsheet |
+| 与「第9段」相关的查阅/断法/方证问题 | references/capabilities/第9段.md | overview / cheatsheet |
+| 与「第10段」相关的查阅/断法/方证问题 | references/capabilities/第10段.md | overview / cheatsheet |
+| 与「第11段」相关的查阅/断法/方证问题 | references/capabilities/第11段.md | overview / cheatsheet |
+| 与「第12段」相关的查阅/断法/方证问题 | references/capabilities/第12段.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 卷之一
-- 卷之二
-- 卷之三
-- 卷之四
-- 增删卜易卷之一
-- 增删卜易卷之二
-- 增删卜易卷之三
-- 增删卜易卷之四
-- 增删卜易卷之四终。
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：卷之一；卷之二；卷之三；卷之四；增删卜易卷之一；增删卜易卷之二；增删卜易卷之三；增删卜易卷之四
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《增删卜易-野鹤老人》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《增删卜易-野鹤老人》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

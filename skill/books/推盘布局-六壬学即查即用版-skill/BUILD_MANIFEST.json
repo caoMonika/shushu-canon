@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/流传至今-详见本书第十章文献研究-当时六壬专著曾达八十三.md": "8938a5051e8bf94057412f22120d60cc27f0be413afee257311e5e54bfd5703f",
+    "references/capabilities/第一章-基础-上.md": "a6b6c401fecfbf102f3b2c21a088435b3c9156ff97b8b867d2305dd1a25d20ac",
+    "references/capabilities/第二章-基础-中.md": "93bb7758c1dd3e36e72f097fcdd449787460b15455697036aca1e8319b383f29",
+    "references/capabilities/第三章-基础-下.md": "87a3bf45f9ffa117288157b519595faf0476eea2416ac5ae14a1bf1bb48fff9b",
+    "references/capabilities/第五章-占断八门.md": "b9c8162bc9fe67e06856451cfb699564880593fe1f4601225bc4d5756de11d3c",
+    "references/capabilities/第七章-六十四课.md": "a8d2a17600237cad7a09092c6b33e625d74aeb04155c4da60f7c405396156bc9",
+    "references/capabilities/第八章占例.md": "39dea113fe874377edad6ebd31cb45fd7117bfa6be842a1c724072679ab65072",
+    "references/capabilities/第九章-系辞旁通.md": "b9401e06286ba6ec0de4f3fc5d9774f9a3ec24c4c34d5387bc4d8a0aedb2027f",
+    "references/capabilities/第九章系辞旁通.md": "9ab7c08e97bfc30400f1f61d379e417cb7b1e254b0d151bccd8308a20539c343",
+    "references/capabilities/第十章-文献研究.md": "ecf7577ab1298d48bf35dd611676fcec1455b288d7f2f014e5ac875dc15b8660",
+    "references/capabilities/第十章文献研究.md": "5416f29df84397de65389f37d76ac14e6d911ec7e248e99de1083a2533204435",
+    "references/capabilities/第十章文献研究-2.md": "bbdf61c3318cf99335809ef0f4b07777ccb07e7d30a7182d604f497cc969166c",
+    "references/overview.md": "11f5064142a08a27fc065d7ddb6599023ce031b38f09b641debeece748d87f57",
+    "references/glossary.md": "a355a47c8412b58e8c27fb558f50aa5b69b39d3bd594faf4fd9456dd7e6823e9",
+    "references/cheatsheet.md": "d8c86cb0eea0ef80730e8e1da7b803af305c72b81909cda333e93c760d09cab6",
+    "references/capability-index.md": "229210d255f9b022c8aa7ebb1148755db2009e0a0c0e5ff5328de83a665635be",
+    "SKILL.md": "a42b253fa404c5c0b9b47a7fb002cc985bed5c2388095352e1c8fcc334397fe7"
+  },
+  "generated_at": "2026-11-07T07:40:56.388998+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

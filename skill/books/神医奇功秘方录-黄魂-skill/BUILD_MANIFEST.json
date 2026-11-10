@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/10.md": "98eb4c99eba95ead2f8e37a41add283929229a4bb630349392c7d6a43c99b036",
+    "references/capabilities/五-中国民间的抗癌群方.md": "e9d361861375923a41489cbb0678c70efa64dd9f056bf7060cc2e260d59b33b9",
+    "references/capabilities/二-狂犬病的发生.md": "a302aca3ff02ae10264514c7e845096fd4eeadb9b8dfd1deebd8c3614149251a",
+    "references/capabilities/五-死灰复燃的淋病与对策.md": "bc0a96b5dcd192b9083b2d2fc168fec3ea030539dac361ca49ebabda1733f5d6",
+    "references/capabilities/一-咳一声嗽便拔掉虫牙.md": "6cdcd6643ef63330c889d76c371797ef9e76a387d9b3f7d836c05890d7f79567",
+    "references/capabilities/一-鼠疫与战争胜败.md": "7ae9292f6acc66231ff66219fb0f8b2f25971ecc71997d89293d65b2de81136b",
+    "references/capabilities/二-白求恩与败血症.md": "a5a11b146364c82a1e8783cf0b8d5d5c80b0b07d17c7da09ce61c69d030859e2",
+    "references/capabilities/四-轻功的种类.md": "cd4d7346135e7886a540542bd4ae21f0d69d5a2f7a3feabdddeae6aadf89c270",
+    "references/capabilities/36-踝骨穴.md": "7f68cb6c4669f226608b4179577ad90b3005fd29af3302b1115e9ce1fc48f108",
+    "references/capabilities/7-胃病.md": "4cb0120e70a802c819a1e79cb44da0d11dc86d545ac08b6d282a34607a49e9f6",
+    "references/capabilities/七-半夜出现鬼敲门.md": "d4d4c30603aea86f371eea0124ed15597f818ca88332154c084334bba883c10f",
+    "references/capabilities/十八-收人性命的怪魔.md": "4643b0e45d63b38ed339770b6d3c6cd8f21c88f540b75be9aef864f2c398efe0",
+    "references/overview.md": "5b0bc90228f6eb5b15b477c02029bb86d237c39c6843faf03472fea019788db5",
+    "references/glossary.md": "91b16279858efda343d3e3d742696a36d1d3eed3630eb237ce121f154b2c4d32",
+    "references/cheatsheet.md": "354855510657b36482f4e52af8f8ed5e355c28b1faec2095e437892a9e180b07",
+    "references/capability-index.md": "82adc914a4d80d8f8bdbc7be1d50b26b5bad412b2176b621daa15dcb5dfe8c84",
+    "SKILL.md": "a6a2a8bebeba1b5dabff343425e09ceb7323b02b43fbe716e4c2ef2ced278543"
+  },
+  "generated_at": "2026-11-07T07:41:00.323821+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

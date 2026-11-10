@@ -1,83 +1,66 @@
 ---
 name: sim_五行精纪-宋-廖中-skill
-description: >
-  用户要用《五行精纪-宋-廖中》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 五行精纪-宋-廖。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《五行精纪-宋-廖中》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 五行精纪-宋-廖中。
 source_book: 《五行精纪-宋-廖中》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《五行精纪-宋-廖中》· RIA++ 蒸馏
+# 《五行精纪-宋-廖中》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 自非心通意悟，不足以尽此！古称善其事者，莫如李虚中，万端千绪，错参重出，学者就传其法。初若可取，卒然失之，兹岂易哉。廖君归矣，苟因书悟理，则将知由基之射，百发而百中，不然读齐侯之糟魄其中，不可知也。
+## 核心原则（常驻速览）
 
-> 大挠者，轩辕之史官也。考天书三式，以十干十二支衍而成之，为六十甲子，三式者，即轩辕感玄女所授之书（烛神经）
+1. 自非心通意悟，不足以尽此！古称善其事者，莫如李虚中，万端千绪，错参重出，学者就传其法。初若可取，卒然失之，兹岂易哉。廖君归矣，苟因书悟理，则将知由基之射，百发而
+2. 大挠者，轩辕之史官也。考天书三式，以十干十二支衍而成之，为六十甲子，三式者，即轩辕感玄女所授之书（烛神经）
+3. 甲子从革之金，其气散，得戊申土，癸巳水相之，则吉。戊申乃金临官之地，土者更旺于子，必能生成，癸巳系金，生于巳，水旺于子，纳音各有所归，又为朝元禄，忌丁卯丁酉戊午
+4. 乙丑自库之金，火不能克，盖退藏之金，苟无刑害冲破，未有不显荣者，独忌己丑戊午己未之火。
+5. 丙寅赫牺之火，无水制之，则为燔灼炎烈之患，水不可遇，独爱甲寅之水，就位济之，又名朝元禄。
+6. 丁卯伏明之火，气弱宜木生之，遇水则凶，乙卯乙酉水最毒。
 
-> 甲子从革之金，其气散，得戊申土，癸巳水相之，则吉。戊申乃金临官之地，土者更旺于子，必能生成，癸巳系金，生于巳，水旺于子，纳音各有所归，又为朝元禄，忌丁卯丁酉戊午之火。
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《五行精纪-宋-廖中》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「第五卷论干神三」相关的查阅/断法/方证问题 | references/capabilities/第五卷论干神三.md | overview / cheatsheet |
+| 与「【论合神化气】」相关的查阅/断法/方证问题 | references/capabilities/论合神化气.md | overview / cheatsheet |
+| 与「【天干不断若血脉之调荣，地支相连类珠玑之贯穿】」相关的查阅/断法/方证问题 | references/capabilities/天干不断若血脉之调荣-地支相连类珠玑之贯穿.md | overview / cheatsheet |
+| 与「【辨五音诀】」相关的查阅/断法/方证问题 | references/capabilities/辨五音诀.md | overview / cheatsheet |
+| 与「【五行生旺德神】」相关的查阅/断法/方证问题 | references/capabilities/五行生旺德神.md | overview / cheatsheet |
+| 与「【禄九地】」相关的查阅/断法/方证问题 | references/capabilities/禄九地.md | overview / cheatsheet |
+| 与「【食合印】」相关的查阅/断法/方证问题 | references/capabilities/食合印.md | overview / cheatsheet |
+| 与「【天财】」相关的查阅/断法/方证问题 | references/capabilities/天财.md | overview / cheatsheet |
+| 与「【龙吟虎啸格】」相关的查阅/断法/方证问题 | references/capabilities/龙吟虎啸格.md | overview / cheatsheet |
+| 与「【刃头财】」相关的查阅/断法/方证问题 | references/capabilities/刃头财.md | overview / cheatsheet |
+| 与「【夹杀持丘，亲姻哭送】」相关的查阅/断法/方证问题 | references/capabilities/夹杀持丘-亲姻哭送.md | overview / cheatsheet |
+| 与「【平头羊刃缁黄应】」相关的查阅/断法/方证问题 | references/capabilities/平头羊刃缁黄应.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 第一卷论六十甲子上
-- 第二卷论六十甲子下
-- 第三卷论干神一
-- 第四卷论干神二
-- 第五卷论干神三
-- 第六卷论支神
-- 第七卷论五行一
-- 第八卷论五行二
-- 第九卷论五行三
-- 第十卷论年月日时胎
-- 第十一卷释日时凶中凶格
-- 第十二卷论十二月节气
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：第一卷论六十甲子上；第二卷论六十甲子下；第三卷论干神一；第四卷论干神二；第五卷论干神三；第六卷论支神；第七卷论五行一；第八卷论五行二
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《五行精纪-宋-廖中》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《五行精纪-宋-廖中》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

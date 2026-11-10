@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/第十一章占断.md": "babf750e0b24f8968c22d220f0e1153dbb536a169d0dd2cb2d3f08529fa942b8",
+    "references/capabilities/第一章.md": "a557758da0ebd42109cec8ce935cb879eb062b7178590974e4ba7c707e2262a2",
+    "references/capabilities/第二章天干地支之生克关系.md": "ca1be69b9b5e0965e6bd748a6c687a944e61053c3c9bfa406481c60ad8208910",
+    "references/capabilities/第三章天干地支之强弱.md": "eb7114ba190e1302fa9bd42ca18aa136c00ba5621b41926ca0116c0feeaed0d8",
+    "references/capabilities/第四章.md": "c6d33a5f5112425aaa68520f0f489961d02938802c2f08ecfa8f5a16ff06d0d6",
+    "references/capabilities/第五章.md": "8e9d6537d970b44e3d3c3844bae619de74499d3cb079e05015811971a173eab2",
+    "references/capabilities/第六章.md": "37bb41e850a54a25ae7f2419e311037cc02250c9f0d89cf0d7166b9790052f6c",
+    "references/capabilities/第七章.md": "172d7fd37737e083eb43be4c1ed6cc11aef7d443f3902e4c16ac1d80b9d6f417",
+    "references/capabilities/一-天乙贵人-乃己丑土神-主行令于人间-握尊权-莅天人-随在无犯.md": "e0a585496d55657da0ceac118168a836aea1ca4d43b6496d1303903f8656bfb6",
+    "references/capabilities/第九章.md": "3fc42af053460a9b45f16400f8acb40597f44b4e81ae80822639f25f84b07f11",
+    "references/capabilities/五-十一月在卯-六-十二月在巳-互有异同-待校.md": "89ca38290da2b06c443500fadb50f0761310c7e1fac19c2e843631970bf89e80",
+    "references/capabilities/第十章.md": "a9cb47cc4813e443cdf8bdb6be68430c6d2fced182c986c6d5be08498ad41397",
+    "references/overview.md": "880442942eb8604f1f4c5b72039983bd805a399012fe090baef6871ddeff0eb2",
+    "references/glossary.md": "ae2c047087f8c614f7a2ae5ddf443306282968a685bd0fbdbc8ed3ccaf7651ce",
+    "references/cheatsheet.md": "2fc45a62d279bb791534049d10cb67825e2b0375f5b841a6f625a5adf8ee3574",
+    "references/capability-index.md": "c3c6a401243bd447fd3ef53dabbd1b434367a51699f0ebc02f3ad7464b74587c",
+    "SKILL.md": "861b8000b74f17842a9b620b2bc2515e4bd792adb6849d01d3688bfc39e2d2de"
+  },
+  "generated_at": "2026-11-07T07:40:54.606224+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

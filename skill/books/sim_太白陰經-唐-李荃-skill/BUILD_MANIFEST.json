@@ -1,0 +1,17 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 2,
+  "published_hashes": {
+    "references/capabilities/一-違將軍一時一命-皆斬.md": "4016f1fdb3ff326b7fd252242bd95cf218ac2c0d5317b0b9c83f11c2d66d3592",
+    "references/capabilities/四-五-六虹見-大戰.md": "e2a3a1a502ddd8449b312900bada7f7cd03c0fbf0c217ef14c02c8aafab00083",
+    "references/overview.md": "159187498efed7fcd2b4295d41b98073947561523047689ca67f65c2aeae58d6",
+    "references/glossary.md": "ad5d35add9a5f48973501d87a4336fd9d7bbf2e640445ac86a888f970774dc08",
+    "references/cheatsheet.md": "241ac7278e008196e7fda75bbed1d4ea2aacbe8d7fd8c9cf2ca2009d3fb3af96",
+    "references/capability-index.md": "a226f75c11368a55dfbc1bc6292d6c7f4c1b9fc0b9affe182ecd317434494cc3",
+    "SKILL.md": "166d11f4758df6a94f75addf2d66689d56c7a5af954f053243fce3cd5175a718"
+  },
+  "generated_at": "2026-11-07T07:41:02.494633+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

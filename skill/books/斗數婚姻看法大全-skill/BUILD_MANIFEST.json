@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/夫妻宮不足以解釋男人的婚姻.md": "00b7fdaee1fe75adc5439ec1195e8db42e0cec35ec6cca835005fded5fa9b25e",
+    "references/capabilities/子女宮關係男人婚姻.md": "6eb14e785326474149fba6e5b23e8f2212b512bb7a1fece3badd4d8156a4dbc1",
+    "references/capabilities/為何會情意已盡.md": "eaf9f7b19230024d083753ba61868864db7ecf19418bea3e75c9323fe7ad1c29",
+    "references/capabilities/三-太陽-丙火-化氣為權貴-為人坦率直言-好面子-脾氣難免急躁.md": "b954e376567bc9b7a9530aa26b8837a98e0954f832042a7ad6213ea40f77a876",
+    "references/capabilities/八-太陰-癸水-化氣為富-聰明清秀-心性溫和-博學多能-喜整潔.md": "795dba12b65f00ede25b049034630de1774275f250189ec4676c6273fa718960",
+    "references/capabilities/十四-破軍-癸水-被視為耗星-亦為孤剋星-性急好勝-任性-私慾.md": "8eccc9aed5606e7324d36ad45954820655855c2155d9ea5d3b76f9e7082405ef",
+    "references/capabilities/五-天魁-丙火-貴人星-注重精神生活-才情甚高-有逢凶化吉的特.md": "73f1aebeb8c2fc4fde6834ff1b306809db18f8ed6483f094532917390ec5c006",
+    "references/capabilities/3-形貌清秀-但不艳丽-配偶在他自己的生活圈里是很活跃的人-子.md": "c695ccd66c30b49f3529e769fef9c67f5489e486765a2cf3c80423f23184309d",
+    "references/capabilities/2-女命丈夫事业有发展-感情不很好-会禄存-昌曲-魁钺可因妻致.md": "2d3bf1de0d7c3f377d1accda15e46aa442dffd2cf88a13563a7fec527d5738e8",
+    "references/capabilities/3-禄存加空劫-婚姻生活较孤寂些.md": "c3d2a605c2929a4f1e99a7f72db3dd6298515044b52437aeeba463332a3c8fd8",
+    "references/capabilities/10-情鎖桃花.md": "2a7014445060e2f92a2667a947d13e9121f057682cf23e28a3d69897cc667638",
+    "references/capabilities/26-機警桃花.md": "825ea341752e60c8bd9abf38b1996e598589b18cf090c35d27af3c372d40409b",
+    "references/overview.md": "95d842f25de672f7d2aedd20977308e6dbda6ea0095ddab99ef2529e3bed1392",
+    "references/glossary.md": "b4ba63a86da56c844d0d7e14da225c4908ffcfce9330e0352628f05531e70c0c",
+    "references/cheatsheet.md": "ea82b45695f9d82c2d37eb1ae5153ffb8eb0632be60062379a02b12babb5239b",
+    "references/capability-index.md": "d801d85174c70ea5d2136cc8b39535b6d25826437e9cb338b67da4a0d95809d7",
+    "SKILL.md": "7f6437844d43a21c2a2b7496cb2ecfbc78ee3f323999118f62b954ff1e8d5981"
+  },
+  "generated_at": "2026-11-07T07:40:53.511659+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

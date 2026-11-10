@@ -1,0 +1,21 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 6,
+  "published_hashes": {
+    "references/capabilities/1-即杭州名胜-柳浪闻莺-原是南宋偏安之都的御花园-聚景.md": "5799a9a6635ec6beee6105e6cb5ef3c49d0eb42a360a3fb50834cf31e893b944",
+    "references/capabilities/二-论正时.md": "1714b72ec5ea23b8e37bdd77ed572c00eaae8ce8c1009dab70ccb6b7485f63d2",
+    "references/capabilities/刘注-月将-用时相冲-有克仍取克发用-中末传俱在冲位-故曰-迭.md": "1e38dcec599faa9f2a1d85ce37a8c65c21ec723e56dab506c9617e85ea39b7eb",
+    "references/capabilities/解析-此占应事主要求-特隐其网名-所以费解-事主网名含-白娘子.md": "b546c38a29f155dbef1194312f24b668f2d65ba2a84753d89dfcea0654f59d29",
+    "references/capabilities/解析-网友网名-安-朱雀乘卯曰-安巢-卯加午-遂有-属马-之验.md": "2cd1d03d5f95809d9fb99efb544694ac69426ccbe317a64080f3291243083681",
+    "references/capabilities/贫居-王建.md": "b585011029338df76c664310624472810cbf76be5b1455f4def45898ae36c980",
+    "references/overview.md": "c4f46626de2117ab8b6b8f7d6fda837bf45bb3936d7e4cf0b973b40363ff2f0e",
+    "references/glossary.md": "afea9242087389eacf53824ff306d443ec65f7efc180570e6537d2db0547bf52",
+    "references/cheatsheet.md": "cbf4e3dfa5f10ef86cec14f4ca88208bce053c5579f252513500d7691b5136b6",
+    "references/capability-index.md": "c6e61822e337980ba3bcc3dfde326c045a8a4d6dd3a8b271f1ef52597427587a",
+    "SKILL.md": "085b5298384cbd7ef1838621aba05beda89fb404ae926c0fac2fee68c084a23c"
+  },
+  "generated_at": "2026-11-07T07:40:54.373469+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

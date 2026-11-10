@@ -1,83 +1,66 @@
 ---
 name: 大六壬总汇-鲁国山人-skill
-description: >
-  用户要用《大六壬总汇--鲁国山人》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 大六壬总汇--鲁。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《大六壬总汇--鲁国山人》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 大六壬总汇--鲁国山人。
 source_book: 《大六壬总汇--鲁国山人》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《大六壬总汇--鲁国山人》· RIA++ 蒸馏
+# 《大六壬总汇--鲁国山人》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 实体书籍请联系鲁国山人电话：13438100970   Qq
+## 核心原则（常驻速览）
 
-> 里面卦例子将互相穿插，在书中既学到了六爻
+1. 以后还有《军事与六壬
+2. 里面将涉及到从春秋战国到现代战争的内容，以及军事用语
+3. 以及军事用语。请关注新
+4. 太卜令掌卜筮之法，以占邦家动用之事
+5. 以占邦家动用之事……
+6. 凡式，占辨三式之同异
 
-> 军事与六壬》里面将涉及到从春秋战国到现代战争的内容
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《大六壬总汇--鲁国山人》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「一、克贼」相关的查阅/断法/方证问题 | references/capabilities/一-克贼.md | overview / cheatsheet |
+| 与「七、别责」相关的查阅/断法/方证问题 | references/capabilities/七-别责.md | overview / cheatsheet |
+| 与「十六、十七」相关的查阅/断法/方证问题 | references/capabilities/十六-十七.md | overview / cheatsheet |
+| 与「一、 日辰上见德神」相关的查阅/断法/方证问题 | references/capabilities/一-日辰上见德神.md | overview / cheatsheet |
+| 与「一、 日上课不足」相关的查阅/断法/方证问题 | references/capabilities/一-日上课不足.md | overview / cheatsheet |
+| 与「一、 支临干同类相培」相关的查阅/断法/方证问题 | references/capabilities/一-支临干同类相培.md | overview / cheatsheet |
+| 与「一、 传凶」相关的查阅/断法/方证问题 | references/capabilities/一-传凶.md | overview / cheatsheet |
+| 与「一、 三传四课皆在六阳之位」相关的查阅/断法/方证问题 | references/capabilities/一-三传四课皆在六阳之位.md | overview / cheatsheet |
+| 与「一、 三传日辰俱下克者」相关的查阅/断法/方证问题 | references/capabilities/一-三传日辰俱下克者.md | overview / cheatsheet |
+| 与「一、 三传纯子孙」相关的查阅/断法/方证问题 | references/capabilities/一-三传纯子孙.md | overview / cheatsheet |
+| 与「一、 用下贼上」相关的查阅/断法/方证问题 | references/capabilities/一-用下贼上.md | overview / cheatsheet |
+| 与「一、 用克太岁」相关的查阅/断法/方证问题 | references/capabilities/一-用克太岁.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 唐六典》卷十四
-- 卷十四
-- 卷十四
-- 卷十四：
-- 部，计一百九十一卷
-- 计一百九十一卷
-- 计一百九十一卷
-- 计一百九十一卷、明焦雄的
-- 一、克贼
-- 二、比用
-- 三、涉害
-- 四、遥克
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：唐六典》卷十四；卷十四；卷十四；卷十四：；部，计一百九十一卷；计一百九十一卷；计一百九十一卷；计一百九十一卷、明焦雄的
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《大六壬总汇--鲁国山人》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《大六壬总汇--鲁国山人》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

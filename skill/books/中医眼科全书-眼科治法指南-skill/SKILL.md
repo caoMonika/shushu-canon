@@ -1,83 +1,66 @@
 ---
 name: 中医眼科全书-眼科治法指南-skill
-description: >
-  用户要用《中医眼科全书  眼科治法指南》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 中医眼科全书  。OCR自动蒸馏，请核对原书。
+description: |
+  用户询问《中医眼科全书  眼科治法指南》方证/治法/医案/条文，或本书未单列意图时调用本路由。 不适用于：不构成医疗建议；急症须就医。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 方证, 治法, 医案, 中医眼科全书  眼科治法指南。
 source_book: 《中医眼科全书  眼科治法指南》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, tcm]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《中医眼科全书  眼科治法指南》· RIA++ 蒸馏
+# 《中医眼科全书  眼科治法指南》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不构成医疗建议；急症须就医。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 祛风法：在眼科内治法中，为群法之冠、临床运用极为厂泛，受到占今医家的高度重
+## 核心原则（常驻速览）
 
-> 视。凡风热、风寒、风湿、风等所致的各种眼病，证见红肿，疼痛，流泪，湿烂，瘙，痉李，
+1. 视。凡风热、风寒、风湿、风等所致的各种眼病，证见红肿，疼痛，流泪，湿烂，瘙，痉李，
+2. 以.上各药临床运川的般规律是：华凉解：农药用于治疗风热眼病，具体讲，即甲组为
+3. 治疗风热眼病的通用药；乙组为喉科要药.风热眼病兼有喉痛者不可少；丙组为退要药，
+4. 是风热目的首选药；丁组为引经升散要药，凡病在少阴、附明，风热头痛，肌表郁热，以及
+5. 风湿病的通用药；乙组为祛风止痛要药，眼病兼有头痛身痛者不可少，如风湿所致的前
+6. 以上各方临床运川的规律足：辛凉解表药方用于治疗风热眼病，其中越蜱加浮萍汤
 
-> 麻，膜，或伴有悲寒，发热，头痛，身痛：脉浮弦：否苔薄白者均可选用。是主治病毒感染
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《中医眼科全书  眼科治法指南》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「(16)」相关的查阅/断法/方证问题 | references/capabilities/16.md | overview / cheatsheet |
+| 与「(98)」相关的查阅/断法/方证问题 | references/capabilities/98.md | overview / cheatsheet |
+| 与「二、组方技巧」相关的查阅/断法/方证问题 | references/capabilities/二-组方技巧.md | overview / cheatsheet |
+| 与「一、文献选评」相关的查阅/断法/方证问题 | references/capabilities/一-文献选评.md | overview / cheatsheet |
+| 与「第六章活血法」相关的查阅/断法/方证问题 | references/capabilities/第六章活血法.md | overview / cheatsheet |
+| 与「二、组方技巧」相关的查阅/断法/方证问题 | references/capabilities/二-组方技巧-2.md | overview / cheatsheet |
+| 与「一、文献选评」相关的查阅/断法/方证问题 | references/capabilities/一-文献选评-2.md | overview / cheatsheet |
+| 与「二、组方技巧」相关的查阅/断法/方证问题 | references/capabilities/二-组方技巧-3.md | overview / cheatsheet |
+| 与「(2)兼补心剂」相关的查阅/断法/方证问题 | references/capabilities/2-兼补心剂.md | overview / cheatsheet |
+| 与「（1)炉甘石制法：用制炉甘石为药母外用治疗眼病，具有历史悠久，应用广泛，价廉」相关的查阅/断法/方证问题 | references/capabilities/1-炉甘石制法-用制炉甘石为药母外用治疗眼病-具有历史悠久-应用广泛-价廉.md | overview / cheatsheet |
+| 与「一、外障眼病」相关的查阅/断法/方证问题 | references/capabilities/一-外障眼病.md | overview / cheatsheet |
+| 与「(1）翼状餐肉割络术：手术眼先常规消毒，再行局麻，用开脸器开脸，固定眼球，术者」相关的查阅/断法/方证问题 | references/capabilities/1-翼状餐肉割络术-手术眼先常规消毒-再行局麻-用开脸器开脸-固定眼球-术者.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 第一章祛风法·
-- 第一节概述
-- 第二节运用规律
-- 一、常用药物
-- 二、常用方剂
-- 第三节理论探讨
-- 一、文献选评，
-- 二、组方技巧
-- 第二章泻火法
-- 第一节概述·
-- 第二节运用规律·
-- 一、常用药物
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：第一章祛风法·；第一节概述；第二节运用规律；一、常用药物；二、常用方剂；第三节理论探讨；一、文献选评，；二、组方技巧
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《中医眼科全书  眼科治法指南》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《中医眼科全书  眼科治法指南》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

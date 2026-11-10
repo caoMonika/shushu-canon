@@ -1,78 +1,66 @@
 ---
 name: 张容平-历代六壬占验汇选一-skill
-description: >
-  用户要用《张容平-历代六壬占验汇选一》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 张容平-历代六壬。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《张容平-历代六壬占验汇选一》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 张容平-历代六壬占验汇选一。
 source_book: 《张容平-历代六壬占验汇选一》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《张容平-历代六壬占验汇选一》· RIA++ 蒸馏
+# 《张容平-历代六壬占验汇选一》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 大六壬總歸》中，清朝鹅池主人於序文中：『壬难小道，必有可觀，遂
+## 核心原则（常驻速览）
 
-> 断，常令人拍案叫绝，可神断，猎如親見事情的發生，《新日用涓吉
+1. 見某些課例解，可以得知是清朝先贤程树動所编辑而成，其中不少案例
+2. 六回得其二，不盏然都是用年命算。隨著時代的演髮，六壬必须加入
+3. 會。另在此書中加上肇者嘶驗的案例，以供學习参考，筆者的案例多不用
+4. 點霰之書，向来六壬古籍巍乎無能出其右者，相信讀者看了此書，就能意
+5. 载所以然，因此學習六壬要博聞強記，多看古籍，一旦時機到了，左右逢
+6. 褐福攸關不可不慎也一。
 
-> 指》、《青钱秘缺》等等古籍案例，累多案例中，時見古聖先的推演判
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《张容平-历代六壬占验汇选一》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「【姜托】惟當守正，不可人。」相关的查阅/断法/方证问题 | references/capabilities/姜托-惟當守正-不可人.md | overview / cheatsheet |
+| 与「【天時】夜占龍神發用，至未日有雨。」相关的查阅/断法/方证问题 | references/capabilities/天時-夜占龍神發用-至未日有雨.md | overview / cheatsheet |
+| 与「【家笔】」相关的查阅/断法/方证问题 | references/capabilities/家笔.md | overview / cheatsheet |
+| 与「【捕亡】易獲。」相关的查阅/断法/方证问题 | references/capabilities/捕亡-易獲.md | overview / cheatsheet |
+| 与「【天時】多小雨有電。」相关的查阅/断法/方证问题 | references/capabilities/天時-多小雨有電.md | overview / cheatsheet |
+| 与「【天時】有風，出旬乃雨。」相关的查阅/断法/方证问题 | references/capabilities/天時-有風-出旬乃雨.md | overview / cheatsheet |
+| 与「【天時】大雷雨。」相关的查阅/断法/方证问题 | references/capabilities/天時-大雷雨.md | overview / cheatsheet |
+| 与「【婚姻】」相关的查阅/断法/方证问题 | references/capabilities/婚姻.md | overview / cheatsheet |
+| 与「【家宅】」相关的查阅/断法/方证问题 | references/capabilities/家宅.md | overview / cheatsheet |
+| 与「四、程明先撰辑之《青囊經義秘旨》。」相关的查阅/断法/方证问题 | references/capabilities/四-程明先撰辑之-青囊經義秘旨.md | overview / cheatsheet |
+| 与「【天時】晴雨調匀。」相关的查阅/断法/方证问题 | references/capabilities/天時-晴雨調匀.md | overview / cheatsheet |
+| 与「【天時】風多雨少，不久即晴」相关的查阅/断法/方证问题 | references/capabilities/天時-風多雨少-不久即晴.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 一玉速環末卷、一針見血
-- 丙寅日例二十六占官一針見血丶玉连琢末卷
-- 玉連環末卷
-- 一、東莞山人撰頓之《蒋盤埃星陰陽宅秘本》；
-- 二、劉仙舫撰辑之《玄空眞秘》；
-- 三、蓮池撰辑之《元空心法寶》；
-- 四、程明先撰辑之《青囊經義秘旨》。
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：一玉速環末卷、一針見血；丙寅日例二十六占官一針見血丶玉连琢末卷；玉連環末卷；一、東莞山人撰頓之《蒋盤埃星陰陽宅秘本》；；二、劉仙舫撰辑之《玄空眞秘》；；三、蓮池撰辑之《元空心法寶》；；四、程明先撰辑之《青囊經義秘旨》。
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《张容平-历代六壬占验汇选一》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《张容平-历代六壬占验汇选一》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

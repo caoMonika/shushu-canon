@@ -1,0 +1,17 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 2,
+  "published_hashes": {
+    "references/capabilities/五者论九宫数-右大小八篇第一卷.md": "bd3c697106846392bb2be07657caf88adaf0e685a5fb390a060b878ea00e9b81",
+    "references/capabilities/右大小五篇第四卷-第二十论诸神.md": "26a9df8645f20fca68bba4c7d8c6f42f953b1d59bb9cb41a57be48a148f0db7e",
+    "references/overview.md": "4e14d1d9cffb2092fe62c1354c9222e54232f96375133a413b924fe41cf03d7a",
+    "references/glossary.md": "f64221c91878779d2142d1196733e81de4dd84dd9e02ceaf20e0fdc2833e0615",
+    "references/cheatsheet.md": "3d447974e290418dc5bf873ec2d1e290290ffe8cdc44a25bb877c5455e47ff8f",
+    "references/capability-index.md": "eff4c0f58da4cf48ffdb7cf78a71ffaccd307b80fccceb4d67b0640debd4868e",
+    "SKILL.md": "e89c1f40d0a61249d163aedac805ff8f6112e61ae92d9f69bd1b24f315f096e3"
+  },
+  "generated_at": "2026-11-07T07:41:01.737773+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

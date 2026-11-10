@@ -1,83 +1,66 @@
 ---
 name: 解体新書-5冊-skill
-description: >
-  用户询问与《解体新書 5冊》相关方证/治法/医案时；仅文献参考。 不适用于：不构成医疗建议；急症须就医。 触发词：方证, 治法, 解体新書 5冊。OCR自动蒸馏，请核对原书。
+description: |
+  用户询问《解体新書 5冊》方证/治法/医案/条文，或本书未单列意图时调用本路由。 不适用于：不构成医疗建议；急症须就医。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 方证, 治法, 医案, 解体新書 5冊。
 source_book: 《解体新書 5冊》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, tcm]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, tcm]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《解体新書 5冊》· RIA++ 蒸馏
+# 《解体新書 5冊》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不构成医疗建议；急症须就医。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 夫紅毛之画也至無哉如余不位者非散所及雅然又票可
+## 核心原则（常驻速览）
 
-> 我友人抄田玄白所心驿新書成共今子赏之國马
+1. 也待以為浪不中道而者
+2. 留之際對勝以為常歸子
+3. 看過者腹固為不の馬余
+4. 心力智巧而臻斯由此以
+5. 自五侯下弘丞原凡有生氯者
+6. 篇奇管心圖其屈曲心状以会
 
-> 者四。日名曰所。起。日所至。日所。主也又”谷
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《解体新書 5冊》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「上體者頭也見于第六篇其之者」相关的查阅/断法/方证问题 | references/capabilities/上體者頭也見于第六篇其之者.md | overview / cheatsheet |
+| 与「者見于第十九篇之上下谷二指」相关的查阅/断法/方证问题 | references/capabilities/者見于第十九篇之上下谷二指.md | overview / cheatsheet |
+| 与「人所以，養，小兒，者也見于第十三篇」相关的查阅/断法/方证问题 | references/capabilities/人所以-養-小兒-者也見于第十三篇.md | overview / cheatsheet |
+| 与「舌骨见干第十二篇」相关的查阅/断法/方证问题 | references/capabilities/舌骨见干第十二篇.md | overview / cheatsheet |
+| 与「矣。一日二三四加見于第五篇」相关的查阅/断法/方证问题 | references/capabilities/矣-一日二三四加見于第五篇.md | overview / cheatsheet |
+| 与「之孔也。見于第五篇」相关的查阅/断法/方证问题 | references/capabilities/之孔也-見于第五篇.md | overview / cheatsheet |
+| 与「第五一篇」相关的查阅/断法/方证问题 | references/capabilities/第五一篇.md | overview / cheatsheet |
+| 与「第十六七篇」相关的查阅/断法/方证问题 | references/capabilities/第十六七篇.md | overview / cheatsheet |
+| 与「其别者。見于第二十七篇」相关的查阅/断法/方证问题 | references/capabilities/其别者-見于第二十七篇.md | overview / cheatsheet |
+| 与「肠見于第二十篇」相关的查阅/断法/方证问题 | references/capabilities/肠見于第二十篇.md | overview / cheatsheet |
+| 与「也見干第十六篇」相关的查阅/断法/方证问题 | references/capabilities/也見干第十六篇.md | overview / cheatsheet |
+| 与「筋有三部如其状第三篇八符」相关的查阅/断法/方证问题 | references/capabilities/筋有三部如其状第三篇八符.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 解體新書卷之
-- 解體新書卷之
-- 解體新書卷之二
-- C解业卷芯二
-- 卷之工
-- 後-卷
-- 能連舌筋動舌前卷且使舌突出”
-- 从連舌骨絮骨前卷及佐舌
-- 舌卷
-- 解新書卷之二
-- 解體新書卷之三
-- 人卷之三
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：解體新書卷之；解體新書卷之；解體新書卷之二；C解业卷芯二；卷之工；後-卷；能連舌筋動舌前卷且使舌突出”；从連舌骨絮骨前卷及佐舌
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《解体新書 5冊》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《解体新書 5冊》怎么说" / "方证"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认属文献检索
-2. **步骤2**: 按纲目定位
-3. **步骤3**: 摘录主治与禁忌并标注出处
-4. **步骤4**: 声明非医疗建议
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 急重症、抓药自疗；OCR 不清处不得臆补剂量。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

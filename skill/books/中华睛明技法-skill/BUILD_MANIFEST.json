@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/95.md": "45f28debdfe00081a4f0d5f5169fdd907ebd5906f928f01c3cff5ae245958f4b",
+    "references/capabilities/二-远视力检查.md": "4f0b342aaf1e5fc86a22ab0a1327cafc7c136688b08268cf7a52e64afb275638",
+    "references/capabilities/一-养气的作用.md": "0d1ed744de81e42f9ca5d837fdb1fee8998294b66d783ff00c7f1568df61cfb9",
+    "references/capabilities/1-习练最好有一个地处安静-空气清新.md": "dbae36a4578ae49dfc14dc4556ee53c96c53137d94930303dfee381cfe6cbc83",
+    "references/capabilities/1-点穴要求在养气完成后进行-养气过程.md": "4766278e2dbd74ae339209e3a700d0fe96d182ada7907894fe39f73b580b1323",
+    "references/capabilities/2-扫视-紧接眼球配合呼吸顺时针和逆时.md": "75bbdacb9dbe5e9ed1f31e8ba810f3a246c3a0e0420ef6b146be71765290c239",
+    "references/capabilities/二-调息.md": "3433f32e65fab3cb91567c882c5f13ef901e4af30e3c381219c2cc6357542dfd",
+    "references/capabilities/2-善于分析产生杂急的原因-进行有针对性.md": "c449b2300053280e4b6e3be1fe4217fd1045acf25b147a2976bfe17a121a1856",
+    "references/capabilities/第四章.md": "aef07941b21761565ceffb204d85fae9a6955b012e018c75b89c76bdc40e8fad",
+    "references/capabilities/例10-杜明-男-50岁-干部.md": "6f1f605d564608f5d5de809a895abda45bea3a75a7c5f115a992ceb743675e37",
+    "references/capabilities/1-D-表示镜片的屈光度-Diapiter-如.md": "4b01c09a6959349bfdcc5cabbf5110c2bd671e698872dd0b887adce2f5c62855",
+    "references/capabilities/10.md": "77ae6baa958e25fa780b682acd99e0716f711028cde93880c7e12f8fbce675ff",
+    "references/overview.md": "6ef2b895b46b1ce3b3bc2f3bcbfbe866626cc1100057ae2846983d1b385e2df2",
+    "references/glossary.md": "bd8db30b67f89a21078a3f1392f59db6438ae2ab9a139cc0fb671029221752a8",
+    "references/cheatsheet.md": "3357a2041195d443ac7c9af651b4e0be6b2c88133282b7d5ac3c3cc7fefa0e58",
+    "references/capability-index.md": "d2210186bf3acf6a0cf714731a384ed4091634cd8281eab8505a0724d5bd9c52",
+    "SKILL.md": "91b4a7fbaebfefaedb8ad12aaba3bcb520971eb1e2efbd9a3aa0b5de26518f0d"
+  },
+  "generated_at": "2026-11-07T07:40:57.044035+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/第一部分-六篇论文-接着-之秀命理-而写的.md": "9fa56247b852aae449a5960e7271ddbe58bc5cb9b8f34d3d78c0f52be37721d4",
+    "references/capabilities/第三部分精批八字例.md": "fd993b3eb71ca17987818955cbd16b1dc96d23b0208165b030b94d82cf122872",
+    "references/capabilities/第二十九篇精-神-气.md": "6a4d46b8a044e655c718f41c46177c8917273b2ba4d60a112e0b340393a8a4c2",
+    "references/capabilities/第三十篇-清-浊-纯-杂.md": "e55b2e64d2f657a3574573805a0b78db3d26b844e8705e7aa8e0851c0bc742f9",
+    "references/capabilities/第三十二篇-祸福命中有标志.md": "eb7b1970247d0c5f666b290390061637a038f479fd067aa1daf8ea1044050ace",
+    "references/capabilities/第三十三篇-子时换日柱.md": "f9644908e4c7b4578a31f1982caee69aae5680b90bd02237dfb92dcffc52b773",
+    "references/capabilities/第三部分-精批八字例.md": "bb1a16b7e5559d08b279ab3d95e39135d550382b3a28b3c0145883a9aa805234",
+    "references/capabilities/一-断死亡.md": "77dadb105e630f45c0e7f23fb21a9189cd094b9d4b85ded13555f42e8ca7cf32",
+    "references/capabilities/七-测升学.md": "72f4e0e53ef94cbca57da1c037b1d3051b4318a6513a47ce61d86b3dd331927c",
+    "references/capabilities/四-命局和掩耳亥子丑三会北-流月干癸水-又有时干庚金生-水旺.md": "a2aa9100dbfad05e27ceedfebc94ef434cd2e3c9d2577e4c4de46b6fa3021f3c",
+    "references/capabilities/一-气势-格局.md": "f3c5aadfb0e309aacf6a66ff1e2e984aa5bd74ff0597a2912e32c7bbd1baabe6",
+    "references/capabilities/八-大运简析.md": "acb1af6b085e08d1fb224eee84ce123b81192735a23a2dfaf93ab144da9b684f",
+    "references/overview.md": "1fb9014fd8fb75f4750adabb750382a69d806209d2a41b843e39bd75b187d6fa",
+    "references/glossary.md": "28d61c63e76165edc9ff630e9307f0e33c9f393bebbc2c240f525b7ac8c0d0a8",
+    "references/cheatsheet.md": "4e26fe1130e25249083161d7912a8bc217839570e87a93ca4ffc971c1d401d3a",
+    "references/capability-index.md": "c5e6d643258b6b446ff83a72f6666368dbe90a74a6e889185f27b6f97d312dc5",
+    "SKILL.md": "e5f823c62f0e148d3fa9ae0485cd6a0867fceb219e6ed82f3918b84b99caade0"
+  },
+  "generated_at": "2026-11-07T07:40:51.158441+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

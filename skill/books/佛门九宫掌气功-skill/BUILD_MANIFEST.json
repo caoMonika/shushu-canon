@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/一-何谓佛门九宫掌.md": "bb45cc64a4c71e56e6d84254e0482d8ae55c50b76217c265b8f3f208853ff8c7",
+    "references/capabilities/四-十干-十二支.md": "1c28af6b2fe845d40031bdc15ce687bd6b9003482a80b67f8b09c1c138f68904",
+    "references/capabilities/37.md": "fa2b22324a0e67a7b435556f73c50d386d0775a56384d6129d11558410537cc1",
+    "references/capabilities/七-五星聚会.md": "9f5842a232e3bcab483362f44d3b91d82b09597a50a2038ce8a1ff67d836f294",
+    "references/capabilities/五-雷风相搏.md": "42305e3f01619a6551070736724b5be4b23db92a53311f26b70ee1fee49775d7",
+    "references/capabilities/5-指丘-各指根下的凸起部分.md": "40e99601d305a1257a1f6ee15255943942b6dd6eacba425f6b80f484fca21774",
+    "references/capabilities/36.md": "9964851a8de5bd84d495f4e591dba4f5d12e4137874fce0855f96dfc8c05dd19",
+    "references/capabilities/1-症状.md": "3868299af8acfcbaa45ca18f4dac79232872f5b604f5022df3632c8aaa71d181",
+    "references/capabilities/1-症状-2.md": "33d4bcc5934060d134d1f8ae900484657e4c75e0aa426a19948cf67b4b3e6f4a",
+    "references/capabilities/1-症状-3.md": "33c9650ab0898b8f6e836bfce301b3b28938d7d0d0f4ab12261615020fa4b802",
+    "references/capabilities/1-症状-4.md": "68688d77950326a9e55989f345eeb496bab16ded5c0c66addedf39b6ea5da779",
+    "references/capabilities/2-气功点穴.md": "67431246c0a841d98b90263702675cc414d81926e0a11e3c5d18dce2ed8b5b8c",
+    "references/overview.md": "d4a0423b63e7dfc7450f41d9c940a59abd5741ca5bdf46d2d937288119e0b830",
+    "references/glossary.md": "0bf8df9211ef6dfe8003ba3556a06e971f47d2a2a5f28200d4760eb2716910e8",
+    "references/cheatsheet.md": "5392b59fb2005775d6a3e208018ac0ec74b3d44878458cc72509c9e3a11e9ac6",
+    "references/capability-index.md": "e0634e15b40956f9e45fb3676c4486e5398c8e42d31a4d8c2a250dc56b43b9c7",
+    "SKILL.md": "22255174f2adccb52982bc288b8c17e2d657ada0d20bfca5265ce6a56df8fe17"
+  },
+  "generated_at": "2026-11-07T07:40:53.671262+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

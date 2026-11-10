@@ -1,0 +1,17 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 2,
+  "published_hashes": {
+    "references/capabilities/第1段.md": "37dceb00db8e7c3656d4c2de444f2f25f6b2abd7363376fcb5e9d91245ff946d",
+    "references/capabilities/第2段.md": "d4d624869bc18cd1c12c958558094033ea9b5c30a1e7d883af2a18258825ccb0",
+    "references/overview.md": "4da7f721bda17e43610d14713b02d712e7e590593dd882ad8fd2ce29f26cbeb0",
+    "references/glossary.md": "6f422fe250db67614009bde731ba1f113f6f0d718e299294891d5c6313526e86",
+    "references/cheatsheet.md": "36ba7a938fab811886f63c61283035d5e5a6d8c01a695859c86e3f3131cedeaf",
+    "references/capability-index.md": "17988995111f65b0fc48a0d49e3716a32ccc97b9e6418cb0829169e2b4f613a8",
+    "SKILL.md": "ef9bf69eec9c0061098afe4039897b33f288174bc1788299d5ccf197ee16792c"
+  },
+  "generated_at": "2026-11-07T07:41:01.875886+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

@@ -1,83 +1,63 @@
 ---
 name: sim_六壬心镜-唐-徐道符-skill
-description: >
-  用户要用《六壬心镜-唐-徐道符》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 六壬心镜-唐-徐。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《六壬心镜-唐-徐道符》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 六壬心镜-唐-徐道符。
 source_book: 《六壬心镜-唐-徐道符》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 9
 ---
 
-# 《六壬心镜-唐-徐道符》· RIA++ 蒸馏
+# 《六壬心镜-唐-徐道符》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 嘉庆十九年，岁在甲戌，孟夏二十二日郑天民校记
+## 核心原则（常驻速览）
 
-> 嘉庆二十二年季春谷旦，江都后学张维桢题于石蘿山房
+1. 此抄固照郑君原本，而微不同者，亦有三焉，郑君以郇注并入式等注，汇录于歌诀之后，不混原注，此法甚善。余历不便检阅，仍分录于各歌句之下，然恐其混原注，故以圈隔之，此
+2. 郑君原本凡出郑君之意者，皆录“愚按”，今归于手录，理合改为“郑按”，至出余之一知半解，则直书贱名焉，此其二也。
+3. 行人一门，郇注与入式皆失歌中本旨，今余引《龙首经》注之，似较二书为确。兵占一门，余昔未集，今郑君以《兵机三十占》校之，并采其注予又兼采刊本中《百炼金》之注，其《
+4. 往年闻得某公有《心镜》一书，注释最为渊博，从其借观而竟不可，作废既得此本，可以无求于彼矣，某公之与郑君吝不吝何如也？六月初三又书。
+5. 占宜贩何物 占往何方吉 卖物获否
+6. 出军择日 不可用日 野宿安营 行择吉道 察贼所在 疑贼前后 疑有伏兵 抽军避寇 遥望人来不择善恶 度关觇贼 恐贼来否 闻贼去未审突围出处 今日战敌 欲战审刑害 
 
-> 此余五年前裒集《心镜而记也，今年四月，余友郑休功先生以所校《心镜》全本寄予，为之捧诵数过，既喜慰予饥渴，又喜考校精详，爰以一月之功抄毕，而仍录此记于后者，以见予之雅慕是书匪朝夕。往年求全本而不得，未免零星补凑，萧艾杂采，可笑人也。丙子夏五又记。
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《六壬心镜-唐-徐道符》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「第1段」相关的查阅/断法/方证问题 | references/capabilities/第1段.md | overview / cheatsheet |
+| 与「第2段」相关的查阅/断法/方证问题 | references/capabilities/第2段.md | overview / cheatsheet |
+| 与「第3段」相关的查阅/断法/方证问题 | references/capabilities/第3段.md | overview / cheatsheet |
+| 与「第4段」相关的查阅/断法/方证问题 | references/capabilities/第4段.md | overview / cheatsheet |
+| 与「第5段」相关的查阅/断法/方证问题 | references/capabilities/第5段.md | overview / cheatsheet |
+| 与「第6段」相关的查阅/断法/方证问题 | references/capabilities/第6段.md | overview / cheatsheet |
+| 与「第7段」相关的查阅/断法/方证问题 | references/capabilities/第7段.md | overview / cheatsheet |
+| 与「第8段」相关的查阅/断法/方证问题 | references/capabilities/第8段.md | overview / cheatsheet |
+| 与「第9段」相关的查阅/断法/方证问题 | references/capabilities/第9段.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 卷一
-- 卷二
-- 卷三
-- 卷四
-- 卷五
-- 卷六
-- 卷七
-- 卷八
-- 大六壬心镜卷一
-- 大六壬心镜卷二
-- 大六壬心镜卷三
-- 大六壬心镜卷四
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：卷一；卷二；卷三；卷四；卷五；卷六；卷七；卷八
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《六壬心镜-唐-徐道符》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《六壬心镜-唐-徐道符》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

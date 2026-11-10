@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/一-壬书的选择.md": "b49030a3043a5c2e6d05d76ebfae9b8c553b1158692493797dc462730457c076",
+    "references/capabilities/三-迅捷起课的方法.md": "5f226aefafeac1e75a4f4ff144518a36dc4f33fe99a595f50a9721b86dc6facc",
+    "references/capabilities/六-取类.md": "bbf4fdfad6ca38fe904ec1dfba7395808628f3f40d92669ef41d7697ad2577f2",
+    "references/capabilities/八-求财占察类例释.md": "9f3bc5250277c57e224b938056ad52cbe37f07b9094640b695c87eeac8b72f76",
+    "references/capabilities/十一-闲谈干支定位.md": "59fa81aa72a93917bc82b3398a6cb54b2306249f43859478cbd30180d091a3fe",
+    "references/capabilities/十三-大六壬一揽登堂总断赋.md": "da34e28b1b0dd53314d5a2d5a84385140c9b43f7c526421c14fe71b1bdd31fd0",
+    "references/capabilities/十七-王归-求财占-琐占约云-简释.md": "25e55c0db87773604a4b4b2bdda99d9d5aa35edfbd53d122bb81ea8a05f08028",
+    "references/capabilities/二十一-干之寄宫空亡仍以空论.md": "4fdff37fca19cf781a5c9f6ac95e5cf77bf58c5bb370bf5e5e3fd2fc7062be0c",
+    "references/capabilities/二十四-破败.md": "d0bcad6a2447e04204effffe50c750242f2262c3431a0b653b73836b67f98b27",
+    "references/capabilities/二十七-神煞综论.md": "c22af44ec070e69c359f3baa4d842540872762885ecec018bd35b5a3256db576",
+    "references/capabilities/二十八-大六壬会纂指南-趋谒章简释.md": "4ea93292f394ba7684bcf7103b4e0ea78f6bbb9651f2df488327cd8e3f7b66e9",
+    "references/capabilities/三十一-关于旺禄临身.md": "0632185f6c5ce2c2241de0f9d7b6d2c2f3cb1c87ba903eee7cae1d57d17c8222",
+    "references/overview.md": "4aab464e73ab295fa260e35ecb06760016b4959629e2042f99cc9330fd7c6ad6",
+    "references/glossary.md": "e375519e53df7c873d59d46f132d45ee1df30bb7c7a53e64e0b9fbe0f26c20f5",
+    "references/cheatsheet.md": "b39a5dc31155e6caf4c1583dcdaa8ee6807bfa95c0334bf6654b49a029138743",
+    "references/capability-index.md": "d964979ce50cdc9968eafc10a8ddc6e1d38077749e581f15dfd1558b2738ed32",
+    "SKILL.md": "5f1d6107923122f0fc24665882757c63afc09f5f992af94d22b8489738de3944"
+  },
+  "generated_at": "2026-11-07T07:40:56.711383+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

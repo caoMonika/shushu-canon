@@ -1,83 +1,66 @@
 ---
 name: 刘科乐-六壬天应集六壬应用篇-skill
-description: >
-  用户要用《刘科乐-六壬天应集六壬应用篇》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 刘科乐-六壬天应。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《刘科乐-六壬天应集六壬应用篇》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 刘科乐-六壬天应集六壬应用篇。
 source_book: 《刘科乐-六壬天应集六壬应用篇》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《刘科乐-六壬天应集六壬应用篇》· RIA++ 蒸馏
+# 《刘科乐-六壬天应集六壬应用篇》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 三十万多本武、易、道、医、奇等类书籍尽在（秘籍网：www.miji8.com）中下载
+## 核心原则（常驻速览）
 
-> 公历 2006 年1 月20 日，乙酉年己丑月己酉日乙亥时，朋友张君问周日
+1. 断曰：传入北方，日财带马，此工作颇有挑战性，且收入丰厚。德贵临
+2. 十分反对。且喜双方本命系牛、女而相加，三传的踏脚空亡最宜进
+3. 取，所以只要自己不放弃，乙酉年有情定能终成眷属。
+4. 心格，应当天。果于申酉间殁。
+5. 胚胎送样化验，近60%组织坏死。就课理言，未秉死气脱用、冲干，所以肯定
+6. 了孕妇本人，得到的回答果然是新居即将开始装潢。于是我仍以此课断其家
 
-> 应聘能否被录用。占人庚申命卯年，十二月子将甲辰旬寅卯空
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《刘科乐-六壬天应集六壬应用篇》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「第1段」相关的查阅/断法/方证问题 | references/capabilities/第1段.md | overview / cheatsheet |
+| 与「第2段」相关的查阅/断法/方证问题 | references/capabilities/第2段.md | overview / cheatsheet |
+| 与「第3段」相关的查阅/断法/方证问题 | references/capabilities/第3段.md | overview / cheatsheet |
+| 与「第4段」相关的查阅/断法/方证问题 | references/capabilities/第4段.md | overview / cheatsheet |
+| 与「第5段」相关的查阅/断法/方证问题 | references/capabilities/第5段.md | overview / cheatsheet |
+| 与「第6段」相关的查阅/断法/方证问题 | references/capabilities/第6段.md | overview / cheatsheet |
+| 与「第7段」相关的查阅/断法/方证问题 | references/capabilities/第7段.md | overview / cheatsheet |
+| 与「第8段」相关的查阅/断法/方证问题 | references/capabilities/第8段.md | overview / cheatsheet |
+| 与「第9段」相关的查阅/断法/方证问题 | references/capabilities/第9段.md | overview / cheatsheet |
+| 与「第10段」相关的查阅/断法/方证问题 | references/capabilities/第10段.md | overview / cheatsheet |
+| 与「第11段」相关的查阅/断法/方证问题 | references/capabilities/第11段.md | overview / cheatsheet |
+| 与「第12段」相关的查阅/断法/方证问题 | references/capabilities/第12段.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 六壬天应集六壬应用篇
-- 应聘能否被录用。占人庚申命卯年，十二月子将甲辰旬寅卯空
-- 让我带上身份证去公司办理相关手续”。
-- 李女士代占山东学子报考上海重点高中录用否
-- 通知出旬即到。
-- 反馈：甲寅日收到录用通知，立秋后抵沪往新校报到。
-- 汪女士代占女友婚姻
-- 测婚姻。提供女方本命癸丑，寅行年；男方壬子本命，酉行年。
-- 癸未年甲子月丙子日庚寅时，十二月丑将，旬空申酉。
-- 断：日上龙德，辰上德贵，辰阴乘后发用冲日上，此女二度梅
-- 开，问的是再婚的吉凶。其男友长圆脸，相貌方正，略现福态；德
-- 贵照命，出身官宦之家，家教严峻；魁渡天门，牛女隔天河而遥祝，
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：六壬天应集六壬应用篇；应聘能否被录用。占人庚申命卯年，十二月子将甲辰旬寅卯空；让我带上身份证去公司办理相关手续”。；李女士代占山东学子报考上海重点高中录用否；通知出旬即到。；反馈：甲寅日收到录用通知，立秋后抵沪往新校报到。；汪女士代占女友婚姻；测婚姻。提供女方本命癸丑，寅行年；男方壬子本命，酉行年。
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《刘科乐-六壬天应集六壬应用篇》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《刘科乐-六壬天应集六壬应用篇》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/一-八卦与六十四卦.md": "65af6def2c527ec2b951ce1c9b15afa7295f64081ac8ff8423b1d3b4bf117c8d",
+    "references/capabilities/二-梅花预测.md": "0be74bcf59811a1917caa2e6453256a5b99263b8640040f60be74f3aa3834ba4",
+    "references/capabilities/三-体卦与用卦.md": "716cc74bbbdb8371dd951dafe723d1ccfde2f44119cda6e0218aaa24aa680966",
+    "references/capabilities/一-八卦基本含义.md": "6c0a6ef9b15b2746f392deec4d1f7896c81a40a4d6969a0797caed0080a402ea",
+    "references/capabilities/四-五行生克关系代表的六亲-事物.md": "a46a7db6fae091778633329c73db03c5d491624dc4e4fbe1a7ee524c92a8ab26",
+    "references/capabilities/二-五行力量的增减.md": "5ed365463da4ee6b7be81e8c931fea1e45b2d0aec5712fede724f420fad96787",
+    "references/capabilities/二-八卦类象预测实例.md": "646e52f203f208013c03539fee8915492668b2a87e274b912f3a61ccbbd23d92",
+    "references/capabilities/1-天干.md": "37cc223d7d5ad7619f1ce3f1e9e4766952f586dbe11c1ed47aad8fb0c3478ed9",
+    "references/capabilities/若干天之后-测主-可能真要推迟了-演唱的礼堂现在堆满了建筑设计图纸-档案-堆.md": "efb1ae956f19f9e8a87673b88ae860c677bd1e690e40e0d5b1fb51890bbad244",
+    "references/capabilities/二-八卦代表的其他数目.md": "a34928a18bfaa4be2916c05d58aa83b867a4558f30f3c6cda64c2e605c91ccfe",
+    "references/capabilities/一-生克预测法则.md": "496d44a3e65e45718879c01fc0ec62184f66a91f9675415cf6c6f285ac45b388",
+    "references/capabilities/一-占断十八类.md": "92ab2884575401f346877d784aafa345095d81dac93c75c09d8935ba21b1c039",
+    "references/overview.md": "2b10ad5728e5f17b45967d3cc0523b55b33b84632a1339ce314742d098a2cbe9",
+    "references/glossary.md": "7524b0a23e564f3243e20450cacea4d23b1a73a30c4d10a4df47fe6c31800d1b",
+    "references/cheatsheet.md": "466dad2abc63438931d092979176a04b3344afe9a4cb0993245fa3615626fc22",
+    "references/capability-index.md": "d68a005cde334816cd59f912159e0696fd4c562baddb24083457dd9613440fcb",
+    "SKILL.md": "ae6221db8917417fbe1ddb804c676a8a3872176fe9c75e94168d9f462d76f639"
+  },
+  "generated_at": "2026-11-07T07:40:53.767147+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

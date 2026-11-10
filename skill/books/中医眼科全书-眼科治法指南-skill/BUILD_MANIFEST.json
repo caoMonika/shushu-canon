@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/16.md": "c34ed1889a3b916e65151e2bd9f905bb9b13f7e5691704f25d86ea7bef9d2a81",
+    "references/capabilities/98.md": "3c9eeeab98a51c41494a51d7b16ee170ec1064240e4153d78e1afab450360663",
+    "references/capabilities/二-组方技巧.md": "14cdeb5fb85c837c4a751aee37fc3a6e70d0acd9ea9432de807f8a61d1e44d8f",
+    "references/capabilities/一-文献选评.md": "89089ce8021ce0a5e1b07b49fa526cadcabdb49967bc696df26dda89d0a10b59",
+    "references/capabilities/第六章活血法.md": "126e3d068b74041d143c026827ee680d0e09e144e7b83e180c867d32064dbf16",
+    "references/capabilities/二-组方技巧-2.md": "a33dd87de2df3e0d04dc8dc7d44c5ce7d3995fa71c4226d2662007660abef035",
+    "references/capabilities/一-文献选评-2.md": "38470fa7bfa57e104d73ba41775999365d7d588971c9d61d9d2454c52c9ab9e4",
+    "references/capabilities/二-组方技巧-3.md": "b8cae15e7c26a13f803c2af40f24a76d68cce472c49b718dee64b7a9f750fcac",
+    "references/capabilities/2-兼补心剂.md": "61aaa49427b4b18635cfb269126c7715df32d8f62f0b887e8e5cdfa851ddcb93",
+    "references/capabilities/1-炉甘石制法-用制炉甘石为药母外用治疗眼病-具有历史悠久-应用广泛-价廉.md": "ea691e87217f0a0b0b77b06c54b56a6d93f3ab63582869217155685de9458be5",
+    "references/capabilities/一-外障眼病.md": "21a5e3efe759360f8066991a45260b1c00d1ad8dc1769cf938c4a8507b32c416",
+    "references/capabilities/1-翼状餐肉割络术-手术眼先常规消毒-再行局麻-用开脸器开脸-固定眼球-术者.md": "17fcf628e951fbfce45a03d10ee404f678e2bf7fa2426ba5a588ccb2c8e75a3f",
+    "references/overview.md": "80120efadb75b51e6ea536fb1139e584f143d8322dd3abff26763692b9a9d69e",
+    "references/glossary.md": "744f8552341e1565b22f0e707911fdb8f5c6956ba2e5d3cdbe513b766669e3b7",
+    "references/cheatsheet.md": "1d3994d440a2ff2d0db2c626da66f8db1f291eaadfb3208632ab4423497ca65e",
+    "references/capability-index.md": "a853486e840c98a3e20d4f26b05e3ad4064934110bc66d48734e40b74d5743f7",
+    "SKILL.md": "f9e76d1508b80a1c5975d4d5deff3906660a46b73ad042748537b370571dae07"
+  },
+  "generated_at": "2026-11-07T07:40:57.737916+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

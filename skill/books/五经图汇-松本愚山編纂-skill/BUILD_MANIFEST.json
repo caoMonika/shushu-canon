@@ -1,0 +1,22 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 7,
+  "published_hashes": {
+    "references/capabilities/上繁传第一章.md": "c484edbe3f2fd98ae8492a0884751cd5eede10c73f69b78aea3e9abf87992639",
+    "references/capabilities/大交之動三極之道也第二章.md": "947f4e35e11a3a3cfad71ddbf57abb494e8d8eab59c9cc6b7f93cd6583703723",
+    "references/capabilities/天数二十有五同第九章.md": "d22ff6c76bdc28348b2239c8a35aad58677417404ba42499dbae8090f7e2d1f6",
+    "references/capabilities/著之德而神第十一章仰觀天象.md": "d2135ba95742befa5f6e92d8fda57c82dbee54a3c321257d73b66163c311d1d6",
+    "references/capabilities/第十一章.md": "54411e76c968b44a53a6016818f927ebaa52806f5ee59f149f9e4d6a13c1618c",
+    "references/capabilities/卦傳第一章.md": "64864a28df4aac5d8a01ff06c595bbb01f362f861ec520ec4eb8d09520c92b69",
+    "references/capabilities/同第五章.md": "914ef1618d79062bed147f54490942aa281d98b5643fe45d5a1fcafab185eea0",
+    "references/overview.md": "a05022c47547814a9871e63ad554df73f493066f325dad78dfacffabd849b5f1",
+    "references/glossary.md": "9f8d027d5fea27b957111643d1ccd94d42e127102c686d4bf1b073e7e02d7585",
+    "references/cheatsheet.md": "526dedb08d8480c7412fc4797c6c5b538788c2948d67051798435c4026b223de",
+    "references/capability-index.md": "e4618c45840915c53de9596961b9d91a937a56431e17a3aeba2c4e2763cb5445",
+    "SKILL.md": "e7681b4fee1526d2a2986635286f8a9a87f097d12aad6b90d1df6dd4b337e6f4"
+  },
+  "generated_at": "2026-11-07T07:40:55.977739+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

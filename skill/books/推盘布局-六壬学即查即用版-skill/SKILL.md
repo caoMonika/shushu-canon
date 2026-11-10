@@ -1,83 +1,66 @@
 ---
 name: 推盘布局-六壬学即查即用版-skill
-description: >
-  用户要用《推盘布局+六壬学即查即用版》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 推盘布局+六壬学。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《推盘布局+六壬学即查即用版》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 推盘布局+六壬学即查即用版。
 source_book: 《推盘布局+六壬学即查即用版》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《推盘布局+六壬学即查即用版》· RIA++ 蒸馏
+# 《推盘布局+六壬学即查即用版》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 可以“射覆”，即“猜物即中”。更有精湛者，
+## 核心原则（常驻速览）
 
-> 用以股市获利，日进斗金。用以预测足球比赛，
+1. 六壬以占测日用百事为主，精通六壬者，
+2. 可以“射覆”，即“猜物即中”。更有精湛者，
+3. 用以股市获利，日进斗金。用以预测足球比赛，
+4. 时的术数文化分为天文、历谱、五行、著龟、杂占、形法六大类，凡一百
+5. 难以建立其约定俗成的思想体系和独特的操作规程。汉代以后，术数流布
+6. 代不少易学家对术数有浓厚兴趣，加以潜心研究。京房、焦赣、严遵、魏
 
-> 时尚生活速查手册/爱新觉罗、兆君等著一内蒙古文化出版社，
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《推盘布局+六壬学即查即用版》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「流传至今（详见本书第十章文献研究）。当时六壬专著曾达八十三」相关的查阅/断法/方证问题 | references/capabilities/流传至今-详见本书第十章文献研究-当时六壬专著曾达八十三.md | overview / cheatsheet |
+| 与「第一章 基础(上)」相关的查阅/断法/方证问题 | references/capabilities/第一章-基础-上.md | overview / cheatsheet |
+| 与「第二章 基础(中）」相关的查阅/断法/方证问题 | references/capabilities/第二章-基础-中.md | overview / cheatsheet |
+| 与「第三章 基础(下)」相关的查阅/断法/方证问题 | references/capabilities/第三章-基础-下.md | overview / cheatsheet |
+| 与「第五章  占断八门」相关的查阅/断法/方证问题 | references/capabilities/第五章-占断八门.md | overview / cheatsheet |
+| 与「第七章 六十四课」相关的查阅/断法/方证问题 | references/capabilities/第七章-六十四课.md | overview / cheatsheet |
+| 与「第八章占例」相关的查阅/断法/方证问题 | references/capabilities/第八章占例.md | overview / cheatsheet |
+| 与「第九章  系辞旁通」相关的查阅/断法/方证问题 | references/capabilities/第九章-系辞旁通.md | overview / cheatsheet |
+| 与「第九章系辞旁通」相关的查阅/断法/方证问题 | references/capabilities/第九章系辞旁通.md | overview / cheatsheet |
+| 与「第十章 文献研究」相关的查阅/断法/方证问题 | references/capabilities/第十章-文献研究.md | overview / cheatsheet |
+| 与「第十章文献研究」相关的查阅/断法/方证问题 | references/capabilities/第十章文献研究.md | overview / cheatsheet |
+| 与「第十章文献研究」相关的查阅/断法/方证问题 | references/capabilities/第十章文献研究-2.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 流传至今（详见本书第十章文献研究）。当时六壬专著曾达八十三
-- 第七十六回“讲六壬花前阐妙旨，观四课下窃真传。"可见六壬术
-- 各随其便。第一章的天干、地支也是如此。
-- 第一章
-- 第二章
-- 第三章
-- 第四章 布局
-- 第五章 占断八门
-- 第六章
-- 第七章 六十四课
-- 第八章 验例
-- 第九章
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：流传至今（详见本书第十章文献研究）。当时六壬专著曾达八十三；第七十六回“讲六壬花前阐妙旨，观四课下窃真传。"可见六壬术；各随其便。第一章的天干、地支也是如此。；第一章；第二章；第三章；第四章 布局；第五章 占断八门
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《推盘布局+六壬学即查即用版》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《推盘布局+六壬学即查即用版》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/一-未出腹预知贵贱.md": "172c9b0bf016b20f1754e3038f5d317aa5ee824ae8b338783a5bf7874327fde1",
+    "references/capabilities/五十四-手为一身之苗-万般之说.md": "969b3f68d2496aa696dfc9a7f1efc9f7a2eb5553245851959179b60b1571ef3b",
+    "references/capabilities/七十四-十八上贵-卦印封侯.md": "4b7c560970d5a8620e4f9f7498f99965a65aa95edae666a53a7ae010237a4c44",
+    "references/capabilities/七十五-十八中贵-清高要职.md": "e8db4bdf50e476a246513ef45d73468a7f03aaf7ae78a8a1620fb13e782d6902",
+    "references/capabilities/七十八-女人有三十六刑伤.md": "7d501283cd368ce226cb123e805276407f9db643670d7786faf4dc95db5bbdd9",
+    "references/capabilities/七十九-女人有二十四孤-犯者夫星子息难言-乃贫苦之格.md": "62c734d83f1b73e2d69eb035fff007d01c287274eef26f7ff8b4edbdf90112ee",
+    "references/capabilities/八十二-女人有寿有夭-自然不同.md": "ef27f28468f7d6994ee07caa28cc8f3c850af7a2613b25b44c380aa8dff6a4b7",
+    "references/capabilities/八十四-男有十克之格.md": "69a9496a16b68001c13056a8b36a8cf136a428d7fe82d1d4aba90a3f132d3e88",
+    "references/capabilities/八十八-论古望人-遭难者皆有一色.md": "cc809c7d52db4942aafb159923325b1bd32b3b7518a9c838c1a29609c5a8f58e",
+    "references/capabilities/九十三-论语富贵贫贱.md": "12603195ad59d933188cd38271456d8da0ff522fba2bfeb03cc02567bb9e5b2d",
+    "references/capabilities/七十四-天地人.md": "9e289f6aba27f099f15b0f6218af50132c7c493d6ac40d8b18717d7cf3c05a4e",
+    "references/capabilities/三-春夏秋冬.md": "e223d8bc17b0521152235ef548c3b72d844c05c0a34879366358077f26a81362",
+    "references/overview.md": "d398011012288871ef1806002e429f8b4856bf1bf606a520c903ad5ae331067c",
+    "references/glossary.md": "d95d3036341f28bfbf58aef30a57da8165a876e6d51b3634777d401c1677b26e",
+    "references/cheatsheet.md": "40009f8d7abb8bde0d968cc0be6b93265ee57a39775de44d5cdf2b8074475665",
+    "references/capability-index.md": "42ab6e87d7e41a0c8f047fd5387fac51d523bdb8ded87ab2914c2c2bb98f7f2d",
+    "SKILL.md": "a9cbd1f7a1e098d81e5346c157b787bd7bc59da94d789beb2419986c377236e7"
+  },
+  "generated_at": "2026-11-07T07:41:02.212726+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

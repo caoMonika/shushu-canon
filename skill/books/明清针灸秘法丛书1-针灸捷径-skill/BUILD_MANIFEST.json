@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/一-底本为繁体字刻本-抄本者-本次出版时均依.md": "5bd6cffd04116321b3b8bf7078b7576ddd30579e0035fd1db0d57b0da14690ca",
+    "references/capabilities/三-对于底本脱漏字-本次整理时进行了增补-新补.md": "bacf3b0d1e352905014dfd76400f6f2e9abffa7d447ee4d5447ec98e5cb5cdd7",
+    "references/capabilities/十一-为保留古籍原貌-本次整理时-对原书中的咒.md": "18952a44bb7590d379c0000d2ea29fb49cff5e7d6cdd4194f12efc1f612f7fa3",
+    "references/capabilities/99.md": "2b851707d6b9f7c328eb1fc76add4b89fcd574880d8d3073a9162cb9f5e71a11",
+    "references/capabilities/壮-又云-百壮.md": "04b84cc3f67f0dc2afaba434ba2cf5e22e71ad72c0138d7a32ae6d052609a799",
+    "references/capabilities/神-堂二穴在五椎下-两旁各三寸陷中-正坐取之-针.md": "66850424c77e8b13852f8fa40385dcd016480c8816005c08fba3aaa5726223fd",
+    "references/capabilities/偏历.md": "ef7f1b7d933c2b995f261a23f489e2d00a34f823268b89dc3294f61c73c40539",
+    "references/capabilities/消源.md": "320052fba98e138676498cc4534eebeaed945e6c57bf9b0757c91e6fa047bad8",
+    "references/capabilities/以-年为壮-治口口泻更五.md": "41969c313edcf849ae0ff9101f5718f2bd4ab4e6cc353a3f13b4cf13018276a3",
+    "references/capabilities/大-骨下-赤白肉际陷中.md": "101f8e216f56985346a924482b75648bb5a25cbeee4a01b516ae2afd09bd5329",
+    "references/capabilities/一-针灸捷径-概述.md": "9599522556109e949ba2997613473434819856eb5ad236e7332eb8e08b4d1211",
+    "references/capabilities/二-针灸捷径-特点.md": "2fff2353261baf55316d027dd5d42576b5b87b691873afabd28687caa15f8507",
+    "references/overview.md": "df0c3c79069a43d46c35dff05accacfb39b76a26b58b8547d87c44bb0d8a537d",
+    "references/glossary.md": "795cdec9af7ed21cb9984d0505d4915a1e359d3b38de89152d69e41d0f077788",
+    "references/cheatsheet.md": "f37e4217ff4ebe955bb180978d292dfd8b1d748e63531633b8e1908a764db24f",
+    "references/capability-index.md": "505cb1ad182fb2aa0202efa4838e3a58a7b40bcf63debfb456d85230f49b4764",
+    "SKILL.md": "81616669083c7cf5898a279e5161e88b2beeb9fae4bd6fa14baf8b443618df93"
+  },
+  "generated_at": "2026-11-07T07:40:59.492733+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

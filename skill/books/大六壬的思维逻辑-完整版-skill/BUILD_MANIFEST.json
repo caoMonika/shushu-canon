@@ -1,0 +1,25 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 10,
+  "published_hashes": {
+    "references/capabilities/第一章-大六壬的宇宙论起源.md": "da27fa74ff5b29f79e03e4dbced6ae3e226e3ccd43f5f8e50a9d22bd4a9b3627",
+    "references/capabilities/第三章-能量运转的概念.md": "2e7348e390247b5a444b9d72c69e2926d577e320df1fbe060022b601d61a63c5",
+    "references/capabilities/第五章-六壬的格局.md": "6ce6e9f5c5f48eedf982bf2c107a31d3262333b0edaad2e2996acb00d924df61",
+    "references/capabilities/第二章-六壬演化的几个关键环节.md": "db98bd7696cc7def559dcca482d9fb5decd39134c4f7041036d44bb0c8588efb",
+    "references/capabilities/第三章-能量运转的概念-2.md": "7a412cca1698fc8f2067d8fb3ebf8bc76852e0688cc6794c2f85b30669a0a0c7",
+    "references/capabilities/第四章-神煞的源起及其意义.md": "a6160c97651329798bd6e44eddd6baf3a0d797fbcc2d3cba197ab6426eb6056f",
+    "references/capabilities/第五章-六壬格局.md": "d62990a3ed56949937dff153eaeb8bb597e96ea443026c35a3104615b7681b60",
+    "references/capabilities/第六章-六壬时空演化.md": "0d3c38718f09c18fe777038c044568c51e653307ebbd344a49ea6b58eee1ad15",
+    "references/capabilities/二-时空结构.md": "57465e1f77b292639804591825987b2a9752afa19febc029078f8166546cfd3f",
+    "references/capabilities/三-六壬时空演化.md": "62a43165b65e056389f18666bd93916d12928d4aa80579d4113a458c155cb4fd",
+    "references/overview.md": "77a65371cbc604c8a386d45a77930999407643dfe2c11b5b259b0da468201883",
+    "references/glossary.md": "eb7bf0ea472a941971a6c56e642c9f61b7448d1c5b4b67bf412b1aa44ad3eee5",
+    "references/cheatsheet.md": "be5cce0b5e5a6c35c85ee3fec12a1e0b1142c2164504df56e3d16dbf26d4fe76",
+    "references/capability-index.md": "d8576761b67b8bf0180429c620580ee5a5daecb72c93075b040caa7bd6809ca0",
+    "SKILL.md": "000e4baf721eb1b1f3504ee9dd9341a429e6b2693f5332d13ac5fa7d1e0c0d2e"
+  },
+  "generated_at": "2026-11-07T07:40:52.869589+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

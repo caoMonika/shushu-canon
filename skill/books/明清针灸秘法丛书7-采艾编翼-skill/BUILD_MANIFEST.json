@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/一-底本为繁体字刻本-抄本者-本次出版时均依.md": "fe7d567cf310bce1fd5b2d01cc4eb1e321e1c755cab8c1b2ef1b915af5591738",
+    "references/capabilities/注-头后项颈分七行-其中行属督脉-惟两旁第二行属足太.md": "0edbe25ee31d3d0b08062b1549c499b076e541b903a6a5eb820f001dee96fa74",
+    "references/capabilities/肝.md": "94f15b51fc86aa1e71c8577fb6097d56b15cdb476cdc123718f4351ad9944a74",
+    "references/capabilities/注-涩主滞涩-肿疡初起脉涩者-乃气血为毒滞之征-若.md": "7a1acdfb9ac3d63ce7310edbd95f0029feb7c676f4ff72d1414530c8c643826d",
+    "references/capabilities/药.md": "7e522964de6e192d5da7a2a9359541c5308b6a0570b41e8ea9e5d1b26dd8fa91",
+    "references/capabilities/药-偶感表汗-姜半两-陈皮半个-葱头五个-豆豉十粒.md": "b5aff5c215032038f3a355583ab76d0a6d33a04983a2533a4ef6572aafff8891",
+    "references/capabilities/治-腹中-肺俞-下脘-气海-足三里-列缺-灸后服陈.md": "62891831e4b2f20ec681fee368858bfa39af0f50606077bf8c21db8e53e669f2",
+    "references/capabilities/药-血淋如尿出-乱发烧灰-少许-每服一钱-用米泄温.md": "f83defbc4a5c66ffd087a9513226091560cec435d81e31b9c97b4666399bc251",
+    "references/capabilities/总-上星鼻直上入发际一寸-风池额后骨陷中.md": "c2489316860e6ce65e08eb54dc58bf5e2d29c5b4914e51cdb37a6919694d58bd",
+    "references/capabilities/治.md": "0c6c728c5f30acc138227bf09d3106ca553d5fc93ce6d279fd18ebbc470354f5",
+    "references/capabilities/诸部.md": "3d0b902e324d860aa96c6071de2bbb8afcd3dd4568e25628ceec3c26c369eee9",
+    "references/capabilities/一-治丹毒-加蓝靛根和捣敷之.md": "818a2fbe2fca4a7902f23131d172365ccbb2cb81661849030a0a09ef282841ac",
+    "references/overview.md": "a81589d8b5ac45fa2c8212f388ae9b71634d027b4c9f1279dda8785f36e24d32",
+    "references/glossary.md": "25e2a43267835ac456aedffd4b58a6f2cb20f036dd25d0ed92a0e486c65506e0",
+    "references/cheatsheet.md": "fe76df5ed07e15e0640b1607bde1e5c6cda4c3547157115fe10dbe2524b503e0",
+    "references/capability-index.md": "b05da279f3a95cce511320ed1a3d1e7a32a5a9ba61bed5d928e0de8fa8874da1",
+    "SKILL.md": "14773c71d33950218e7d136b54f0cf9eb7c9da500d0fe00d3d48ebe170cc6388"
+  },
+  "generated_at": "2026-11-07T07:40:59.820864+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

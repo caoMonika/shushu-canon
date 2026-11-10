@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/1-一个卦出来以后-首先要找出月破-空亡的爻和伏藏的爻.md": "ffb77d84ae2e7df1553c686b79019320717f5c7fb7c9dbe1eb0409fabd7c8d66",
+    "references/capabilities/3-用神的衰旺-首先是从日月对用神的作用来判断衡量-用.md": "f306dcec865414041bc905fa8332bb96cba399d6587c2d6ef6eaaeab954c36b3",
+    "references/capabilities/4-判断应期-要围绕用神以及对用神有作用的动爻来综合分.md": "6c251ff1046d626edece7f8328d7c3436a6ad6f420f330f6346517d23afb90fa",
+    "references/capabilities/4-接下来看卦中动爻对用神的作用-首先用神自身发动-一.md": "497cea85bb4df3a6b6f2cf88a4a527ac986b0c861a9f8a0bb37acc5f87381c57",
+    "references/capabilities/6-再往细里看-当用神发动时-要看它和什么爻产生作用.md": "bed88e72cbd74f1fc08db6174efe7e3ae196adc81dac98ca1339918d02cc124c",
+    "references/capabilities/8-在继续往深里判断-就可以把六合和十二长生用进来-十.md": "609dad03780670459f7be3bbff3ead8279f105e0735856fb4c712e5488b38877",
+    "references/capabilities/1-卦宫一般反应的是东西的外形和结构-或者是性质.md": "f113c5c2aad0b2e0ff01501b42c1dcdc809f597ce84e78fe36ed09b5ecaf5ecd",
+    "references/capabilities/2-六神是用来判断物体-颜色和性质-或者是用途的.md": "d8d0480f806f31faf8f341003177be74de9965dc37cf06889a6eaf7812163b6c",
+    "references/capabilities/3-六亲多用来判断东西的性质.md": "eea4a3bdedc7d68c555b90008da0b4a5e19079ea069db7fe990f29d2f64a16ba",
+    "references/capabilities/5-以世应判断东西的性质和表面的形状.md": "25a239116571751dfbf80e292e45a616a1ec7ec84b4591187689cbab61a7bace",
+    "references/capabilities/化解方法-我想改变了钱的数量-事物的发展就不再.md": "04e8c97ffb40c320ee297d99bf359381e25ebfe54aac3a152a568f65dcf5331c",
+    "references/capabilities/新评释-此言极是-忌神须有日月制服为大吉-否则日后仍.md": "619717b6f80b6b14928ce902f08c71eb872c377154a2f84a229d197dd27e0cad",
+    "references/overview.md": "6ecec760a4e85623ffb6283d634d19cfa83392f9aed374d1dad9b7fe12f9d957",
+    "references/glossary.md": "35793986afc7eaba6bc06232f031b11135b4b99c3280a972301f4e45cd4d6ece",
+    "references/cheatsheet.md": "16caba499d126b7c4c069e33145c8f86ac192ceba614295e996c6359ac49e204",
+    "references/capability-index.md": "ac7428db99bb9bcee8a02eda4d0ed6d073a7c251b8de1a33986f2735bee383ab",
+    "SKILL.md": "602647b99af9568697f0355734633cbb37c73f6cc69bd9b99be3274f498b0751"
+  },
+  "generated_at": "2026-11-07T07:40:54.914554+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

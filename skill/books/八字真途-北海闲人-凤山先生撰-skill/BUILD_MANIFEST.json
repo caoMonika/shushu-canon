@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/二-我观念中的格局.md": "298de0f9c059f8fdcfb80c376707349649ad493b4c4c6558d8fbec6764722f3a",
+    "references/capabilities/二-忌神合而不凶-杀染伤刃被合也.md": "67f6b390fd2575e5ad11ee48bde00c974dffb22205e9831e446ca4e5d4ac7d9a",
+    "references/capabilities/四-救应.md": "d4c3391ea2075db40612a81f62b1cc015fc40ab8df2caf1419d7eebeaa971d1b",
+    "references/capabilities/五-何谓似有情而实无情.md": "d2e224a44f20d3d8c45a55f9ed1b271b04d153eb9910f1e89c98661b5d7e71a4",
+    "references/capabilities/一-真诠-论杂气如何取用.md": "946f19bc1f461e9767efbe5010f77346fbb2b0751f8948271fe84606d3f497bd",
+    "references/capabilities/一-重格型外格.md": "dd25603cb4cc55d88a922ffd87843e381bb5dc5a77ecc7791a217b0166f0cd82",
+    "references/capabilities/十-同是相冲-而分轻重.md": "8dd5f451caded934548e8ddedb6cfb287eb1038f58878b998a3de885b83eeadc",
+    "references/capabilities/三-三岁流年庚戌合日柱乙卯-冲克月柱丙辰-其年九月有灾.md": "35930fa174bb5370c839da457d498e18901ecc1377d3040b1241575ccf6af0bb",
+    "references/capabilities/十七-2002年-流年壬午-大运已未-合太阴太阳-呈光明之象.md": "0463de2a873bb9ab3970c6c537f0262d92626383bf149e61fa5fabbf82ac176e",
+    "references/capabilities/一-岁德正官.md": "f508b519eb542cc68a22be6de934a2e426ddafd9ba09706185555cbbf98752e8",
+    "references/capabilities/五-属象.md": "1700db8d71d59e048cc2466a8d3184edf5421d28aebacb6f78e0fe433ff4a7bb",
+    "references/capabilities/二-十神有用皆有益.md": "b48cce07c3e32034f255289b0d28e6e1fdd865f4f697f3466044b23e396dc17a",
+    "references/overview.md": "011a62e8ac5ba568c5533ca2d18a4e58cbc610c0b50b782ef75401af36eef323",
+    "references/glossary.md": "c5c15689736e9dd99df3461d564d0b5f46f77ab0fc6824e7fc89ff90e26eea5f",
+    "references/cheatsheet.md": "021a87cada24dec3a2c0ba4874d4af95f057fcf7c029ff75d5d14149282c34bc",
+    "references/capability-index.md": "9f15d5441541f29cb09d431f19ebf4c2b8d7761df26ee60268675d3f75fbc9ff",
+    "SKILL.md": "73566ee9e860514010875aeba106fcf62286e729942e51de0f8fc7a4dd16375f"
+  },
+  "generated_at": "2026-11-07T07:40:52.436233+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

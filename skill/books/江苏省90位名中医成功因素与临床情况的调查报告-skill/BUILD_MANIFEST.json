@@ -1,0 +1,22 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 7,
+  "published_hashes": {
+    "references/capabilities/3-林佩琴-3-高锦庭-3.md": "0ce93216a57d62a932f93d8af87a7fab024b5d4c9144b6b3006d75d22a0d16c0",
+    "references/capabilities/11-柳选四家医案-5-各家学说-17-医宗金.md": "b9a6cea24c85b8b2f9481e4dac8181aaed922a0974a8ce7e75ad1aae50dd8ccd",
+    "references/capabilities/1-勤奋-勤学多思-知难而进.md": "3403fd3e2d6429d0f03c8ad57d834b0cbfcccadf9dd790d9fb22933fdd9810c4",
+    "references/capabilities/6-求实-求实为立品-治学之根本.md": "c44cf54f4cc63f1bed8c57fc88f3ee40cdb94c01bf54e40a76f1d9fa2be35cee",
+    "references/capabilities/11-提携后学-向青年人不耻下问-愿为来者.md": "d9425f2cf90f7216d856229c4b088fe329e74dae565f4bd0e06c4680be13b481",
+    "references/capabilities/2-无私奉献-为治病救人而行医则可-为谋利.md": "bfda88ad93a55687cf40d6e7e8b6e8750b3c3fdd7d47c733f462d646fd616dac",
+    "references/capabilities/3-茯苓-2-白花蛇舌草-2-五味子-2.md": "f40eb8382c84582371a02e1764f623263d6eb76bbf029a20306343bef4bb9a19",
+    "references/overview.md": "b889f734a7166536fa88dd717506f96d2c77b7a12a2e110bb6b7abd7144b66ea",
+    "references/glossary.md": "1b6921d99e6f737a1ac986669960a0587fd2b68a932643188b7b023a674d4b4c",
+    "references/cheatsheet.md": "bb040aa158d260b26d4f39a0363ab438c10c37a34b30fd4a9fc50781450ae346",
+    "references/capability-index.md": "74dd13dc1805b5bc1114ae5e47429c1d861999647eb8d9cf9b52f310d3b50edb",
+    "SKILL.md": "14cca2a6babc066d22c5f6101e4ce1ed083bb71912d2a0c76c85fc8bee788a43"
+  },
+  "generated_at": "2026-11-07T07:40:58.885089+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

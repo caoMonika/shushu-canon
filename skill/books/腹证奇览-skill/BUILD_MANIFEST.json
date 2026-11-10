@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/三-四子-笃嗜腹诊之籍-浸寻蕨谋-哀集稽考-发隐勾玄.md": "1b46fd47835645fdda003f4adf6c5063d372b048286aedf32504c7024dbbe101",
+    "references/capabilities/二-桂枝汤证头项强痛图解.md": "bcd999c9643702e07545592311a4cecdb7d4be2b590ff69c4f07ecd7ca40e10f",
+    "references/capabilities/十一-桂姜枣草黄辛附汤证图解-附一方.md": "c04cd5d65d2d188f510a4f9dd455b3f8cfb77ddac94296bd1e9b7453d5b8353e",
+    "references/capabilities/一-柴胡汤诸方辨证.md": "787f01c5bda512dde4241b7aea130c6b225586cfe3870335a2c08a9ded0b68de",
+    "references/capabilities/二-栀子豉汤证图解-附七方.md": "ba91d97d57e83a7d3147573e81e1744efe05d7fa5949f0bd32607b9ef741d2ba",
+    "references/capabilities/二-调胃承气汤证图解.md": "e9132934affcf55447bcbb4fc58f99af249737b684d732ea232281e53a341613",
+    "references/capabilities/十一-大黄硝石汤证图解.md": "8af5e001ecde2a722cab2b52d55cfff304a91545f0d4dd5ab464f754b8b8f239",
+    "references/capabilities/二-竹叶石膏汤证图解-附一方.md": "9d9a11dfb65b4d55f244bd808d325df065712f8d7f38b7b8b0842eb153727241",
+    "references/capabilities/四-人参汤证图解.md": "1e512e5e198d876f121fb288f51ba0eeeb7623e8d5b245dc5aace01f17d6d773",
+    "references/capabilities/一-苓桂术甘汤证图解-附二方.md": "4f78f22594a2ce75aee0b80eea382a57b093f40f561919df8a648180c0245bba",
+    "references/capabilities/一-小品奔豚汤证图解.md": "d547c007897249a553f53baf76e6ca85d5f6e43c8ae519f07c4ca60c1b389b7d",
+    "references/capabilities/七-调气饮证图解-附一方.md": "1feac36b821a9c2bc40e3cf3685fc4b8b8cc6afe8e168c82c2758d33dfe62039",
+    "references/overview.md": "1879561c49c2be65e80f6f840c3f88740c82144cce5aeaa65e21db3f77b3b852",
+    "references/glossary.md": "573a7c079dc0fba37be46ab9340c30ce2f55a1cdfe7efc241eb5612bd648e8eb",
+    "references/cheatsheet.md": "62ace76fc6e33032d9fca2a4a4cd44a7f13a96bc16dbd3523c1745cb53017a06",
+    "references/capability-index.md": "9996b6abbdaf36f036197b75e12d1e65d5d8e757a1dce6b2473d96e47e71393f",
+    "SKILL.md": "998bf580162f198123c2ad42fd0c1953e2a82834607582258adbec748f6e8a54"
+  },
+  "generated_at": "2026-11-07T07:40:58.649430+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

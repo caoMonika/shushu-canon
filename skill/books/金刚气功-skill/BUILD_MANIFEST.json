@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/41.md": "08627c06d862820ab4469340cf8795310f34fb5f152a06f84f81efe0496ca957",
+    "references/capabilities/二-多种呼吸方式自然交换-具有.md": "f24e24f2816bca17e80f1f1607784ffa2dcf1018e586d536f1d86848ad1dd87b",
+    "references/capabilities/三-形松意静.md": "0af5e66b2cf944cd4b7c72ace75b49631b099c95ca661059fda0d0094371454b",
+    "references/capabilities/六-循序渐进.md": "f13b63d04050c6d204958b5491858f7ae615b0cb89836fd16b23ed8bf8eca632",
+    "references/capabilities/1-右按掌左拳胁下不幼-右拳旋转变掌置于胸.md": "b39aa79cec1333dc72c8b0fb59d3f257f65a523769043cbe85bf432f1b672032",
+    "references/capabilities/1-右推掌左拳胁下.md": "fff745ed573857a3a3409cb8690007c3a90d293f164e70b6a98b789f0c085c8c",
+    "references/capabilities/三-三收手.md": "5b1e850458e35a535f625ca3f0c782de679d21883b5c1433ca9b9b09912534bc",
+    "references/capabilities/二-天空抓地虎.md": "1c9792042d60441494cf3b4216de9300f2483b01b8b3aa6a2a68930902d9dca6",
+    "references/capabilities/四-三收手-动作和呼吸见第一节-图21-26.md": "0ceaf41cefafe36be621ef5a6c5eae9a8baca45116c959a3300a32b25082079a",
+    "references/capabilities/五-三收手动作和呼吸见第一节-图21-26.md": "5e1f4c5a8985de00c3a44e897bd842e3ed9d06f983463ae6006f1f85ec74c726",
+    "references/capabilities/五-三收手动作和呼吸见第一节-图21-26-2.md": "0556200db36acc5c22f656c1fb16fd64c0ca889f6fb780b33c58a562140cddd7",
+    "references/capabilities/五-三收手-动作和呼吸见第一节-图21-26.md": "f5078c2f91b354a8c434bd402e70aafcf8130e6e46f8c7e033ed3d1f41397037",
+    "references/overview.md": "f9aad2e64a2e307bb56623c874de929c0aa0bf968e6fa5afcff590e0f784b143",
+    "references/glossary.md": "a4f4adf2d67d1830953da4a2556daa7ce95d20ca3a35bab80827d8a63309a1b5",
+    "references/cheatsheet.md": "6833d5b6f36586c86845fc75c468e7abb9f4fd9875d4da907719caad28345bf4",
+    "references/capability-index.md": "cb5712a616d9ab3ae8984edbd24a182fcb204091f29f1594d54a45d1c67c4572",
+    "SKILL.md": "f64d782db95b468f3f0a28c38f07d014400c2dad6f58e914815048391ba41881"
+  },
+  "generated_at": "2026-11-07T07:40:53.776124+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

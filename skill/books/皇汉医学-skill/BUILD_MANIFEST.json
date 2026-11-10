@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/總.md": "d699dcb3eeee9d6e225e32b4e83b96b266052d00c2bc9ab767fad9fef3ce19f6",
+    "references/capabilities/微.md": "c81e231c27c0bb138ff13f0b5124f8c184b571a3e4b24fc6509c9bcb318fe379",
+    "references/capabilities/氣味-芹辛無巍.md": "a3f03c052f60c1ad940d83205fbd0124124793822e84a3b65b57fd33fa036075",
+    "references/capabilities/氣味-廿平無竭.md": "e554c5bba5cce650f71b804355ba7003ff5ea7e24f93a5bfed039028667805db",
+    "references/capabilities/氯味-上略-元素日性流味蒿-下略.md": "596a67e35c18422f0a6e7ba901e95a4d7060ca8cdf9197fcac56b25129992eea",
+    "references/capabilities/馥明-成無己白半夏之辛以散逆氣結氣除發膏行水氟而潤臀嫩.md": "36314305d0755556f6e579736298aacc85ddbf2d729f970a5b088a8dae45f18d",
+    "references/capabilities/解在第一卷-且無往來寒熟只由頭部微出汗者爽純热粘鳌属由水熱二毒-前條云结胸热寅.md": "b8da43bb927a19b52c666c2fce1e73461b13c5713925ce795f205095718224e1",
+    "references/capabilities/氣味-温無藏.md": "9f0e1566eb96c651c2d2c6bc755be8e3568507f5cafa30dd737d6659525b1595",
+    "references/capabilities/法治-通利風淋饰蒡氣咳背膊阁散留秸胸隔痰湍逐水消服满大赐風安得止風痛-费.md": "96a64a6de6dde84cba0bee65eaddf76cdaf09530c7d4bc95a625e55aa522d6d3",
+    "references/capabilities/注-在第二卷小柴胡條.md": "204a1aecc292cdd32929120cc59c13dac7d4f4ff936f48611e1bce75fb8c5f9b",
+    "references/capabilities/氣味-甘平無蠢.md": "b5c1bf5dd550fc535945e6fb68214058ad12074b96e574901274f25d1705548e",
+    "references/capabilities/發明-日張仲景治雜病大黄腐蝠丸方中用心取其去鸯下满也.md": "f82200f415735dadc60b395cca9f0b565706f5b91797564b032ed8abec9dfcca",
+    "references/overview.md": "1d95e8ee38d458be7e55520b779dec1dd7aeb3962baaad6f41e8ecea1dd97d00",
+    "references/glossary.md": "fbcae6911b390e126f48fc02bb8a3000318a770012a3ee1a1acc1625658bdbf3",
+    "references/cheatsheet.md": "91bf80e4c6bc75588f3b7858196a3295f1409fde7fcb25111e498a95e7371f25",
+    "references/capability-index.md": "540fceb68f4047f3f1d9502872508bff5e0393b26bcd335e08244b5a0e8efa8e",
+    "SKILL.md": "ca98d6e84f776cfe8142b8a42d2c65de87457e9045589594daf2f91c31115a59"
+  },
+  "generated_at": "2026-11-07T07:40:59.558687+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

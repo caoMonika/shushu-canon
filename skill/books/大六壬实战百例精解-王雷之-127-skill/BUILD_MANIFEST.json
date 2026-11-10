@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/第一章.md": "7c14f31b473da9a17f45c2fa555dd272432945b4783746f7a5f36f2f49b7061a",
+    "references/capabilities/第一章-2.md": "eb2f0a1b3794a77e7cfd4932faacd0efde3a09e95c6af74306c9d081e4fcd2dd",
+    "references/capabilities/第三章.md": "4f5734467c378f91bef83406e2494515cb0605dbaf6ae805292c1a5b4337f222",
+    "references/capabilities/第四章.md": "e55cc824e2985d92257fcd6a5721ea447e238300cecd129ccd98d59676e9f055",
+    "references/capabilities/第五章投资-经營的得失赢.md": "c23680d1e683585d9cebdbd99724ce2f39349c5e97591e58afa96c7928b9221b",
+    "references/capabilities/第六章.md": "c2cda321a9a38a59f26270b0d6f64d4347a113b402d0a76059b6bbcc571ffd9f",
+    "references/capabilities/第八章.md": "96029df8985e3c48924d16e0f081031906e08022a1b8dbaa3705a15f00f6e9f5",
+    "references/capabilities/第十一章.md": "1263d783e7920e571d8c465ed676d8eb876cb987dd75a78f7e1ae433c4228f5f",
+    "references/capabilities/4-行年在午-午上神亥水可助日干-似乎無害-惜亥水旬空又乘天空亦無用-且其.md": "469ea4fd7f5cfa7b3134befa2759ef24ff3b8f8aee8a1d94563e427fb30acb94",
+    "references/capabilities/第十三章.md": "a79db7081e8d894a063004a9fb28c9d7e5c08c5d955fae5b2acfe1fcf70be2f3",
+    "references/capabilities/第十四章.md": "94f34a49117e8078f15d042d49d6454c7b926bc070d0f375d9c997925509fae4",
+    "references/capabilities/第十五章.md": "a8f4a2f3e0275049c9e1cf1702a7f0eb334f3878cb772beb3539353827a196cb",
+    "references/overview.md": "380553ccbfad53b3c84432923d0806d95de8e1008b7bdfa6e79da2c3195627bb",
+    "references/glossary.md": "7328ffc0e58d1ff109f1347a9fb5a46ecbb65aea59377806a2be1e6ffacf4619",
+    "references/cheatsheet.md": "b4a1f8eaba999f7ed203303cd38ad80b7e3a751f1349c925d621abe9093ed299",
+    "references/capability-index.md": "41d826c8c40156a8aa755af67f8f5416a01e5e63e9fa9de11ba14cca27023d98",
+    "SKILL.md": "e7b04fbf517369772fd9170ad2675f7c869cfcd4037ebbf754af353e93ea9f1d"
+  },
+  "generated_at": "2026-11-07T07:40:53.213789+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/四.md": "91a41febff8182a24d7b3e3bd4e46e299439cbf03a182c9bec49e440e8b0c05d",
+    "references/capabilities/心經疗.md": "1534af53de44b2e2fe59635bf31f3cf0581856da8da3520b0d166f957b987d9b",
+    "references/capabilities/死人面.md": "6156f1a924b7ededd8abe0d60a916fa412d75d5e162ad4adf5458d2ba70074ea",
+    "references/capabilities/男乳睡.md": "6730c6c62375d9de9508fd87f27fa19ec06f3c010661f1c0d727b53e3c18c358",
+    "references/capabilities/近视.md": "5f903cfede364facb208b5f52e95492c32f3c525f7eabdc5dc3fe0f8245f4b65",
+    "references/capabilities/病後生.md": "82691a3aa4b422021112131bac3f9ac9c59b56db6333655e167380c277d3c91e",
+    "references/capabilities/紫黛疗.md": "d228ea58a5b24aa21117a7a29bb465ebb5c676667c16f2feffe0320cef7022e3",
+    "references/capabilities/痘疥腰痛.md": "e09367d733fbc5571aabf3879392bb32b50ba86daae9867394eb4a58430debb9",
+    "references/capabilities/傷寒耳翼.md": "0e7ffc69f63f612c556f38a34255b6998bc6c3985d92d0f1bfadbdafdb436cd2",
+    "references/capabilities/經前吐血.md": "3c13b1877fa5981b94e7e36335a72ed46452f7a6c35950b2ff94d43119a99f43",
+    "references/capabilities/熱霍乱.md": "7c4037477dbfbd7dcde86f67c9aaf09480a5a346f572d342e8ae69e55f4c8e17",
+    "references/capabilities/臂痹.md": "76ac6dbed73265599e7d89a64e7f490ee80670850193cd6709a54ce7dfa9015a",
+    "references/overview.md": "7433ea19795ff8e4f3a46b90dff70c91f9067afe27e517bf4ad7c410b3fb7cc7",
+    "references/glossary.md": "9e2ad1bc09d3cf6869f42772253922b75be534b1a7826275ca661acf8b6ab3cb",
+    "references/cheatsheet.md": "8f63d29b45590eb8ac27098f990bdd268a0244df687e63b796a440e7a238f0d7",
+    "references/capability-index.md": "577f003d7979105d30f4f350bff63cafc3143dab99799ecf904f9b25fca51439",
+    "SKILL.md": "0d8fbfa4f990dfef257d7d8d5307a0eb1ee4c3e5c260e1777548c48c7dfa7976"
+  },
+  "generated_at": "2026-11-07T07:40:59.140632+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

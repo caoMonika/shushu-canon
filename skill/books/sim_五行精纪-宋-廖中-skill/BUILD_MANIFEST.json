@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/第五卷论干神三.md": "a6409f3b8eac0e081109f53fb39fd1776febe15bde9527647cb11b9873e8cc37",
+    "references/capabilities/论合神化气.md": "3d5c8a43c440a986fb2d9f2bf50b4748a9da6c4c9c81c017dc94fffaf4bbceb0",
+    "references/capabilities/天干不断若血脉之调荣-地支相连类珠玑之贯穿.md": "88438272cb18a8cf68128c6f1ded15a27bd6044069de91cfbafd4a9fc45136e6",
+    "references/capabilities/辨五音诀.md": "28b1777abaf589fd7c406bb5300f202c3421cadd783726da941b8a7f741854fb",
+    "references/capabilities/五行生旺德神.md": "ad1181aa87ac96816d9c2656644e357115b4047ce138adf1f2059e4c1e355de3",
+    "references/capabilities/禄九地.md": "937203c99b95f6918c0c59267c2e64c1d4a160bfdf78dd42bc71eaa5ef4efed6",
+    "references/capabilities/食合印.md": "ac9a5e2407f19ef85766e56d72e737e55447d656a02a7a896ae3e2ae8cc621c7",
+    "references/capabilities/天财.md": "678fd7eb947cd5bd881ab21853fdd83c9f9e0933247006492b5e1a6cc1f539f0",
+    "references/capabilities/龙吟虎啸格.md": "5625208b3097855ee90533c2dc6f3fd354f0e2f2fc72d290686a5f164f581dfe",
+    "references/capabilities/刃头财.md": "f0f27aa4086b4fe23046b072397a24fe96735368e5f8fbcece861faa8f3ac3f7",
+    "references/capabilities/夹杀持丘-亲姻哭送.md": "5171904e4fdefd5a7d38c669451d64b8c2d6da318c636816fa01caa3fe7cda93",
+    "references/capabilities/平头羊刃缁黄应.md": "7bb4b6c971ace89e0343c615b511cbc4af789d2a63cfe9a88926fa42bb74cf95",
+    "references/overview.md": "150d7b585dfc6b110ce51a3c83af0ef5ee19cf744c415717b66d146366a1e40e",
+    "references/glossary.md": "accba5ac968278d2932052339aec82f76ba1416615ae81560021ef9266fb50cd",
+    "references/cheatsheet.md": "cf71f537c8416c0337e869547f78c7891fa4588e8434c5885af2e307b80b9828",
+    "references/capability-index.md": "e5185e31fff1cc3700e91b028c2fc68cd2ebe1c609498fec08fc1984d26e57c4",
+    "SKILL.md": "550896ed757c557bc772da673d887c86cf78fb4eaa37db80135f93ff525838ac"
+  },
+  "generated_at": "2026-11-07T07:41:02.229969+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

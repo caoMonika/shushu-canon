@@ -1,83 +1,60 @@
 ---
 name: 太极派六爻-skill
-description: >
-  用户要用《太极派六爻》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 太极派六爻。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《太极派六爻》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 太极派六爻。
 source_book: 《太极派六爻》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 6
 ---
 
-# 《太极派六爻》· RIA++ 蒸馏
+# 《太极派六爻》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 1.是古人观察大自然运行规律总结出来的一项法则。起源于西汉京房的
+## 核心原则（常驻速览）
 
-> 纳甲体系。起初是用50根草，到宋朝时才有用铜钱起卦。预测人将三枚
+1. ，合掌摇晃后放入卦盘中，掷六次而成卦。配以卦爻，及动变以后。通
+2. 过测卦当日的干支，配以六亲及六兽，主要依靠用神的五行生旺，结合
+3. 大同小异，都是利用五行的生克制化的原理，所以，学过咱们四柱体系
+4. 64卦卦名以及所属宫位
+5. 2.六十四卦中的每一卦都是由以上八个卦中的两个卦宫组合而成
+6. 由于他是软件排所以第五爻他是记作—
 
-> 铜钱放于手中，双手紧扣，思其所测之事，让所测信息融贯于铜钱之中
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《太极派六爻》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「第1段」相关的查阅/断法/方证问题 | references/capabilities/第1段.md | overview / cheatsheet |
+| 与「第2段」相关的查阅/断法/方证问题 | references/capabilities/第2段.md | overview / cheatsheet |
+| 与「第3段」相关的查阅/断法/方证问题 | references/capabilities/第3段.md | overview / cheatsheet |
+| 与「第4段」相关的查阅/断法/方证问题 | references/capabilities/第4段.md | overview / cheatsheet |
+| 与「第5段」相关的查阅/断法/方证问题 | references/capabilities/第5段.md | overview / cheatsheet |
+| 与「第6段」相关的查阅/断法/方证问题 | references/capabilities/第6段.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 关于六爻基础知识
-- 测方法之一，六爻为大宗之法！运用64卦预测事物吉凶
-- 直接简称为八卦！！
-- 完整的六爻卦例展示
-- • 简单说：有八户人家，每一户人家有兄弟八
-- 河图洛书（二）
-- 先天八卦和后天八卦
-- 八卦数目属性
-- 八卦对应的人体
-- 八卦对应的疾病
-- 地支和五行生克
-- 地支和五行生克（二）
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：关于六爻基础知识；测方法之一，六爻为大宗之法！运用64卦预测事物吉凶；直接简称为八卦！！；完整的六爻卦例展示；• 简单说：有八户人家，每一户人家有兄弟八；河图洛书（二）；先天八卦和后天八卦；八卦数目属性
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《太极派六爻》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《太极派六爻》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

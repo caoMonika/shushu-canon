@@ -1,0 +1,23 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 8,
+  "published_hashes": {
+    "references/capabilities/1.md": "30bdc2b147c08b4a62661293e0e82c2a819cd676805b9a172363f10565c70f6e",
+    "references/capabilities/1-38.md": "2ff7f18bee9dfd6872b83985f8adf4d8f0e16686c6de272fcb490c4d68e4aa45",
+    "references/capabilities/天元五歌第一章.md": "fe2cca7bf1c2d4344bb4b2e6613248a2523ad13c68fa8a4621e1026044a40aa6",
+    "references/capabilities/天元歌第二章.md": "da512c85f06d335d3c02bfa9f2e3e60c19ed3f74dcf35d6db6e662cfdf0de365",
+    "references/capabilities/天元歌第三章.md": "035ee9ff7744fa66c82ddd90f867664b9340f3b93916fdb567efbc3cc324c136",
+    "references/capabilities/天元歌第四章.md": "3b2775f0720462271f22d021f14b9dc6ea2d632ad292111d8ddc0645943fd6ea",
+    "references/capabilities/天元歌第五章.md": "b3dea50c7b9e37130c75e470385c1ee736a18378d69cc97282f9875e0c54da8a",
+    "references/capabilities/玄空属水祖.md": "5f5c5cb7b5d6bc19ff1c97fe6ed5452ee104ff1c51f725846da48f4fde24cb1c",
+    "references/overview.md": "e53e8e01197057cdb0faa9830ce046a6adb85ec30964bffa5411b974c995d918",
+    "references/glossary.md": "a6ac0fa721f35312dac2af844f561c1b7bfbd696705418ccb6a3e9e67b85bf26",
+    "references/cheatsheet.md": "83e396d9e01722548ac2a7a7b0dd192bd6b007563d2c0a7da4d00098a28ba704",
+    "references/capability-index.md": "c3fce435295876664e1f30966c8522a32d2a7dc3e46fe8ac55e9284384740a6b",
+    "SKILL.md": "7a4a7deeeb2983fc525ef8e03b0aeb7da86fa4851108673515f37cada78c69ff"
+  },
+  "generated_at": "2026-11-07T07:40:52.533712+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

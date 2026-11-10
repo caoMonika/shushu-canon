@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/八-九则成为具体的有形实体了-这些有形实体的运动-就出现.md": "69f1320359ad900435a4e82acc600b2f34da0bc832f9d10e0adafb98b979c814",
+    "references/capabilities/三-变数-极数-衍数.md": "b2bb3523eeffdefaa55484176475dcff186fd574955b07f6811f1c2276444ed3",
+    "references/capabilities/2.md": "28a628ed7995017852d9d73370e55872f82c76c8fd2e698f4b20de7cf1fcb277",
+    "references/capabilities/二-推属相-或叫推本命年.md": "f560b4d9a8555b5df650a44bed7a2ac41f5a8e72c6ded1798c05273efba2fa15",
+    "references/capabilities/2-记住-单照双冲-的规律-所求出每.md": "011096b6587b071f7237068a9e2567e91ddf2f66f79dcec1b2f765097100aef0",
+    "references/capabilities/二-生.md": "fa0ccc532efaebd51c844d46d2d9fd5941aab0662b49131082e7a76049b8b3db",
+    "references/capabilities/一-五不遇时-时干克日干为五不遇时也-亦有时支克日支为五不遇时之说.md": "0837699b7a902032cf55e676072448532c06df8c4c5edfc5f00532489932814c",
+    "references/capabilities/一-天地盘.md": "d1a6a8ce2124de82ec22b01f5e0c2dab8a9631b913144da7b7a06c7c2aab6989",
+    "references/capabilities/五-十二将.md": "25d7931323c93d3a9b666e2015f8c2bfa12f57ad59c0b2504c81a26f43d79d03",
+    "references/capabilities/八-神煞.md": "6f7083a3b4856a8d72805bbb7c90617f86f3a67d583cede508cbc96ca4ecc03f",
+    "references/capabilities/十一-总论.md": "9d44665fd80c34ff6f273e00ac5e761d558b9b3080a5629312b488fb232930b4",
+    "references/capabilities/七-八月气数不足-办辜不容岛成功等等.md": "44feae48b97fdda6cb927edb742520f740422f532d5c4f7f940f18ad31921c1b",
+    "references/overview.md": "e3880777d8f33661d93c01e9d4eb55908a25406581e43a241051b26167af027f",
+    "references/glossary.md": "89a9177c66e1bc13c9a4a6ef8d8697bdb3aee47b199b681bd5da80df677269aa",
+    "references/cheatsheet.md": "696409e89363fe60f91cc10a4e48d84c405d5d6bbb029d0b7742a2fb38971659",
+    "references/capability-index.md": "5c78b9267e11232ce61300df0c97cec1720762000003f59c9a6a44824a8cb24b",
+    "SKILL.md": "82b833bd5e4cd2dea328863ac71f14413808a06bd73413954127fe05adab3720"
+  },
+  "generated_at": "2026-11-07T07:40:56.437552+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

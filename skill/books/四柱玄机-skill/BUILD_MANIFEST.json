@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/第七章神十.md": "d79c25447144bf49db236efac4c7e16364a60bb2f41ddf917d61cb8a4fa0688f",
+    "references/capabilities/三-地支与四时方位.md": "2074dae31181383311cb630074bde0aaf277b4181562a96cc9fea4ba202f5f39",
+    "references/capabilities/第五章六十花甲子纳音.md": "56d671633725dd8e4800d1d48ecb553f25f2cea8fd2b044ba5b03347860c2dcd",
+    "references/capabilities/第八章千支合化.md": "91b12ed4498f0540776154e185df2bbc0c3ac9b31c840b7e002b1356325ef3b6",
+    "references/capabilities/三-衰弱.md": "3edc08913a05e7ea798585843a47564a7e9fd947d6be529946f33e83a5cc616d",
+    "references/capabilities/一-大运排布的顺逆规律.md": "90bb2cdbf5211427a22a66ce41dde86715e0f9893756953b957efefb6a041811",
+    "references/capabilities/一-正官透干.md": "3a9ddf7c09b5d1fbeb4f0a68f5b05c095d66c8c12d6b3e83efc63b1768f7985e",
+    "references/capabilities/第十五章神煞.md": "1f32b769b4d38a64cda0e9b525a7c485c3ded05623cc0f0a768738209ce1bba9",
+    "references/capabilities/十-六厄.md": "a54b001355b98c4af546aced630ef11f274ba3dfe40187cfad81041e59749b8c",
+    "references/capabilities/四-女命-不利类.md": "72781a81c26135bb5aedfb3a9ef22d6d6c26edc596044039eb7ada2817498e72",
+    "references/capabilities/第十七章命运批断分类举例.md": "d2be1f17c5663b9fca617a444d68acc03bb252e681cd9de116f316d59faa7da7",
+    "references/capabilities/九-五行宜忌及后天补救.md": "681de465e278f3e513c2f5f00afa22f3d0f360c1f209c444e063d6cc2e73f404",
+    "references/overview.md": "4f618c661c1c216dacc8ac44cdf7435d805c57e35371ea637ebe651699aed655",
+    "references/glossary.md": "f89f07a1376464bf9302f787caff93589353923a3142686c35216d26c184f053",
+    "references/cheatsheet.md": "ba6867860d966a963e65e44c1b5df03c58baf682a951cbb038844e1916c30b25",
+    "references/capability-index.md": "3b8d0151cd9faf4f8b9b07434258b514cda43c284cf589e5f5b21f844743621a",
+    "SKILL.md": "1ca661d88fe68769e9625a235a90f4f56ec2e9ddaf9e1427024b80bb5f6c9788"
+  },
+  "generated_at": "2026-11-07T07:40:52.139547+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

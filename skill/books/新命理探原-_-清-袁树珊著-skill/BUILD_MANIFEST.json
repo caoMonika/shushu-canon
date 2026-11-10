@@ -1,0 +1,16 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 1,
+  "published_hashes": {
+    "references/capabilities/二-两枝相合-则其杂数之积为甲-一300.md": "e0bc3dedf6dba7176c9235d317195873958dc4038bfd9c675db14d1a5e36b54f",
+    "references/overview.md": "be14fe5ed94b0bc6a34b54393c1462855e9eb55cfe194a4db05c58cda411cf4e",
+    "references/glossary.md": "e79570c900a5eb82ddcc4ed2c8727110514a8baed8fdd7c5f1d84d580605154c",
+    "references/cheatsheet.md": "26bd8d2080a055f0daac9c1a5784c0b05b8148beca46c9733941ec7df96088ab",
+    "references/capability-index.md": "3312f6234cde9ce39002c407a531886e436c9631501546d6b1ceb8a55afe5935",
+    "SKILL.md": "d6c31ca9765c6d408a5005bbdf422664a4b536ddf62dcbb35affaec27f6c318a"
+  },
+  "generated_at": "2026-11-07T07:40:51.943102+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

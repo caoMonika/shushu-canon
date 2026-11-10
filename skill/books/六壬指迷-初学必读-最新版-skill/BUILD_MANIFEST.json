@@ -1,0 +1,26 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 11,
+  "published_hashes": {
+    "references/capabilities/一-理气篇.md": "f1462402d35018f198c7644a6a67eddf3e396b4797356743101ff8ab6bf25dcf",
+    "references/capabilities/二-论阴阳不备.md": "08f49309bdb84cba7991197e9dcce896c6d558ff9e68167ad8bf182afa31454b",
+    "references/capabilities/三-论干支相加.md": "cdd3de5cddc57fc15738de371c26c4a2c122da4c905209f3bafc3883a1099e34",
+    "references/capabilities/四-课体扼要.md": "428d116cab6773d8edae689d023d4df97cf05a143ade080234056c2e2b1e9b73",
+    "references/capabilities/五-简单查行年法.md": "e1cdeff2f11a1576b7f9ee619cc516bac4293cc56f1df95c208ed601c7ed4fda",
+    "references/capabilities/六-论三限.md": "77f9153ebcd50e8c6ba6d05b87711d38b562bb2e74f168274e22e3100c771df7",
+    "references/capabilities/一-排列顺序是-建除满平定执破危成收开闭.md": "fb8ca0ca6d1f7a706a24fb7555caa066dc6287f6613842fc8226a21628d1c0a8",
+    "references/capabilities/二-排列方式-例如辰年.md": "eaa0ef8824b69d4d8c085209a98322dfbb3a29c62bfa22196ea18a69e52368fd",
+    "references/capabilities/二-二十八宿用法.md": "39228b7347c0964a1f66ae9f4a2eaef905ab7097934f380d397c87de160c9e92",
+    "references/capabilities/十一-神将类神详析.md": "05817e4a8b70ed2a26c4c51c909f21c0de46d1352ba0648ac13aa7d946c5a5a9",
+    "references/capabilities/十二-六壬分野.md": "e93fea20ff4d4c0e6e1bee074f642b417f7453c10a8cb81d4a2d52e7ee5401ea",
+    "references/overview.md": "a9df4fc144413acdfed35cb33f6da30db36fbbb37fedc5dcc7dd53d5646524d0",
+    "references/glossary.md": "2f613fd245e9219caef8831842c64d1ee8cd20bd357dd358eea318e5bfab0608",
+    "references/cheatsheet.md": "d52b41647adcd50a07bca9940ff5a602056a38a19094388965c2b2642c96eaee",
+    "references/capability-index.md": "f6ee2e201f55c551b976460c0849f0eb166b1a6dde8605d626cbad28aef65e76",
+    "SKILL.md": "d2d1483c44e1627bedf3deb1b458fba8f916eec19331927e298ebe7df229ef9e"
+  },
+  "generated_at": "2026-11-07T07:40:54.715851+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

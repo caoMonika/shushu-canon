@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/94.md": "84ee465e043606fb7ad3bdf4d483c989b7c22547fcd92bc3327dc7b9179d2e16",
+    "references/capabilities/药物组成-鳖甲10克-龟板10克-酸枣仁20克-夜交藤.md": "c16c4c2862541e58aec1bd26856dfeb51a4b72a35914acf593c5effe1ea6117b",
+    "references/capabilities/药物组成-生白芍42-克-姜黄33克-薏苡仁15克-姜制.md": "d0e3465f8fe223fc855aa4ae216ea652faff9870d826eb7a26da61b02a3e243c",
+    "references/capabilities/用法-上药加水煎煮2次-药液对匀-分3次温服-病轻.md": "c9e6f61676908f1e789cdf3727da7f160a30457ffc6eb9a2cf097a0411a68313",
+    "references/capabilities/适应证-特发性少精症-方①用于肾阳虚型-方②用于阴.md": "8ce40bbbe0284a3e8ad36c36bd0594ed77626e33f0c2eeed66b34e4eece4900c",
+    "references/capabilities/药物组成-草15克-益智仁-12克-石菖蒲12-克-乌药.md": "3ef644c2b338fd5475db9c62977aff73dc78319c28dafa0d10da5668446a24d7",
+    "references/capabilities/药物组成-人参叶30克-七叶一枝花20克-野菊花20.md": "f29c796f72713962728137a1ed5dfdc7d6c9c3171bc013203b10d1019a457e28",
+    "references/capabilities/适应证-急性睾丸炎-属热毒炽盛型-症见辜丸肿痛-阴.md": "9fd4884a76edcdd3481efca7cadae4d5c7158842e10db63634c3fc1016a58778",
+    "references/capabilities/药物组成-生黄芪30克-党参20克-丝子10克-巴戟.md": "2f3b39b9351a0efda1456fccddf447cab1c23d4dee109cc670b7390c9e5105ba",
+    "references/capabilities/适应证-肾阴不足-相火亢盛之血精症-精血鲜红-腰膝.md": "0fa0f36457af11ae2aef5837658d7efa3fce082194a60f8eebb4161e4212be30",
+    "references/capabilities/药物组成-生地12克-熟地12克-沙参15克-当归12.md": "8fbc94e38974e218e0f8e4e4e9898d7551572f7130b4eea6f485b0a1ae85dc6d",
+    "references/capabilities/用法-上药加水煎煮2次-药液对匀-分3次温服-每日.md": "cad26bed2c93758fca17f090069271c2f558b7f4da1d4bf7ff4c53103138ee25",
+    "references/overview.md": "ff0bb62f135c47aabffcc3a237d10613cd4843c21aa8fa371d52c6e0ba7bb9c4",
+    "references/glossary.md": "082dac7a78b5b6c53b302456276d49bc73ae532019e9ff55fbc63adde4c3a591",
+    "references/cheatsheet.md": "ee14591831afc56f90405352787bad442de162518cad56013de46d51320ef963",
+    "references/capability-index.md": "c6fd1b661ab7973aeba863d2b11f9ce5b0d9f413f4625827c186b824469f66ca",
+    "SKILL.md": "ca4f156abef66631506f2b21ecae322705e6c8554fa763dbb05c08107c0a8149"
+  },
+  "generated_at": "2026-11-07T07:41:01.142824+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

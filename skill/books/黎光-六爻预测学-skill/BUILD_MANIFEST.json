@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/第一章-六预测学基础信息.md": "2b207ee3d5e33b7aea973c7c665eb5af9b3bec9b6e93355f53c06b7dc72a54ad",
+    "references/capabilities/6-安卦身.md": "fff4fda65c96117455fae45695f85cbfc4959c91387634b3845e97fed565ef88",
+    "references/capabilities/本卦.md": "a8df540924a014228d87f528540211d2eeff338e561a2e05cfbcf9f01e6ed43b",
+    "references/capabilities/三-世定位五神.md": "6d640421090258a94cbb6b0ac612255740df09a86c86de85c22f6e3fb5d2ea4d",
+    "references/capabilities/变卦.md": "ab3fa64f82d8c930593a7a082054da3e8e7ef07b3b821f90f263b22b482c05da",
+    "references/capabilities/二-事体快慢.md": "130ca013648f1027cb0c02ac21244f52473abef39d4783bf5bad70690ffd6a65",
+    "references/capabilities/本卦-2.md": "cf8413feb0bfab26276aa752582b2dcfdabd99b77d8bd50e0ac4ee620534dba1",
+    "references/capabilities/本卦-3.md": "82af5b3418efe19acf93d090c1614811f9a5fa252afa602d6ff02f3019c6185c",
+    "references/capabilities/本封.md": "d422adf4ec4981d633f788212e2f352720f84f672560bb7aed00281e99971a1b",
+    "references/capabilities/本卦-4.md": "2bafac1691be29c4eb58d926ef6196900a6ff774037858cc02b197cd73e1793b",
+    "references/capabilities/变卦-2.md": "222a3f094aca97df6456d8dffd7dea9ad2ffc79c65422e016c5f5b6287df030d",
+    "references/capabilities/本卦-5.md": "8542b1834ef4271d087fd67e973652a2937508fc5b6f864bf3514f3b4ebcccaa",
+    "references/overview.md": "452658618b9543e4cde24613f81bf978c1ddeeaf2a2b631f4a378b801201f5ce",
+    "references/glossary.md": "7c59461519c37abbf76435fa17da95113d856d69a30abda68631424d6da9d719",
+    "references/cheatsheet.md": "c414d2d05bffb373aec386b3a10696668a1fc2ebf77e54f2d0762ae5ea359714",
+    "references/capability-index.md": "2063bb79b4869c533065285510e2237150b7b0a9a3ff359b4db9ea6e11c18dfa",
+    "SKILL.md": "f9e805efad65ea04a929042e7f4f64661df07ee1c0c0d4e8f374ebd369892006"
+  },
+  "generated_at": "2026-11-07T07:40:54.425917+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

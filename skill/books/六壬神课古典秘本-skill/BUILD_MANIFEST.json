@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/八-十二.md": "9ff2c21eb9c2b1825d4190611618b63feaaa65b097df807e4645a03e38f1aabe",
+    "references/capabilities/一-天干合.md": "f1ee8dc44af744b77e01232a99c9ea7fd5d981e6c55eb53cf6c1200929d120f3",
+    "references/capabilities/第二章.md": "4531946954a3aca20a03ac616de9cbbaee53db53e298da7e6b674e8eaa511a09",
+    "references/capabilities/第二章-2.md": "b4b19aea5d6d1c681dc0aeb086f2444e681397617c56044c61afaa4516983d27",
+    "references/capabilities/第三章.md": "c4ea35db0f70c887c5b33b57987e29998c5635b856213089150d64b51f1d7064",
+    "references/capabilities/吉凶正断活用原则.md": "9862af779ea77bed67bc17dce07ca8baa311efd321033c5284b5638a60667558",
+    "references/capabilities/二-腾蛇之解.md": "fe0b02e967d4647331e72b880526c6e390390ece74529df1936bcde02fe6edc9",
+    "references/capabilities/第四章.md": "794d9a82ca2c00b752b5948375ffa3fae3a93d2bb68053c14319fa270844cc1f",
+    "references/capabilities/第五章.md": "ea6872b9ac1bcfdab81432da167ef4b881e80dfc5091e04a29c96030d4abcb9a",
+    "references/capabilities/一-元首課.md": "210c38726d74c5cbe8a54730f79c225febe03279a224b129494235c4cc8e189c",
+    "references/capabilities/八-昂星課.md": "01ff0a1070c7f8a6aee69ea5763c5f4f5b2e60eba7ac96e91466d84b9be80363",
+    "references/capabilities/二-内外之事.md": "1a17102bc09796dcf3259411a24d2c0396e2e4d24473d23132a19b44ee023b17",
+    "references/overview.md": "97404ddc9ba3bdb9ad347bc5d918ff6dc686dc2a024077c5632a1d6c83eafec4",
+    "references/glossary.md": "36d526a33caec5b755cfaea504aac221846969de87c59d7cde45b5548191a751",
+    "references/cheatsheet.md": "294dfeab26b9600fb1ba6d4a2d88151f46df555eddccc6dac9249669aaeabd8e",
+    "references/capability-index.md": "33f8f5bf558f0b6ad4a937647a34dfa1e7e296c231342b72d06e9a986d0525b9",
+    "SKILL.md": "f8481dbcffcb74141c464530127c7bc916b0bc42d01bb344d5018acc3b172c37"
+  },
+  "generated_at": "2026-11-07T07:40:54.716095+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

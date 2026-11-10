@@ -1,0 +1,19 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 4,
+  "published_hashes": {
+    "references/capabilities/China.md": "24bfb0d2bd4587d86003633337c9c6d24656e46cc7b6087452eb1173c61795c0",
+    "references/capabilities/China-29-1601-v-9.md": "986df17983de6c50518cfe9540ee32b5af48fd9f14b685c9ba0cc6b21b701de7",
+    "references/capabilities/China-29-1601-v-9-2.md": "0ec86ef90d2e63a2531a75a9ec4c86585170698971a5a073f92f521aa671cbb8",
+    "references/capabilities/China-29-1601-v-9-3.md": "0165f08bf15341824744b7dfd3c6fefdc8efb326f9c71b94c1ce071c9147a3c1",
+    "references/overview.md": "2b3228a74bffa5483d3a91c0739265c3b22f76ef65a0aa0b6fcf8739aae43995",
+    "references/glossary.md": "4a3d22240550e63236705cc5f763646b88f61f23492e016683d247a5c4e97206",
+    "references/cheatsheet.md": "4d60132f11349218d5b8cb050f76b5c40baf4439fd17f3088375c15550212d30",
+    "references/capability-index.md": "425a14a6aba4a9d73499cc75954cb524b85f44c68bf1b9ae9589e03253293ec1",
+    "SKILL.md": "bd5081fd038a2ebe497048550d89a4652142e6b43bd12cd0127f1de7d99a7ab0"
+  },
+  "generated_at": "2026-11-07T07:40:58.763818+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

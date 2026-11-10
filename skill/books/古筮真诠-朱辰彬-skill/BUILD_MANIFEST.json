@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/有史以来第一部以客观科学的理念-系统性阐述传统周.md": "91ca534cf22b707805ee10b60fda53fa4cdfb7f43b9900c21a7d766dd6925d4f",
+    "references/capabilities/本-卦-变-卦.md": "59cba9c294a67ebc5df130f83a2b3a9984fcc4fb6aedf5ed12c79c9a7765a9de",
+    "references/capabilities/第七章-快速提高预测水平的捷径.md": "727bfd0ce7e9b3eb0df5db49fab7e3d94c13cb9864556adaca5e0bffc50a29a1",
+    "references/capabilities/2-六亲相生相克-子孙-妻财-官鬼-父母-兄弟-旁者相生-隔者相克-也是循.md": "e4fdf8b3204a4bd68af34c4c87287a93c220563df4ddb80e5779c54e77e7c8ff",
+    "references/capabilities/7-紫薇十二宫在细节分析层面的应用.md": "dce03e1d301807c383765c3bae68cf0afc8da5fa0af702f37c55678e69630d3b",
+    "references/capabilities/第十三章-能影响一爻旺衰的四个因素.md": "2e58f2b57bb4adaef4d3581bec77263bb1df1fe5ec05788a526d8856c8ad57f3",
+    "references/capabilities/7-假设申金为用神-在午月申日占卜-则申金虽被午月克显衰-但同时申金临日建.md": "11a6f6b2947b2f82799b8a0d76455cfa0060a6bcd0ab1ade1faa39bddf73e8a1",
+    "references/capabilities/3-爻动变回头相克-如寅木为世用-动变酉金爻回头克-又如巳月酉日占通过关系.md": "084f46e6c9da9c90bb21d9328030d72e49b8ea2629207a5095155c25eca7fdc8",
+    "references/capabilities/2-数动爻彼此力量先复合构成连动相生-再以整合形式指向作用世爻或用神-如申.md": "f34d9700df03273824eb65e8c615b2efed9509a4f0c85d85dd31e1b228194c3f",
+    "references/capabilities/3-用旺世兴局-就是指自占事用神得旺相-同时世爻在没受动爻克伤或自变衰败的.md": "e853a803f28e62e234abd212b65a2754bfbee9bfe9d5029fc41f3c21800c68db",
+    "references/capabilities/1-世兴前提下-用神动-变出的爻与世爻相合-如卯月庚戌日占问此医生的医药将.md": "b7c7de4f4a9d4eb5e91dad17f84a65283c8215b87c9a3aa86bae8f8fecdba36d",
+    "references/capabilities/第三十一章-六冲六合互化详述.md": "9a4aa172345451c28b8692a222f8d81e4527bcc4602e949c0d93f918b19ec2a8",
+    "references/overview.md": "65ce36892649c80c1a25052bdca8e8833e712934d501a35aa52f417a42080328",
+    "references/glossary.md": "83f94b7a84a1dd8232506e0d01c0f5fbaed07ab3ef95dc0e4f0bc2df6b2bfa6a",
+    "references/cheatsheet.md": "e20853d3ec1b531561494e025fe1d0160bddc602e0e0f3bd743477b06debb1c3",
+    "references/capability-index.md": "a0719a922e244f11f89c68e99cd814048737cf69507c58c433b0ba6bf19be8ac",
+    "SKILL.md": "7965be03963467d078d65380e3cfd0606b40288bdc1b5cb1fde946415ba5c324"
+  },
+  "generated_at": "2026-11-07T07:40:52.901460+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

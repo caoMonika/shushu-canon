@@ -1,0 +1,21 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 6,
+  "published_hashes": {
+    "references/capabilities/辨为星吉凶体要.md": "90c95b069e81f6f18d27502a99eb9798196aa90385eea0e6e7a5273de38f6fa2",
+    "references/capabilities/辨二十四山逐字用度之义.md": "317e205b4242216e2596373adacf6fac3b994eeecf59f68ea6b27ca5bdcb21b0",
+    "references/capabilities/辨二十四山卦位错杂.md": "e4104a69dfefacc0d5b65ab95b3114379892af1bc39ed23038cea348af780f92",
+    "references/capabilities/辨二十四山逐位阴阳差错.md": "6150936bfaaf7809ea8e9a57cabf0189ed2fcb7369035b0bec5c35c6660957df",
+    "references/capabilities/辨水路去来格.md": "e540132e870f64b1936960d39a9ff0eedb5c9473f88b13ff12de12436a01f81a",
+    "references/capabilities/辨收山定穴远近诀.md": "2640a2969c454e5794db97723ebdbe4aeddd2634ebf802913ba9cab928a0b020",
+    "references/overview.md": "9db39b0974ab8b0dc3e9a1cdebfbe698a86ec36572eaadfa187964bba8b40925",
+    "references/glossary.md": "adfce2ddb66bad15a1a5b5ba612bbab89f759c19121c19578ddef4d29ba1d1eb",
+    "references/cheatsheet.md": "4729c342bd338e128780b19d815f97df7bfcadbd29ed9a43c45f37e147ec7145",
+    "references/capability-index.md": "3eb68d1222fa356ccca81cb17c546076ea96871d41b885dd07212db1e5c39b53",
+    "SKILL.md": "84611723fc09dfb4e33b2e4f6ba0410a2c4235d49b7174633412773221454469"
+  },
+  "generated_at": "2026-11-07T07:41:02.101281+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

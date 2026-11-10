@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/95.md": "fc8c4abd5322e682fd21954c71709d15e12420a52d0b5e52038f4ca7ab73b63c",
+    "references/capabilities/二-远视力检查.md": "508bb177815916db97064b2af9d9ddf395b28d9ac2a19e6afd92b7132982923c",
+    "references/capabilities/二-点穴的作用.md": "9b18b06d66ff1410ca248049055206ad2efd78022deb3874ae3c3351495f5101",
+    "references/capabilities/3-宽松衣-扣-带-环-使浑身上下舒.md": "065ad9dc278abe6eee8d7d686e0cf08f5b43cc3f585923c0167e4ea50d7cfd21",
+    "references/capabilities/5-养气守劳宫穴-是指在点穴全过程中.md": "e03f40e7da2c99e3a9be28d93ee04b8aac2d542c33764ae5dbae89fd3cbcc9c4",
+    "references/capabilities/1-养气和五法至此全部结束-就其相互关.md": "f73d7a24cde1520e69859035631412fe362321a40010bcbc15232b945b2c5842",
+    "references/capabilities/一-松静自然.md": "af0675d4ca212e56e933090fed1ae5677842444f97da52e5c9e1bd6e3d3a8393",
+    "references/capabilities/二-养气是基础.md": "ec9d080839417ac1f7dc72bf0ae5458ab2570450e633e720031788145745ce29",
+    "references/capabilities/例3-刘静-女-8-岁.md": "385553e6ff333bf751d8bdb72232b0966c43ad1a3f4aad2be67b88cad6b7ccfa",
+    "references/capabilities/例11-毛大新-男-44-岁-某空军师长.md": "84c46981e26b1a5b1e884a09d1d5c59db636b8dbd774686fbe091dc2d085b0f5",
+    "references/capabilities/二-治疗方法.md": "011f4dbd9896612b0d87e9c42d1ab2ccaef8af22b8fdb1ce3e7a4fa8c49deadc",
+    "references/capabilities/六-讨论与体会.md": "d806b44958387eafd149d50119cfc5d21ee77984f4e947a1a3a3b1c944512d37",
+    "references/overview.md": "237ab22ae87b48f48ff059c2ab74477f72263faee7d6fa2e95b01390e9efd6d4",
+    "references/glossary.md": "71a30dc9ceb6fb0e2f1e99f382dc28c686a81ce938a4bd036f0c6b30cc64d2a8",
+    "references/cheatsheet.md": "0a57eeb8d54cd36a65347329b1b9dbd935fb20a47ee73409b44b4528ba9e98e0",
+    "references/capability-index.md": "c45cdf2c0aa462ddbef77a017d9cbaf27a751231d71875a388f266b1ac580ee7",
+    "SKILL.md": "74513108b165c101d3609c0dbf8f815ff3a771967f1983d1e14ba682c45d561a"
+  },
+  "generated_at": "2026-11-07T07:40:57.006658+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

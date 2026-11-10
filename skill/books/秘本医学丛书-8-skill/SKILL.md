@@ -1,83 +1,66 @@
 ---
 name: 秘本医学丛书-8-skill
-description: >
-  用户询问与《秘本医学丛书 8》相关方证/治法/医案时；仅文献参考。 不适用于：不构成医疗建议；急症须就医。 触发词：方证, 治法, 秘本医学丛书 8。OCR自动蒸馏，请核对原书。
+description: |
+  用户询问《秘本医学丛书 8》方证/治法/医案/条文，或本书未单列意图时调用本路由。 不适用于：不构成医疗建议；急症须就医。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 方证, 治法, 医案, 秘本医学丛书 8。
 source_book: 《秘本医学丛书 8》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, tcm]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, tcm]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《秘本医学丛书 8》· RIA++ 蒸馏
+# 《秘本医学丛书 8》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不构成医疗建议；急症须就医。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 寶鲶彰彰始覺軒爽豁目早習醫治婦女病即是書人手臨證以來
+## 核心原则（常驻速览）
 
-> 沈氏女科輯要數十葉精當處勘透微切中肯多發前人所未發
+1. 女科之有專書自陳良甫大全良方而後當以
+2. 张山雷君逐條加以笺語深人洞見
+3. 少切要發阴以之臨症能收效本書
+4. 覺陳陳相因腐氣滿者以夏集古人空泛
+5. 秸吾於女科觀止矣爱哑刊行以同志
+6. 寶鲶彰彰始覺軒爽豁目早習醫治婦女病即是書人手臨證以來
 
-> 宋金元明家醫籍皆未能脱此摘習固不必專以為女科书之病惟封
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《秘本医学丛书 8》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「不意孫氏高明千金方以婦人居首而求嗣又為婦科之開宗明义第一章」相关的查阅/断法/方证问题 | references/capabilities/不意孫氏高明千金方以婦人居首而求嗣又為婦科之開宗明义第一章.md | overview / cheatsheet |
+| 与「（笺疏）此節出服經第九卷考服經一書單行住本不易得金山氏守」相关的查阅/断法/方证问题 | references/capabilities/笺疏-此節出服經第九卷考服經一書單行住本不易得金山氏守.md | overview / cheatsheet |
+| 与「第二卷」相关的查阅/断法/方证问题 | references/capabilities/第二卷.md | overview / cheatsheet |
+| 与「第三卷」相关的查阅/断法/方证问题 | references/capabilities/第三卷.md | overview / cheatsheet |
+| 与「第二章明喉腑宗」相关的查阅/断法/方证问题 | references/capabilities/第二章明喉腑宗.md | overview / cheatsheet |
+| 与「第二三章三陰二阳王在少陰少陽」相关的查阅/断法/方证问题 | references/capabilities/第二三章三陰二阳王在少陰少陽.md | overview / cheatsheet |
+| 与「第六章喉虚實宜辨」相关的查阅/断法/方证问题 | references/capabilities/第六章喉虚實宜辨.md | overview / cheatsheet |
+| 与「第七章决断生死看法」相关的查阅/断法/方证问题 | references/capabilities/第七章决断生死看法.md | overview / cheatsheet |
+| 与「第九章醫士臨症偏急生藥庫」相关的查阅/断法/方证问题 | references/capabilities/第九章醫士臨症偏急生藥庫.md | overview / cheatsheet |
+| 与「第十章藥品選眞製法知」相关的查阅/断法/方证问题 | references/capabilities/第十章藥品選眞製法知.md | overview / cheatsheet |
+| 与「第十二章喉症六淫方款」相关的查阅/断法/方证问题 | references/capabilities/第十二章喉症六淫方款.md | overview / cheatsheet |
+| 与「以四神丹一枚當頭安上經宿即根出矣（方在第十二卷中錄载」相关的查阅/断法/方证问题 | references/capabilities/以四神丹一枚當頭安上經宿即根出矣-方在第十二卷中錄载.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 沈氏女科辑要疏卷上
-- 沈氏女科辑要鏡珑卷上
-- 沈氏女科辑要疏卷上
-- 沈氏女科要城卷止
-- 沈氏女科辑要笺疏卷上
-- 沈氏女科朝要笺疏卷上
-- 沈氏女科辑要笺疏卷上
-- 沈氏女科辑要等碳卷上
-- 沈氏女科辑要笺疏卷上
-- 沈氏女科辑要疏卷上
-- 沈氏女科辑要笺疏卷上
-- 沈民女科桥要篷疏卷上
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：沈氏女科辑要疏卷上；沈氏女科辑要鏡珑卷上；沈氏女科辑要疏卷上；沈氏女科要城卷止；沈氏女科辑要笺疏卷上；沈氏女科朝要笺疏卷上；沈氏女科辑要笺疏卷上；沈氏女科辑要等碳卷上
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《秘本医学丛书 8》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《秘本医学丛书 8》怎么说" / "方证"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认属文献检索
-2. **步骤2**: 按纲目定位
-3. **步骤3**: 摘录主治与禁忌并标注出处
-4. **步骤4**: 声明非医疗建议
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 急重症、抓药自疗；OCR 不清处不得臆补剂量。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

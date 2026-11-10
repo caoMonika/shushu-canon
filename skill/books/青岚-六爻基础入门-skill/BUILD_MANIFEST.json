@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/一-周易理论概述-26.md": "76384aface271545b1c88dc488960e38bb9a73d720ea38f53252b5721563f280",
+    "references/capabilities/三-理法基础-66.md": "fe510fdffad5b30e67da148a0d302b1d39fb14dac01b61998f84085a4d8bb804",
+    "references/capabilities/四-断卦的基本步骤与规则-109.md": "79464f870d1558cc96fc7ac707a632f62a52bd29dc9e2076e3ba1f9cfdd4f484",
+    "references/capabilities/六-分类占验-205.md": "d936cbce0997c24fd4f7fda90be4246691c7a78d8b5c6b3d19f31ce075898e52",
+    "references/capabilities/一-要有正确的认知.md": "4d8903b3f2c94916cb5984a21a0d04bed6e521eb046af77c88ff85c814aa3fcd",
+    "references/capabilities/二-要有高尚的品德.md": "9c028d49d4ef1be88af2f04bd217d86025f9935918949f31e54f0a900878607a",
+    "references/capabilities/三-要有坚韧的毅力.md": "c3df6472760466e481adb47f8476198a2d9beff83a7b1a47b4273556e513c347",
+    "references/capabilities/第一章-周易理论概述.md": "f06e3bbde129eafbb1dc0fd09bb7918fb87681c56d58228db3437a4cfff0c85b",
+    "references/capabilities/第二章.md": "e4bac964de1b1114bd92a4a1a22e2276202728ec58196dd58e62a3e418ceaaf6",
+    "references/capabilities/第三章理法基础.md": "eb402c637488d78212ccd98699ca3d8112a6aba9a7432ecb3f4580d46f11f508",
+    "references/capabilities/第四章.md": "e097797c797d44c5f1f391edca19ebfe0ee23cc6418af421e5053a9e6664cc20",
+    "references/capabilities/第五章.md": "33d393414c5e26c42a9940312224093a677983edce6bf2b825b2d0e02494011f",
+    "references/overview.md": "bf5d189d270a23709cfc2b758ebccd79abce3b9ec67daa3f2807f13bc4257623",
+    "references/glossary.md": "7d9fe6fe11c9128bc730210fd250df0e4d682fede55d0c26d2665d62f3fdc705",
+    "references/cheatsheet.md": "224c4bde6576c0e222c4bb7aab07339075294f6dfaa202f11546601456a95da8",
+    "references/capability-index.md": "075a3c24dbcc27b2fc4a99da1119fe4c3c83e4f815172eb2b922aa879bd079da",
+    "SKILL.md": "faa0209deffd4da00de3fa498d982bf3b509ad9c1bb46afab90cb5f1190f0a24"
+  },
+  "generated_at": "2026-11-07T07:40:55.573430+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

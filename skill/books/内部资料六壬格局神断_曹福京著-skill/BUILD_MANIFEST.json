@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/5.md": "c2279170eabd8c1ff2498616b2209dd0920543d9fd2ee0172123ece39f82ae5d",
+    "references/capabilities/99.md": "d8eb5cfd514d6b63fc93bdc5955ccbf32acd6ad8c446559615de035c0b333673",
+    "references/capabilities/四-星煞篇.md": "98dc98eabfe6db292f9353203bae54023372073695b0bc5f640d5947961a5742",
+    "references/capabilities/六-分类占断篇.md": "56cc632c9dbde1a8da9fdc2bab242a6dbdca277a786762b4126b0748689069ed",
+    "references/capabilities/二-课经篇.md": "9ee77a98dd642487b83d38ed93973fecfa815aabe42f151d419045e4be0eaadb",
+    "references/capabilities/十-二十一-十二月十五-十六-十七.md": "bf9214f7a94b61491c97c364ea3ad97c626b0b23d3b6cd7de42141ea451b7c72",
+    "references/capabilities/三-十二神将篇.md": "e092941eef78c4cb08ede6b06a2a08f915e3ba16bf035900c1db76780462128d",
+    "references/capabilities/三-传.md": "40c5605fe564184c65c8cf8441a28fef5d5a33e2560201e7930419616914269a",
+    "references/capabilities/八-一间传-名折腰三合-中传对冲一辰为成就之期-谓之虚一.md": "47285655e7d6dbc9015480ed0c5db00969bac2744681e9feec412c2c1c6318f8",
+    "references/capabilities/六-分类占断篇-2.md": "67b3634a9c868cf2ea480ec514cea7a50b13a4ae1d456769320f65a41bf80a15",
+    "references/capabilities/一-基础篇.md": "f45beb82353fceaf196d687c0230862311a23c7e2f0e6e4b79f1c3cbe1f47845",
+    "references/capabilities/五.md": "3d3d316442bfa5250ab827045b1486e113c59ab1faff649a513d13240dd16e1c",
+    "references/overview.md": "e89a58d42228ab4c3103bf90f57c1ca7ba60758a0adb2c80a5d11e64997788b4",
+    "references/glossary.md": "7af2a02ee9a5cd26de5015e839d9e1d8697a02e66fc75fb95d16314b82ab3de0",
+    "references/cheatsheet.md": "a14eb30d3a3cbb52e909fd211a40b171acba23ecf591332fcbc9ec2c658a9a3f",
+    "references/capability-index.md": "29ced12eccff5d72b96c4a78fc30e42dc8eb3e8ef22f0ad61f6cda90ee5a0347",
+    "SKILL.md": "a5c43a576c9458fb998866a0df913428f385c4c85d512626c34a5ff10e678b01"
+  },
+  "generated_at": "2026-11-07T07:40:55.973294+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

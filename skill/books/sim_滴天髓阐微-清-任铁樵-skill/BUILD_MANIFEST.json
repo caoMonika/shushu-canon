@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/一-天道.md": "4dc7d97a1ef9deded1fa26be27fdb50ef48aefe1b3a1518596b9865ed8adc932",
+    "references/capabilities/七-天干.md": "aad9116b83e81616787af7a5714fc4baad00982cfd44f7ac58a934431ec2f409",
+    "references/capabilities/十二-八格.md": "0dfc9b2c0d7fedbc004f8f8fb698ecc12586c628551da5bcb743c550e61ccf33",
+    "references/capabilities/十八-中和.md": "ec2b9c7255942103109f48a5ff41f49299c0f7e024a58adc23704246248f001f",
+    "references/capabilities/二十三-清气.md": "cf21c83ca0921392d0078802cbfcbf88230b8ee54d75cc158d5965f5d293770a",
+    "references/capabilities/二十八-顺逆.md": "fe5e60a06ddeb8a0ccbe4cdb742d9d0dc44e7419eb21d3450534fe545c133923",
+    "references/capabilities/三十三-震兑.md": "505da2cd82b2121b0ef581c2138c7e78e87def47caff398803b662e0324b041f",
+    "references/capabilities/三-父母.md": "a960196140c1b3f23dc9bdf6f19a4f0d375898921d3018b5c721c976aecf659b",
+    "references/capabilities/八-才德.md": "531385b7c84b96707853b09feae2242bff215cb44f8ad62f0a5da28d2ccdaff2",
+    "references/capabilities/十四-假从.md": "25fb888ebee7f117ddcb96f0aa950b251b8d8b7f5b2afe58a6bbffaafa0ee306",
+    "references/capabilities/十九-合局.md": "32027e46a9f44ec709f54146ff39ce38e689adb9e58c0ed62ddadef2388fb279",
+    "references/capabilities/二十四-性情.md": "0862f96e5460d0a8888fd11f6d281621d7fe30afa48ee7900bcc959f77ce687a",
+    "references/overview.md": "c66077e35518758b8b0974d595bbe7f56631a5066215e2ada99ca6c5528cd0b2",
+    "references/glossary.md": "8bf802eb562cc6f95006b46b758a16ab433f4031b4fe0e82114673c426f4316d",
+    "references/cheatsheet.md": "d00dd12f51faf5794782029bb976b5068961885e9da683cd48cd3117af84a10a",
+    "references/capability-index.md": "0d920f3cff0e4f7461c85cae0ddbb1bbd918785cc502db800115abd2c291c144",
+    "SKILL.md": "58fe7c50f2c1928f927cc974124ffa0998c8fc824b8b7fc386bbc68c09bd0966"
+  },
+  "generated_at": "2026-11-07T07:41:02.774506+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

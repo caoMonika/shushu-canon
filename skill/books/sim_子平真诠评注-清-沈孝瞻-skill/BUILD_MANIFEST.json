@@ -1,0 +1,17 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 2,
+  "published_hashes": {
+    "references/capabilities/四十八-论杂格取运.md": "562c88c10bed504ca3288962c3fe14c52f06b9e9030d91c6e544a2dec508438b",
+    "references/capabilities/四十八-附论杂格取运.md": "a8b8427470e2bef55207d584599c127ff224918a6310271c02aebc6a049d71ac",
+    "references/overview.md": "c8c106517a4d2ffef8bee35a16d581f01ddef473b036511cfcd3231a3c488311",
+    "references/glossary.md": "d16d346249e3116a1949288941aa4f1753eaa55cc8968db1f9b9001032207070",
+    "references/cheatsheet.md": "b919563e4d74d28eadf0f183951be812dbfca0f961e59d080f0fa57ccd76b109",
+    "references/capability-index.md": "38aa03bb4dfc4bcd45f941114c5b937fb2f8237925b078d497da5e2240e38533",
+    "SKILL.md": "0471db2f804a2b9d75a05971320e39a508eb937e634ad57d509fcb007de0b627"
+  },
+  "generated_at": "2026-11-07T07:41:02.070731+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

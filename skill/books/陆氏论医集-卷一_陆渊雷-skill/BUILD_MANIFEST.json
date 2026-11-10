@@ -1,0 +1,18 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 3,
+  "published_hashes": {
+    "references/capabilities/拙著一肝病傅脾之研究一即金匮今稞第一卷人禀五常條之解稞錄登醫.md": "95e2cdf9d6a9852873735ae0d10b69a7741350806a157b01f20879a9324f3b30",
+    "references/capabilities/第一集出版可以聲明學問隨時間而增長下次再版必要改訂如此既無傷忠.md": "047a2d74d0b66641be4a49ccb7f279dad54ea6651e33df81b9649c3597886108",
+    "references/capabilities/版辨法每種先出第一集餘睦續出版侯出版齊了又共來印成一册或數册.md": "00798a139a8cab6fea742a2f6e7d762f7767c5ccfbda7cc67885f5c57aa76889",
+    "references/overview.md": "b83a02d54465f0f7d4802dbaff3a4746bb8f98687ee05eea457b289518b87aa0",
+    "references/glossary.md": "d23504eafc18bc43ffac2fed85de951b38fee0b79b2df3dcfba12e65ba4c13eb",
+    "references/cheatsheet.md": "bcf86be8b3eeca875de1cb2712f6089f1173bc3f713834e1707a49ddf44ebe93",
+    "references/capability-index.md": "8fe6cd069c712ef8b62749d3f75f2c23bd392ae11cd3c5fe48a6d9c15b1aad89",
+    "SKILL.md": "a8e1d39f5f7cf306778b4560b23e1fcf672287eccae8c18749d5e8b40b42dc51"
+  },
+  "generated_at": "2026-11-07T07:40:59.245676+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

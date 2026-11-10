@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/十-文中所言-初编-为原-腹证奇览-二编-为原-腹证奇览翼.md": "684e0d6e7ae157e2b3ef50728ae86cd58527a854ed7f832bc88e743ece3c048d",
+    "references/capabilities/一-小建中汤证图解-附二方及虚劳-劳咳辨.md": "f9f825ae96ccb5caf1c274396a6f031b65dfa813336bc33c191a12c8c5d11c3e",
+    "references/capabilities/二-桂枝汤证头项强痛图解-附三方及项背强急异同辨.md": "bf11c9678f6d71edff6ef61c922bc06e4a3bb81628c32a62773bb4397113552a",
+    "references/capabilities/十一-桂姜枣草黄辛附汤证图解-附一方.md": "1deb1f8216aa19c75364de449774809767a320cfba1e714879ac2d36962b1f8e",
+    "references/capabilities/三-葛根汤剧证图解.md": "9512133330ba7577ca5a38d9f74e6b874b920ea10ff0480b8d57e8c20f204d2f",
+    "references/capabilities/二-栀子豉汤证图解-附七方.md": "3fe2998bd218c987564b573bcef09a9cbdb19dc5ae1ed1d86b940564d49cb708",
+    "references/capabilities/三-厚朴三物汤证图解.md": "1ca1db2d281cacdab7bd70853d30cd8aeab6ecfe3328afd53bcf0e694b823c34",
+    "references/capabilities/十四-疮毒家阴茎腐落证图解.md": "4830803b6f2d849ef907ec4a20a2d3513eb91190e166a42904242faed16c55f8",
+    "references/capabilities/三-大黄甘遂汤证图解.md": "cc8154ac9e242eabd3f13ada1ae453da24dbf6b4b5ed38d2e2eda08bffd1e7e9",
+    "references/capabilities/七-桂枝人参汤证图解-附心下痞硬诸证辨及人参说.md": "815c102bd46e39be4372bf213926c6d8ab41c26a38949d0c0d0c69c0c14a7df9",
+    "references/capabilities/五-茯苓杏仁甘草汤证图解.md": "9a92c268baca3c9aeb78b03e1ebe5ffedb9f60f4bf5a9c95b3629211bf32bcf6",
+    "references/capabilities/四-芎归胶艾汤及猪苓汤证图解.md": "ccce8f63e2d69bc06168c326d6dfe9ac82e748d03645ec4daf41dcb43420ecae",
+    "references/overview.md": "366321bf134e7d1323ab8468810dfb90658238e40daee4c1aa35e5c2df1b3409",
+    "references/glossary.md": "949c67695ff3c60b7b03fd94a2469999e63dc0a18f0c0b4068839c8e882a7dbf",
+    "references/cheatsheet.md": "f14580ad754b5b67c46d9a40304725a4f50d177a81a42163b1f1cb61ff3e5d18",
+    "references/capability-index.md": "f0ebba6c57365bd6fc3512c64dbc229e215700b6454a614b68ad1d09f903423b",
+    "SKILL.md": "2f87be14143c53a73331e20a94fa4545c97b51be13e3426bf92ad88aa7785dcd"
+  },
+  "generated_at": "2026-11-07T07:40:58.611331+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/第1段.md": "8835d65184b03128d3570055b90abdc0d903a4652ad1c4cbe419a2d4654cc911",
+    "references/capabilities/第2段.md": "cbe5c729b92beb154f68f82a09a4b97186f56563d0f6a92987f5af1739b9db57",
+    "references/capabilities/第3段.md": "b44e1d5f894cd519677a76e1689ace8d05e0e702cc921752ca87de9a8de9bec1",
+    "references/capabilities/第4段.md": "69a4a09e19513806e8810815e7b24fdee7c93140566cdbeabc489d9333a4a54c",
+    "references/capabilities/第5段.md": "6930af467cee53513b8deb49116b6e99f448dd5b41e8c17e703f5b4002f30870",
+    "references/capabilities/第6段.md": "6879c3e208a8502a739b487a145c68d48bae9e2dc87eb59b2d7e5cd790fb13d9",
+    "references/capabilities/第7段.md": "626d70079f406b102c9664936c6ed38d3b57d4a4aba1efb01b87c0c70871f079",
+    "references/capabilities/第8段.md": "e8e7087c48f3fd69a8e8b50d72b9194ca43d3cce1d079fe3f3f7a47f439edcbf",
+    "references/capabilities/第9段.md": "392243fca645ab28dfe61d0e294c89ee504e47c62f3198a3eb6995cb131c5d78",
+    "references/capabilities/第10段.md": "16a4b910ffc454d61c7ff07b78b2437cfe2dcdc8a68e6319d6eba03d25f4efcf",
+    "references/capabilities/第11段.md": "787ea4b889a431766dd3d4ec6428407ff2c067469b4224be68fa1483ad1315c1",
+    "references/capabilities/第12段.md": "520fa46e8934a808e0b431ddcbadf1e60a47a4072613c67c168699bc7391e163",
+    "references/overview.md": "50fea39705836a1545717a6f9f11d23a3e5523ed4cb6d3ae4ffcfc9ac1c927fe",
+    "references/glossary.md": "6714accd8c99ee1622ccaae0094a5b1e033378dbb0a26e3d07cdb45fb932587a",
+    "references/cheatsheet.md": "5af0a742425a84d0746c67db511367d1ea9ef2b9239d456751de0664001d85ae",
+    "references/capability-index.md": "0107b6e591ba2bfb4c48e5df3d989a7b9182e33c2c41955d58ade6a71dea1523",
+    "SKILL.md": "122fea809300247e53ef1d22d557e1c4b0bd01a64759eee20f0e93a6cc920535"
+  },
+  "generated_at": "2026-11-07T07:41:00.701437+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

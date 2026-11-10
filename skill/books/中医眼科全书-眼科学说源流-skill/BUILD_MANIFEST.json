@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/3.md": "e2d118f654643daf4d73459ad645b566b848d2f90fde954afef472469ed68ff3",
+    "references/capabilities/61.md": "db642e38a325e185acdef513c150b82b29a4b334cc7ce4a244841bdb3f9c0b6e",
+    "references/capabilities/第一章中医眼科学术发展史.md": "d9b095ad32e874219dc9c26b866922bb4e6971b402847d677ca9a8713f55001b",
+    "references/capabilities/二-银海精微.md": "7a284cfec1e257f3c1125646de124a39a7a9fd33f4edf0f378c083f13de23168",
+    "references/capabilities/十三-眼科锦囊.md": "f04d1bc04be6a2a9ab7cd1d5f58d5f7a074f3af0c339753be39b5aebf3e7d4c6",
+    "references/capabilities/七十-症的具体内容-足以审的歌-为主体-然后分析各症的病因-病机和症候-列举各证.md": "9a26476ead3a80301be5c787b43d0dc9a47d856e3bbaa9a927152b69278a7102",
+    "references/capabilities/第九章气血学说.md": "f6493c10aeb953af5be457ec2415a267e5819aba434fd08596e2a903266d6ff2",
+    "references/capabilities/二-六经学说的形成-伤赛六经的提纲.md": "350454c69d929d8186649e96514383b94425cf5c0362d3cc3f180e73f3364ac6",
+    "references/capabilities/三-眼科六经学说的内容.md": "011a8f6ec43967da35e49e57fbfbabfd514d1592ef7abeca05d35b08dbad0647",
+    "references/capabilities/二-眼科辨证研究的深入.md": "b01f04a43e9d4c5ebc1ccacd52c62da68401030acbde4b80edb1b5bde71fbcbd",
+    "references/capabilities/3-人皮应天-人肉应地-人脉应人-人筋应时-人声应音-人阴阳合气应律-人齿面.md": "dc14d4186f169b050b81f23ceb9618dccc400574ced8f3274f09d8d990fc75d5",
+    "references/capabilities/33-殿阴不迁正-即风暄不时-花卉婪萃-民病淋漫-目系转-转筋-喜怒-小便.md": "83fa8828fac53224a7a7b9fd494c67b095eb998db4b51293c4e64450373736b5",
+    "references/overview.md": "3025dd604575d71887d33fecbf005f6e25334f0a1a1036abb8dae505ebd4f116",
+    "references/glossary.md": "e829fab4b8a5093a8c92fd7031b4e5f7d2ee3381d1307ca79308e717f77947ca",
+    "references/cheatsheet.md": "55ff40c58b9468704f874521d8df0539a6f191dfeb0ebfacbc2e510bfb4c7bdd",
+    "references/capability-index.md": "da7390ea2b2a2c98a7a3888024e2df1084f6f04e06ae67365a6d25c71a3af598",
+    "SKILL.md": "5b8c4acdc39cf46bafa4270e556c7ec9deb0446f81cefb6eef262f4f4147febd"
+  },
+  "generated_at": "2026-11-07T07:40:57.594323+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

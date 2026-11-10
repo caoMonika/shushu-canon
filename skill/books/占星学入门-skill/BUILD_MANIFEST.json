@@ -1,0 +1,26 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 11,
+  "published_hashes": {
+    "references/capabilities/1-上升点表示我们此生的面具-也就是说今生我们要在人生的舞台扮演一个怎.md": "8781dd50c16d73aaea1c73c35f5d3c2abee6ba7fbe558913d4afa121f2451a8e",
+    "references/capabilities/3-星座行星发挥力量的舞台-前面讲-在不同的星座-行星的力量会得到张扬.md": "2464d1216c2fca8e9ed05f871933d2baad1ca7ac2f891cd27d82c888599aea14",
+    "references/capabilities/一.md": "4ff95354a651babbcb7748abd4000360bbcf89455479eddbce722e1da7a8cd01",
+    "references/capabilities/二-EROS-爱萝丝的-激情.md": "6c97deb728721885d469d63123e5135906091bd27b677fbf29633ffed5bea849",
+    "references/capabilities/第三部-爱摩-AMOR-亲爱的.md": "a456880fc301d00b5183ac4b8345cbe2c3c0ff1090cb7237e53d511fb102553f",
+    "references/capabilities/四-相位关系.md": "9975ea119b546290c66682f4e5270a31a88379dfdcf6cd38a38ce6662e2fd93c",
+    "references/capabilities/二-太阳返照图做为判断一年的运程的依据-一般只能判断这一年是否有桃花-详细到具体.md": "71c33cf8457e7486efca7d9ad6d1c19d6115d1ecda742c4e2d45c8c9c53d4dbe",
+    "references/capabilities/一-认识星盘.md": "522abfce215f9260eff03db8b536ef06e0aa856280c6b0d98c9179b321cfe628",
+    "references/capabilities/二-基本操作.md": "7a8d122d936402daf6a406e5ffb89247599f6f6477fb4e64e13c8dc82f07bf85",
+    "references/capabilities/三-合盘与流年盘.md": "86cd324adc0ec6cb3befdb89b5e195178210fb357b86a2f4a15baa68a9b7600d",
+    "references/capabilities/图象模式在第一部分中已经讲过了-在文字模式中-除了上述的条目-还有另外几.md": "5b683608d0e0aa3008e58c12d57a67180b61ab8fd29228b8344a68e01769ed60",
+    "references/overview.md": "cb704d6da9b98d3b500690ff4e761f6010c6866c49181537d273783444eacc8f",
+    "references/glossary.md": "6928146bb9c99e87ed496c5d9ed9ef371e30666f5ca2d24f94ba6d680ff01b40",
+    "references/cheatsheet.md": "c27fd80f903bd351c3e0a8352efe6a7fde640a04d4a5286340cce5c2e050095d",
+    "references/capability-index.md": "0a31c65282cecfb68e1a8d6705132d8e0f69041175b9c35fca4bde76b4ac44c6",
+    "SKILL.md": "3ee20125b996df72c4d541edbaaf75916eced67f24ec39ad1d340611ee7b402c"
+  },
+  "generated_at": "2026-11-07T07:40:57.519863+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

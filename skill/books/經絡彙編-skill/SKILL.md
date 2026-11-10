@@ -1,83 +1,65 @@
 ---
 name: 經絡彙編-skill
-description: >
-  用户询问与《經絡彙編》相关方证/治法/医案时；仅文献参考。 不适用于：不构成医疗建议；急症须就医。 触发词：方证, 治法, 經絡彙編。OCR自动蒸馏，请核对原书。
+description: |
+  用户询问《經絡彙編》方证/治法/医案/条文，或本书未单列意图时调用本路由。 不适用于：不构成医疗建议；急症须就医。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 方证, 治法, 医案, 經絡彙編。
 source_book: 《經絡彙編》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, tcm]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, tcm]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 11
 ---
 
-# 《經絡彙編》· RIA++ 蒸馏
+# 《經絡彙編》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不构成医疗建议；急症须就医。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 經絡亦省天地之時運以流行如每日寅時肺藏生
+## 核心原则（常驻速览）
 
-> 明經藥非太陽經药也由此推之患病之天于薬者
+1. 經絡亦省天地之時運以流行如每日寅時肺藏生
+2. 自直行之脉而旁行之者地人肖天地以有生其
+3. 經者為其脉之支别者如樹之有枝又以其
+4. 絡而传變之症尤不可不分經東垣日傷寒邪
+5. 最穴不泥淆使學者因穴以因以經
+6. 亦可不知乎此其所以為庸也今所之書經
 
-> 也而用氣药则氣受其傷而血病益甚至外邪人經
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《經絡彙編》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「第1段」相关的查阅/断法/方证问题 | references/capabilities/第1段.md | overview / cheatsheet |
+| 与「第2段」相关的查阅/断法/方证问题 | references/capabilities/第2段.md | overview / cheatsheet |
+| 与「第3段」相关的查阅/断法/方证问题 | references/capabilities/第3段.md | overview / cheatsheet |
+| 与「第4段」相关的查阅/断法/方证问题 | references/capabilities/第4段.md | overview / cheatsheet |
+| 与「第5段」相关的查阅/断法/方证问题 | references/capabilities/第5段.md | overview / cheatsheet |
+| 与「第6段」相关的查阅/断法/方证问题 | references/capabilities/第6段.md | overview / cheatsheet |
+| 与「第7段」相关的查阅/断法/方证问题 | references/capabilities/第7段.md | overview / cheatsheet |
+| 与「第8段」相关的查阅/断法/方证问题 | references/capabilities/第8段.md | overview / cheatsheet |
+| 与「第9段」相关的查阅/断法/方证问题 | references/capabilities/第9段.md | overview / cheatsheet |
+| 与「第10段」相关的查阅/断法/方证问题 | references/capabilities/第10段.md | overview / cheatsheet |
+| 与「第11段」相关的查阅/断法/方证问题 | references/capabilities/第11段.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 經申胱酉臂戌居包亥三焦子鵬丑肝又
-- 卯时流人大赐經辰已脾午心火未時又到小赐
-- 經絡亦省天地之時運以流行如每日寅時肺藏生
-- 自直行之脉而旁行之者地人肖天地以有生其
-- 開所豚也其脉之直行大隧者為經其脉之分派
-- 經者人之元氣伏於氣血之中周身流行書夜无
-- 經者為其脉之支别者如樹之有枝又以其
-- 漁陽林起龙北海鉴定
-- 益都翟良玉華
-- 本册中缝甚无法開展
-- 明經藥非太陽經药也由此推之患病之天于薬者
-- 在太陽經用葛根湯则引邪人陽明是葛根乃陽
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：經申胱酉臂戌居包亥三焦子鵬丑肝又；卯时流人大赐經辰已脾午心火未時又到小赐；經絡亦省天地之時運以流行如每日寅時肺藏生；自直行之脉而旁行之者地人肖天地以有生其；開所豚也其脉之直行大隧者為經其脉之分派；經者人之元氣伏於氣血之中周身流行書夜无；經者為其脉之支别者如樹之有枝又以其；漁陽林起龙北海鉴定
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《經絡彙編》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《經絡彙編》怎么说" / "方证"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认属文献检索
-2. **步骤2**: 按纲目定位
-3. **步骤3**: 摘录主治与禁忌并标注出处
-4. **步骤4**: 声明非医疗建议
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 急重症、抓药自疗；OCR 不清处不得臆补剂量。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

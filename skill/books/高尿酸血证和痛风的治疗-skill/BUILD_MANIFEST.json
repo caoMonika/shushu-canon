@@ -1,0 +1,21 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 6,
+  "published_hashes": {
+    "references/capabilities/一-痛风的诊断.md": "9c0c66b97289a8c4361bc83555408a8a48477202d0e15c9c5cd6988279e98dc5",
+    "references/capabilities/二-高尿酸血症的诊断.md": "add5b6d62f1af436eb1678636ce3e1739acafcabb03535b9b8c880486d461b59",
+    "references/capabilities/三-痛风的药物治疗.md": "cae638da49a6d25ded6cc9de334551c5399c6bdf6a4b89ec287980372789db41",
+    "references/capabilities/三-痛风-高尿酸血症的治疗.md": "234497551f637bb48430174d9a319b639b92d98c16a5b1548ae0053b5e787d9f",
+    "references/capabilities/4-应当视做开始治疗的下限.md": "dff324fc2abe2caf49bc85a7c15dcf5127d79f5a47536e26b8034f7e1c17d446",
+    "references/capabilities/四-生活指导.md": "5f976dfc021f6db0f80d196fe0954fc4b5b94852c5270ac52679a9d064175601",
+    "references/overview.md": "ef3eeb958d90eb582bafc228e70a57821cddaccddab4f51aa35b0cf8252f8fdc",
+    "references/glossary.md": "d91ee27409772c2a4fcef6aec35cc951af624828cc29e96972dba9d1a656a684",
+    "references/cheatsheet.md": "702445134442217c5cbc23b9b8cdb90f79e445c2f5e82bd51d745c183ca4d87b",
+    "references/capability-index.md": "56cccb76405436d947738581a1291cccee6da92b62336882d851f8d0b56131f1",
+    "SKILL.md": "ee2d68da66b4261e39761dd6660dfd1928d90a61d1f509b77ddee4a04fbd0542"
+  },
+  "generated_at": "2026-11-07T07:40:58.336336+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

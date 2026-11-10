@@ -1,83 +1,66 @@
 ---
 name: 大六壬隔山照-skill
-description: >
-  用户要用《大六壬隔山照》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 大六壬隔山照。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《大六壬隔山照》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 大六壬隔山照。
 source_book: 《大六壬隔山照》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《大六壬隔山照》· RIA++ 蒸馏
+# 《大六壬隔山照》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 痒如处投龙聂正顺如牛受刃秋日失友若既離而溴合冬名出渐亦名
+## 核心原则（常驻速览）
 
-> 夏名游子而飘流不定秋馮地角一隅而忘天下冬腐飘五墓舍朝
+1. 過日辰戍·名日四门俱閑四季顺傅丑辰未戌春四稼稿而生，以辟
+2. “四土巡财尚宜守正魁罡加四仲為関格人事)俱垂登明日辰
+3. 以凌事末生中=生用名目荣盛而人多推荐初克中：克志名日迭
+4. 龍潜陽光在下空懷寳以迷那，文子丑·令春和氯猜中勿街王而求售
+5. 自至推先生後克樂極生炎胡凡日辰萧墙褐起引日辰家必
+6. 偶聲退吉而進不宜，逆連茹空名日隔脚空亡進宜而不可課协利
 
-> 過日辰戍·名日四门俱閑四季顺傅丑辰未戌春四稼稿而生，以辟
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《大六壬隔山照》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「第1段」相关的查阅/断法/方证问题 | references/capabilities/第1段.md | overview / cheatsheet |
+| 与「第2段」相关的查阅/断法/方证问题 | references/capabilities/第2段.md | overview / cheatsheet |
+| 与「第3段」相关的查阅/断法/方证问题 | references/capabilities/第3段.md | overview / cheatsheet |
+| 与「第4段」相关的查阅/断法/方证问题 | references/capabilities/第4段.md | overview / cheatsheet |
+| 与「第5段」相关的查阅/断法/方证问题 | references/capabilities/第5段.md | overview / cheatsheet |
+| 与「第6段」相关的查阅/断法/方证问题 | references/capabilities/第6段.md | overview / cheatsheet |
+| 与「第7段」相关的查阅/断法/方证问题 | references/capabilities/第7段.md | overview / cheatsheet |
+| 与「第8段」相关的查阅/断法/方证问题 | references/capabilities/第8段.md | overview / cheatsheet |
+| 与「第9段」相关的查阅/断法/方证问题 | references/capabilities/第9段.md | overview / cheatsheet |
+| 与「第10段」相关的查阅/断法/方证问题 | references/capabilities/第10段.md | overview / cheatsheet |
+| 与「第11段」相关的查阅/断法/方证问题 | references/capabilities/第11段.md | overview / cheatsheet |
+| 与「第12段」相关的查阅/断法/方证问题 | references/capabilities/第12段.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 大六王隔山照
-- 痒如处投龙聂正顺如牛受刃秋日失友若既離而溴合冬名出渐亦名
-- 夏名游子而飘流不定秋馮地角一隅而忘天下冬腐飘五墓舍朝
-- 過日辰戍·名日四门俱閑四季顺傅丑辰未戌春四稼稿而生，以辟
-- 国俞苦虽吉将而到底成空日辰見痕戊
-- “四土巡财尚宜守正魁罡加四仲為関格人事)俱垂登明日辰
-- 答懷私意夫婦年神各相葱名］無麗主廷分瑟不朗郊用绍
-- 已上言日辰上神交生克吉区
-- 曾生自有恢志
-- 越海無舟辑之
-- 主内外疑总生
-- 之登已未酉出三陽似在陰之鹏午申戌交都主心劳而日
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：大六王隔山照；痒如处投龙聂正顺如牛受刃秋日失友若既離而溴合冬名出渐亦名；夏名游子而飘流不定秋馮地角一隅而忘天下冬腐飘五墓舍朝；過日辰戍·名日四门俱閑四季顺傅丑辰未戌春四稼稿而生，以辟；国俞苦虽吉将而到底成空日辰見痕戊；“四土巡财尚宜守正魁罡加四仲為関格人事)俱垂登明日辰；答懷私意夫婦年神各相葱名］無麗主廷分瑟不朗郊用绍；已上言日辰上神交生克吉区
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《大六壬隔山照》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《大六壬隔山照》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

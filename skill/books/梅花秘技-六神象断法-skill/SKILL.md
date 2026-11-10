@@ -1,77 +1,62 @@
 ---
 name: 梅花秘技-六神象断法-skill
-description: >
-  用户要用《梅花秘技―六神象断法》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 梅花秘技―六神象。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《梅花秘技―六神象断法》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 梅花秘技―六神象断法。
 source_book: 《梅花秘技―六神象断法》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 8
 ---
 
-# 《梅花秘技―六神象断法》· RIA++ 蒸馏
+# 《梅花秘技―六神象断法》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 六神不是六爻的专利，在梅花中同样可以用，而且有时用处还很大，怎么分梅花中的六神呢？其实很简单的。
+## 核心原则（常驻速览）
 
-> 《震》青龙，《巽》螣蛇，《坤》、《艮》勾陈，《乾》白虎，《离》朱雀，《兑》本象白虎、可取朱雀象，《坎》玄武。
+1. 六神不是六爻的专利，在梅花中同样可以用，而且有时用处还很大，怎么分梅花中的六神呢？其实很简单的。
+2. 朱雀为电类：电工居住地、凡电皆我管，电灯、电话与电器，木火金同时出现时，电流会击人的。
+3. 朱雀主文书纸类：凡文书、纸、印件类均是。
+4. 螣蛇为丑、丑陋、不好看。外貌不美观。
+5. 白虎主病医：轻则身体不舒服、体力差或很累、或有些小病小痛；重则为病、疾病、病灾上医院看病、再重则为重
+6. 凡与水有关的人或事物：江河湖海、波浪、水流、水利、阴沟、厕所、卫生间、洗澡、雨、湿、水灾、水险、投入
 
-> 青龙主吉：吉庆、吉神、吉详。代表顺、顺利等。
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《梅花秘技―六神象断法》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「一、青龙」相关的查阅/断法/方证问题 | references/capabilities/一-青龙.md | overview / cheatsheet |
+| 与「二、朱雀」相关的查阅/断法/方证问题 | references/capabilities/二-朱雀.md | overview / cheatsheet |
+| 与「三、勾陈」相关的查阅/断法/方证问题 | references/capabilities/三-勾陈.md | overview / cheatsheet |
+| 与「四、螣蛇」相关的查阅/断法/方证问题 | references/capabilities/四-螣蛇.md | overview / cheatsheet |
+| 与「五、白虎」相关的查阅/断法/方证问题 | references/capabilities/五-白虎.md | overview / cheatsheet |
+| 与「六、玄武」相关的查阅/断法/方证问题 | references/capabilities/六-玄武.md | overview / cheatsheet |
+| 与「【变 卦】」相关的查阅/断法/方证问题 | references/capabilities/变-卦.md | overview / cheatsheet |
+| 与「【变 卦】」相关的查阅/断法/方证问题 | references/capabilities/变-卦-2.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 一、青龙
-- 二、朱雀
-- 三、勾陈
-- 四、螣蛇
-- 五、白虎
-- 六、玄武
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：一、青龙；二、朱雀；三、勾陈；四、螣蛇；五、白虎；六、玄武
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《梅花秘技―六神象断法》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《梅花秘技―六神象断法》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

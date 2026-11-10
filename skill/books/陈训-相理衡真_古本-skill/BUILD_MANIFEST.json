@@ -1,0 +1,21 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 6,
+  "published_hashes": {
+    "references/capabilities/2.md": "f0e6ee707926e7f0cf26e88e2d500efc7e05280bba449e52cfb79e0ec2d88dc2",
+    "references/capabilities/三七六.md": "1fd260a422e1496b139cd534d069baaad772f15360ea698a5ef1b5171b8d808f",
+    "references/capabilities/刑妻妾-奸門乃妻妾乙宫豐滿者百雙全枯陷者多刑多奸門太或紋玷重.md": "99c8cfef7ce8e82249f63a1fef9ca747db71230bd0934d5445391cd7faa93965",
+    "references/capabilities/無子-骨生耳瓣弦根而無和氣眉骨眼下骨起眉愁者無子面大屑寒者.md": "0d632892dbcad382512b6b80a785357f783eedea2c0b019dfcc88643c1a0a4cd",
+    "references/capabilities/虎目-倒大照白分明光彩射人使人可畏移作將.md": "116d8592a029331137e04e766f4f1e87c4fb5820d733a4924c468b3ab78e7adf",
+    "references/capabilities/燕目-小间晴赤瞻昂然明達早有聲名.md": "f773f0a719fd7f60b192be06d4cfcd7764e6f2f22dc711b629bdc58333fc346b",
+    "references/overview.md": "0470df0c3a9c5746684d66a4b56dd9199ac65f5d49b4ad537433dc0e0208f120",
+    "references/glossary.md": "c1fa8b4fa2ffd77e281b9adb9a34402de0aa78fee31e677150d5f36097302fa0",
+    "references/cheatsheet.md": "0efbd1fa90cc793a13b463f2ccbd2ea97eda054be03ab2cdebe49327c1e6c9e5",
+    "references/capability-index.md": "c178c6308d445a66f756bdaa8c907e9d5755036f9b7f43c8ab780965d542b94c",
+    "SKILL.md": "9703838339d5826b1f2dde6dd73f452a87d5e06692c1451a0bebf0dd219a641e"
+  },
+  "generated_at": "2026-11-07T07:40:52.811772+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

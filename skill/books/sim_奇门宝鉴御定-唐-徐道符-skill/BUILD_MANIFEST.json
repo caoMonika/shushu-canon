@@ -1,0 +1,18 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 3,
+  "published_hashes": {
+    "references/capabilities/释六仪遁六甲.md": "78d078bedc84b767dba1a7ae2a6c1d33a7d638c994ff88df6a2bcd5b6712b619",
+    "references/capabilities/释勃格飞伏.md": "b3b25441f8ed5ad85765fe0d2b29633e5740c4bf37fc638a52f76fbd1cb8e475",
+    "references/capabilities/释战关背向.md": "ffb842e28c301760ee8a94d4ac7c1199732a1c65563b158ba86dc8649e250325",
+    "references/overview.md": "c58772c6d0094b09bb3c74d684558bf82318d1e076e8b05eefa974ee22b615f1",
+    "references/glossary.md": "b98ff830d6f69a9ed91ffdb444f6df13ce17645f60d7cf5f4dd680fe9f551fdd",
+    "references/cheatsheet.md": "f88736173e06f078d40413ea15c0d0aed78c46eed3fc57166a9e94a529e43a32",
+    "references/capability-index.md": "d029799cd134f267af2858ad549093c0219dcedb44ff227ecaaa056f2514a5a4",
+    "SKILL.md": "37cde313d42d96c36043155965bd9199da15f91e80a779d5a470be13a673ce86"
+  },
+  "generated_at": "2026-11-07T07:41:01.652366+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

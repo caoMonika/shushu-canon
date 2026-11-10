@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/一-本书原文部分-谨遵金人成无已-注解伤寒论-以人民卫生出版社.md": "c08aa50099fee2a301d195faa579f1b04f223871b7ba5e925c79f474c5756628",
+    "references/capabilities/解析-本条论述太阳中风-经输不利的证治.md": "15f2b250349ac24bacd29c9c0cc82dfc9e83d93f695fd9b3e59d9a420eb173ba",
+    "references/capabilities/解析-本条论述太阳伤寒-迁延日久-服麻黄汤后可能发生鼻而解的情况-并指出.md": "a5b0aba8067dd368c1428ef0b0d5a46deac43cb1c48628cbc771106c455202e0",
+    "references/capabilities/解析-本条论述太阳病过汗伤阳而致阳虚水泛的证治.md": "9072dc8a9701a229d56f8a096380c623b47e68731d64186aeffdf2f67eba8eaf",
+    "references/capabilities/解析-本条论述伤寒误用火规而导致惊狂的证治.md": "de757ec36d835aa7f982271b9d4b366b91de4b6698e8c2fbac6a99693e444006",
+    "references/capabilities/解析-本条论述太少并病类似结胸的证治.md": "f40e414e6718f0175daa76df6c94bf8092bd3d4410bb97f1d40fd0aef76e7311",
+    "references/capabilities/解析-本条论述上热下寒-腹痛欲呕吐的证治.md": "ec60b5afe379f01e957499e47565846791f8217e9e0d98b3a865c2378a82f985",
+    "references/capabilities/解析-本条论述燥屎已成未成-可下不可下的辨证-以及大小承气汤的使用方法.md": "e26688c3043ace4718bb34bc1f91b322aad12f70af0372b5ce15f98e14e07b53",
+    "references/capabilities/解析-本条以脉论述阳气独盛于内-阴液不足-而致大便硬的病机.md": "0aa0fc897f7c595c047a9b432273f27905ca039aa8e62fb5860d574935e86c72",
+    "references/capabilities/小结.md": "386c16fac40ad1e76389eddc0cfc77b9a63c0cbbb1939fc5ef5103375c8eb15d",
+    "references/capabilities/解析-本条论述少阴阴虚有热-水热互结的证治.md": "502f831af432df6d806e6c726d2ea5c7a09386f60afddc03e6913a9fb6671c57",
+    "references/capabilities/解析-本条论述厥阴热利的脉证.md": "3e35a2e7382035510df90c63d1ca18266401fc224ab8a31ead699a1fadf4fd12",
+    "references/overview.md": "ce96aec447636db941bd6e578b93070e43aeb2cb2d84fb4be9a8a28f562e6f8a",
+    "references/glossary.md": "c8a7d57dc931ae67ac78dbaa9c915d2a9ccb44fe63f640d5a8eb76b4170f6157",
+    "references/cheatsheet.md": "2a40ff163346df1366318a57edb4a540a3ede3ed75805aa551a1fd9af941ff09",
+    "references/capability-index.md": "abe97c7ba21ffb0266c02bbb5dcd60969f3771e146cfab166b313c11dceab419",
+    "SKILL.md": "44861421431fcaa48fc423b7d4eeb44d7a329116b8ec2170058c53c8c153f289"
+  },
+  "generated_at": "2026-11-07T07:41:00.247360+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

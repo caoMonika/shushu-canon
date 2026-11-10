@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/第四章.md": "5c6631bcad9bb02112ce6d2aafd1b46a945514f4ee7295c543463cf19fedeac0",
+    "references/capabilities/第二章.md": "1baba03f93f7f647cc05cabe9dab827d279b749793d5d7a52da309ba9fa7b461",
+    "references/capabilities/7-外二水克内交-时常有外人找麻烦-二水与亥.md": "9a626cbfeb891785171bde015d109d6f1a8f59a0b7562c6f59eb2f1445f2448d",
+    "references/capabilities/4-神克将为.md": "b907885f6faba9aede4eac573a564b982c81e454e3e1f74aaec1fac78a71716b",
+    "references/capabilities/是-了凡四训-的第一篇.md": "86f284dc25171d899662c1d5faf4bacac06c44f8c251347ac8d3cfd840b923f4",
+    "references/capabilities/是-了凡四训-的第二篇-分成四小段-第一-改.md": "05dd9d2dd158c889bc682132aae72afa00ff0eb30582af1f185c5566dbcb47ed",
+    "references/capabilities/1.md": "b3095ae24a06e51b3ba0ae7e07f68f0580ff7d384db9ef854339bed85ae51b03",
+    "references/capabilities/六-兴建大利.md": "c00b3b5e46612705cf075a4dfb5a5bdb36bec0edb1d36d6548bcbf56a5944869",
+    "references/capabilities/二-爱敬存心.md": "6b52e3b0f7b2053607760cda5cee5efc3750f149aec6df2b4a2596d0b3200783",
+    "references/capabilities/这是-了凡四训-的第四篇-主要是告诉我们.md": "b2e1b9032c5e90ed8af271d3662454038c3199e03170bcbb9325ff5544ec92a5",
+    "references/capabilities/1-时.md": "a447b5a066e0ad9354e1f24f6829029897940c83a7310fd815dfb315f564e06f",
+    "references/capabilities/6-妻子.md": "5953c0d17e971e8ad7f5120396403cf885704689c76afac9e4ac830508053291",
+    "references/overview.md": "33780dd3839b36914ad9b3f3030b12244d1ff1dbf23f804f60243a52a84005bb",
+    "references/glossary.md": "7dd335313499ea45a85db70c8ec02a255bf67b9a78e7fcb9a96cf524ffdd49f6",
+    "references/cheatsheet.md": "2f752eb580c043ce902b0d984efc2d827bf928dc463c4a42ff31043d11f47ddc",
+    "references/capability-index.md": "786c06656952d9cbcc2140bb771186e9fe28ec809f516cbf031226c0655877b2",
+    "SKILL.md": "e009b9a045c3c0d6e59a6ce1f7027da0c4451bca330c414b057293d8a4044c75"
+  },
+  "generated_at": "2026-11-07T07:40:53.897711+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

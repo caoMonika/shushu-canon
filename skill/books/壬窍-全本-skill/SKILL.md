@@ -1,81 +1,59 @@
 ---
 name: 壬窍-全本-skill
-description: >
-  用户要用《《壬窍》（全本）》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 《壬窍》（全本）。OCR自动蒸馏，请核对原书。
-source_book: 《《壬窍》（全本）》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+description: |
+  用户要用《壬窍（全本）》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 壬窍（全本）。
+source_book: 《壬窍（全本）》
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 5
 ---
 
-# 《《壬窍》（全本）》· RIA++ 蒸馏
+# 《壬窍（全本）》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 總看日辰上下要日辰上下旺相相生。辰生日或
+## 核心原则（常驻速览）
 
-> 凡欲修？造陽年以大吉加岁支陰年以小吉加岁
+1. 請占丽可通用者錄凡占數夏以冠其首则
+2. 兮總论看法類神诸煞四條
+3. 而辰为相戌出未宋得言相云未旺春者以未火
+4. 凡為外家神◎陰陽而@
+5. 但凡五行在課傳年命甘辰不
+6. 占雪看陰龍后元蛇虎合成未已丙辛
 
-— 《《壬窍》（全本）》（OCR）
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
----
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「六.陽更主顯達」相关的查阅/断法/方证问题 | references/capabilities/六-陽更主顯達.md | overview / cheatsheet |
+| 与「二.孤春月春也用」相关的查阅/断法/方证问题 | references/capabilities/二-孤春月春也用.md | overview / cheatsheet |
+| 与「二、」相关的查阅/断法/方证问题 | references/capabilities/二.md | overview / cheatsheet |
+| 与「二、符」相关的查阅/断法/方证问题 | references/capabilities/二-符.md | overview / cheatsheet |
+| 与「十.心」相关的查阅/断法/方证问题 | references/capabilities/十-心.md | overview / cheatsheet |
 
-## I — 方法论骨架 (Interpretation)
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-- 金既書興義類摘四卷及後附止戈集一卷而
-- 卷一
-- 卷二
-- 卷六
-- 卷五
-- 卷
-- 卷三
-- 卷十
-- 卷
-- 卷
-- 卷七
-- 壬霰卷一目次
+## 加载规则
 
-摘要线索：金既書興義類摘四卷及後附止戈集一卷而；卷一；卷二；卷六；卷五；卷；卷三；卷十
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
----
+## 边界与判停
 
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《《壬窍》（全本）》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《《壬窍》（全本）》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

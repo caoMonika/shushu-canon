@@ -1,83 +1,66 @@
 ---
 name: 伍建宏-数术大六壬预测函授面授讲义-skill
-description: >
-  用户要用《伍建宏-数术大六壬预测函授面授讲义》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 伍建宏-数术大六。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《伍建宏-数术大六壬预测函授面授讲义》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 伍建宏-数术大六壬预测函授面授讲义。
 source_book: 《伍建宏-数术大六壬预测函授面授讲义》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《伍建宏-数术大六壬预测函授面授讲义》· RIA++ 蒸馏
+# 《伍建宏-数术大六壬预测函授面授讲义》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 早在南宋时期，中国历史上有两名大哲学家，名叫朱熹和陆
+## 核心原则（常驻速览）
 
-> 九渊，他们围绕一个“无级”与“太级”的问题，进行了长达将
+1. 事物的产生是不是确实必须经过一个“无极”的状态呢？
+2. 实际上，这些看法都是对无极和太极不太了解的缘故。太极
+3. 的无限广大，无边无际，就象近代物理学上提出的“以太”的概
+4. 念一样。所谓“以太”就是在我们生活的宇宙中，还存在着一个
+5. 运动中，可以求算出我们宇宙的运动速度。但经过无数的科学实
+6. 验证明，这个“以太”是根本不存在的，即使存在也无法发现。
 
-> 近半个世纪的辨论。这场辨论是中国哲学史上意义极其重大的一
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《伍建宏-数术大六壬预测函授面授讲义》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「八、九则成为具体的有形实体了，这些有形实体的运动，就出现」相关的查阅/断法/方证问题 | references/capabilities/八-九则成为具体的有形实体了-这些有形实体的运动-就出现.md | overview / cheatsheet |
+| 与「三、变数、极数、衍数」相关的查阅/断法/方证问题 | references/capabilities/三-变数-极数-衍数.md | overview / cheatsheet |
+| 与「[·2]·」相关的查阅/断法/方证问题 | references/capabilities/2.md | overview / cheatsheet |
+| 与「二、推属相（或叫推本命年）」相关的查阅/断法/方证问题 | references/capabilities/二-推属相-或叫推本命年.md | overview / cheatsheet |
+| 与「（2）记住“单照双冲”的规律·所求出每」相关的查阅/断法/方证问题 | references/capabilities/2-记住-单照双冲-的规律-所求出每.md | overview / cheatsheet |
+| 与「二、生」相关的查阅/断法/方证问题 | references/capabilities/二-生.md | overview / cheatsheet |
+| 与「一、五不遇时·时干克日干为五不遇时也，亦有时支克日支为五不遇时之说，」相关的查阅/断法/方证问题 | references/capabilities/一-五不遇时-时干克日干为五不遇时也-亦有时支克日支为五不遇时之说.md | overview / cheatsheet |
+| 与「一、天地盘」相关的查阅/断法/方证问题 | references/capabilities/一-天地盘.md | overview / cheatsheet |
+| 与「五、十二将」相关的查阅/断法/方证问题 | references/capabilities/五-十二将.md | overview / cheatsheet |
+| 与「八、神煞」相关的查阅/断法/方证问题 | references/capabilities/八-神煞.md | overview / cheatsheet |
+| 与「十一、总论」相关的查阅/断法/方证问题 | references/capabilities/十一-总论.md | overview / cheatsheet |
+| 与「七、八月气数不足，办辜不容岛成功等等。」相关的查阅/断法/方证问题 | references/capabilities/七-八月气数不足-办辜不容岛成功等等.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 第一节无极太极说
-- 第三节太极变异与三生万物
-- 第四节“三”与四象
-- 八、九则成为具体的有形实体了，这些有形实体的运动，就出现
-- “第五节八卦与六十四卦运动
-- ：·第六节：八卦与六壬时空体系
-- 二、生数，成数
-- 一、数的原理
-- 性，它们是不变的，为天地本数（见第四节），因此称为“四初
-- 三、变数、极数、衍数
-- 二、二生三、三生万物”呢？这里的“三生万物”和五开始生万
-- 四、本数、用数、设数
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：第一节无极太极说；第三节太极变异与三生万物；第四节“三”与四象；八、九则成为具体的有形实体了，这些有形实体的运动，就出现；“第五节八卦与六十四卦运动；：·第六节：八卦与六壬时空体系；二、生数，成数；一、数的原理
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《伍建宏-数术大六壬预测函授面授讲义》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《伍建宏-数术大六壬预测函授面授讲义》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

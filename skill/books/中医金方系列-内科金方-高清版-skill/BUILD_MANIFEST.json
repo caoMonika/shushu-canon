@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/91.md": "3ced5147c588c4274af6bc863bb23c1d7fbdd86a14d3772630ea4e0f03f64f58",
+    "references/capabilities/药物组成-黄芪-30-克-黄精-30-克-当归15-克-茯苓15.md": "b5145fe6ef9493bb8d1d5fdc137d02e1a618449403e3d389bfbc7e5d86e36eeb",
+    "references/capabilities/5-右上腹剧痛-类似胆绞痛-疼痛减轻后-大量呕血与便.md": "2b5482c88b6864147ca267956e6bdd01f74b86da7f7c896e328a00625aabf910",
+    "references/capabilities/适应证-肝硬化腹水-湿热中阻-腹胀膨隆-两胁胀满.md": "b066db3c5a680dae9c37c6bc9b52bbc5243febe275282a0a41104b31dcf88af1",
+    "references/capabilities/用法-上药先用冷水浸泡半小时-再煎煮2次-药液混合.md": "d8a848a272a720697ae404d4bb896bb139725e89e91a30deec109a6b87321d1c",
+    "references/capabilities/四-心肌硬化.md": "301a1a12eede1a9e2d0b3a3a47ec10baf3e8d09d9771fb30504e144e989ae315",
+    "references/capabilities/药物组成-党参10克-白术10克-茯苓10克-陈皮10.md": "27d3b0c18aeefbed9c0dd03480a2fbe07df70350f9e0bedd7b24f1c412d3272c",
+    "references/capabilities/药物组成-银花15克-连翘15克-生地炭15克-丹皮.md": "866c38c8b2d410e609e7661a3d2a82759d3fa9b86ff4641d52c3bfa050f225e1",
+    "references/capabilities/药物组成-桃仁10克-红花10克-川芎10克-当归10.md": "0f68ae7d42bb25ffa597a046e44eed1cffdb13cd8827e654087a7f59ed554622",
+    "references/capabilities/药物组成-川芎30-40克-当归10克-蜈蚣-研末冲服.md": "19a3e25b219f39a211322daa204efcd56d791c2dcc328221b00bae3bba2c06c7",
+    "references/capabilities/药物组成-柴胡12克-当归12克-白芍12克-香附10.md": "c771a6ba18efb3bafea2c07ff98a8812e85e8a4fc4c0330a602fdea9c348a663",
+    "references/capabilities/药物组成-生半夏30克-生南星30克-花椒30克-细辛.md": "a5500272090023cc29b3b773ecb9cdd81a91953d24361f995f576e551aa8b0a9",
+    "references/overview.md": "241dce8647f608fc1db280f123af837b6b27dc68b05ba92fa1cc32ef3c2b071f",
+    "references/glossary.md": "5d429e2e8a49791315577967ad8ec0a30ffa1ec6338aaeed5082670834c14a0f",
+    "references/cheatsheet.md": "f4666c2a299e40cb8e829916533f6ae9f4e146ba51a536881dd22f6770c7f01b",
+    "references/capability-index.md": "11bf72596708cde3e3b1d08115a0a5ada578db770f9f0c2bedc2a9bc806e8c76",
+    "SKILL.md": "45d8aba6fda0d75e7e36f773eb4f03a5f11ffb1f76e8c4c7e4e400c84789e3df"
+  },
+  "generated_at": "2026-11-07T07:41:01.569880+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

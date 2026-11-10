@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/第一章-六壬术的易占原理及特色.md": "5e5ed38ec65425d7d828b931acf416f17ae5014b806cbfc5ceb1a4ac66fb97f3",
+    "references/capabilities/天将的意义及作用详下第四章第三节.md": "bc6921c33bcd2aac7ea89859abf2f4a42e4bf54deacbd12d741a7e3f694f2541",
+    "references/capabilities/本法所衍生之课格-见第五章第二节论官鬼-在此不再.md": "546c7600bb1d6b56c43b642f07b529f5440bcb2ee441120b0a610d4d4f33e8ad",
+    "references/capabilities/实例-2-测测我与女友感情发展如何.md": "aeaac0a2d5cca88f575235a9a17d748f6a90a9eb7747a3c54289a5fe57f0d0d4",
+    "references/capabilities/结果-次年春得知-此人考得总分294分-尚属不错.md": "d3109bddc2a1eb689b39ba8bffe8673196c9367d60280c311bbf5dca4e396225",
+    "references/capabilities/第六章-人体疾病预测.md": "17744ed8d211e59e8512096a4f7c30702200b9e28a77113e93360edb4a278d31",
+    "references/capabilities/结果-唐老师反馈-我妻今年与合作者共四人一起.md": "48c0351632d74b42ba59c81b2e6c72b9302d4250f2b01e8f7c504c2264aacad6",
+    "references/capabilities/实例-12-幼儿智能训练班发展如何.md": "6cbc713fc8899f11c8fff9c3174eb33ecef099a2e293bc6fa5c7cc7465ba74e9",
+    "references/capabilities/实例5-出行长沙打工顺利否.md": "7bc006f17fcd827b471ca0cdeca70eb2320c50ec252b887ebe845b3e86cdbf8e",
+    "references/capabilities/结果-8点28分-在卧室东面的书柜里的书内找到.md": "9f7ae375638aff9d8ff617223591fa9e2c36d224a5d61ab07c0a96893f3475bf",
+    "references/capabilities/实例3-宋-邵彦和案例.md": "422f898d1cb918345740bb5edfccdb27d6418cb20f281d2b5ade9b02e56333c5",
+    "references/capabilities/实例5-看我财运及吉凶如何.md": "a5b8d6e681c6835ecba351c0ce30d64e73e6b1c0a2e4bbac9e9a1af3876754f4",
+    "references/overview.md": "f78b310b11d7da6a55fe74856c19b6bde0cf8d52af7376b42483311c5adc8d3f",
+    "references/glossary.md": "b13f7fbceac7cd53e06dd3c5e6e41f3791b4589d4d287165a8be1f2bba48401c",
+    "references/cheatsheet.md": "9c6c254b68ab953fb84b88e2cc8ed3539cda79f88b4a8016b09d19ea5d4e7b6e",
+    "references/capability-index.md": "fbbf60ed70d4b655a621653890cce826e9d24d9ebec998771bf6f8ab75e143e9",
+    "SKILL.md": "bc4dd5a2751f576bdff7c6ee4ed54a52084fcaa58b0d27f844e1cd140121235b"
+  },
+  "generated_at": "2026-11-07T07:40:55.996760+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

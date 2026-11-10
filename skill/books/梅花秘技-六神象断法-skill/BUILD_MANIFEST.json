@@ -1,0 +1,23 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 8,
+  "published_hashes": {
+    "references/capabilities/一-青龙.md": "0236f2803549a91e3ddcd6febaf0fd53d3dd3388accc0efc19257db7a0cfe196",
+    "references/capabilities/二-朱雀.md": "27c0aeec3a6659b40ba0d0cbe7116a28ee72cadf68f12c9f6103f72433ef3c64",
+    "references/capabilities/三-勾陈.md": "ce516c1c73716daa9d338f3132b2f8f2867b3f64cfe6e0a0930c9f202313d24c",
+    "references/capabilities/四-螣蛇.md": "3d9d83c6780c67e6337373ad1056f109eb6acd3b03520e2e9bcbc73326a0494d",
+    "references/capabilities/五-白虎.md": "b3133ece159c2275bab87f02886eb79a29753d7f722f6f3add8e3cb21ddb6f32",
+    "references/capabilities/六-玄武.md": "eec3dad272534a7b577dadc226a311cb3f58cf1d3131c8bfbd10ccdc911d5eec",
+    "references/capabilities/变-卦.md": "4553620f1be62744c49d68e32d087067289cf65edfce51915708c385ce721a28",
+    "references/capabilities/变-卦-2.md": "3dc9d908d6c19265bdc455db006c94c91a1a8f1ae1b896a7d3e936ba9f2eeef7",
+    "references/overview.md": "84240ec5e7cac81a77eaa9b970d5dfa2b6692df400702178a2263383d266924a",
+    "references/glossary.md": "331f76d414e760a06d29b8e686c008db483d0ad22ea5cb67564ec61fb57a29ab",
+    "references/cheatsheet.md": "228d1585287498f61b2a95d648ecf0e057a001c73d116ad0ddac87aa1e30e0fb",
+    "references/capability-index.md": "f2afa7ceb1c5ec973d7370ec7346fcc8cb45d57c0390cf49a2d3e20210c58b1d",
+    "SKILL.md": "6c83db341f42c0236012190bdca07dd4c334a01ea803c2dac637ef6ae606c64e"
+  },
+  "generated_at": "2026-11-07T07:40:54.835546+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

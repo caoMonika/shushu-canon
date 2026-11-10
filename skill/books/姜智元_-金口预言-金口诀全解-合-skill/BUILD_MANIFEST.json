@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/第一章-名词解释.md": "7dd94b002bf08ddd0da90a8c6ca458e9b7291484299c66a433cdf3b638253cd0",
+    "references/capabilities/第三章-金口预言简介.md": "6956a65ddb73c4e2d8da4a668f4f3dc1ee46dd3e2e964c8a08e39b920ee1c606",
+    "references/capabilities/十二-十二地支幵贵神所主.md": "384b39a0e36e57410357b8cb8360d07e86676ecca6f2a37972e0a2f2d5ff6942",
+    "references/capabilities/二-天干生克所主.md": "806f4e5d84490c5055e8b6d455afdbed672c1372f7857502b2a26cf3124ce799",
+    "references/capabilities/4-产圅-庚兟遁为辛-庚辛为西敕-过拜位乕住房西辪癿匚陀生产最央.md": "ddcbaaafd0c81bf595f2a09ecef24faf41217603358c6649ff665798bb77641c",
+    "references/capabilities/一-四位亓行所主.md": "cc8f6eaf89799dbf5a442434a51aa93c2e341a82862c959b2a9d46d7cb7c3463",
+    "references/capabilities/八-三才赋.md": "7e50dd09b140fdb99aa33d25d17e7005e8c564d5d018d4acb35b8020c03b2f01",
+    "references/capabilities/六-占孕育.md": "d3d1923ab87685a2530fa0c5180e3d5331684b90f13ca42496179e9ea52a89b4",
+    "references/capabilities/二-射覆歌.md": "7d7242763072aaff1eee9c446ced92ef5a488c08012c780f3e9739da477da741",
+    "references/capabilities/三-占宅外景入式.md": "f312210772524372e387df86d80c39a3d9b316bcbad52ca2b3cd918876194b84",
+    "references/capabilities/三-占墓吆凶.md": "17c9f813f643fb8ab20e99669a47b911a95da2c9d507fe255002e3e299c9ccd4",
+    "references/capabilities/2-长相-水圁面孶黄-水朐青黑-水釐白艱-火水黑粤艱-阴火阳水-阳火阴水黑粨艱.md": "94bd037128d77392072b233ea3a209c219916b1faa50c13f95dc8593be791f42",
+    "references/overview.md": "5f9a4b2a378f7dc213c188dbfde467535a8cca739fe929015579f1f4b98b434f",
+    "references/glossary.md": "3660556c883a27733efe5f83ecf4204fc2b0c3c13c5faaa0b1764676a00989e7",
+    "references/cheatsheet.md": "406277205d2fd4bfc030ff243a69c746a3c7231f675db3cfc18527aa65db5629",
+    "references/capability-index.md": "1e4d22bfd24e00ed494e97e3ef203b8a9ee5697128a82f1a6b6817b93d2491ec",
+    "SKILL.md": "d0316aea164d3ed5e7802d3cec89834d90e99e9e245750b3d7230b503a11e1aa"
+  },
+  "generated_at": "2026-11-07T07:40:54.440505+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

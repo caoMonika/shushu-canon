@@ -1,83 +1,66 @@
 ---
 name: 壬学精华-skill
-description: >
-  用户要用《壬学精华》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 壬学精华。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《壬学精华》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 壬学精华。
 source_book: 《壬学精华》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《壬学精华》· RIA++ 蒸馏
+# 《壬学精华》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 第二节三传九宗法推演三传的九个法则....35
+## 核心原则（常驻速览）
 
-> 第三节六壬预测的具体分析思路及占断要点...211
+1. 测学的历史发展来看，到目前为止，唯有大六壬和奇门遁甲
+2. 以开发人的智慧及逻辑思维能力。精通此道，在现代的经济
+3. 到它，正因为它的准验率高，使我研究一发而不可收。在这
+4. 要想学好大六壬，必须要弄清大六壬成式的法则和阴阳两仪
+5. 及三才之间的关系，以及式中各因子呈象演变之规律。
+6. 为了大六壬得以普及以致应用于当今社会，为民造福，
 
-> 《易经》是中华民族最古老、最珍贵的文化遗产，也是
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《壬学精华》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「第一章”六壬术的易占原理及特色」相关的查阅/断法/方证问题 | references/capabilities/第一章-六壬术的易占原理及特色.md | overview / cheatsheet |
+| 与「天将的意义及作用详下第四章第三节)。」相关的查阅/断法/方证问题 | references/capabilities/天将的意义及作用详下第四章第三节.md | overview / cheatsheet |
+| 与「本法所衍生之课格，见第五章第二节论官鬼，在此不再」相关的查阅/断法/方证问题 | references/capabilities/本法所衍生之课格-见第五章第二节论官鬼-在此不再.md | overview / cheatsheet |
+| 与「[实例 2] 测测我与女友感情发展如何」相关的查阅/断法/方证问题 | references/capabilities/实例-2-测测我与女友感情发展如何.md | overview / cheatsheet |
+| 与「[结果]：次年春得知，此人考得总分294分，尚属不错，」相关的查阅/断法/方证问题 | references/capabilities/结果-次年春得知-此人考得总分294分-尚属不错.md | overview / cheatsheet |
+| 与「第六章 人体疾病预测」相关的查阅/断法/方证问题 | references/capabilities/第六章-人体疾病预测.md | overview / cheatsheet |
+| 与「[结果]：唐老师反馈：我妻今年与合作者共四人一起」相关的查阅/断法/方证问题 | references/capabilities/结果-唐老师反馈-我妻今年与合作者共四人一起.md | overview / cheatsheet |
+| 与「[实例 12]  幼儿智能训练班发展如何」相关的查阅/断法/方证问题 | references/capabilities/实例-12-幼儿智能训练班发展如何.md | overview / cheatsheet |
+| 与「[实例5]出行长沙打工顺利否」相关的查阅/断法/方证问题 | references/capabilities/实例5-出行长沙打工顺利否.md | overview / cheatsheet |
+| 与「[结果]：8点28分，在卧室东面的书柜里的书内找到」相关的查阅/断法/方证问题 | references/capabilities/结果-8点28分-在卧室东面的书柜里的书内找到.md | overview / cheatsheet |
+| 与「[实例3]］宋·邵彦和案例」相关的查阅/断法/方证问题 | references/capabilities/实例3-宋-邵彦和案例.md | overview / cheatsheet |
+| 与「[实例5]看我财运及吉凶如何」相关的查阅/断法/方证问题 | references/capabilities/实例5-看我财运及吉凶如何.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 第一章”六壬术的易占原理及特色
-- 第一节
-- 第二节太极阴阳与五行.
-- 第三节六壬术的占卜特色
-- 第二章六壬术的基础要素及其作用
-- 第三章六壬课式的起法..
-- 第一节六壬起课的初步程式
-- 第二节三传九宗法推演三传的九个法则....35
-- 第四章六壬预测的判断依据
-- 第一章天时气象预测．
-- 第一节论八煞.
-- 第一节古人判断法则注解
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：第一章”六壬术的易占原理及特色；第一节；第二节太极阴阳与五行.；第三节六壬术的占卜特色；第二章六壬术的基础要素及其作用；第三章六壬课式的起法..；第一节六壬起课的初步程式；第二节三传九宗法推演三传的九个法则....35
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《壬学精华》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《壬学精华》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

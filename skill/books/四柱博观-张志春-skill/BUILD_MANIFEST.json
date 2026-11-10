@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/17.md": "45fcc06c5f77a21748110125b6ef87f1aa481ba571d510ca90eff3659e3c9fda",
+    "references/capabilities/第四章命理演绎思维模式.md": "a96e195ab45f8b66b3659c1190542c946a654cfb8c841f11c1f114d555571542",
+    "references/capabilities/分析-本造日支为戌土-弱日主-以戌中丁火-戊土为喜.md": "f37928a59ed87c40c53589ffaa98ac059a6cb06ccd7f7c5e7828614f6ea4b9de",
+    "references/capabilities/第五章重点操作原理.md": "574fe1bacdd321f17e83083664fa422e8b2dfd36aa2fc58bccdc8c4a6094a80f",
+    "references/capabilities/评析.md": "5cb928ae3e32da682eda921931792cfbcf92b38a663049d68557004c2b81b4db",
+    "references/capabilities/天德.md": "6808d287f9a1ffa54947bb7b3b5fa522fb16a1b174d86e2ca482556bed16e8dc",
+    "references/capabilities/第五章重点操作原理-2.md": "433132b153d70db8a5b987882484c76b96a9896baa28384272b74125541823ae",
+    "references/capabilities/第六章命理实例案析.md": "b9326649f6bda0fbc5044061a51b21153b793a5d5f26ad98c3389697b665829f",
+    "references/capabilities/3-作为夫星的丙火在天干与日主相合-丙辛合-又坐在.md": "64e33fbabaf5065a85e4ba22201792f9703461da3f7bcfd288469d9f285a0cd1",
+    "references/capabilities/分析.md": "5327af08c00d280489e8a75f928450ec04909604d71a382839005347334ac390",
+    "references/capabilities/经证实-癸亥大运-天干-地支皆水-土弱水旺土寒.md": "6c10a3f3601da445d18fffb77b5097c5957c2aef8e9ad76a0984bed3bf58e6ba",
+    "references/capabilities/3-这个人会很有钱吗.md": "e12613e0acdfcace5493f9684cbed76e56df1a1459267de6b54fa1ef53115ad0",
+    "references/overview.md": "257e5f3037a0558abdb10326c9e9010ac1897826790c1f14edb5b658cd5557c0",
+    "references/glossary.md": "f3a1f187f3faa630fe6a087deb4b826efad979c7732bb116562313b78516e4f5",
+    "references/cheatsheet.md": "311430d030a915847b7a3789813dbffbba8257a68df26453f858410434a3b28b",
+    "references/capability-index.md": "d85e4f3dc20fca2520f19ee286e0f92a12721182ad2d5c98b24b898b458c38ec",
+    "SKILL.md": "dd30726b9b926027075983ea6153a8ace6cbab13c3ca7a43958b415a6fb9f755"
+  },
+  "generated_at": "2026-11-07T07:40:52.038374+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

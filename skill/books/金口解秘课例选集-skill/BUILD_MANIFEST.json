@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/三-干支相配.md": "205ba849a49ed38834e58099a42db55f790a2c607f853934ef54832d36f985cb",
+    "references/capabilities/一-占人的流年运气-84.md": "00c1f71a0ed72a5a03bdcae976ea565ddc3665afa836eddfbdb0be03ed2acb76",
+    "references/capabilities/四-占子女-1.md": "c291a5bb97347dcf2ea4404b8056e3287c9aab4fe0544e2efe67e3f529d405b5",
+    "references/capabilities/一-占住宅.md": "bb4bea4f9a2d44045c2bde4c752f83b99e4756c96ea95fae0153970a7d4969bc",
+    "references/capabilities/四-死灾三例.md": "8cbc72098ccd973df1eb15449552c5c2c51fdbeb94be66d58d11377eab970fb0",
+    "references/capabilities/1-一个木葫芦-胜过五千元.md": "6bddc420316d79d0437c03d0c20e7187f46c79feca7693abd88f664c1d7b81a8",
+    "references/capabilities/3-一块红布遮窗-收入翻了三番.md": "e3d2c05afce1fb9038895f4baacf9ebc000c6305b58b3e96073b86a02af2f311",
+    "references/capabilities/4-信仰不真诚-头上留-记号.md": "30049267c318a88e2338c85887c94ef961a8a3e7b225298d5f408ae24f8739eb",
+    "references/capabilities/5-穿上黄衣服-三日就见金.md": "37f8dddabd852175bca7c4f31485989f61aa45a0d9bc94108e4216c207084a14",
+    "references/capabilities/1-神在课内得生-生年提拔-神在课内遭冲-冲年不顺.md": "5f496ba46f9184b89e71ede65ef3fe402c7ed9a0d7cd319e0623f781cf873712",
+    "references/capabilities/3-空亡分局课-失职志难伸.md": "ccb87e76232744f91620940a8f9c35dbb6c9bdf9fa13c60d8a3e43db54b5c4e4",
+    "references/capabilities/4-领导关系搞不好-经常穿小鞋.md": "72c78f3fe1b4d6eb9a752fced1dc6084ae615e9ba7c8c14a9ce51434611edf99",
+    "references/overview.md": "f263922147b3db56849cf70fbad31e0d9a23a6eba50a96638b947f81200b4164",
+    "references/glossary.md": "f1816ff816c82ea173742cceb383b704fd01ed8e0597a324f1bd0cb517134ab4",
+    "references/cheatsheet.md": "815f7d6d80da672977d71d7c248a0cc2c524f6b2e8b7719e43d692e21c2aa85f",
+    "references/capability-index.md": "77c3fdaac564976f4b31dfc014ef62b81c09334407cde8c2bafa3920aa5e7007",
+    "SKILL.md": "90481672821d425b58e11d9456c8caffb7b873832b75c3662fa8202dde133291"
+  },
+  "generated_at": "2026-11-07T07:40:53.935966+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

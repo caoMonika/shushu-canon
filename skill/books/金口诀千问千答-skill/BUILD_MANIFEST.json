@@ -1,0 +1,22 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 7,
+  "published_hashes": {
+    "references/capabilities/2-问求财-以贵神为财-人元为主.md": "927eb78b11b1e8732cc30e5679f5c5ad0ae687e9e4be2a69b2a24016bacf6f54",
+    "references/capabilities/9-地分生将神-婚姻喜美-子女孝顺或子女有名誉.md": "9e33959a921f4c82b4b1d129ccb905c40c2bc4204e2fbe84fae6e556ac4035d6",
+    "references/capabilities/四-受生者为旺.md": "dda1f5f92bd1aac626b1050c0fd33048ca0b828ec95396a5655a1c7ec1193d95",
+    "references/capabilities/2.md": "ae11e0093a415944bf26a6d402c1ad0df3f8f2eb398f7baf45322e8e015189b2",
+    "references/capabilities/2-甲己日在巳午方-癸日未方-乙庚日在寅卯方-丙辛日.md": "5294b1435895ef859017864765547c816003989d14b11e8c92137b1f6b7d958b",
+    "references/capabilities/一-戊寅年-癸亥月-甲子日-己巳时-以属相巳为地分.md": "b5048f3832d717cf41ca61a7b697827a5800ddd3c9d8e7520eae161364b74961",
+    "references/capabilities/二-戊寅年-癸亥月-乙丑日-甲申时-某人问官运-卯为.md": "5784a2233ce7adb1bb0512fc30d645d9d16f0e488616f99afe6470a399c056b0",
+    "references/overview.md": "f3991ed2c6b3d69236822bd56bd7a249e7f997b96ef943888825f68b1895ccfc",
+    "references/glossary.md": "8fabdca99ea19f313149668a59389db06c5b5d125e1ac06ba0c3cb99cddea6f7",
+    "references/cheatsheet.md": "582cef8d69366b72ee9d78ee8e3fd49381e4ffb56ec70b95e1f346c26b8d6180",
+    "references/capability-index.md": "172be04c3f93acc6ad442d0d326de38c8083ace553678d0bc0f42b685a8f70ae",
+    "SKILL.md": "664826c23bd5edc6b12d5eb91d06917026988199249c4ac5dcde151af97d1942"
+  },
+  "generated_at": "2026-11-07T07:40:53.987727+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

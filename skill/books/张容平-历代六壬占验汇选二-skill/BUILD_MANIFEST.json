@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/出師-持久和解.md": "9f0462b32ba975d3785098c0350a8b25505869e549c7737c76620e4acc279a6f",
+    "references/capabilities/天時-天罡指陽-水母空陷-木局主風-晴而有風.md": "ca7da0216e2be8f19e85a2d42e1f871575688a51693a5f348dab823765943450",
+    "references/capabilities/兵-慧占不寧-夜占得金寶-然须謹慎-不可輕澈.md": "3fa014bf13631713c677405f361aff2a6a1b9ce084514cbe3397d8a93b07ea60",
+    "references/capabilities/天時-陰晴不定.md": "18758786808fd93d95417f19ce013b57f7440fafb1776ffe673f5bf26a30b288",
+    "references/capabilities/2-九月節後子丑日到.md": "9d94d3d629334c1303cc4f2dfdc62539282eeea412a07cb2221df1989303bd34",
+    "references/capabilities/天時-陰雨多.md": "2469425060e0c51626316cb0435f940c6fd3c05cbfa966ad9a58d7c129913060",
+    "references/capabilities/天時-忽陰忽晴-置占密雲不雨-夜占閃電大風.md": "9e8b2a6acd2a6ba29d82b0e6a7d0e6b088cfbb4e5b647ea2d062c0fbc904329d",
+    "references/capabilities/失脱-不獲.md": "a4965f27e1abb6df33ebff18b6009bf44045b868a127735fa18046b015ad43dd",
+    "references/capabilities/投.md": "1607dcdffb733d15247573de9e83bbba46443b673f883057faf02e4ecd4784fb",
+    "references/capabilities/婚姻.md": "8455cf5a62f11f920457d29b949aa377dc7658a74494cbf8ea58fe8b3bef71f8",
+    "references/capabilities/遗失-玄武臨酉-恐為奴所.md": "5f53758df52b067384bbb9ff6e3810185fc589999229f82dd1cf54901ae208f9",
+    "references/capabilities/出行-睦路不吉-水路稍可.md": "394738385738e4398afddab39b2abef836cf7f018ce253c96a97f1b9e522c7dd",
+    "references/overview.md": "229e3035960377e310c7e9878baac2ed174d15affe05b84c844c29136700e249",
+    "references/glossary.md": "01a092120959a40e786d2b729431bbc751606ea93286ad48c22af299d3c69fe0",
+    "references/cheatsheet.md": "d7a83cedc8c7837b56c82c61faf4e0a13e5fcabee6bc5cb672863ea405e8a8f3",
+    "references/capability-index.md": "4e0c435da062fbf38b420ce2e115e32b54f4cf404ba19226a18185e353250fd3",
+    "SKILL.md": "b8474118538a17ad5691b6633caa0984f4093ceddc16b7cda34ec54ba7ef76a5"
+  },
+  "generated_at": "2026-11-07T07:40:56.994707+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

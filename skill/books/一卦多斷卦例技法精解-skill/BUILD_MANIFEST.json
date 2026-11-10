@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/四-五爻在離宮-皆主文明-文化的象徵-所以說佳運漸開-搞周易.md": "aec76286b847b16aca2e8bed6ce98fed70ce04fbe4cee82e405a45f8538928ce",
+    "references/capabilities/七-八-九月份都有事-破了大財.md": "a2525bca0894faf92526b1138d1e9469223b7d4d030a78f7861e91bac94fe01a",
+    "references/capabilities/二-占合同能否簽成.md": "2f7d107fcf27e260840f83b208184126a61dcd19a397c812d6350090b739c3c6",
+    "references/capabilities/2-上六爻戌土獨發-變出官鬼巳火-臨白虎-筮學指要-雲.md": "b7baf3bdc5bff017bba3a539fa89bb1bf90d8081fd324c3cd18c375ecb59f93e",
+    "references/capabilities/一-有利之婚.md": "b01a1049ea3e9ae457e20e333741c00c5c4d69c78b9dc061cf5b06f770480fbb",
+    "references/capabilities/四-同居-分居.md": "d1662509ae26f2f365ea7e4ef01ac76f5377a8c97d7b9e17a0c2d82f533687b5",
+    "references/capabilities/八-看對象交朋友多少.md": "fdfb4c7aebefe3c2a31dee6a57d206455cdd06630639de5c0e709caf91fefadf",
+    "references/capabilities/十一-斷夫妻性格強弱及年齡大小.md": "6ae667c7045d8bddeecb82fd550863419f269e468bfea9925b2a747837e2e096",
+    "references/capabilities/十四-看對象性格及父母對婚姻的態度.md": "0bba78f119ec6ea1967d0ffe1fc9ac3b45d0edf0bd4b738e209a9232ef4699aa",
+    "references/capabilities/六-房下原來在一少年墳-沒有處理好-答-不太清楚.md": "b42c29a44c8181411a8f854786a53e7305ae128a73e8f422bb26db35cbfad634",
+    "references/capabilities/十-父親的腦神經和心臟之病是從95-年開始患發的-卦主似乎.md": "5a69510dd9d6881386d71be3c807ce581dc9d969169713aec70dcc70184cfc3a",
+    "references/capabilities/6-凡財爻與兄弟爻相合-此婦不潔-五爻持鬼-此婦貌醜.md": "c9430ce7f926065e329fe3b2003e0546cd14ff9c671a2de8160629ef87223e48",
+    "references/overview.md": "1642131402ea812ebf76c1a8c27be88d27db8dc81bcf7f71e3a515e626aa3c93",
+    "references/glossary.md": "473618cb9522bf543c3ad78eb160b44ff376ed6a08973c88c9772f8cfea3c93c",
+    "references/cheatsheet.md": "1298fa1251e80cab166ad43b2637ec31e9711a80dc9cf30c5a0cf9f4426e4d2e",
+    "references/capability-index.md": "26137a9878310f0746260fba5bcfe08bc93d55b8a6841614b4a4b3c2f27c816c",
+    "SKILL.md": "a3c39b6812e9af5491f9d6e8a53b86802a9ec3d45f43a93013cb179084bdd461"
+  },
+  "generated_at": "2026-11-07T07:40:56.703543+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

@@ -1,0 +1,20 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 5,
+  "published_hashes": {
+    "references/capabilities/两仪两曜图-缺图.md": "f35d9e6f018fa307c4e2359661251a502bfc6eb5ada395cc05bb5d6aa1c7b56e",
+    "references/capabilities/昼夜百刻日永日短之图-缺图.md": "970a234b0e16f1eedf9e7fcc8f0fda19bcb824e6639d85b15b93e23e5eb60af0",
+    "references/capabilities/二十四气七十二候之图-缺图.md": "55a080d4328a0a52428d0b5ec788eaaf2d3b844b33736d475826fca8346834e9",
+    "references/capabilities/星辰贱格图-缺图.md": "e925c581eeac3e7f57ea81149158dfc871042b2826ced017932dcf473a87aecc",
+    "references/capabilities/值雪加冰-限见原煞星-本可畏-又值流年杀并踏-必然死也.md": "e569a5c84d1d744a23bf9d37d0ab73d031b298e41008ef60eeb4006b044499a1",
+    "references/overview.md": "c89faff40ac79ac8ad99bd0667f012d75ea56558c2aa481f1d6f9edf74c3e231",
+    "references/glossary.md": "b0c441c055a4bc97c47f933dda217843396cdc865a4410de0ded4e02f1f3c471",
+    "references/cheatsheet.md": "2470a6d2695355ac9d92b4dd8780e076c16e8ee9ad92d4338839dba184f20282",
+    "references/capability-index.md": "ae1576697a94ec757f5ebe8a316c8748dc0b1906128a23dbbd7d293cb418eff6",
+    "SKILL.md": "37ee5b7dfaf9d0591a55441f0b4fcb930001f6b7950e7351b8c62672e098c74f"
+  },
+  "generated_at": "2026-11-07T07:41:02.555551+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/译文.md": "b50017ab674cf3391c903f04013933faa62a19f8103fb53ca5c70c15a8e27d37",
+    "references/capabilities/补译.md": "1a23dbbcb15f513e07b353e8301ac29002ef3b2f58776678fab24a2fa85cf968",
+    "references/capabilities/6-子孙福德为医生和医药-逢生旺表示医生好-药效好-治疗有效.md": "8f5f529d924656426069b16962cc53670816b04d6fb3e5a9dea13ad026986712",
+    "references/capabilities/译文-2.md": "3ee2166cc7a1bf779208c929b6f123e5e031ab451fbfadbd7a91078c16d2b2ea",
+    "references/capabilities/译文-3.md": "c979c48c05514739083146dbb6d3d2aaf9063236905fcb9a136d20907cb3043f",
+    "references/capabilities/注释.md": "5909143096d22bd2cf4fae00e0f99c49f8748b60fb948d1a0657c3d210550459",
+    "references/capabilities/译文-4.md": "338a22f56b5162e6134f15972fab617f60d81e72d631a0354030dff40b59cbf0",
+    "references/capabilities/译文-5.md": "b245e092529a712f317a88ee49ee8611aa40c7a2c55a1011e76701fdb01c3be1",
+    "references/capabilities/译文-6.md": "208557c0ed34910f4e91671abab05f1a803d86f9fc666d6d428ede9f078a6634",
+    "references/capabilities/译文-7.md": "3c50fc301a7da3cfddbd5ec179aed5ce63cfa7e9a529435421dca80480f827fa",
+    "references/capabilities/注释-2.md": "87892dd74f4918629a9bb95634a4c8d71dabf572a3615dee6cf079246912b102",
+    "references/capabilities/译文-8.md": "4cf9f03d893a7cac3c935c77f7c38ae94a40a606ecb86c99c3f588cb9ef10a46",
+    "references/overview.md": "191500199da0294a3161e49500cd285e47ae56ce522a1c37641fd6e01a31999c",
+    "references/glossary.md": "639ef9e41826aa92db0c1c017837964f84e71f3a05d9f94b331a968edaa1a61e",
+    "references/cheatsheet.md": "97efcdbe947989934552b0ea9110dab981ad1231d142943d4c482f6e93ec969b",
+    "references/capability-index.md": "f84d5e875656d225c766ce7507b51cd048288d8db16132f3eb3986203f86c849",
+    "SKILL.md": "bdf9890765a1ff3cead1912b74a05ad2f4125ff6baacacdf128b02360a801e52"
+  },
+  "generated_at": "2026-11-07T07:41:01.390439+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

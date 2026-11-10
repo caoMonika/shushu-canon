@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/12.md": "f1fa68636f1922b2f8e3eb8770b05da15bf774cfb22062a37000b4730a5526eb",
+    "references/capabilities/临床装现.md": "18e4b387a959dd8efee96e5999efacb8e7f399c5006b73d09f9b31f0bbf69073",
+    "references/capabilities/分型论证.md": "0d31b97883d621cd65888adebe11a01d9964ce5cd17701277be47523cd09ff41",
+    "references/capabilities/预后.md": "ce437cb4c00e26cf04a01063204116d07c6fe8094868d8a480a938d463d5c1e0",
+    "references/capabilities/临床表现.md": "12bf25b31a38561ddbc739def3319535d78b2617d9556df7cdd6133546d13b39",
+    "references/capabilities/释名.md": "eb6bc1c69a100e31160404e469114213dd962287dc807f2a2d51d474898cb353",
+    "references/capabilities/分型论治.md": "5d23b4744dc686444824f5b4235207112dc843ca90b565fcb6b0ae17d254dc99",
+    "references/capabilities/预后-2.md": "f799cc5fb7770f8dea71798133cef2473652139736f0e41a917b60b42e486709",
+    "references/capabilities/二-因其它眼疾导致晶珠混浊而无光感或光定位不准-红绿色觉不能辨识-眼压低或.md": "0a9f30be581dc2f14136341db8cf44852b7f9051f264c7eeeac96d86618559b6",
+    "references/capabilities/预后-3.md": "d3a690b4c3c4ff965de48c89c8ed4a39e7cfa2088a2a34bd45b90ad8c10efb84",
+    "references/capabilities/临床表现-2.md": "385b24c446dece25b9cfd476b860ea7a187f198e01ff973af8b6ccf0976c239e",
+    "references/capabilities/一-内治.md": "6726323200ad4a05aec643d833afc8b770011ffb76fb820e4bc96ce3bbf946fb",
+    "references/overview.md": "59f2691bdf66efe694cb9d2a1c19259db2e4eb57f8910e5d2e37a913b184732f",
+    "references/glossary.md": "9ff6d7db5c9f822a4cd40491e4631b13e1c7f10bdc5f20f6f0d99f19de3f33cf",
+    "references/cheatsheet.md": "de51af2d2748b2c2a7a7ac6bbf82a5be49e8565a786389c80e28197804af7105",
+    "references/capability-index.md": "d2c67cd63a34a429675129bc70f9dc584f21eca5d93ddae77142f9aa7ba6903d",
+    "SKILL.md": "826481af6aa1cf3a0581464cb5d5db4427b69ad4236a932b06e6436985209846"
+  },
+  "generated_at": "2026-11-07T07:40:57.588627+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

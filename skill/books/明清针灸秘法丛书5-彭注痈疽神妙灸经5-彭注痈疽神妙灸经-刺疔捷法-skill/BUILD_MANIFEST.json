@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/一-底本为繁体字刻本-抄本者-本次出版时均依.md": "cb8873deb3c31f5dc0a875a963cd278fb2b8b0ceec10e0b0b313079869b84c4c",
+    "references/capabilities/三-对于底本脱漏字-本次整理时进行了增补-新补.md": "087083dc9e495b886869009b10d45c9ef17d3870daa0277c1b24eca3d460eca9",
+    "references/capabilities/九-底本中原有的注文-本次出版时均用小五号楷体.md": "8b06242f32196ef702ac3389df46ae5b0759b84f5e13a3ac93c7a765bd1f2ccc",
+    "references/capabilities/三-对于底本脱漏字-本次整理时进行了增补-新补-2.md": "4b174efbec5c1ed5bcb53e468f16aea12bec84355c4d4401874a3a19091e2d44",
+    "references/capabilities/六-对于底本中穴位及中药的别名也未作改动-如.md": "8062ce474d148d31d972e8f116ed032d5ab0831095ab436c3063ddaec147c22e",
+    "references/capabilities/47.md": "cb38d95aeae8e42cb1d5a916b24e8dba6572d8a75ddd13d8861286412ce965b2",
+    "references/capabilities/整理者按-底本此处缺图.md": "365331475a4a6703c9df6ef9abd314c07557e7793f70d7b6ce6ba7b623d3ab42",
+    "references/capabilities/整理者按-玄疽-阴疽的位置与正文描述相反.md": "b43ff02dbb0474717be60e7a37a0c1e9fe2d4f229b1116a048b632788603917d",
+    "references/capabilities/二-彭注痛疽神妙灸经-特点.md": "f5a09308e472a61e57c399122dfbb03a4c4c51784b8c8686fe5268fa2ef9d4ea",
+    "references/capabilities/4-金远林-吴军君-艾灸治疗热证的机理探讨-J-针.md": "a859419a9f9dd76df7c64d7697365d67c4c1852d8268668acf4f929ce7771a87",
+    "references/capabilities/一-刺疗捷法-概述.md": "2a3c2a136b86e555ff70708ca436619d0cee171cd9a8828f48f8cdaae0bdc9ee",
+    "references/capabilities/二-刺疗捷法-特点.md": "1fadbc2196c69b8a98bb1b7975b3adbdda0461b587b27ae8bb53eedf41e7615d",
+    "references/overview.md": "57293de5574574792c99157e6f37de0861108370a4957d2f80a86f68b9ec4354",
+    "references/glossary.md": "436f7789ba0ac9a3674e1d77bc3dd61f1305cf32275c223ff50047ca511c9c94",
+    "references/cheatsheet.md": "eb196ed0d73a319058d668710d3c175d460338e2dcf22fe67a449f6404314e9e",
+    "references/capability-index.md": "3601e4e05b509ea8e05cb14892208a1f6ef8868e90a699737eb427d2e8aace65",
+    "SKILL.md": "d6be4e9ffbecbae0eadd17e9199afccd8bf8cf271b752707fd1054386fab657a"
+  },
+  "generated_at": "2026-11-07T07:40:59.613576+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

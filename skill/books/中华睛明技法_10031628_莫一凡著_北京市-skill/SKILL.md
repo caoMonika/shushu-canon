@@ -1,83 +1,66 @@
 ---
 name: 中华睛明技法_10031628_莫一凡著_北京市-skill
-description: >
-  用户要用《中华睛明技法_10031628_莫一凡著_北京市：...》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 中华睛明技法_1。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《中华睛明技法_10031628_莫一凡著_北京市：...》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 中华睛明技法_10031628_莫一凡著_北京市：...。
 source_book: 《中华睛明技法_10031628_莫一凡著_北京市：...》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《中华睛明技法_10031628_莫一凡著_北京市：...》· RIA++ 蒸馏
+# 《中华睛明技法_10031628_莫一凡著_北京市：...》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 中华晴明技法/莫一凡著．－北京:中医古籍出版社,
+## 核心原则（常驻速览）
 
-> I.中.…Ⅱ.莫··：Ⅲ.眼病-诊疗－临床应用-技术IⅣ.
+1. 中华晴明技法/莫一凡著．－北京:中医古籍出版社,
+2. 谨以此书向全国第一个爱眼日献礼！
+3. 二．晴明技法是以自我锻炼为主的自我
+4. 痛、流泪或闭脸等保护反应，以更好地保护眼
+5. 其曲度人人不同，但必须均匀圆滑，假若曲度不
+6. 是感光。人的眼晴之所以能看清外面的物体，就
 
-> 中国版本图书馆CIP数据核字(96)第10314号
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《中华睛明技法_10031628_莫一凡著_北京市：...》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「(95)」相关的查阅/断法/方证问题 | references/capabilities/95.md | overview / cheatsheet |
+| 与「二、远视力检查」相关的查阅/断法/方证问题 | references/capabilities/二-远视力检查.md | overview / cheatsheet |
+| 与「二、点穴的作用」相关的查阅/断法/方证问题 | references/capabilities/二-点穴的作用.md | overview / cheatsheet |
+| 与「（3）宽松衣、扣、带、环，使浑身上下舒」相关的查阅/断法/方证问题 | references/capabilities/3-宽松衣-扣-带-环-使浑身上下舒.md | overview / cheatsheet |
+| 与「（5）“养气守劳宫穴”是指在点穴全过程中」相关的查阅/断法/方证问题 | references/capabilities/5-养气守劳宫穴-是指在点穴全过程中.md | overview / cheatsheet |
+| 与「（1） 养气和五法至此全部结束。就其相互关」相关的查阅/断法/方证问题 | references/capabilities/1-养气和五法至此全部结束-就其相互关.md | overview / cheatsheet |
+| 与「一、 松静自然」相关的查阅/断法/方证问题 | references/capabilities/一-松静自然.md | overview / cheatsheet |
+| 与「二、养气是基础」相关的查阅/断法/方证问题 | references/capabilities/二-养气是基础.md | overview / cheatsheet |
+| 与「[例3] 刘静， 女， 8 岁。」相关的查阅/断法/方证问题 | references/capabilities/例3-刘静-女-8-岁.md | overview / cheatsheet |
+| 与「[例11]毛大新，男，44 岁，某空军师长。」相关的查阅/断法/方证问题 | references/capabilities/例11-毛大新-男-44-岁-某空军师长.md | overview / cheatsheet |
+| 与「二、 治疗方法」相关的查阅/断法/方证问题 | references/capabilities/二-治疗方法.md | overview / cheatsheet |
+| 与「六、讨论与体会」相关的查阅/断法/方证问题 | references/capabilities/六-讨论与体会.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 第一章 眼晴的医学常识··
-- 第一节 眼球的构造与功能
-- 二．眼球内容物
-- 三．眼的附属器
-- 第二节 眼的屈光系统和视觉影像的形成
-- 一．眼的屈光系统····
-- 二．视觉影像的形成···
-- 第三节常见的视力不良
-- 一．近视
-- 二．其它常见视力不良（远视、老花、
-- 第四节如何检查视力
-- 一．近视力检查
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：第一章 眼晴的医学常识··；第一节 眼球的构造与功能；二．眼球内容物；三．眼的附属器；第二节 眼的屈光系统和视觉影像的形成；一．眼的屈光系统····；二．视觉影像的形成···；第三节常见的视力不良
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《中华睛明技法_10031628_莫一凡著_北京市：...》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《中华睛明技法_10031628_莫一凡著_北京市：...》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

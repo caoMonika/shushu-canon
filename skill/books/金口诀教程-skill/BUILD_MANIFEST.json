@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/二-生物全息论.md": "3debbf721c3eeff94661096c6ffb02671d1d8101afbe965e7cceee603269e21b",
+    "references/capabilities/一-先确定年-月-日-时.md": "4a9b5072e64b25be9604e9999c3bda028d14bb8d62431bd91d6cc7aea8c169a2",
+    "references/capabilities/1-2-3.md": "acccc944ab96e0539b74a8234139a9e209f81de58bbb5cb3f556b7f793f7358f",
+    "references/capabilities/十八-丧车.md": "e69bc7996eabb461ddc9c5b72696c3210966d0b6901f614158b6143782f3d276",
+    "references/capabilities/四-主客生克所生.md": "a6cad595e8e10312b3c7808be78ba7f2649e8ee551936b86603eb3fe45989ff9",
+    "references/capabilities/三-丙子-辛丑-丁巳乙巳.md": "e2ff353a1bea8b9bf1edd39e8922460f0081e25e14c7373f270d32b9d0150deb",
+    "references/capabilities/二-下面是我起的一课-为一朋友测事-他是问觅得伴侣如何.md": "de84a089a05277e8c1569feee5b704801eb1364eeddbba5ed374550f284ee77d",
+    "references/capabilities/7-贵神为阳-我当家-家中事以我为主.md": "3f7730252cc98f41ed5cc9dc26ff384645eaec23f812500cf37eba8a487a3055",
+    "references/capabilities/三-从魁.md": "2125f221174eb435e034dad020723ad1ab197a1d0c530ce15d9dc6796b19efd1",
+    "references/capabilities/九-太冲.md": "42a512f79aac32fd78a4eaf39c71d00c550b3568a3299bbd63ef785e35486b7d",
+    "references/capabilities/三-朱雀.md": "361f044278c01b84cebe7e8038f60c3894c3c35c371b15d1b8bf019a887c87cb",
+    "references/capabilities/九-太常.md": "2a9cfd7ca34f6b407170da89de677bebd95d95ee6fcabee203181a18a41f6e22",
+    "references/overview.md": "149be1ef64aeffe66a02be06c29cdf62a483b481e15e78a967f3bf2a6f58553b",
+    "references/glossary.md": "e0a6ffab97afd8f4b4e77004fec47abe6e701ad30ee0361353f20711309603f1",
+    "references/cheatsheet.md": "a8f289004af2a339907fcd0bac5f530aa4fac0365cf116dda19dccab7a244b82",
+    "references/capability-index.md": "26773ecb011863fd66ae586fee49ad1deec5f27a178d6a2b6d2daccb950415e6",
+    "SKILL.md": "3808d68039672cda9b0483d297aef128d87fcbb9a7bdab19986b57940efdd776"
+  },
+  "generated_at": "2026-11-07T07:40:51.017778+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

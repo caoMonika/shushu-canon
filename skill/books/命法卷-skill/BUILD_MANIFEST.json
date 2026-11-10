@@ -1,0 +1,18 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 3,
+  "published_hashes": {
+    "references/capabilities/第1段.md": "25fba49b9d4fef3db52a569bea3e8cb7ba82125863da4894556019b3f66e1509",
+    "references/capabilities/第2段.md": "d70066b0de27cb45d5479dfed28ea99f98d9da344ffdf8e53985574a012df708",
+    "references/capabilities/第3段.md": "502a1cd7e668569078076807df087bcaf18933c6852abaf2c521fb1c6caa0e53",
+    "references/overview.md": "72f54441dbee0c6fae6e50e2e11dad72873b7c480d0fd86129b688978ebfefa8",
+    "references/glossary.md": "1d322be871e88d41807569f75bbd598d9ebad00e22df3d17ccc12267cf7597f0",
+    "references/cheatsheet.md": "52ebfacd0d7991dbb2d4b663616a7484f2608344a3682d52a94ee3815912b460",
+    "references/capability-index.md": "8f95fbf6e8887709b7274af34d3f10ee5a77db9207487a27408cce31817d5a12",
+    "SKILL.md": "1d52de4c72bd905e905b38194a0a60756fe265d8a33ae151430c821d1433fab2"
+  },
+  "generated_at": "2026-11-07T07:40:54.826879+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

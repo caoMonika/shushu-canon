@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/1.md": "3011840aacf265ca35bd6d51788decf4bb279288260b823a65b66ca75a8eb0cc",
+    "references/capabilities/4.md": "f6d4f87f39e8600b27c2dc836ef4f18c018cc2859d33ab8d49d33b416f780384",
+    "references/capabilities/25.md": "a194d4a4c8108acb6083f343a6b828895b525666ab3cdb7a008ea9755351dfca",
+    "references/capabilities/71.md": "5e0e9f66e781d243693d5f68300b58595e89390ad98c386d8d5ea9365d2f307f",
+    "references/capabilities/36.md": "0891ed233dea58b4e6a54de6b355756bddc0fa554774c92e18ceae4100f205fb",
+    "references/capabilities/82.md": "8cbb7cb629edaed86b5a3af8be62162e9c277c387df24679bf61b1450fb18f71",
+    "references/capabilities/45.md": "228974fd83a280775196fba2270498f3a08c1d3b858de9f822153c4c41cf4e3e",
+    "references/capabilities/87.md": "19ebd3cdb0feaf0bcd7048cd3c91a788439454830148f354e693e1d5f64ea450",
+    "references/capabilities/97.md": "1f6af43af4daaa39a8a51aec163a0eedaa5fe7e2c66b37357104f19f0c4e7d71",
+    "references/capabilities/一-第二-第三套功法-只有这样才能较快地掌握正确的练.md": "8c5a8ede99177af1ffecc608d88ccc174d19b2416227f9603ed3be2e7282305c",
+    "references/capabilities/第三章金钟罩功.md": "47875017830349220c2f441d60bd58bc83e45a6cf9a19748181c2d5d29703097",
+    "references/capabilities/8-然后身体稍右转-右金刚指手型变拳-回收于右.md": "c4231cff7f4ecfd6ae983cb326c6d1a1c4a7bffe9de75584905651c48eb852be",
+    "references/overview.md": "0df632de8290692a997594b88f2875f19dc6aab4ae0e9127a0d9693350698afe",
+    "references/glossary.md": "5080f3516809eee73d0501d3e53baa088a0a537661f08561fd681e24068697e5",
+    "references/cheatsheet.md": "5a2209d8568e51b7c03d85ce44ceeef59ec81f94f0e727d8d8cf6d0eca0df39a",
+    "references/capability-index.md": "4ce1532cd1e5be80252a499a24874732e00b944be79e28beb2c9e04afdb7273e",
+    "SKILL.md": "7e4841aa57243fa2b520fd0b4ca860b89693133a9091f128d299c41d4970f5b1"
+  },
+  "generated_at": "2026-11-07T07:40:56.333051+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

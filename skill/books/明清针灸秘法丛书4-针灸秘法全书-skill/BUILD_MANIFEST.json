@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/一-底本为繁体字刻本-抄本者-本次出版时均依.md": "3e7ab9684c0353148c829a22ada7f16a062e1fad997cf4b9cccadcfd35973f5a",
+    "references/capabilities/十一-为保留古籍原貌-本次整理时-对原书中的咒.md": "d722496fada9509c338ff92be438eae3dd95af34f6c479112c804303866f5cda",
+    "references/capabilities/手太阴肺经经脉流注.md": "6748f7d39e02720afb82473de1c3d69f3c7955ec46e4993f0ee84cd1ac55f350",
+    "references/capabilities/足太阴脾经经脉流注.md": "dfd24a30ded5a20aaaa495d0afe39212cd29861e70975ce6c43e470d2ffad38e",
+    "references/capabilities/足太阳膀胱经经脉流注.md": "948a3a6fa89d534bb1199a5b1f5c3ddf7300cdfc1fa08803dc9886305a61392d",
+    "references/capabilities/手少阳三焦经经脉流注.md": "ac87ce7bd986460f6a3dd687eb2e9d1ad3f4fb949aabaad875b9ab2c51d03b22",
+    "references/capabilities/十四经气穴图.md": "198d9dbcefe1d413c4d147057d76fe92ebf1cb18f900b612f8f71228ee0ee77d",
+    "references/capabilities/手仰掌奇穴图.md": "0315caba055ea3915c2a122d5014c41cae6e10bfcd47204d543bc2c30840f971",
+    "references/capabilities/督脉流注.md": "e0a9be4301370d2497e1e3f5e803f4c33eece680471ea7a75575c0095c3faf1a",
+    "references/capabilities/阳脉气穴疗病解.md": "4e8bc1e88647ab753c92e6833949b5d176e8dc62d0fcb9fc4dc8c56b363ef0e9",
+    "references/capabilities/取穴图.md": "42be07dee9ca57d84018b299a00a72b5eed4e7d70e52b8680bfed99ddce572c0",
+    "references/capabilities/二-针灸秘法全书-特点.md": "f40750a7fcc0442e9967f7257e9b8f7a8ef1c1ffc7ca352ad752dec810af45a1",
+    "references/overview.md": "dbceb6ec8443096867ab08ed294deb0560268f5a0fab5fc958d013d91dc6998a",
+    "references/glossary.md": "0c96ed622d132bf9b58aac305f03cc259ee7f587fa74ce96ea429844f292bb33",
+    "references/cheatsheet.md": "1b44246eac32bf488c93eec567538def7a9cfb2065704fe277c96a3a30dbe366",
+    "references/capability-index.md": "cfb18fab88d3967a5c29078f5926295e88f3e5379bac51ff782a989844d9fd41",
+    "SKILL.md": "30c6d1bf8e2791507be77fab5dafa498a5e39ec9c5de76dda30a27f5ebfaadd3"
+  },
+  "generated_at": "2026-11-07T07:40:59.816083+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

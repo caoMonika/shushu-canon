@@ -1,0 +1,25 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 10,
+  "published_hashes": {
+    "references/capabilities/一-底本为繁体字刻本-抄本者-本次出版时均依.md": "a89902478c000296883c6d56694e7aa99eacb12a95a60d2d06d26fb237e090a2",
+    "references/capabilities/三-对于底本脱漏字-本次整理时进行了增补-新补.md": "2d76d8894a05ab5d86f81cebfc30e85ebe513c3740bda6f9587f52741ad4b6be",
+    "references/capabilities/九-底本中原有的注文-本次出版时均用小五号楷体.md": "9c8e64572a2cd8a52e1b8189ba55da2a21eba95f2c99b8d29c1c6580fcab9f19",
+    "references/capabilities/10.md": "8df7b4178f47d8cd39658cf2377e5333b6a0e65b261696e22a2d79b2aaf8e0f9",
+    "references/capabilities/0-2.md": "3b9be536f319b7e24a54c7d9ac9bbad78867842e68ad3688a106d550869bbb2a",
+    "references/capabilities/骨.md": "87337327995169764aede74b6692afb033ab3c640f65bb73b980c6488725f400",
+    "references/capabilities/三-折-而参合如-字样-以角对中央一穴-下两角两穴.md": "c8eb4a084c371fdc92376d51baa559684a12711bac457ce95b248209dd94cf3a",
+    "references/capabilities/一-传悟灵济录-概述.md": "d5df336cb935edf3977a53647010465d422490eea77bc61ba1b1514cee31574a",
+    "references/capabilities/二-传悟灵济录-特点.md": "2db6774d27a51ef02c6207011ae97fe4c2edae5097c2a0da9f569d8dee17c5ca",
+    "references/capabilities/3-周德安-严华-针刺治疗神经性耳聋98例-J-上海针灸.md": "80e7cf9d7a0d79cadc9d173aaf6d42b2ab67221d19a9690ab5d100cdff330ef5",
+    "references/overview.md": "ee5950ead915d3e9dd20da5854300b7bfc8e9d480dd46600422c1d0ba940e104",
+    "references/glossary.md": "73b701e1ba3031d6943ac9395ad5959df999151cdaf3827cbcb2e146d0a0cdd0",
+    "references/cheatsheet.md": "e10ca134ff7e0d4b8a5060c4ef7060e22b82aebdce61d15f32449e4ac1066425",
+    "references/capability-index.md": "7938589b239530a01226e938e5dc085794e277779dde0d718bae56062c0c4567",
+    "SKILL.md": "285f4cf279b9806e27d34bbbabfd0067c368f5e66f7bb2c0389ff084432e6cf5"
+  },
+  "generated_at": "2026-11-07T07:40:59.831342+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

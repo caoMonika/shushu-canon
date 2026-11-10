@@ -1,0 +1,21 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 6,
+  "published_hashes": {
+    "references/capabilities/第1段.md": "722376c32a6e60fab51c8ef7d5e7d27aa44770f3a726fa992978d45ba01dc117",
+    "references/capabilities/第2段.md": "98ac3663c3f94c846429fd4a244d3a7a6fc9a4b559ef473658fe3c394b7023f1",
+    "references/capabilities/第3段.md": "40ea586770b37f0e322b77703c53a2bd370340ce3591d667e4ca9e4042f91f9d",
+    "references/capabilities/第4段.md": "fbc7404224061382a7d2950717ee843fff3f505df66e1b6f5518820e906eda01",
+    "references/capabilities/第5段.md": "3ef1dff4af62ecc15101e5fa654458c4392665118d2a16692989d60e50eedcdc",
+    "references/capabilities/第6段.md": "4c589710592d261df198fdb7717c4b9142ed494a70c72977e32eae4a93c8f763",
+    "references/overview.md": "ccac6c7abe4dbed44cdf2960ded3690063ab347414204e590eff8f01e4ded89a",
+    "references/glossary.md": "8a781f79a9ed667d29db72a626a6236c1cde169d7792cf82c0cd238f6863f31d",
+    "references/cheatsheet.md": "9dc29f90400d4b19d2c3f68acce0903152641173709b7e828bdacaef2c0842bc",
+    "references/capability-index.md": "a1e6a2b312e21aabca591bfc61f1040539a65d881068702d7ff2f08347dffa53",
+    "SKILL.md": "54ac3e413bd9946d8cd28c312507e9346d25ffb773a447a4e79349a6a9e8f0fc"
+  },
+  "generated_at": "2026-11-07T07:40:59.979721+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

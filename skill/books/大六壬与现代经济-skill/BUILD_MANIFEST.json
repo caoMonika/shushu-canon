@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/用实例评析-第三集.md": "39638cfe00cd508abaa952353f329f8f17a177a2408f0531dbc4520b04e90205",
+    "references/capabilities/1-甲寄地盘寅-今地盘天干寅字上加临.md": "dd263a57a5936890a9ee3dd74cff7c99c238c5f5c4a76ee0119de3db3f5321b4",
+    "references/capabilities/二-比用法.md": "3d304e5cb85561ac1d86eb97591e68f6cd53f22f37c65418be724d39c580b558",
+    "references/capabilities/五-昂星法.md": "769098419d7484d9e44bed4c8026fe758fe868609a1aec1393e6ccb990bfffd9",
+    "references/capabilities/八-伏吟法.md": "abe7d17d8d5057cd371147a950a77a97cc4468a553b78dd12c33216aa98b1b3f",
+    "references/capabilities/第六章神煞概要.md": "270086e3e8a62925a6e457357d35a92ac5c992569b4cdf188d6f3a9c36296f6c",
+    "references/capabilities/三-论发用.md": "126e09d80a85b2af8ede2d14fd1baa70b00da96119da985e3406c9452a682881",
+    "references/capabilities/第一章六壬占断方法论.md": "94e828ab28ca6dd85b5be0153322d9138b9e8586a0fab047b21b1b03c95eadde",
+    "references/capabilities/第四章占婚姻.md": "59b7a15b7949e8d980fa982463f901086670be4d98f18c5f188ae2bb687e674d",
+    "references/capabilities/第七章占工作.md": "900164e624e6d343cefdebbda721e126c50f7745756b62c276ba73b9caf39111",
+    "references/capabilities/第十章占失盗.md": "3cb8aff5ec9b25bdfc3e4c2d461faf8817f59edbe916bb99c66a8888d085e4a4",
+    "references/capabilities/第十三章疾病.md": "de0e491e29221f4c244b2096398f4c77044c6d3deca999114c80e6e0196341d7",
+    "references/overview.md": "2a6d2c6952e5501121614222aa26be831ce860a81c8b1961d00733793bf1a980",
+    "references/glossary.md": "db4805e5590091565756e48e1af07676619cb363fda7c30555aa8fa4bbc6cfc6",
+    "references/cheatsheet.md": "aa6061f686910e94be7623268107bb22b3c42282f44b70e91cd6a6c525d74af5",
+    "references/capability-index.md": "b142c61cea725f4ef9fc016079dd5481b41826176ff1cab9b039836cd14b1632",
+    "SKILL.md": "a03e82fbe90207f9050236d997751309328c35732395bf1d19096fcf23375be1"
+  },
+  "generated_at": "2026-11-07T07:40:53.391923+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

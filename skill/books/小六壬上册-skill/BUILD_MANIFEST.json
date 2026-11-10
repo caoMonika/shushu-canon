@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/一-五行相生含义.md": "7b18abaa4fcc8e2b6e384d2bf58359d23495f65f68436f481e4ae66bb4fbb54a",
+    "references/capabilities/2-兄弟临六宫所主.md": "d87728a5ea0f35e32a47a5af4c27abc6d435edf47e51fb08dff12985449055c5",
+    "references/capabilities/6-玄武临六亲所主.md": "957fb66e62c67a409b35c8c1819f7ea21f5017e2f58416f6acf5f62ded82df91",
+    "references/capabilities/四-五星的起法.md": "6155de11d1152d448f2988cd0ed84e4c2ac1e7e068c5e0486b6a27faa74726b6",
+    "references/capabilities/七-小六壬占十岁以前小运排盘法.md": "d8d09886f62d1a6d781316258e437369cf0b7db6a5232019acf425a873399f00",
+    "references/capabilities/四-小六壬抽签起课排盘法.md": "dbd1e3260ef0e6777f174c4ef3f45f36e2b4283ac302d22b1a753c5cf0eecdc0",
+    "references/capabilities/三-六亲六宫五星六神在课内的主次作用.md": "9d6002801efc765005101998c47ddf43fb814ae48ca36e507cd3370caa664453",
+    "references/capabilities/十-寻人断法.md": "74d9af8321b1b34770b7287763d3ec8ffcad96aeceb9cbd1c5a787d76ae17879",
+    "references/capabilities/1-择吉日.md": "8172acb09b94a4465d61c077ccc8b3189716dfca015d616267960084f547176b",
+    "references/capabilities/四-占贵人例.md": "e5813dfbc0475efb00d33615da11d2e476ad04c7dd9614be106ddc7ccf1721fd",
+    "references/capabilities/九-占讨债例.md": "aa99b2eedaaf2dcd878da9baa6ce09d460fd67ffd5b75557f7086bf11ed1bfe5",
+    "references/capabilities/十四-占小人例.md": "37865bbdadef8c52f78050fcebfb5b6981a15da9c52715289e4338dc9c96cd8b",
+    "references/overview.md": "2ac164fbe98e8625d09bec026d63d3d3ecd002cfaad3795d0e9d87e4395ca365",
+    "references/glossary.md": "5ff03dc49b9f50ec682ef5cc207d055f3a13164acef161413512efb1ebf94982",
+    "references/cheatsheet.md": "530beb6b40344515f54bf79492cf3080e2b1b32bd1d9c06eaf766827e3314e54",
+    "references/capability-index.md": "5082692e889bcae879ad5b40e29f8eaf3da3c55f54d8571b09f153b42c652cf3",
+    "SKILL.md": "3232b1fe51f5da5af454be0c9050bb506a8eb1aa11d5e7eaa41067245f9a3c95"
+  },
+  "generated_at": "2026-11-07T07:40:56.164168+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

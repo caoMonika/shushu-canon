@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/二-本书取材来源有二-一为参考古籍有关气色之论述-一为作者教授.md": "be70476750155ef7772c061d44ce318dcdb19a0a45429ef43afb46dc10655fa2",
+    "references/capabilities/神与气色之相互关系.md": "ce27aadd7dda184e13a3fb047952fa88cfd2b227a15accc4e35e02260fe0d9fe",
+    "references/capabilities/十月.md": "8a83e6f5ddf14097116f8ec3abf7d302f783b2467560724eaf2deea68d3cd71a",
+    "references/capabilities/骨.md": "efb8c2841b5bccf3d593752f27749da894d714b90aecc0395df250fa66ffe70a",
+    "references/capabilities/印堂横列十位分析.md": "39207ba491c065e3435784a895bb25a5e0fddedbb29be6c94d9c2f052af41f46",
+    "references/capabilities/观看塞滞色是否已开之法则.md": "e432e7fff6322c4a9108e70fe4373f27e28b982f915e746ca2a7959036feff49",
+    "references/capabilities/暴亡之兆.md": "3526235680dc16c5116094134c377601849f91df771b8e4ba23285db1e60ee8b",
+    "references/capabilities/青遮口角-扁鹊难医.md": "014dbdc2a489cffa2e3c8ac93b04c4cc9ac5544e2bc3c4251241968c8aa3dfaa",
+    "references/capabilities/奸门青色大不祥-六十天内配偶殃.md": "26db0008b05a7f68f077a3997e3e6c11f5385e73f3b210cca61cb0f8095fd4ed",
+    "references/capabilities/若财已到手-必眼下黄润-色浅主财弱-色深主财旺.md": "cc866691b61b193e656c9decfac333f8bebe8a18424508f319cfba3cfb325c88",
+    "references/capabilities/明堂红如豆-明堂即掌心-主三十日内真除或荣调.md": "0fee832bc301dc3ee2e15d0657a29bb3553c13dc6da0b904d523722a1b248bf6",
+    "references/capabilities/七-相理乃属实体论命命理则是拟制论命.md": "4554f2110ffce27cfa46b6c1c526cf5e4ec4510e6dd66faca1369e394e07be1a",
+    "references/overview.md": "e97b4b9adc160b58668637daab1430679e0b71c113a7c268f9f037886a1939a3",
+    "references/glossary.md": "dca35d54313d0cfd7b99326fbfaf94dfd9e4b4585e12ee042b9dc8eb3af524d9",
+    "references/cheatsheet.md": "e6418d13c4568e790c7be61bc3beda92c14ad259fb429ac45932bd362bb7dc7d",
+    "references/capability-index.md": "3edf3f014f91a937fecf3c3f48b4b7a05410dd874383c9133524f8c1e7b83852",
+    "SKILL.md": "85cff284c89d99eef57ae4b3339a2f13e4aa21e0bddd48f8c0d9e78808884d9e"
+  },
+  "generated_at": "2026-11-07T07:40:56.357962+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}

@@ -1,83 +1,66 @@
 ---
 name: sim_滴天髓阐微-清-任铁樵-skill
-description: >
-  用户要用《滴天髓阐微-清-任铁樵》体例/口诀/断法时调用。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 触发词：断法, 体例, 滴天髓阐微-清-。OCR自动蒸馏，请核对原书。
+description: |
+  用户要用《滴天髓阐微-清-任铁樵》体例/口诀/断法/排盘，或本书未单列意图时调用本路由。 不适用于：不作迷信恐吓；不替代法律/医疗/投资决策。 优先按路由表加载 references/capabilities/ 下单卡。 Triggers: 断法, 口诀, 体例, 滴天髓阐微-清-任铁樵。
 source_book: 《滴天髓阐微-清-任铁樵》
-source_chapter: OCR全文（MinerU）
-tags: [cangjie-ria, auto-ocr, shushu]
+source_chapter: compact-pack 路由入口
+tags: [cangjie-ria, compact-pack, ria-plus-6d, auto-ocr-pack, llm-refined, shushu]
 related_skills: []
+distill_profile: compact-pack-llm-v1
+metadata:
+  generated_by: distill_pack.py
+  variant: router
+  capability_count: 12
 ---
 
-# 《滴天髓阐微-清-任铁樵》· RIA++ 蒸馏
+# 《滴天髓阐微-清-任铁樵》 — 来源路由入口（compact pack）
 
-> PDF OCR → cangjie RIA++ 自动生成；原文引用≤150字。
+## 触发与不触发
 
-## R — 原文 (Reading)
+**适用**：与本书能力域相关的咨询与文献任务（见路由表）。  
+**不适用**：
+- 不作迷信恐吓；不替代法律/医疗/投资决策。
+- 路由表与 capability-index 均无法命中的意图（明确说超出范围，不硬套）
 
-> 《滴天髓》为中国传统命理学中最重要的典籍，相传其原文为宋之京图撰，明代刘伯温为之注释，到清代道光年间，士人任铁樵再为《滴天髓》作疏，结合一生命理实践分篇增注，阐微发隐，使任注《滴天髓》成为传统命理学最重要的典籍，而任铁樵本人也在中国命理学史上奠定了继往开来的重要地位。
+## 核心原则（常驻速览）
 
-> 原注：天有阴阳，故春木、夏火、秋金、冬水、季土，随时显其神功，命中天地人三元之理，悉本于此。
+1. 任氏曰：“大哉乾元，万物资始”，“至哉坤元，万物资生”，乾主健，坤主顺。顺以承天，德与天合；煦蕴覆育，机缄流通。特五行之气有偏全，故万物之命有吉凶。
+2. 原注：万物莫不得五行而戴天履地，惟人得五行之全，故为贵。其有吉凶之不一者，以其得于五行之顺与悖也。
+3. 原注：不知命者如聋聩，知命于顺逆之机而能理会之，庶可以开天下之聋聩。
+4. 又以任铁樵氏的学力，当不会有此种错误，从上面的文字看，命主本人亦通晓命理学，大概此八字乃属自报，非任师推得。行文至此，遥思当时，不禁心旷神怡，为之倾倒。
+5. 理承气行岂有常，进兮退兮宜抑扬。
+6. 原注：阖关往来皆是气，而理行乎其间。行之始而进，进之极则为退之机，如三月之甲木是也；行之盛而退，退之极则为进之机，如九月之甲木是也。学者宜抑扬其浅深，斯可以言命
 
-> 任氏曰：干为天元，支为地元，支中所藏为人元。人之禀命，万有不齐，总不越此三元之理，所谓万法宗也。阴阳本乎太极，是谓帝载，五行播于四时，是谓神功，乃三才之统系，万物之本原。《滴天髓》首明天道如此。
+## 能力路由（先读本表，按意图加载 1 张能力卡）
 
-— 《滴天髓阐微-清-任铁樵》（OCR）
+| 用户意图 | 先读 | 补读/备注 |
+|---|---|---|
+| 与「一、天道」相关的查阅/断法/方证问题 | references/capabilities/一-天道.md | overview / cheatsheet |
+| 与「七、天干」相关的查阅/断法/方证问题 | references/capabilities/七-天干.md | overview / cheatsheet |
+| 与「十二、八格」相关的查阅/断法/方证问题 | references/capabilities/十二-八格.md | overview / cheatsheet |
+| 与「十八、中和」相关的查阅/断法/方证问题 | references/capabilities/十八-中和.md | overview / cheatsheet |
+| 与「二十三、清气」相关的查阅/断法/方证问题 | references/capabilities/二十三-清气.md | overview / cheatsheet |
+| 与「二十八、顺逆」相关的查阅/断法/方证问题 | references/capabilities/二十八-顺逆.md | overview / cheatsheet |
+| 与「三十三、震兑」相关的查阅/断法/方证问题 | references/capabilities/三十三-震兑.md | overview / cheatsheet |
+| 与「三、父母」相关的查阅/断法/方证问题 | references/capabilities/三-父母.md | overview / cheatsheet |
+| 与「八、才德」相关的查阅/断法/方证问题 | references/capabilities/八-才德.md | overview / cheatsheet |
+| 与「十四、假从」相关的查阅/断法/方证问题 | references/capabilities/十四-假从.md | overview / cheatsheet |
+| 与「十九、合局」相关的查阅/断法/方证问题 | references/capabilities/十九-合局.md | overview / cheatsheet |
+| 与「二十四、性情」相关的查阅/断法/方证问题 | references/capabilities/二十四-性情.md | overview / cheatsheet |
 
----
+**非能力类查询**：
+- 书名/整书概览 → references/overview.md
+- 术语 → references/glossary.md
+- 一句话规则速查 → references/cheatsheet.md
+- 完整索引 → references/capability-index.md
 
-## I — 方法论骨架 (Interpretation)
+## 加载规则
 
-- 一、天道
-- 二、地道
-- 三、人道
-- 四、知命
-- 五、理气
-- 六、配合
-- 七、天干
-- 八、地支
-- 九、干支总论
-- 十、形象
-- 十一、方局
-- 十二、八格
+- 每次任务先读本文件，再按路由表加载 **1** 张能力卡；明确跨章时最多 2 张。
+- 概览/书名类问题不加载能力卡，用「核心原则」与 overview 回答。
+- 重要结论回 OCR/原书核对；禁止臆补生僻字与剂量。
 
-摘要线索：一、天道；二、地道；三、人道；四、知命；五、理气；六、配合；七、天干；八、地支
+## 边界与判停
 
----
-
-## A1 — 应用示例 (Application Example)
-
-### 示例 1: 文献定位演练
-- **类型与来源**: 合成演练
-- **问题/输入**: 与本书主题相关的具体问题
-- **方法论的使用**: 纲目定位 → 原句 → 步骤
-- **结论**: 可核对的文献要点
-- **结果**: 未说明（合成）
-
----
-
-## A2 — 触发场景 (Future Trigger)
-
-1. 明确提到《滴天髓阐微-清-任铁樵》
-2. 需要本书方法落到步骤
-3. 与相邻 skill 对照本书口径
-
-语言信号: "《滴天髓阐微-清-任铁樵》怎么说" / "断法"
-
----
-
-## E — 可执行步骤 (Execution)
-
-**必需输入**: 用户问题与相关条件
-**交付物**: 步骤 + ≤150字引用 + 边界声明
-
-1. **步骤1**: 确认问题类型
-2. **步骤2**: 按纲目定位规则
-3. **步骤3**: 给出步骤+≤150字引用
-4. **步骤4**: 声明边界
-
-
----
-
-## B — 边界 (Boundary)
-
-- **不适用**: 包票吉凶、违法用途、OCR 严重缺损仍强行定论。
-- **OCR 风险**: 竖排/生僻字可能误识。
+- 医疗急症 / 违法用途 / 人身安全 → 停止套用，建议专业求助或拒绝。
+- 纯事实查询（书名/作者）→ overview 回答后即停。

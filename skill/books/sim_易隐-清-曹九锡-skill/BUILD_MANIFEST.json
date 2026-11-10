@@ -1,0 +1,27 @@
+{
+  "tool": "distill_pack.py",
+  "variant": "router",
+  "profile": "compact-pack-v1",
+  "capability_count": 12,
+  "published_hashes": {
+    "references/capabilities/本-卦.md": "0e2145731abc5fc3b241eddc8c5e64cb287691903b15a5bfb3e5f3bea5156a1d",
+    "references/capabilities/本-卦-变-卦.md": "5a3b87bb3b19a53b89ebe3a26cdf1074a6b755d0e3437125109c5f4a2967398e",
+    "references/capabilities/本-卦-变-卦-2.md": "6c4c9c62b6fa006ecdd1dabec7bed766e2b862bb9c42b96fa1ba0bc3ab36f940",
+    "references/capabilities/本-卦-变-卦-3.md": "0c1448692b657f723252f1ae8a65a97f0644c7bad3b66e0d08bbcf4af7394b63",
+    "references/capabilities/本-卦-变-卦-4.md": "6540b2829a9af57f55fee67a10b04f21c0345d8967734ad2ba3f56014cdc78fb",
+    "references/capabilities/本-卦-变-卦-5.md": "968240f4909fcf1549c08f725f3026092d4af41faae9325942ca59909c315563",
+    "references/capabilities/本-卦-变-卦-6.md": "3828f1683550da0826c899bb0d7c4861d8541af8aa32ff44b7c2bd93586dea21",
+    "references/capabilities/本-卦-变-卦-7.md": "009099a934dfb18a3e0f0fc18f99521cd56aa711239f20762c4706fb22f5cc02",
+    "references/capabilities/本-卦-2.md": "d22f482c9be65fe7fd748858defd20b6d5071988d2ffa46cf4c4cebf1917aa89",
+    "references/capabilities/本-卦-变-卦-8.md": "2bdf60fefeaa26f038eeda5442ec86753d57739ee6660f4391c384ab8f746ea8",
+    "references/capabilities/本-卦-变-卦-9.md": "4ad2c9dc58b814e115d03df3a0e30281260e786c5e2438dde0317832792f0147",
+    "references/capabilities/本-卦-变-卦-10.md": "c6961d213e3ad678c99816e65a14cece8c86a28cc69647b489cc4bd8883b257b",
+    "references/overview.md": "6337f5c57a40a558982d457d3be86ff5833a0ca40ac6f755a5b7adceced9dd6f",
+    "references/glossary.md": "8613ae59d18826cdf881ee45d61ff2d5a8904a3e9b2ce5291a34276f3881c9b0",
+    "references/cheatsheet.md": "ac890adaf4ad19e9dc429d384ed48eae8dfe8a006864e4e9f97c5a91d02fa0d7",
+    "references/capability-index.md": "e6a91c81e775db7d52af60c30f5ac74ad8fe4bc1a01bbd071274baef221e202b",
+    "SKILL.md": "cb64aba63dd86d5ba362bdd7a1d9c86de27ce0220ee27392728c25351c35261b"
+  },
+  "generated_at": "2026-11-07T07:41:02.850734+00:00",
+  "note": "OCR compact-pack；重要结论请核对原书"
+}
